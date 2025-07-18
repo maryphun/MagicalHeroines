@@ -1,0 +1,110 @@
+Key,Comment,Japanese,English,Traditional Chinese,Simplified Chinese,Japanese_Steam,English_Steam,Traditional Chinese_Steam,Simplified Chinese_Steam
+Tutorial,注釈,,,,,,,,
+,できるだけ短く！必要な情報だけ！,,,,,,,,
+Dialog.Tutorial-1-1,背景：ワールド画面,―――ここは巨大都市ネオトーカイシティ。,―――This is the Neotokai City.,―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。,―――ここは巨大都市ネオトーカイシティ。,―――This is the Neotokai City.,―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。
+Dialog.Tutorial-1-2,,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。
+Dialog.Tutorial-1-3,背景：廃墟,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,"In the midst of the brightness of the building, there was a figure advancing through the dark underground ruins.",在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,"In the midst of the brightness of the building, there was a figure advancing through the dark underground ruins.",在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行
+,,,,,,,,,
+Dialog.Tutorial-1-4,【???】,「―――ようこそいらっしゃいました。」,「―――Welcome.」,「―――歡飲光臨。」,「―――欢饮光临。」,「―――ようこそいらっしゃいました。」,「―――Welcome.」,「―――歡飲光臨。」,「―――欢饮光临。」
+,,,,,,,,,
+Dialog.Tutorial-1-5,,目の前に突然目をバイザーのようなもので覆った女が音もなく現れる,A woman suddenly appears in front of you with her eyes covered by a visor― she barely make any sound.,一個女人突然無聲無息的出現在你眼前，他的眼睛被一個類似面罩的東西遮住了,一个女人突然无声无息的出现在你眼前，他的眼睛被一个类似面罩的东西遮住了,目の前に突然目をバイザーのようなもので覆った女が音もなく現れる,A woman suddenly appears in front of you with her eyes covered by a visor― she barely make any sound.,一個女人突然無聲無息的出現在你眼前，他的眼睛被一個類似面罩的東西遮住了,一个女人突然无声无息的出现在你眼前，他的眼睛被一个类似面罩的东西遮住了
+,,,,,,,,,
+Dialog.Tutorial-1-6,【005号】,「これから貴方の補佐と警護を担当します、秘密結社【フォーレン財団】所属、クローン戦闘員005号です。5号とお呼びください。」,"「I am the clone fighter 005 of the secret society ""Forren Foundation"", please call me 005.」",「我是現在開始擔任您的助理兼保安的、秘密結社【福倫財團】所屬、克隆戰斗員005號。請稱呼我為5號。」,「我是现在开始担任您的助理兼保安的、秘密结社【福伦财团】所属、克隆战斗员005号。请称呼我为5号。」,「これから貴方の補佐と警護を担当します、秘密結社【フォーレン財団】所属、クローン戦闘員005号です。5号とお呼びください。」,"「I am the clone fighter 005 of the secret society ""Forren Foundation"", please call me 005.」",「我是現在開始擔任您的助理兼保安的、秘密結社【福倫財團】所屬、克隆戰斗員005號。請稱呼我為5號。」,「我是现在开始担任您的助理兼保安的、秘密结社【福伦财团】所属、克隆战斗员005号。请称呼我为5号。」
+Dialog.Tutorial-1-7,,「――貴方の事はなんとお呼びすればいいでしょうか？」,「What should I call you?」,「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――貴方の事はなんとお呼びすればいいでしょうか？」,「What should I call you?」,「請問該怎麼稱呼您？」,「请问该怎么称呼您？」
+,,,,,,,,,
+Choice.Tutorial-1-7(1),【選択肢】SEL1,「…」,「...」,「…」,「…」,「…」,「...」,「…」,「…」
+Choice.Tutorial-1-7(2),【選択肢】SEL2,「好きに呼んでもらって構わない。」,「Whatever you want.」,「隨便你。」,「随便你。」,「好きに呼んでもらって構わない。」,「Whatever you want.」,「隨便你。」,「随便你。」
+,,,,,,,,,
+Dialog.Tutorial-1-8,【005号】,「では“ドクター”と呼ばせていただきます。」,"「Well, I will call you 'Doctor.'」",「那麼，請容我稱呼您為”博士”。」,「那么，请容我称呼您为”博士”。」,「では“ドクター”と呼ばせていただきます。」,"「Well, I will call you 'Doctor.'」",「那麼，請容我稱呼您為”博士”。」,「那么，请容我称呼您为”博士”。」
+,,,,,,,,,
+Dialog.Tutorial-1-9,,「―――それでは早速私達の支部のアジトに案内します。」,「―――Let me take you to our branch's hideout.」,「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」,「―――それでは早速私達の支部のアジトに案内します。」,「―――Let me take you to our branch's hideout.」,「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」
+,,,,,,,,,
+Dialog.Tutorial-1-10,,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。
+,,,,,,,,,
+,背景：ホーム,,,,,,,,
+Dialog.Tutorial-1-11,【005号】,「―――ここが我々フォーレン財団のアジトです。」,"「―――This is where we, the Forren Foundation, live.」",「―――這裡就是我們福倫財團的據點。」,「―――这里就是我们福伦财团的据点。」,「―――ここが我々フォーレン財団のアジトです。」,"「―――This is where we, the Forren Foundation, live.」",「―――這裡就是我們福倫財團的據點。」,「―――这里就是我们福伦财团的据点。」
+,,,,,,,,,
+Choice.Tutorial-1-11(1),【選択肢】SEL,「…アジトにしては随分と閑散としているな…。」,「It's pretty deserted for a hideout...」,「…作為據點好像有點荒蕪啊…。」,「…作为据点好像有点荒芜啊…。」,「…アジトにしては随分と閑散としているな…。」,「It's pretty deserted for a hideout...」,「…作為據點好像有點荒蕪啊…。」,「…作为据点好像有点荒芜啊…。」
+,,,,,,,,,
+Dialog.Tutorial-1-12,【005号】,「…組織に人手が足りないのでドクターのような研究者にもこんな現場の管理の仕事が回って来たわけです。」,"「...The organization is understaffed, so a researcher like Doctor has been given this kind of field management job.」",「…由於組織嚴重的人手不足，所以連像博士這樣的研究人員也被安排了據點的管理工作。」,「…由于组织严重的人手不足，所以连像博士这样的研究人员也被安排了据点的管理工作。」,「…組織に人手が足りないのでドクターのような研究者にもこんな現場の管理の仕事が回って来たわけです。」,"「...The organization is understaffed, so a researcher like Doctor has been given this kind of field management job.」",「…由於組織嚴重的人手不足，所以連像博士這樣的研究人員也被安排了據點的管理工作。」,「…由于组织严重的人手不足，所以连像博士这样的研究人员也被安排了据点的管理工作。」
+,,,,,,,,,
+Dialog.Tutorial-1-13,,「ご存じないかもしれませんが、組織の状況は非常に悪いです。もはや壊滅寸前、今すぐに状況を打開しなければ組織に未来はないでしょう。」,"「You may not know this, but the organization is in very bad shape. We are on the verge of destruction, and if we don't get out of this situation now, there will be no future us.」",「您可能已經知道了、組織現在的狀態非常糟糕。如果不立刻解決問題，我們組織沒有未來。」,「您可能已经知道了、组织现在的状态非常糟糕。如果不立刻解决问题，我们组织没有未来。」,「ご存じないかもしれませんが、組織の状況は非常に悪いです。もはや壊滅寸前、今すぐに状況を打開しなければ組織に未来はないでしょう。」,"「You may not know this, but the organization is in very bad shape. We are on the verge of destruction, and if we don't get out of this situation now, there will be no future us.」",「您可能已經知道了、組織現在的狀態非常糟糕。如果不立刻解決問題，我們組織沒有未來。」,「您可能已经知道了、组织现在的状态非常糟糕。如果不立刻解决问题，我们组织没有未来。」
+,,,,,,,,,
+Dialog.Tutorial-1-14,,「―――そして私たちの組織が直面している最大の問題がこちらです」,「――― and here is the biggest problem we're currently facing.」,「―――然後組織現在面對的最大問題就是這個」,「―――然后组织现在面对的最大问题就是这个」,「―――そして私たちの組織が直面している最大の問題がこちらです」,「――― and here is the biggest problem we're currently facing.」,「―――然後組織現在面對的最大問題就是這個」,「―――然后组织现在面对的最大问题就是这个」
+,,,,,,,,,
+,ここからチュートリアル戦闘画面,,,,,,,,
+,,,,,,,,,
+Dialog.Tutorial-1-15,,モニターに一つの映像が映し出される,An image appears on the monitor.,熒幕開始顯示影像,荧幕开始显示影像,モニターに一つの映像が映し出される,An image appears on the monitor.,熒幕開始顯示影像,荧幕开始显示影像
+,,,,,,,,,
+Dialog.Tutorial-2-1,【005号】,「これは先日発生した私達の部隊の戦闘の様子です。」,「This is a picture of a battle that occurred the other day.」,「這是之前發生的戰鬥的記錄影像。」,「这是之前发生的战斗的记录影像。」,「これは先日発生した私達の部隊の戦闘の様子です。」,「This is a picture of a battle that occurred the other day.」,「這是之前發生的戰鬥的記錄影像。」,「这是之前发生的战斗的记录影像。」
+,,,,,,,,,
+Dialog.Tutorial-2-2,【触手怪人】【戦闘員】,「「クソッ　敵は小娘二人だ！お前たち何をやっている！」」,"「Damn it, aren’t the enemy just two little girls!? What the hell are you guys doing!」",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什么？」」,「「クソッ　敵は小娘二人だ！お前たち何をやっている！」」,"「Damn it, aren’t the enemy just two little girls!? What the hell are you guys doing!」",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什么？」」
+,,,,,,,,,
+Dialog.Tutorial-2-3,【???(明穂)】,「ほらほら～！そんなんじゃ私達には勝てないよっ！」,「Hey! You can never beat us just like that!」,「喂喂喂～！這樣下去的話是贏不了我們的喲！」,「喂喂喂～！这样下去的话是赢不了我们的哟！」,「ほらほら～！そんなんじゃ私達には勝てないよっ！」,「Hey! You can never beat us just like that!」,「喂喂喂～！這樣下去的話是贏不了我們的喲！」,「喂喂喂～！这样下去的话是赢不了我们的哟！」
+,,,,,,,,,
+Dialog.Tutorial-2-4,【???(六花)】,「明穂、油断し過ぎ。遊びじゃないんだから…」,"「Akiho, you are too careless. This is not a game...」",「明穂、太過大意了。我們不是在玩耍…」,「明穂、太过大意了。我们不是在玩耍…」,「明穂、油断し過ぎ。遊びじゃないんだから…」,"「Akiho, you are too careless. This is not a game...」",「明穂、太過大意了。我們不是在玩耍…」,「明穂、太过大意了。我们不是在玩耍…」
+,,,,,,,,,
+Dialog.Tutorial-2-5,【明穂】,「ふふっ、ごめんごめん。でも六花と私ならこんな奴らに負けるわけないよねっ！」,"「Pfft, sorry, sorry. But with Rikka and I, there's no way we can lose to these guys!」",「哈哈、不好意思啦。但是我和六花不可能會輸給這樣的對手啦！」,「哈哈、不好意思啦。但是我和六花不可能会输给这样的对手啦！」,「ふふっ、ごめんごめん。でも六花と私ならこんな奴らに負けるわけないよねっ！」,"「Pfft, sorry, sorry. But with Rikka and I, there's no way we can lose to these guys!」",「哈哈、不好意思啦。但是我和六花不可能會輸給這樣的對手啦！」,「哈哈、不好意思啦。但是我和六花不可能会输给这样的对手啦！」
+,,,,,,,,,
+Dialog.Tutorial-2-6,【六花】,「…まあそれはそう。よし明穂、一気に残りを片付けようか」,"「Well, I can't disagree. All right, Akiho, let's get the rest done in one fell swoop.」",「…也是。好了明穂、一口氣將剩下的都解決掉吧」,「…也是。好了明穂、一口气将剩下的都解决掉吧」,「…まあそれはそう。よし明穂、一気に残りを片付けようか」,"「Well, I can't disagree. All right, Akiho, let's get the rest done in one fell swoop.」",「…也是。好了明穂、一口氣將剩下的都解決掉吧」,「…也是。好了明穂、一口气将剩下的都解决掉吧」
+,,,,,,,,,
+Dialog.Tutorial-2-7,【触手怪人】,「グゥッ、小娘共が調子に乗りおって！返り討ちにしてくれるわっ！」,"「Gosh, you little pussies are getting carried away! I'm going to get back at you!」",「唔、小姑娘們竟然敢小瞧我們！讓你知道我的厲害！」,「唔、小姑娘们竟然敢小瞧我们！让你知道我的厉害！」,「グゥッ、小娘共が調子に乗りおって！返り討ちにしてくれるわっ！」,"「Gosh, you little pussies are getting carried away! I'm going to get back at you!」",「唔、小姑娘們竟然敢小瞧我們！讓你知道我的厲害！」,「唔、小姑娘们竟然敢小瞧我们！让你知道我的厉害！」
+,,,,,,,,,
+,,【戦闘開始】,【戦闘開始】,【戦闘開始】,【戦闘开始】,【戦闘開始】,【戦闘開始】,【戦闘開始】,【戦闘开始】
+Dialog.Tutorial-3-1,,戦闘の基本の説明します。,Let's talk about the basics of combat,現在開始說明基本的戰鬥系統。,现在开始说明基本的战斗系统。,戦闘の基本の説明します。,Let's talk about the basics of combat,現在開始說明基本的戰鬥系統。,现在开始说明基本的战斗系统。
+Dialog.Tutorial-3-2,,本作の戦闘システムは、ターン制のコマンドバトルとなっています。,The combat system in this game is a turn-based command battle,本作品的戰斗是回合製的指令型系統。,本作品的战斗是回合制的指令型系统。,本作の戦闘システムは、ターン制のコマンドバトルとなっています。,The combat system in this game is a turn-based command battle,本作品的戰斗是回合製的指令型系統。,本作品的战斗是回合制的指令型系统。
+Dialog.Tutorial-3-3,,順番は行動速度によって決まり、行動速度が高いキャラから行動を選択できます。,Character's action order is determined by their speed stat,角色的行動順序由角色的速度決定、由行動速度高的角色開始行動。,角色的行动顺序由角色的速度决定、由行动速度高的角色开始行动。,順番は行動速度によって決まり、行動速度が高いキャラから行動を選択できます。,Character's action order is determined by their speed stat,角色的行動順序由角色的速度決定、由行動速度高的角色開始行動。,角色的行动顺序由角色的速度决定、由行动速度高的角色开始行动。
+Dialog.Tutorial-3-4,,キャラクターが取れる行動は4種類あります。,There are four types of actions a character can take,角色能進行的指令有四種。,角色能进行的指令有四种。,キャラクターが取れる行動は4種類あります。,There are four types of actions a character can take,角色能進行的指令有四種。,角色能进行的指令有四种。
+Dialog.Tutorial-3-5,,「攻撃」基本的な攻撃手段です。攻撃者と相手のレベルでダメージが影響されます。,[Attack] is the basic means of attack. Damage is also affected by the level different of the attacker and the opponent.,「攻撃」基本的攻擊手段。攻擊者和目標的等級差距會影響傷害值。,「攻撃」基本的攻击手段。攻击者和目标的等级差距会影响伤害值。,「攻撃」基本的な攻撃手段です。攻撃者と相手のレベルでダメージが影響されます。,[Attack] is the basic means of attack. Damage is also affected by the level different of the attacker and the opponent.,「攻撃」基本的攻擊手段。攻擊者和目標的等級差距會影響傷害值。,「攻撃」基本的攻击手段。攻击者和目标的等级差距会影响伤害值。
+Dialog.Tutorial-3-6,,今回は相手の方が圧倒的にレベルが上なので、あまりダメージを与えられないでしょう。,"This time, the opponent is much higher level than you, so you will not be able to do much damage",這次的對手等級比你們高很多、應該造成不了多少傷害。,这次的对手等级比你们高很多、应该造成不了多少伤害。,今回は相手の方が圧倒的にレベルが上なので、あまりダメージを与えられないでしょう。,"This time, the opponent is much higher level than you, so you will not be able to do much damage",這次的對手等級比你們高很多、應該造成不了多少傷害。,这次的对手等级比你们高很多、应该造成不了多少伤害。
+Dialog.Tutorial-3-7,,「特殊技」SPを消費して、キャラクターの固有スキルを発動できます。,[Skill] SP can be consumed to activate a character's unique skills,「特殊技」消費SP、發動角色的固有技能。,「特殊技」消费SP、发动角色的固有技能。,「特殊技」SPを消費して、キャラクターの固有スキルを発動できます。,[Skill] SP can be consumed to activate a character's unique skills,「特殊技」消費SP、發動角色的固有技能。,「特殊技」消费SP、发动角色的固有技能。
+Dialog.Tutorial-3-8,,特殊技はレベルアップなどで習得できます。,Unique Skill can be learned by leveling up and other means,角色能通過升級來獲得新技能。,角色能通过升级来获得新技能。,特殊技はレベルアップなどで習得できます。,Unique Skill can be learned by leveling up and other means,角色能通過升級來獲得新技能。,角色能通过升级来获得新技能。
+Dialog.Tutorial-3-9,,「アイテム」はキャラのターンを消費して使用できます。,[Item] can be used by consuming a character's turn,「物品」消費角色的回合來使用物品。,「物品」消费角色的回合来使用物品。,「アイテム」はキャラのターンを消費して使用できます。,[Item] can be used by consuming a character's turn,「物品」消費角色的回合來使用物品。,「物品」消费角色的回合来使用物品。
+Dialog.Tutorial-3-10,,「待機」でSPを回復できます。,SP can be recovered by [Idle],「待機」能夠回復SP。,「待机」能够回复SP。,「待機」でSPを回復できます。,SP can be recovered by [Idle],「待機」能夠回復SP。,「待机」能够回复SP。
+Dialog.Tutorial-3-11,,ショートカットキーはそれぞれ「Ｚ」「Ｘ」「Ｃ」「Ｖ」となります。,"The shortcut key for each command are [Z], [X], [C] and [V]",指令的快捷鍵是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,指令的快捷键是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,ショートカットキーはそれぞれ「Ｚ」「Ｘ」「Ｃ」「Ｖ」となります。,"The shortcut key for each command are [Z], [X], [C] and [V]",指令的快捷鍵是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,指令的快捷键是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。
+Dialog.Tutorial-3-12,,では、実際に戦ってみましょう。,"Now, let's actually fight",那麼實際戰鬥看看吧！,那么实际战斗看看吧！,では、実際に戦ってみましょう。,"Now, let's actually fight",那麼實際戰鬥看看吧！,那么实际战斗看看吧！
+,,【戦闘終了】,【戦闘終了】,【戦闘終了】,【戦闘终了】,【戦闘終了】,【戦闘終了】,【戦闘終了】,【戦闘终了】
+,,,,,,,,,
+Dialog.Tutorial-4-1,【触手怪人】【戦闘員】,「「「ぐはっ」」」,「「Gah!」」,「「「咕哈！！」」」,「「「咕哈！！」」」,「「「ぐはっ」」」,「「Gah!」」,「「「咕哈！！」」」,「「「咕哈！！」」」
+,,,,,,,,,
+Dialog.Tutorial-4-2,【明穂】,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"「Oh, is that it? You were so bossy... it's a bit of a shame.」",「嗯、這就完了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那么有气势的说…有点失望耶」,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"「Oh, is that it? You were so bossy... it's a bit of a shame.」",「嗯、這就完了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那么有气势的说…有点失望耶」
+,,,,,,,,,
+Dialog.Tutorial-4-3,【六花】,「最近出てくる怪人もどんどん弱くなってるし…もうわかったでしょ？あなた達じゃ私達には勝てない。そろそろ諦めた方がいい」,「The monsters that have been coming out lately are getting weaker and weaker... you should've figured that out already. You can't beat us. It's time to give up.」,「最近出現的怪人越來越弱了…你們已經明白了吧？你們是打不贏我們的。是時候放棄了吧」,「最近出现的怪人越来越弱了…你们已经明白了吧？你们是打不赢我们的。是时候放弃了吧」,「最近出てくる怪人もどんどん弱くなってるし…もうわかったでしょ？あなた達じゃ私達には勝てない。そろそろ諦めた方がいい」,「The monsters that have been coming out lately are getting weaker and weaker... you should've figured that out already. You can't beat us. It's time to give up.」,「最近出現的怪人越來越弱了…你們已經明白了吧？你們是打不贏我們的。是時候放棄了吧」,「最近出现的怪人越来越弱了…你们已经明白了吧？你们是打不赢我们的。是时候放弃了吧」
+,,,,,,,,,
+Dialog.Tutorial-4-4,【明穂】,「まあ、また悪いことをしようとしても、私たちがもう一回懲らしめるだけなんだけどね☆」,"「Well, if they try to do something bad again, we'll just punish them one more time☆.」",「嘛，就算你們再嘗試做壞事，也就是再次被我們懲罰而已啦☆」,「嘛，就算你们再尝试做坏事，也就是再次被我们惩罚而已啦☆」,「まあ、また悪いことをしようとしても、私たちがもう一回懲らしめるだけなんだけどね☆」,"「Well, if they try to do something bad again, we'll just punish them one more time☆.」",「嘛，就算你們再嘗試做壞事，也就是再次被我們懲罰而已啦☆」,「嘛，就算你们再尝试做坏事，也就是再次被我们惩罚而已啦☆」
+,,,,,,,,,
+Dialog.Tutorial-4-5,【六花(制服)】,「そういうわけで…私たちは学校行くから」,「Anyways... we're going to school.」,「那就這樣…我們要去學校了」,「那就这样…我们要去学校了」,「そういうわけで…私たちは司令部に行くから」,「Anyways... we're going to the association.」,「那就這樣…我們要回去組織了」,「那就这样…我们要回去组织了」
+,,,,,,,,,
+Dialog.Tutorial-4-6,【明穂(制服)】,「もう悪いことしちゃだめだよ～☆」,「Don't do anything bad again~ (wink)」,「不可以再做壞事了喔～☆」,「不可以再做坏事了喔～☆」,「もう悪いことしちゃだめだよ～☆」,「Don't do anything bad again~ (wink)」,「不可以再做壞事了喔～☆」,「不可以再做坏事了喔～☆」
+,,,,,,,,,
+,映像終了,,,,,,,,
+,背景：ホーム画面,,,,,,,,
+Dialog.Tutorial-4-7,【005号】,「――――というのが私たちの組織の現状です。」,「―――― is the current status of our organization.」,「――――這就是我們組織的現狀。」,「――――这就是我们组织的现状。」,「――――というのが私たちの組織の現状です。」,「―――― is the current status of our organization.」,「――――這就是我們組織的現狀。」,「――――这就是我们组织的现状。」
+Dialog.Tutorial-4-8,,「強い怪人は既にほとんど彼女たちに倒されました。」,「Most of the stronger monsters have already been defeated by them.」,「比較強的怪人已經幾乎被她們殲滅了。」,「比较强的怪人已经几乎被她们歼灭了。」,「強い怪人は既にほとんど彼女たちに倒されました。」,「Most of the stronger monsters have already been defeated by them.」,「比較強的怪人已經幾乎被她們殲滅了。」,「比较强的怪人已经几乎被她们歼灭了。」
+Dialog.Tutorial-4-9,,「彼女達と同等の力を持った聖核戦姫が何人も存在し、中には一人で一国の支部を数時間で壊滅させるような圧倒的な強さを持つ聖核戦姫も存在します。」,"「There are a number of Seikaku Princesses who are as powerful as these women, some of whom are so overwhelmingly strong that a single person can destroy a branch of a country in a matter of hours.」",「擁有和她們匹敵的力量的聖核戰姬還有幾位、其中一人甚至擁有單憑一人滅掉整個組織支部的能力。」,「拥有和她们匹敌的力量的圣核战姬还有几位、其中一人甚至拥有单凭一人灭掉整个组织支部的能力。」,「彼女達と同等の力を持った聖核戦姫が何人も存在し、中には一人で一国の支部を数時間で壊滅させるような圧倒的な強さを持つ聖核戦姫も存在します。」,"「There are a number of Seikaku Princesses who are as powerful as these women, some of whom are so overwhelmingly strong that a single person can destroy a branch of a country in a matter of hours.」",「擁有和她們匹敵的力量的聖核戰姬還有幾位、其中一人甚至擁有單憑一人滅掉整個組織支部的能力。」,「拥有和她们匹敌的力量的圣核战姬还有几位、其中一人甚至拥有单凭一人灭掉整个组织支部的能力。」
+,,,,,,,,,
+Dialog.Tutorial-4-10,005号,「ドクターへの本部からの指令は彼女ら聖核戦姫の殲滅です。彼女らを圧倒する怪人を作り、支部の再建を果たしてください」,"「Doctor, the order from headquarters to you is to destroy the Seikaku Princesses. Create a monster that can overwhelm them and rebuild the branch.」",「組織給博士您的任務是對聖核戰姬們的殲滅。請把她們打倒，建立怪人軍隊然後把支部重建起來。」,「组织给博士您的任务是对圣核战姬们的歼灭。请把她们打倒，建立怪人军队然后把支部重建起来。」,「ドクターへの本部からの指令は彼女ら聖核戦姫の殲滅です。彼女らを圧倒する怪人を作り、支部の再建を果たしてください」,"「Doctor, the order from headquarters to you is to destroy the Seikaku Princesses. Create a monster that can overwhelm them and rebuild the branch.」",「組織給博士您的任務是對聖核戰姬們的殲滅。請把她們打倒，建立怪人軍隊然後把支部重建起來。」,「组织给博士您的任务是对圣核战姬们的歼灭。请把她们打倒，建立怪人军队然后把支部重建起来。」
+,,,,,,,,,
+Dialog.Tutorial-4-10(1),,「……面白い」,「...... interesting.」,「……有趣」,「……有趣」,「……面白い」,「...... interesting.」,「……有趣」,「……有趣」
+,,,,,,,,,
+Dialog.Tutorial-4-11,【005号】,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,「I am glad to hear that you are willing to help our organization. Now let's study the monster...」,「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那么现在就开始怪人的研―――」,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,「I am glad to hear that you are willing to help our organization. Now let's study the monster...」,「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那么现在就开始怪人的研―――」
+,,,,,,,,,
+Dialog.Tutorial-4-11(1),,「私の作った怪人達を容易に倒す力―――。非常に興味深い」,「The power to easily defeat the monsters I created... Very interesting.」,「能輕易把我發明的怪人打倒的能力―――。我很有興趣」,「能轻易把我发明的怪人打倒的能力―――。我很有兴趣」,「私の作った怪人達を容易に倒す力―――。非常に興味深い」,「The power to easily defeat the monsters I created... Very interesting.」,「能輕易把我發明的怪人打倒的能力―――。我很有興趣」,「能轻易把我发明的怪人打倒的能力―――。我很有兴趣」
+,,,,,,,,,
+Dialog.Tutorial-4-12,005号,「―――関心があるのはそちらの方でしたか。」,「――― so that's what you're interested in.」,「―――原來關心的是這邊啊。」,「―――原来关心的是这边啊。」,「―――関心があるのはそちらの方でしたか。」,「――― so that's what you're interested in.」,「―――原來關心的是這邊啊。」,「―――原来关心的是这边啊。」
+,,,,,,,,,
+Dialog.Tutorial-4-12(1),,「怪人の研究は止めだ。聖核戦姫を捕獲し、その力を研究して我々の物とする。」,"「Stop studying the monster. Capture Seikaku Princess, study their power and make it to our use.」",「怪人研究一旦終止。把聖核戰姬抓住，然後研究其能力並為組織所用。」,「怪人研究一旦终止。把圣核战姬抓住，然后研究其能力并为组织所用。」,「怪人の研究は止めだ。聖核戦姫を捕獲し、その力を研究して我々の物とする。」,"「Stop studying the monster. Capture Seikaku Princess, study their power and make it to our use.」",「怪人研究一旦終止。把聖核戰姬抓住，然後研究其能力並為組織所用。」,「怪人研究一旦终止。把圣核战姬抓住，然后研究其能力并为组织所用。」
+,,,,,,,,,
+Dialog.Tutorial-4-13,005号,「……承知しました。上にはそのように伝えておきます。」,"「...... Yes, sir. I will let our superiors know that.」",「……了解。我會向上面如實傳達的。」,「……了解。我会向上面如实传达的。」,「……承知しました。上にはそのように伝えておきます。」,"「...... Yes, sir. I will let our superiors know that.」",「……了解。我會向上面如實傳達的。」,「……了解。我会向上面如实传达的。」
+,,,,,,,,,
+Dialog.Tutorial-4-14,,「それではドクター、貴方の活躍を期待しています。」,"「Well then, Doctor, we're looking forward to seeing you in action.」",「那麼博士，期待您的表現。」,「那么博士，期待您的表现。」,「それではドクター、貴方の活躍を期待しています。」,"「Well then, Doctor, we're looking forward to seeing you in action.」",「那麼博士，期待您的表現。」,「那么博士，期待您的表现。」
+,,,,,,,,,
+ホームシーンUI初回説明,注釈,,,,,,,,
+Tutorial.FormationPanel-1,,{0}は出征前の準備を行うところです。,{0} is where the preparations are made before operation.,{0}是做出征前的準備的地方。,{0}是做出征前的准备的地方。,{0}は出征前の準備を行うところです。,{0} is where the preparations are made before operation.,{0}是做出征前的準備的地方。,{0}是做出征前的准备的地方。
+Tutorial.FormationPanel-2,,スロットを選択してフォーメーションを変えることができます。,You can select a slot to change the formation.,選擇各個位置並改變隊伍的出征人員。,选择各个位置并改变队伍的出征人员。,スロットを選択してフォーメーションを変えることができます。,You can select a slot to change the formation.,選擇各個位置並改變隊伍的出征人員。,选择各个位置并改变队伍的出征人员。
+Tutorial.FormationPanel-3,,資金があれば、パーティ人数上限を増やせます。,"If funds are available, the maximum party size can be increased.",如果資金足夠，還可以增加出征人員的人數。,如果资金足够，还可以增加出征人员的人数。,資金があれば、パーティ人数上限を増やせます。,"If funds are available, the maximum party size can be increased.",如果資金足夠，還可以增加出征人員的人數。,如果资金足够，还可以增加出征人员的人数。
+Tutorial.FormationPanel-4,,戦闘後に資金を使用してキャラクターを治療できます。,You can use the funds to treat your character after the battle.,戰鬥後可以使用資金來回復角色的HP與SP。,战斗后可以使用资金来回复角色的HP与SP。,戦闘後に資金を使用してキャラクターを治療できます。,You can use the funds to treat your character after the battle.,戰鬥後可以使用資金來回復角色的HP與SP。,战斗后可以使用资金来回复角色的HP与SP。
+Tutorial.TrainPanel-Enabled,,調教画面が解放されました。,The training panel has been unlocked.,調教畫面可以使用了。,调教画面可以使用了。,調教画面が解放されました。,The training panel has been unlocked.,調教畫面可以使用了。,调教画面可以使用了。
+Tutorial.CharacterBuildingPanel-1,,{0}はキャラクターのステータスの確認、レベルアップ、装備を行うところです。,"{0} is where you check your character's status, level up, and equip your character.",{0}是確認角色的狀態，升級和改變裝備的地方。,{0}是确认角色的状态，升级和改变装备的地方。,{0}はキャラクターのステータスの確認、レベルアップ、装備を行うところです。,"{0} is where you check your character's status, level up, and equip your character.",{0}是確認角色的狀態，升級和改變裝備的地方。,{0}是确认角色的状态，升级和改变装备的地方。
+Tutorial.CharacterBuildingPanel-2,,ここで装備を確認・変更でます。,Here you can check and change your equipment.,點擊這裡可以查看並改變角色的裝備。,点击这里可以查看并改变角色的装备。,ここで装備を確認・変更でます。,Here you can check and change your equipment.,點擊這裡可以查看並改變角色的裝備。,点击这里可以查看并改变角色的装备。
+Tutorial.CharacterBuildingPanel-3,,キャラの特殊技も確認できます！,You can also check Unique Skills of the characters!,還可以查看角色擁有的技能！,还可以查看角色拥有的技能！,キャラの特殊技も確認できます！,You can also check Unique Skills of the characters!,還可以查看角色擁有的技能！,还可以查看角色拥有的技能！

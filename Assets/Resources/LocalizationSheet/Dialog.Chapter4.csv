@@ -1,0 +1,414 @@
+Key,Comment,Japanese,Japanese_Steam,English
+Chapter 4-1,注釈,,,
+Dialog.Chapter4-1-1,執務室,清藤エレナが財団に捕獲された翌日、聖月生徒会は混乱に陥っていた,清藤エレナが財団に捕獲された翌日、司令部は混乱に陥っていた,"The day after Seidō Erena was captured by the Foundation, the Seigetsu Student Council was in turmoil"
+,,,,
+Dialog.Chapter4-1-2,女生徒1,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,"""Erena Seidō was attacked, defeated and taken away by the Foundation: ......!"""
+,,,,
+Dialog.Chapter4-1-3,女生徒2,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,"""What? That's impossible! Erena-senpai is that strong!"""
+,,,,
+Dialog.Chapter4-1-4,女生徒3,「皆さん落ち着いてっ！まずは状況を把握するところから――――――」,「皆さん落ち着いてっ！まずは状況を把握するところから――――――」,"""I'll tell you what, everyone calm down! We'll start by taking stock of the situation: ――――――"""
+,暗転,,,
+Dialog.Chapter4-1-5,アジト,―――――財団アジトにて,―――――財団アジトにて,At ――――― Foundation Hideout
+,,,,
+Dialog.Chapter4-1-6,005号(通信),「清藤エレナが行方不明となり、予想通り生徒会は大混乱となっています」,「清藤エレナが行方不明となり、予想通りレギオン司令部は大混乱となっています」,"""As expected, the student council is in turmoil after Erena Seidō went missing."""
+,,,,
+Dialog.Chapter4-1-7,,「今日は我々に対する大規模攻撃が行われる予定でしたが、統制が取れないため中止となりました」,「今日は我々に対する大規模攻撃が行われる予定でしたが、統制が取れないため中止となりました」,"""A major attack against us was supposed to take place today, but it was canceled due to lack of control."""
+,,,,
+Dialog.Chapter4-1-7(1),選択肢,……よくやった,……よくやった,Well done ......
+,,,,
+Dialog.Chapter4-1-8,005号,「ありがとうございます。これで我々の目的、世界征服に大きく近づきました」,「ありがとうございます。これで我々の目的、世界征服に大きく近づきました」,"""Thank you very much. Now we are much closer to our goal, world domination."""
+,,,,
+Dialog.Chapter4-1-9,,「生徒会は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,"""The student council relied heavily on the personal power of Erena Seidō, so her actions will be limited for some time."""
+,,,,
+Dialog.Chapter4-1-10,,「今クローンや怪人等の戦力を増強すれば、武力で学園の聖核戦姫を制圧することも不可能ではありません」,「今クローンや怪人等の戦力を増強すれば、武力でレギオンの聖核戦姫を制圧することも不可能ではありません」,"""If we now increase our forces of clones, monsters, etc., it is not impossible for us to subdue the school's Seikaku Princess by force of arms."""
+,,,,
+Dialog.Chapter4-1-11,,「清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「また清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,"""Erena Seidō was born into a zaibatsu and has connections in the political and business worlds. If we use her well, we will be able to take advantage of them."""
+,,,,
+Dialog.Chapter4-1-11(1),選択肢,「ご苦労。引き続き生徒会の動向を探ってくれ」,「ご苦労。引き続きレギオンの動向を探ってくれ」,"""Thank you for your time. Keep me posted on what the student council is up to."""
+,,,,
+Dialog.Chapter4-1-12,005号,「了解しました。引き続き潜入を継続します」,「了解しました。引き続き潜入を継続します」,"""We will continue to infiltrate. We will continue to infiltrate."""
+,,,,
+,,,,
+,,,,
+Dialog.Chapter4-1-12(1),選択肢,絶望的な状況だったが、これで少しは落ち着いたか……,絶望的な状況だったが、これで少しは落ち着いたか……,"It was a hopeless situation, but now things have calmed down a bit ......"
+,,,,
+Dialog.Chapter4-1-13,,その時、モニターに連絡が入る,その時、モニターに連絡が入る,"At that point, the monitor is contacted."
+,,,,
+Dialog.Chapter4-1-14,戦闘員(通信),「連絡します！現在アジトの制御システムがサイバー攻撃を受けています！」,「連絡します！現在アジトの制御システムがサイバー攻撃を受けています！」,"""Contact! The control system of our hideout is currently under cyber attack!"""
+,,,,
+Dialog.Chapter4-1-14(1),選択肢,……被害の状況は？,……被害の状況は？,...... What is the status of the damage?
+,,,,
+Dialog.Chapter4-1-15,戦闘員(通信),「アジト内の第7区域で停電！、防衛用トラップが誤作動を起こしています！」,「アジト内の第7区域で停電！、防衛用トラップが誤作動を起こしています！」,"""Power outage in Area 7 inside the hideout! The defensive traps are malfunctioning!"""
+,,,,
+Dialog.Chapter4-1-15(1),選択肢,了解した。今復旧させる,了解した。今復旧させる,Understood. We'll get it back up now.
+,,,,
+Dialog.Chapter4-1-16,黒→背景通路,その時、別の戦闘員から新たな連絡が入る,その時、別の戦闘員から新たな連絡が入る,"At that moment, a new call comes in from another fighter."
+,,,,
+Dialog.Chapter4-1-17,戦闘員2(通信),「連絡！アジト内の第3区域がハッキングされました！笑気ガスが漏れて戦闘員複数名が行動不能状態に！」,「連絡！アジト内の第3区域がハッキングされました！笑気ガスが漏れて戦闘員複数名が行動不能状態に！」,"""Contact! Area 3 in the hideout has been hacked! Several fighters have been rendered inoperable by a laughing gas leak!"""
+,,,,
+Dialog.Chapter4-1-18,戦闘員3(通信),「連絡します！第4区域で隔壁が勝手に閉まり、戦闘員およびクローン兵が計20名ほど閉じ込められました！」,「連絡します！第4区域で隔壁が勝手に閉まり、戦闘員およびクローン兵が計20名ほど閉じ込められました！」,"""Attention! A bulkhead has closed on its own in sector 4, trapping a total of about 20 combatants and clone soldiers!"""
+,,,,
+Dialog.Chapter4-1-19,戦闘員4(通信),「連絡！第10区域でも―――――――――」,「連絡！第10区域でも―――――――――」,"""Contact! Also in District 10: ―――――――――"""
+,,,,
+Dialog.Chapter4-1-20,,(……………),(……………),(...............)
+,,,,
+Dialog.Chapter4-1-21,,(これだけ秘匿性が高くセキュリティの強い財団地下アジトにサイバー攻撃だと？),(これだけ秘匿性が高くセキュリティの強い財団地下アジトにサイバー攻撃だと？),"(A cyber attack on the Foundation's underground hideout, which is so secretive and secure?)"
+,,,,
+Dialog.Chapter4-1-22,,(現在聖月生徒会は麻痺していてこんな事は出来ないはず。どこかの組織が…？),(現在レギオン司令部は麻痺していてこんな事は出来ないはず。どこかの組織が…？),(Currently the Seigetsu Student Council is paralyzed and should not be able to do this. Some organization...?)
+,,,,
+Dialog.Chapter4-1-23,,その時、新たに連絡が入る,その時、新たに連絡が入る,Then a new call comes in.
+,,,,
+Dialog.Chapter4-1-24,戦闘員,「連絡します！サイバー攻撃の首謀者と見られる人物から連絡が！そちらにつないでもよろしいでしょうか！」,「連絡します！サイバー攻撃の首謀者と見られる人物から連絡が！そちらにつないでもよろしいでしょうか！」,"""'Contact! We've been contacted by the person we believe to be the mastermind of the cyber attack! May I put you through?"""
+,,,,
+Dialog.Chapter4-1-24(1),選択肢,構わない。つないでくれ,構わない。つないでくれ,I don't care. Just plug it in.
+,,,,
+Dialog.Chapter4-1-25,京(通信),そしてホログラムに一人の少女の姿が映し出される,そしてホログラムに一人の少女の姿が映し出される,Then a hologram shows the image of a girl.
+,,,,
+Dialog.Chapter4-1-26,猫宮京(通信),「あ～聞こえてる？」,「あ～聞こえてる？」,"""Oh, can you hear me?"""
+,,,,
+Dialog.Chapter4-1-27,,「そっちの一番深い所は電波が届きにくいし……セキュリティが硬くて入れなかったんだよね」,「そっちの一番深い所は電波が届きにくいし……セキュリティが硬くて入れなかったんだよね」,"""The deepest part over there is hard to get a signal, and ...... security was so rigid that I couldn't get in."""
+,,,,
+Dialog.Chapter4-1-28,,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,"""......... Our demands are simple. Release all the kidnapped Seikaku Princesses."""
+,,,,
+Dialog.Chapter4-1-29,,「誘拐したのは多分3人かな？学園にスパイが混じってるっぽいし…」,「誘拐したのは多分3人かな？レギオン内部にスパイが混じってるっぽいし…」,"""Maybe it was three people who kidnapped him? It seems like there are spies mixed in with the academy..."""
+,,,,
+Dialog.Chapter4-1-30,,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,"""I don't know how you caught Erena senior...but I may have underestimated you guys a bit myself."""
+,,,,
+Dialog.Chapter4-1-31,,「というわけで、誘拐した聖核戦姫の子達を全員解放するまで攻撃を続けるから。覚悟してね？」,「というわけで、誘拐した聖核戦姫を全員解放するまで攻撃を続けるから。覚悟してね？」,"""So, I will continue to attack you until you release all the kidnapped children of the Seikaku Princesses. You must be prepared for that, okay?"""
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Chapter 4-2,注釈,,,
+Dialog.Chapter4-2-1,,―――財団地下アジトにて,―――財団地下アジトにて,――― in the underground hideout of the foundation
+,,,,
+Dialog.Chapter4-2-2,,アジトには猫宮京によるサイバー攻撃が続いていた,アジトには猫宮京によるサイバー攻撃が続いていた,Cyber attacks by Nekomiya Kei continued at the hideout.
+,,,,
+Dialog.Chapter4-2-3,005号(通信),「―――アジトにサイバー攻撃を行っている者について現在わかっていることをお伝えします」,「―――アジトにサイバー攻撃を行っている者について現在わかっていることをお伝えします」,――― Here is what we know now about who is carrying out the cyber―attack on the safe house.
+,,,,
+Dialog.Chapter4-2-4,,「彼女の名前は“猫宮京”、一応聖月学園に所属する生徒のようですが…」,「彼女の名前は“猫宮京”、一応レギオンに所属する聖核戦姫のようですが…」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Gakuen."
+,,,,
+Dialog.Chapter4-2-5,,「調査の結果、住所不明で最後に学校に来たのは3か月以上前、他生徒に聞いても情報は得られませんでした」,「調査の結果、住所不明で最後に司令部に来たのは3か月以上前、他職員に聞いても情報は得られませんでした」,"The investigation revealed that he had no known address and had last been at the school more than three months ago, and no information was available when asked by other students."""
+,,,,
+Dialog.Chapter4-2-6,,「聖核戦姫に変身できるようですが、戦闘記録は一切なく本人の戦闘能力は不明です」,「現状彼女の戦闘記録は一切なく本人の戦闘能力は不明です」,"She seems to be able to transform into a Seikaku Princess, but there is no record of any battles and her combat ability is unknown."
+,,,,
+Dialog.Chapter4-2-6(1),SEL,わかった。話は変わるが005号は帰還してくれ。どうやら彼女君の存在に気が付いているようだ,わかった。……話は変わるが005号は帰還してくれ。どうやら彼女は君の存在に気が付いているようだ,"Okay, I'll do it. On a different note, 005 should return. Apparently, she's aware of your presence."
+,,,,
+Dialog.Chapter4-2-7,005号,「！、何故それが…？……わかりました、すぐに帰還します」,「！、？……わかりました、すぐに帰還します」,"""! Why is that...? ...... Okay, we'll be back soon."""
+,,,,
+Dialog.Chapter4-2-8,戦闘員(通信),「報告します！既に施設に10億円以上の被害が出ています！全力で復旧に当たっていますが復旧の見通しは立っていません…！」,「報告します！既に施設に10億円以上の被害が出ています！全力で復旧に当たっていますが復旧の見通しは立っていません…！」,"'Report! There has already been over 1 billion yen in damage to the facility! We are doing everything we can to restore the facility, but there is no prospect of restoration...!"""
+,,,,
+Dialog.Chapter4-2-9,,「復旧したところが再びハッキングされいたちごっこに…」,「復旧したところが再びハッキングされいたちごっこに…」,"""The place that was restored was hacked again, and we're back at it..."""
+,,,,
+Dialog.Chapter4-2-9(1),SEL,……どうやらこちらから行動を起こす必要がありそうだ,……どうやらこちらから行動を起こす必要がありそうだ,...... Apparently we need to take action here.
+,,,,
+Dialog.Chapter4-2-10,,(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),"(In any case, we must locate and subdue Nekomiya Kei. His fighting ability is unknown, but his danger level is certainly higher than Seidō Erena's.)"
+,,,,
+Dialog.Chapter4-2-11,戦闘員2,「こちら特定班！、現在システムのアクセスの痕跡を追跡しています！ただ、複雑に隠匿されていて特定に時間がかかっています」,「こちら特定班！、現在システムのアクセスの痕跡を追跡しています！ただ、複雑に隠匿されていて特定に時間がかかっています」,This is the Identification Team! We are currently tracing the access traces of the system! But it's complicated and hidden. It's taking a long time to identify it.
+,,,,
+Dialog.Chapter4-2-11(1),SEL,了解した。そのまま猫宮京の居場所を探ってくれ,了解した。そのまま猫宮京の居場所を探ってくれ,Understood. Keep trying to locate Nekomiya Kei.
+,,,,
+Dialog.Chapter4-2-11(2),SEL,早急に居場所を見つけ、これ以上の被害を阻止しなければならない――――,早急に居場所を見つけ、これ以上の被害を阻止しなければならない――――,We must locate them as soon as possible and prevent further damage. ――――
+,,,,
+Dialog.Chapter4-2-12,,都市の一角の高層ビルの一室にて,都市の一角の高層ビルの一室にて,In a room in a high―rise building in a corner of the city
+,Kei　story1ｰ1,,,
+Dialog.Chapter4-2-13,,ピコンッ　ピコンッ　ピコンッ　ポリッポリッ,ピコンッ　ピコンッ　ピコンッ　ポリッポリッ,Biccone biccone biccone biccone biccone biccone biccone biccone biccone biccone
+,,,,
+Dialog.Chapter4-2-14,,暗闇の中、小柄な少女が空中に映し出されたモニターを操作する,暗闇の中、色白で病弱に見える少女が空中に映し出されたモニターを操作する,"In the darkness, a small girl operates a monitor projected in the air."
+,,,,
+Dialog.Chapter4-2-15,京,「―――――うわっ、倫理的にアウトな研究がたくさん。けどこういうのはなかなか見れないから面白いね」,「―――――うわっ、倫理的にアウトな研究がたくさん。けどこういうのはなかなか見れないから面白いね」,"I'm thinking, ""――――― Wow, a lot of ethically out of touch research. But you don't see this kind of stuff very often, so it's interesting."""
+,,,,
+Dialog.Chapter4-2-16,,「なになに…ヒト細胞を怪人細胞へレーザーで効率的に変性…、触手型怪人の上限値と制御…、ヒトクローンの成長加速…」,「なになに…ヒト細胞を怪人細胞へレーザーで効率的に変性…、触手型怪人の上限値と制御…、ヒトクローンの成長加速…」,"What, what, what... efficient laser denaturation of human cells into monster cells... upper limits and control of tentacled monsters... accelerated growth of human clones..."""
+,,,,
+Dialog.Chapter4-2-17,,「……これは聖核の研究かな？聖核の人工的な作成……聖核エネルギー抽出法……聖核エネルギーを中和して無効化する薬…」,「……これは聖核の研究かな？聖核の人工的な作成……聖核エネルギー抽出法……聖核エネルギーを中和して無効化する薬…」,"""...... is this a study of the Seikaku? Artificial Creation of Holy Nuclei......Holy Nuclei Energy Extraction Methods......Drugs to Neutralize and Disable Holy Nuclei Energy..."""
+,,,,
+Dialog.Chapter4-2-18,,「聖核の物質化と固定……う～ん、この辺の理論は私の方が先に行ってる感じ」,「聖核の物質化と固定……う～ん、この辺の理論は私の方が先に行ってる感じ」,"The Materialization and Fixation of the Seikaku...... hmmm, I feel like I'm way ahead of you in this area of theory."""
+,,,,
+Dialog.Chapter4-2-19,,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,"""It's a threat that so much research has been done, even if it's at ....... No wonder Erena was captured."""
+,,,,
+Dialog.Chapter4-2-20,,「これならもっと早いうちに探査機でも送り込んで調査しておけばよかったかな」,「これならもっと早いうちに探査機でも送り込んで調査しておけばよかったかな」,"I guess I should have sent a probe out there earlier to investigate this."""
+,,,,
+Dialog.Chapter4-2-21,,京が新しいチョコ菓子を口に運ぶ,京が新しいチョコ菓子を口に運ぶ,Kei brings a new chocolate candy to his mouth.
+,,,,
+Dialog.Chapter4-2-22,,「さて、財団アジトの方はどうなったかな？」,「さて、財団アジトの方はどうなったかな？」,"Now, what happened to the Foundation hideout?"""
+,,,,
+Dialog.Chapter4-2-23,,「うん。予想通り少しずつ復旧してるね。この調子なら全部復旧するまであと１時間くらいかな」,「うん。予想通り少しずつ復旧してるね。この調子なら全部復旧するまであと１時間くらいかな」,"Yes, it is. As I expected, the system is being restored little by little. At this rate, it will be about an hour before everything is restored."
+,,,,
+Dialog.Chapter4-2-24,,「しかしよく地下にこれだけの大規模構造を作ったね…まるで迷路だ」,「しかしよく地下にこれだけの大規模構造を作ったね…まるで迷路だ」,"But how could you build such a large structure underground...it's like a maze."""
+,,,,
+Dialog.Chapter4-2-25,,「特に一番大事な中央指令室は定期的に部屋ごと地下トンネルで移動させてる…これは見つからないわけだ…」,「特に一番大事な中央指令室は定期的に部屋ごと地下トンネルで移動させてる…これは見つからないわけだ…」,"Especially the most important one, the central control room, which is regularly moved from room to room in underground tunnels... no wonder they can't find it..."""
+,,,,
+,,,,
+,,,,
+Dialog.Chapter4-2-26,,「―――さて、そろそろ財団はココを特定したかな？」,「―――さて、そろそろ財団はココを特定したかな？」,"―――Well, I guess it's about time the foundation identified this place."""
+,,,,
+Dialog.Chapter4-2-27,,「ちゃんと食いつくような“エサ”は用意しておいたし…。そろそろ私も準備しておこう」,「ちゃんと食いつくような“エサ”は用意しておいたし…。そろそろ私も準備しておこう」,I've prepared some bait for them to bite.... I'd better get ready too.
+,,,,
+,アジト,,,
+,,,,
+Dialog.Chapter4-2-28,005号,「報告します。逆探知と実地調査により猫宮京のおおよその居場所を3か所に限定できました」,「報告します。逆探知と実地調査により猫宮京のおおよその居場所を3か所に限定できました」,"""Report. Through tracing and on―site investigation, we were able to limit the approximate location of Nekomiya Kei to three locations."""
+,,,,
+Dialog.Chapter4-2-29,,「位置はシティの北東エリア、北西エリア、南西エリアの三つですが…、ここから更に特定するには時間がかかりそうです」,「位置はシティの北東エリア、北西エリア、南西エリアの三つですが…、ここから更に特定するには時間がかかりそうです」,"""There are three locations in the northeast, northwest, and southwest areas of the city... but it will take time to identify more from here."
+,,,,
+Dialog.Chapter4-2-30,,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,"We believe that a clone and a squad of fighters would definitely be able to subdue a standard Seikaku Princess..."""
+,,,,
+Dialog.Chapter4-2-30(1),SEL,候補地に今すぐ一部隊ずつ派遣しよう,候補地に今すぐ一部隊ずつ派遣しよう,Let's send some troops to the candidate sites now.
+,,,,
+Dialog.Chapter4-2-31,005号,「わかりました。本部の警備は少し手薄になりますが仕方ありません。」,「わかりました。本部の警備は少し手薄になりますが仕方ありません。」,"I understand. We'll be a little light on security at headquarters, but we'll have to do it."""
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Dialog.Chapter4-2-32,,―――数時間後,―――数時間後,―――A few hours later
+,ビル,,,
+Dialog.Chapter4-2-33,戦闘員1(通信),「部隊1、突入準備完了しました」,「部隊1、突入準備完了しました」,"Troop 1, we're ready to go in."
+,ホテル,,,
+Dialog.Chapter4-2-34,戦闘員2(通信),「部隊2、いつでも突入できます！」,「部隊2、いつでも突入できます！」,"Troop 2, we're ready to go in!"
+,謎の施設,,,
+Dialog.Chapter4-2-35,戦闘員3(通信),「部隊3、準備完了です。」,「部隊3、準備完了です。」,"Troop 3, we're ready for you."
+,,,,
+Dialog.Chapter4-2-35(1),SEL,了解,了解,Copy that.
+,アジト,,,
+Dialog.Chapter4-2-36,005号,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,"Now that we have captured Erena, we are close to achieving our plan. We can't let her do what she wants any longer."""
+,,,,
+Dialog.Chapter4-2-36(1),SEL,ただ今より猫宮京捕獲作戦を開始する！全部隊突入開始！,ただ今より猫宮京捕獲作戦を開始する！全部隊突入開始！,Operation to capture Nekomiya Kei will begin immediately! All units begin to move in!
+,,,,
+Dialog.Chapter4-2-37,戦闘員1，2，3,「「「はっ！」」」,「「「はっ！」」」,"""""Ha!"""""
+,,,,
+Dialog.Chapter4-2-38,戦闘員2,「―――報告！、こちら部隊2！ここにはいないようです！」,「―――報告！、こちら部隊2！ここにはいないようです！」,"""―――Report! This is Unit 2, they don't seem to be here!"""
+,,,,
+Dialog.Chapter4-2-39,戦闘員3,「こちら部隊3、ここもどうやら違うようです！」,「こちら部隊3、ここもどうやら違うようです！」,"This is Unit 3, and apparently not here either!"
+,,,,
+Dialog.Chapter4-2-40,戦闘員1,「―――こちら部隊1！、複数の電子機器や実験道具を発見！ここが猫宮京の居場所で間違いはなさそうですが―――」,「―――こちら部隊1！、複数の電子機器や実験道具を発見！ここが猫宮京の居場所で間違いはなさそうですが―――」,"We found multiple electronic devices and experimental equipment! There seems to be no mistake that this is Nekomiya Kei's location, but――"""
+,,,,
+Dialog.Chapter4-2-40(1),SEL,なんだ？,なんだ？,What is it?
+,,,,
+Dialog.Chapter4-2-41,戦闘員1,「最近までいた痕跡はあるものの…、どうやら既にここにはいないようです！」,「最近までいた痕跡はあるものの…、どうやら既にここにはいないようです！」,There are traces of their recent presence... but it seems they are no longer here!
+,,,,
+,,,,
+,,,,
+Dialog.Chapter4-2-41(1),SEL,感づかれた…？いや、もしくは最初から来ることが分かっていた？,感づかれた…？いや、もしくは最初から来ることが分かっていた？,"Did they sense you...? No, or did they know you were coming from the beginning?"
+,,,,
+Dialog.Chapter4-2-42,戦闘員(通信),「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,"'Report! Our facility is under the largest cyber attack to date! The facility has malfunctioned and we have lost contact with numerous fighters!"""
+,,,,
+Dialog.Chapter4-2-42(1),SEL,……部隊が動いたタイミングで大規模なサイバー攻撃？こちらの行動が全て読まれている？,……部隊が動いたタイミングで大規模なサイバー攻撃？こちらの行動が全て読まれている？,Massive cyber attack at the same time the ...... unit moved? Is everything we do being read?
+,,,,
+,,,,
+,,,,
+Dialog.Chapter4-2-43,005号,「この規模の障害…もしかしたら内部からの操作の可能性も……、！！下がってください！」,「この規模の障害…もしかしたら内部からの操作の可能性も……、！！下がってください！」,"""A failure of this magnitude...possibly an operation from within ......,! Please stand back!"""
+,,,,
+Dialog.Chapter4-2-44,,その瞬間、天井が破壊され、瓦礫と共に何者かがアジト内に落下してくる,その瞬間、天井が破壊され、瓦礫と共に何者かがアジト内に落下してくる,"At that moment, the ceiling is destroyed and someone falls into the hideout along with the debris."
+,,,,
+Dialog.Chapter4-2-45,???,「ここがアジト最奥部か。案外あっさり入れたね」,「ここがアジト最奥部か。案外あっさり入れたね」,This is the innermost part of the hideout. It was surprisingly easy to get in.
+,京　変身＆武器,,,
+Dialog.Chapter4-2-46,005号,「っ！、どうしてここが！」,「っ！、どうしてここが！」,"I'm like, ""What? How did you find this place?"
+,,,,
+Dialog.Chapter4-2-47,京,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,"'...I was just guessing based on the movement patterns and structure of this room. It was tricky, though, because there's no reception in here."""
+,,,,
+Dialog.Chapter4-2-48,,「聖核戦姫、コード：フォスフォフィライト、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,「聖核戦姫、コード：エメラルド、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,"The Seikaku Princess, Code: Phosphophyllite, Nekomiya Kei. Let's destroy them all quickly. ――――――"""
+,,,,
+,,,,
+,,,,
+,,,,
+Chapter 4-3,注釈,,,
+,アジト,,,
+Dialog.Chapter4-3-1,京,「どう？周りに壊しちゃいけないものが沢山ある中での戦闘は」,「どう？周りに壊しちゃいけないものが沢山ある中での戦闘は」,"How is it? How's the battle going with so many things around you that shouldn't be destroyed?"""
+,,,,
+Dialog.Chapter4-3-2,072号,「ぐっ、コイツっ、ちょこまかとっ！」,「ぐっ、コイツっ、ちょこまかとっ！」,He's moving all over the place!
+,,,,
+Dialog.Chapter4-3-3,京,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,"I'm not as good a fighter as Erena-senpai,"" he said. I won't fight her head―on."""
+,,,,
+Dialog.Chapter4-3-4,005号,「72号！、何をやってるんですか！また調整室に入りたいですか？！」,「072号！、何をやってるんですか！また調整室に入りたいですか？！」,No. 72! What are you doing? Do you want to go back into the control room?
+,,,,
+Dialog.Chapter4-3-5,072号,「っ！、申し訳ありませんっ、動きが早くてっ！」,「っ！、申し訳ありませんっ、動きが早くてっ！」,"I'm sorry, I'm moving too fast! I'm sorry, I'm moving too fast!"""
+,,,,
+Dialog.Chapter4-3-6,京,「この戦闘スタイル…水無瀬六花のクローンかな？…本人より強いんじゃない？」,「この戦闘スタイル…水無瀬六花のクローンかな？…本人より強いんじゃない？」,"""This fighting style...is he a clone of Minase Rikka? Is she stronger than Minase Rikka herself?"
+,,,,
+Dialog.Chapter4-3-7,触手怪人,「小娘がっ！こんな所に一人で乗り込んできて帰れると思うなっ！」,「一介の聖核戦姫がっ！こんな所に一人で乗り込んできて帰れると思うなっ！」,"You little bitch! You think you can just ride into a place like this by yourself and go home!"""
+,,,,
+Dialog.Chapter4-3-8,京,「おっと…これが触手細胞技術の上位怪人ね…知性を維持できる範囲なら戦闘力はこんなものか」,「おっと…これが触手細胞技術の上位怪人ね…知性を維持できる範囲なら戦闘力はこんなもんか…」,"Oops... so this is the higher level monster of tentacle cell technology... so much for combat power as long as it can maintain its intelligence."""
+,,,,
+Dialog.Chapter4-3-9,触手怪人,「このクソガキっ！言わせておけばっ！」,「このメスネコがっ！言わせておけばっ！」,"You little shit! Let him say it!"""
+,,,,
+Dialog.Chapter4-3-10,005号,「敵は一人です！今の私達なら落ち着いて戦えば勝てない相手ではありません！」,「敵は一人です！今の私達なら落ち着いて戦えば勝てない相手ではありません！」,"The enemy is one man! If we fight calmly now, we are not an opponent we can't beat!"""
+,,,,
+Dialog.Chapter4-3-11,京,「冷静なのもいるね…クローンでも性能には個体差があるのかな？」,「冷静なのもいるね…クローンでも性能には個体差があるのかな？」,'Some of them are cool...I wonder if there are individual differences in performance even among clones?'
+,,,,
+Dialog.Chapter4-3-12,京,「まあいいや。他の戦闘員が集まってくる前に全員倒しちゃおう」,「まあいいや。他の戦闘員が集まってくる前に全員倒しちゃおう」,"I'm not going to let them get away with it. Let's take them all out before the other combatants gather."""
+,,,,
+Dialog.Chapter4-3-13,京,「出力全開―――エレナたちは返してもらうよ！」,「出力全開―――エレナたちは返してもらうよ！」,"Full output―――Erena and the others will be returned!"""
+,,,,
+,,戦闘開始,戦闘開始,戦闘開始
+,,,,
+,,戦闘終了,戦闘終了,戦闘終了
+,アジト,,,
+Dialog.Chapter4-3-14,京,「――――降参だ。もう攻撃はしない」,「――――降参だ。もう攻撃はしない」,"""I give up ――――. No more attacks."""
+,,,,
+Dialog.Chapter4-3-15,005号,「ハアッ、ハアッ、…！？、触手怪人！直ちに猫宮京を拘束してください！」,「ハアッ、ハアッ、…！？、触手怪人！直ちに猫宮京を拘束してください！」,"""Hah, hah, hah...! !"", tentacle monster! Immediately restrain Nekomiya Kei!"""
+,,,,
+Dialog.Chapter4-3-16,触手怪人,「……っ、了解した！」,「……っ、了解した！」,"""......, got it!"""
+,暗転,,,
+,Kei story 2-1,,,
+Dialog.Chapter4-3-17,,京は怪人の触手によって全身をがっちりと拘束される,京は怪人の触手によって全身をがっちりと拘束される,Kei's entire body is tightly bound by the monster's tentacles.
+,,,,
+Dialog.Chapter4-3-18,触手怪人,「このメスガキッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,「このクソメスがッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,"You little bitch, you've made a mess of our hideout! Don't think you can get away with this!"""
+,,,,
+Dialog.Chapter4-3-19,京,「ああ。これ以上戦い続けても勝ち目は薄そうだったからね。無駄なことはしないさ」,「ああ。これ以上戦い続けても勝ち目は薄そうだったからね。無駄なことはしないさ」,"I was just too weak to fight any longer. ""Yeah. It didn't look like I was going to win if I kept fighting. I'm not going to waste my time."""
+,,,,
+Dialog.Chapter4-3-20,005号,「…っ、とにかく早く猫宮京を無力化してください！中央司令部は速やかに移動を！これ以上何をされるかわかりません！」,「…っ、とにかく早く猫宮京を無力化してください！中央司令部は速やかに移動を！これ以上何をされるかわかりません！」,"""...anyway, please neutralize Nekomiya Kei as soon as possible! The Central Command must move quickly! I don't know what more they can do to us!"""
+,,,,
+Dialog.Chapter4-3-21,触手怪人,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐ったメスガキを徹底的に教育せねばな！」,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐った聖核戦姫を徹底的に教育せねばな！」,"""Ah, yes, I understand. After all this damage has been done, we must thoroughly educate this little bitch who licked us!"""
+,,,,
+Dialog.Chapter4-3-22,京,「こうなった以上無駄な抵抗はしないさ。お手柔らかに頼むよ。」,「こうなった以上無駄な抵抗はしないさ。お手柔らかに頼むよ。」,I'm not going to waste my breath now that it's come to this. Please be gentle with me.
+,,,,
+Dialog.Chapter4-3-23,触手怪人,「……この期に及んでまだ余裕な態度を崩さないとは…！グフフッ、そのすまし顔がいつまで続くか楽しみだ！」,「……この期に及んでまだ余裕な態度を崩さないとは…！グフフッ、そのすまし顔がいつまで続くか楽しみだ！」,"""...... I can't believe you still have a relaxed attitude at this stage of the game...! I can't wait to see how long you can keep that smug look on your face!"""
+,Kei　story2-2,,,
+Dialog.Chapter4-3-24,,触手怪人は京の小さな口に触手をねじ込む,触手怪人は京の口に触手をねじ込む,The tentacle monster screws its tentacles into Kei's tiny mouth.
+,,,,
+Dialog.Chapter4-3-25,京,「むぐっ」,「むぐっ」,"Mugg."""
+,,,,
+Dialog.Chapter4-3-26,触手怪人,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,"I'll make you drink so much you won't be able to stand on your feet! I'll make you drink so much you won't be able to stand on your feet!"""
+,Kei　story　2ｰ3,,,
+Dialog.Chapter4-3-27,京,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,"Gobo! Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Puha..."""
+,,,,
+Dialog.Chapter4-3-28,触手怪人,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,"How about some mucus to incapacitate my Seikaku Princess? It'll take the edge off, won't it?"""
+,Kei story 2-4,,,
+Dialog.Chapter4-3-29,京,「ケホッ……おええっ、まっず…！」,「ケホッ……おええっ、まっず…！」,"""Kehoho ...... Oh, no, not again...!"""
+,,,,
+Dialog.Chapter4-3-30,,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,"I see, it's hard to use the Seikaku energy...did you make Erena-senpai drink this?"""
+,,,,
+Dialog.Chapter4-3-31,,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,"I knew these things existed... but I never thought I'd actually experience them."""
+,,,,
+Dialog.Chapter4-3-32,触手怪人,「…クソガキッ、まだ自分が置かれた状況を理解していないようだなぁ？」,「…メスネコッ、まだ自分が置かれた状況を理解していないようだなぁ？」,"""...you little shit, you still don't seem to understand the situation you're in, do you?"""
+,,,,
+Dialog.Chapter4-3-33,Kei story 2-5,ビリッ、ビリリッ,ビリッ、ビリリッ,"Bing, bang."
+,,,,
+Dialog.Chapter4-3-34,,触手怪人が京の戦闘スーツを破り、小さな局部を露にする,触手怪人が京の戦闘スーツを破り、局部を露にする,"Tentacle monster rips open Kei's battle suit, exposing a small section of his body."
+,,,,
+Dialog.Chapter4-3-35,京,「ああ、なるほど、やっぱりそうなるよね…でも流石にこの体勢はちょっと恥ずかしいかな」,「ああ、なるほど、やっぱりそうなるよね…でも流石にこの体勢はちょっと恥ずかしいかな」,"'Oh, I see, I knew it would happen...but I'm a little embarrassed to be in this position.'"
+,,,,
+Dialog.Chapter4-3-36,触手怪人,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,"You've done so much damage to our organization, haven't you? Now the real work begins, okay?"""
+,,,,
+Dialog.Chapter4-3-37,京,「はあ、これも敗北した変身ヒロインの運命だね…甘んじて受け入れるよ」,「はあ、これも敗北した変身ヒロインの運命だね…甘んじて受け入れるよ」,"I guess that's the fate of a defeated shape―shifting heroine... I'll just have to take it in stride."""
+,,,,
+Dialog.Chapter4-3-38,触手怪人,「グフフッ、いつまでその余裕が持つか楽しみだ！」,「グフフッ、いつまでその余裕が持つか楽しみだ！」,"Guffaw, I can't wait to see how long I can afford that!"""
+,,,,
+Dialog.Chapter4-3-39,Kei story 2-6,そして触手怪人は京の割れ目を粘液の付いた触手で撫で始める,そして触手怪人は京の割れ目を粘液の付いた触手で撫で始める,And the tentacle monster begins to stroke Kei's crack with its mucus―covered tentacles.
+,,,,
+Dialog.Chapter4-3-40,京,「！、ああ、ぬるぬるして不思議な感触だ。とても気持ち悪い」,「！、ああ、ぬるぬるして不思議な感触だ。とても気持ち悪い」,"""! Oh, it feels slimy and strange. It's so gross."""
+,,,,
+Dialog.Chapter4-3-41,触手怪人,「グフフッ！じきに何も考えられなくさせてやろう！」,「グフフッ！じきに何も考えられなくさせてやろう！」,"I'm going to make you think of nothing soon! Soon I'll make you think of nothing!"""
+,,,,
+Dialog.Chapter4-3-42,京,「あっ、ふう…、昔興味でやったことはあって、その時は良く分からなかったけど…」,「あっ、ふう…、昔興味でやったことはあって、その時は良く分からなかったけど…」,"I did it once, out of curiosity, and I didn't really understand it at the time..."""
+,,,,
+Dialog.Chapter4-3-43,,「んあっ、しかし誰かにされるのは感覚が全然違うねっ？」,「んあっ、しかし誰かにされるのは感覚が全然違うねっ？」,"But it feels so different to have someone do it to you, doesn't it?"""
+,,,,
+Dialog.Chapter4-3-44,,「さっき飲まされた液体も関係あるのかな？頭がくらくらしてきたよ」,「さっき飲まされた液体も関係あるのかな？頭がくらくらしてきたよ」,I wonder if the liquid they gave me earlier had anything to do with it. My head is starting to spin.
+,,,,
+Dialog.Chapter4-3-45,触手怪人,「余裕な顔をしているが効いているようだなっ、ほれっ、もっとくらえっ」,「余裕な顔をしているが効いているようだなっ、ほれっ、もっとくらえっ」,"You look like you can afford it, but it seems to be working."
+,,,,
+Dialog.Chapter4-3-46,京,「っ！、んっ♥、ふうっ、んんっ、なかなか…、くすぐったいね…。」,「っ！、んっ♥、ふうっ、んんっ、なかなか…、くすぐったいね…。」,"I'm so ticklish...! That tickles........"""
+,,,,
+Dialog.Chapter4-3-47,,「んぁ…♥、このまま続けられたらっ♥、ちょっとまずいかなっ」,「んぁ…♥、このまま続けられたらっ♥、ちょっとまずいかなっ」,"If you continue like this, it might not be good for me."
+,,,,
+Dialog.Chapter4-3-48,触手怪人,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,"Soon you will be so addicted to pleasure that you will obey us. I'm looking forward to that."""
+,,,,
+Dialog.Chapter4-3-49,京,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,"I see...I see...the Seikaku Princesses you captured were brainwashed this way? That's totally in bad taste."""
+,,,,
+Dialog.Chapter4-3-50,,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,"I wanted to destroy the hideout with my own hands, but I'm sorry."
+,,,,
+Dialog.Chapter4-3-51,触手怪人,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,"Now that the foreplay is over, let's corrupt you from the inside out."
+,,,,
+Dialog.Chapter4-3-52,京,「っ…！何をっ？」,「っ…！何をっ？」,What? What?
+,,,,
+Dialog.Chapter4-3-53,Kei story 2-7,触手怪人が京の膣内に粘液でまみれた触手を挿入する,触手怪人が京の膣内に粘液でまみれた触手を挿入する,Tentacle monster inserts mucus―covered tentacles into Kei's vagina
+,,,,
+Dialog.Chapter4-3-54,京,「んぐっ♥♥、触手が中にっ♥、っふうっ、これはっ♥、まずいなっ…♥」,「んぐっ♥♥、触手が中にっ♥、っふうっ、これはっ♥、まずいなっ…♥」,"I've got a tentacle inside me...♥, ♥, ♥, ♥, ♥, this is not good...♥"""
+,,,,
+Dialog.Chapter4-3-55,触手怪人,「グフフッ、いくらすました顔をしていても所詮はただのメスガキだったな！―――なんだ？」,「グフフッ、いくらすました顔をしていても所詮はただのメスだったな！―――なんだ？」,I'm sure you'll be able to find a way to get a good look at him! ―――What is it?
+,,,,
+Dialog.Chapter4-3-56,京,「んっ♥、んあっ♥、あまり膣内で触手を動かさないでくれっ♥、流石に私も――――」,「んっ♥、んあっ♥、あまり膣内で触手を動かさないでくれっ♥、流石に私も――――」,"♥♥♥♥♥, don't move your tentacles in my vagina too much, I'm a quicksilver too ――――'"
+,,,,
+Dialog.Chapter4-3-57,,京の言葉を聞くことなく、触手怪人が京の膣内から何かを取り出す,京の言葉を聞くことなく、触手怪人が京の膣内から何かを取り出す,"Without hearing Kei's words, the tentacle monster pulls something out of Kei's vagina."
+,,,,
+Dialog.Chapter4-3-58,京,「――――あ、ばれちゃった」,「――――あ、ばれちゃった」,"""―――― Oh, I've been discovered."""
+,,,,
+Dialog.Chapter4-3-59,触手怪人,「……？なんだこれは？何故こんなものを入れている…？」,「……？なんだこれは？何故こんなものを入れている…？」,"""......? What the hell is this? Why are you putting this stuff in...?"""
+,,,,
+Dialog.Chapter4-3-60,京,「………気が付かないんだ。さて、なんだろうね？」,「………気が付かないんだ。さて、なんだろうね？」,"""I don't notice .......... Now, what is it?"""
+,暗転＆シーン終了,,,
+,アジト,,,
+Dialog.Chapter4-3-61,触手怪人＆京,触手怪人が京の中から棒状の物を発見した直後,触手怪人が京の中から棒状の物を発見した直後,Immediately after the tentacle monster found a stick―shaped object in Kei.
+,,,,
+Dialog.Chapter4-3-62,アジト(アラート),ゴォォン…… ドドンッ！,ゴォォン…… ドドンッ！,Goooong ...... thud!
+,,,,
+Dialog.Chapter4-3-63,触手怪人,「……？！なんの音だ？！」,「……？！なんの音だ？！」,"""......? What's that sound?"
+,,,,
+Dialog.Chapter4-3-64,地下通路(アラート),その時、ホログラムで連絡が入る,その時、ホログラムで連絡が入る,Then you get a holographic call.
+,,,,
+Dialog.Chapter4-3-65,戦闘員(通信),「緊急連絡！、何者かがアジト内に侵入した模様！隔壁を破壊しながら物凄い速度で進行中です！」,「緊急連絡！、何者かがアジト内に侵入した模様！隔壁を破壊しながら物凄い速度で進行中です！」,"Emergency call! Someone has entered the hideout! They are advancing at a very high rate of speed, destroying the bulkheads!"
+,,,,
+Dialog.Chapter4-3-66,触手怪人,「なんだとっ？敵の数は？」,「なんだとっ？敵の数は？」,"""What the hell? How many enemies?"""
+,,,,
+Dialog.Chapter4-3-67,戦闘員(通信),「一人ですっ！クローンが応戦していますが全く歯が立ちません！」,「一人ですっ！クローンが応戦していますが全く歯が立ちません！」,"I'm alone! The clones are fighting back, but they are completely outmatched!"""
+,,,,
+Dialog.Chapter4-3-68,戦闘員(通信),「経路から推測するに…おそらくそちらの中央指令室に接近しています！」,「経路から推測するに…おそらくそちらの中央指令室に接近しています！」,"""I'm guessing from the path... it's probably approaching your central command center!"""
+,,,,
+Dialog.Chapter4-3-68(1),SEL,触手怪人！今すぐ猫宮京の隠し持っていたそれを破壊しろ！,触手怪人！今すぐ猫宮京の隠し持っていたそれを破壊しろ！,"Tentacle Monster! Destroy it now, hidden by Nekomiya Kei!"
+,暗転＆アジト(アラート),,,
+Dialog.Chapter4-3-69,触手怪人,「！、了解しました！」,「！、了解しました！」,"""! I understand!"""
+,,,,
+Dialog.Chapter4-3-70,京(変身),「ん～、やっと気が付いた？これは私の聖核エネルギーを利用した発信機だよ…」,「ん～、やっと気が付いた？これは私の聖核エネルギーを利用した発信機だよ…」,"Hmmm, did you finally notice? It's a transmitter that harnesses my Seikaku energy..."""
+,,,,
+Dialog.Chapter4-3-71,,「ここは電波が届かないからね…私の聖核エネルギーで位置情報を伝達しているのさ」,「ここは電波が届かないからね…私の聖核エネルギーで位置情報を伝達しているのさ」,There's no radio reception here...so I use my Seikaku energy to transmit my location information.
+,,,,
+Dialog.Chapter4-3-72,,「…まあ、今更遅いけど」,「…まあ、今更遅いけど」,"...well, it's a little late for that now."""
+,,,,
+Dialog.Chapter4-3-73,005号,「っ、このっ！、―――ッ？！来ます！衝撃に備えてください！」,「っ、このっ！、―――ッ？！来ます！衝撃に備えてください！」,"You! You...? It's coming! Brace for impact!"""
+,,,,
+Dialog.Chapter4-3-74,,その瞬間、部屋の壁が轟音と共に砕け散る,その瞬間、部屋の壁が轟音と共に砕け散る,"At that moment, the walls of the room shatter with a roar."
+,那由多(黒影),,,
+Dialog.Chapter4-3-75,???,「……やっと辿り着きました。ここが財団日本支部の本丸ですか」,「……やっと辿り着きました。ここが財団日本支部の本丸ですか」,"I finally arrived at ....... Is this the main office of the Foundation's Japan branch?"""
+,,,,
+Dialog.Chapter4-3-76,005号,「…っ！、72号！侵入者を捕えます！同時に攻撃を！」,「…っ！、72号！侵入者を捕えます！同時に攻撃を！」,"""...! No. 72! We will seize the intruder! Attack at the same time!"
+,,,,
+Dialog.Chapter4-3-77,072号,「！、はいっ！」,「！、はいっ！」,"""! Yes!"
+,,,,
+,,戦闘開始,戦闘開始,戦闘開始
+,,,,
+,,戦闘終了,戦闘終了,戦闘終了
+,,,,
+Dialog.Chapter4-3-78,,005号と072号は意識を失い床に崩れ落ちる,005号と072号は意識を失い床に崩れ落ちる,Nos. 005 and 072 lose consciousness and crumple to the floor.
+,,,,
+Dialog.Chapter4-3-79,那由多(普通の立ち絵),「安心してください、峰打ちです。ここにいる者は全員後で回収しますから」,「安心してください、峰打ちです。ここにいる者は全員後で回収しますから」,"Don't worry, it's just a peak. We'll collect everyone here later."""
+,,,,
+Dialog.Chapter4-3-80,京,「おー、流石。やっぱり会長は頼りになるね」,「おー、流石。やっぱり総司令は頼りになるね」,"""Oh, that's great. I knew I could count on the chairman."""
+,,,,
+Dialog.Chapter4-3-81,???,「おや…京さん！そこにいましたか」,「おや…京さん！そこにいましたか」,"Oh...Mr. Kei! There you are."""
+,,,,
+Dialog.Chapter4-3-82,触手怪人＆京,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,"Gosh,"" she said! Hey, there, woman! Don't move any further! What do you care what happens to him?"""
+,,,,
+Dialog.Chapter4-3-83,,その瞬間、京を拘束していた触手怪人の触手が全て宙に舞う,その瞬間、京を拘束していた触手怪人の触手が全て宙に舞う,"At that moment, all the tentacles of the tentacle monster that was restraining Kei fly into the air."
+,,,,
+Dialog.Chapter4-3-84,触手怪人,「……？？！、ぐあっ、俺の腕がっ？！」,「……？？！、ぐあっ、俺の腕がっ？！」,"""......? Oh, my arm!"
+,,,,
+Dialog.Chapter4-3-85,???,「怪人に情けはありません。消えなさい」,「怪人に情けはありません。消えなさい」,"There is no mercy for monsters. Go away."""
+,,,,
+Dialog.Chapter4-3-86,京,「ふう、ありがとう会長、助かったよ。発信機がちゃんと機能してよかった」,「ふう、ありがとう総司令、助かったよ。発信機がちゃんと機能してよかった」,"I'm glad the transmitter is working properly."" I'm glad the transmitter is working properly."""
+,,,,
+Dialog.Chapter4-3-87,???,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,"No, thank you very much. Thanks to your guidance, I got here."""
+,,,,
+Dialog.Chapter4-3-88,???,「…さて、貴方がここの最高責任者でしょうか」,「…さて、貴方がここの最高責任者でしょうか」,"Now, are you the chief executive here?"
+,,,,
+Dialog.Chapter4-3-88(1),SEL,……そうだ,……そうだ,...... Yes.
+,,,,
+Dialog.Chapter4-3-89,那由多,「一応自己紹介を。聖核戦姫、コード：オブシディアン。聖月女学園生徒会長“八雲 那由多”です」,「一応自己紹介を。聖核戦姫、コード：オブシディアン。ホーリーコア・レギオン総司令“八雲 那由多”です」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Girl Academy."
+,,,,
+Dialog.Chapter4-3-90,那由多,「この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,This underground hideout is now under control. Do not resist in vain and surrender immediately.
