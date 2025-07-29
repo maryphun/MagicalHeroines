@@ -51,9 +51,9 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         // Automatically apply fonts after scene change
-        UpdateAllFontsInScene();
+        // UpdateAllFontsInScene();
 
-        Debug.Log("---Update all fonts in scene.---");
+        // Debug.Log("---Update all fonts in scene.---");
     }
 
     public void UpdateAllFontsInScene()
