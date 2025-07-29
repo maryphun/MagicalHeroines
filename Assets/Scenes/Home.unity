@@ -29404,7 +29404,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1683985741}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.7029703
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -38375,6 +38375,7 @@ GameObject:
   - component: {fileID: 1268017910}
   - component: {fileID: 1268017912}
   - component: {fileID: 1268017911}
+  - component: {fileID: 1268017913}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -38498,6 +38499,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1268017909}
   m_CullTransparentMesh: 1
+--- !u!114 &1268017913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268017909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &1270812968
 GameObject:
   m_ObjectHideFlags: 0
@@ -47140,6 +47154,7 @@ GameObject:
   - component: {fileID: 1597026311}
   - component: {fileID: 1597026313}
   - component: {fileID: 1597026312}
+  - component: {fileID: 1597026314}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -47263,6 +47278,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1597026310}
   m_CullTransparentMesh: 1
+--- !u!114 &1597026314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1597026310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &1609689147
 GameObject:
   m_ObjectHideFlags: 0
