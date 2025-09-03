@@ -430,10 +430,14 @@ public class StoryManager : MonoBehaviour
             case 3:
                 {
                     // –¾•ä”s–k
-                    NovelSingletone.Instance.PlayNovel("Chapter1-2 AfterBattle", true, GoToRewardScreen);
-
                     PlayerCharacterDefine Akiho = Resources.Load<PlayerCharacterDefine>("PlayerCharacterList/4.Akiho");
                     ProgressManager.Instance.AddPlayerCharacter(Akiho);
+
+#if DEMO
+                    GoToRewardScreen();
+#else
+                    NovelSingletone.Instance.PlayNovel("Chapter1-2 AfterBattle", true, GoToRewardScreen);
+#endif
                 }
                 break;
             case 4:

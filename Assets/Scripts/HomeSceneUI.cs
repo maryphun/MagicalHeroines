@@ -25,7 +25,8 @@ public class HomeSceneUI : MonoBehaviour
         if (ProgressManager.Instance.GetCurrentStageProgress() == DemoParameter.EndChapter)
         {
             DemoParameter.isDemoEnded = true;
-            NovelSingletone.Instance.PlayNovel("TrainScene/Akiho/A_BrainWash_1", true, EndDemo);
+            EndDemo();
+            //NovelSingletone.Instance.PlayNovel("TrainScene/Akiho/A_BrainWash_1", true, EndDemo);
             return;
         }
 #endif
