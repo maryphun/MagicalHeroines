@@ -12,7 +12,7 @@ System.SwitchCharacter,画面キャラ変更,Change Character,更換角色,更�
 System.BlackMarket,闇市,Black Market,黑市,黑市
 System.Record,侵食記録,Record,侵蝕記録,侵蚀记录
 System.Action,活動,Operation,活動,活动
-System.Training,調教,Training,調教,调教
+System.Training,演出,Training,演出,演出
 System.CharacterBuilding,キャラクター育成,Character Building,角色育成,角色育成
 System.Formation,キャラクター編成,Formation,角色編成,角色编成
 System.ResearchPoint,研究ポイント,Research Pts,研究點數,研究点数
@@ -20,13 +20,13 @@ System.Money,資金,Money,資金,资金
 System.Mood,心情：,Mood:,心情：,心情：
 System.Dark,闇落ち,Corrupt,惡墮,恶堕
 System.CoreResearch,聖核研究進度,Core Research,聖核研究進度,圣核研究进度
-System.PickTraining,調教方法を選択：,Pick your training:,選擇調教方法：,选择调教方法：
-System.HornyTraining,淫乱調教,Horniness,淫亂調教,淫乱调教
-System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教
+System.PickTraining,方法を選択：,Pick your training:,選擇方法：,选择方法：
+System.HornyTraining,淫乱,Horniness,淫亂,淫乱
+System.BrainwashTraining,洗脳,Brainwash,洗腦,洗脑
 System.HolyCoreTraining,聖核研究,Seikaku Research,聖核研究,圣核研究
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：
-System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束
-System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放
+System.ResearchComplete,完了,Training Complete,結束,结束
+System.ResearchConditionDaiya,洗脳の終わりに解放,,演出結束後開放,演出结束后开放
 System.Back,戻る,Back,退出,退出
 System.Confirm,確定,Confirm,確定,确定
 System.OptionPanel,設定,Option,設定,设定
@@ -93,7 +93,7 @@ System.Receive,受取,Accept,接受,接受
 System.Heroin,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫
 System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！
 System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。
-System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。
+System.TrainPanelUpdate,演出画面がアップデートされました,Training panel have been updated.,演出画面的內容更新了。,演出画面的内容更新了。
 System.NovelLog,ログ,Log,記錄,记录
 System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF)
 System.NovelSkip,スキップ,Skip,跳過,跳过
@@ -106,7 +106,7 @@ Equip item at Character Building Panel.","獲得裝備: {s}！
 可以到角色育成画面装备到角色上。"
 System.Storage,収納庫,Storage,收納庫,收纳库
 Systeｍ.Requirement,解放条件:,Requirement: ,解放条件:,解放条件:
-System.HornyTrained,淫乱調教完了,Horniness Training,淫乱調教完成,淫乱调教完成
+System.HornyTrained,淫乱完了,Horniness Training,淫乱完成,淫乱完成
 System.NewAbilityTraining,{s}が新しい特殊技を覚えました。,{s} learnt new special ability.,{s}學到新特殊技能了。,{s}学到新特殊技能了。
 System.NewRecord,"オペレーションの間にアジトである起き事が発生しました
 今記録を見ますか？","During the operation, some event happened in the hideout.
@@ -121,82 +121,6 @@ System.BackToTitle,"タイトル画面に戻りますか？
 セーブしていないデータが消えます。","Back to title scene?
 Unsaved data will be gone forever.",回到主菜單,回到主菜单
 Memory,回想,Memory,回想,回想
-Memory.Akiho_1,明穂 - 痴漢,Akiho - Chikan,明穂 - 痴漢,明穂 - 痴汉
-Memory.Akiho_2,明穂 - 敗北,Akiho - Defeat,明穂 - 敗北,明穂 - 败北
-Memory.Rikka_1,立花 - 身体検査,Rikka - Body check,立花 - 身体検査,立花 - 身体検查
-Memory.Erena_1,エレナ - オナニー,Erena - Masturbation,艾蓮娜 - 自慰,艾莲娜 - 自慰
-Memory.Erena_2,エレナ - 性奉仕 I,Erena - Sex service I,艾蓮娜 - 性奉仕 I,艾莲娜 - 性奉仕 I
-Memory.Erena_3,エレナ - 性奉仕 II,Erena - Sex service II,艾蓮娜 - 性奉仕 II,艾莲娜 - 性奉仕 II
-Memory.Kei_1,京 - ハッキング,Kei - Hacking,京 - 黑客,京 - 黑客
-Memory.Kei_2,京 - 捕獲,Kei - Captured,京 - 捕獲,京 - 捕获
-Memory.Nayuta_1,那由多 - 捕獲,Nayuta - Captured,那由多 - 捕獲,那由多 - 捕获
-Memory.Nayuta_2,決戦,Final Battle,決戰,决战
-Memory.AkihoBrainWash_1,明穂 - おっぱい改造実験 I,Akiho - Tits experiment I,明穂 - 胸部改造實驗 I,明穂 - 胸部改造实验 I
-Memory.AkihoBrainWash_2,明穂 - おっぱい改造実験 II,Akiho - Tits experiment II,明穂 - 胸部改造實驗 II,明穂 - 胸部改造实验 II
-Memory.AkihoBrainWash_3,明穂 - おっぱい改造実験 III,Akiho - Tits experiment III,明穂 - 胸部改造實驗 III,明穂 - 胸部改造实验 III
-Memory.AkihoCore_1,明穂 - 聖核研究 I,Akiho - Seikaku Research I,明穂 - 聖核研究 I,明穂 - 圣核研究 I
-Memory.AkihoCore_2,明穂 - 聖核研究 II,Akiho - Seikaku Research II,明穂 - 聖核研究 II,明穂 - 圣核研究 II
-Memory.AkihoHorny_1,明穂 - 性奉仕 I,Akiho - Sex service I,明穂 - 性侍奉 I,明穂 - 性侍奉 I
-Memory.AkihoHorny_2,明穂 - 性奉仕 II,Akiho - Sex service II,明穂 - 性侍奉 II,明穂 - 性侍奉 II
-Memory.RikkaBrainWash_1,立花 - 戦闘員化 I,Rikka - Normalization I,立花 - 戰鬥員化 I,立花 - 战斗员化 I
-Memory.RikkaBrainWash_2,立花 - 戦闘員化 II,Rikka - Normalization II,立花 - 戰鬥員化 III,立花 - 战斗员化 III
-Memory.RikkaBrainWash_3,立花 - 戦闘員化 III,Rikka - Normalization III,立花 - 戰鬥員化 III,立花 - 战斗员化 III
-Memory.RikkaCore_1,立花 - 聖核研究 I,Rikka - Seikaku Research I,立花 - 聖核研究 I,立花 - 圣核研究 I
-Memory.RikkaCore_2,立花 - 聖核研究 II,Rikka - Seikaku Research II,立花 - 聖核研究 II,立花 - 圣核研究 II
-Memory.RikkaHorny_1,立花 - オナニーショー I,Rikka - Masturbation Show I,立花 - 自慰節目 I,立花 - 自慰节目 I
-Memory.RikkaHorny_2,立花 - オナニーショー II,Rikka - Masturbation Show II,立花 - 自慰節目 II,立花 - 自慰节目 II
-Memory.ErenaBrainWash_1,エレナ - 家畜化 I,Erena - Domestication I,艾蓮娜 - 家畜化 I,艾莲娜 - 家畜化 I
-Memory.ErenaBrainWash_2,エレナ - 家畜化 II,Erena - Domestication II,艾蓮娜 - 家畜化 II,艾莲娜 - 家畜化 II
-Memory.ErenaBrainWash_3,エレナ - 家畜化 III,Erena - Domestication III,艾蓮娜 - 家畜化 III,艾莲娜 - 家畜化 III
-Memory.ErenaCore_1,エレナ - 聖核研究 I,Erena - Seikaku Research I,艾蓮娜 - 聖核研究 I,艾莲娜 - 圣核研究 I
-Memory.ErenaCore_2,エレナ - 聖核研究 II,Erena - Seikaku Research II,艾蓮娜 - 聖核研究 II,艾莲娜 - 圣核研究 II
-Memory.ErenaHorny_1,エレナ - AVデビュー I,Erena - Porn Star Debut I,艾蓮娜 - AV出道 I,艾莲娜 - AV出道 I
-Memory.ErenaHorny_2,エレナ - AVデビュー II,Erena - Porn Star Debut II,艾蓮娜 - AV出道 II,艾莲娜 - AV出道 II
-Memory.KeiBrainWash_1,京 - 洗脳調教 I,Kei - Brainwash Sex I,京 - 洗腦調教 I,京 - 洗脑调教 I
-Memory.KeiBrainWash_2,京 - 洗脳調教 II,Kei - Brainwash Sex II,京 - 洗腦調教 II,京 - 洗脑调教 II
-Memory.KeiBrainWash_3,京 - 洗脳調教 III,Kei - Brainwash Sex III,京 - 洗腦調教 III,京 - 洗脑调教 III
-Memory.KeiCore_1,京 - 聖核研究 I,Kei - Seikaku Research I,京 - 聖核研究 I,京 - 圣核研究 I
-Memory.KeiCore_2,京 - 聖核研究 II,Kei - Seikaku Research II,京 - 聖核研究 II,京 - 圣核研究 II
-Memory.KeiHorny_1,京 - エロ配信 I,Kei - Livestream I,京 - 成人直播 I,京 - 成人直播 I
-Memory.KeiHorny_2,京 - エロ配信 II,Kei - Livestream II,京 - 成人直播 II,京 - 成人直播 II
-Memory.NayutaBrainWash_1,那由多 - 聖核回収 I,Nayuta - Seikaku Drain I,那由多 - 聖核回收 I,那由多 - 圣核回收 I
-Memory.NayutaBrainWash_2,那由多 - 聖核回収 II,Nayuta - Seikaku Drain II,那由多 - 聖核回收 II,那由多 - 圣核回收 II
-Memory.NayutaBrainWash_3,那由多 - 聖核回収 III,Nayuta - Seikaku Drain III,那由多 - 聖核回收 III,那由多 - 圣核回收 III
-Memory.NayutaCore_1,那由多 - 聖核研究 I,Nayuta - Seikaku Research I,那由多 - 聖核研究 I,那由多 - 圣核研究 I
-Memory.NayutaCore_2,那由多 - 聖核研究 II,Nayuta - Seikaku Research II,那由多 - 聖核研究 II,那由多 - 圣核研究 II
-Memory.NayutaHorny_1,那由多 - VIP招待 I,Nayuta - VIP Service I,那由多 - VIP服務 I,那由多 - VIP服务 I
-Memory.NayutaHorny_2,那由多 - VIP招待 II,Nayuta - VIP Service II,那由多 - VIP服務 II,那由多 - VIP服务 II
-Memory.AkihoPaizuri,明穂のパイズリ奉仕,Akiho's Tit Fucking,明穂的乳交服務,明穂的乳交服务
-Memory.CloneTask,クローンの通常業務,Clones' Daily Task,克隆人的日常業務,克隆人的日常业务
-Memory.Nursery,変身ヒロイン苗床化,Seedbed of Magical Girls,變身女主的苗床化,变身女主的苗床化
-Memory.Final,最後の二人の聖核戦姫,The Last Two Seikaku Princess,最後的聖核戰姬,最后的圣核战姬
-Memory.Kei,小悪魔の日常,A Succubus' Day,小惡魔的日常,小恶魔的日常
-Memory.Erenayuta,最強の二人,The Strongest Duo,最強的兩人,最强的两人
-Memory.SeikakuEquip,聖核加工工場,Seikaku Factory,聖核加工厂,圣核加工厂
-Memory.Prologue,プロローグ,Prologue,序章,序章
-Memory.DLC1-1,最後の作戦,Final Operation,最後的作戰,最后的作战
-Memory.DLC1-2,潜入成功,Infiltration Successful,潛入成功,潜入成功
-Memory.DLC1-3,旧識,Old Acquaintances,舊識,旧识
-Memory.DaiyaCapture,ダイヤモンド捕獲,Diamond Captured,鑽石捕獲,钻石捕获
-Memory.DLC2-1,秘密兵器,Secret Weapon,秘密兵器,秘密兵器
-Memory.DLC2-2,京の計画,Kei's Plan,京的計畫,京的计划
-Memory.DLC2-3,反乱,Rebellion,反亂,反乱
-Memory.DaiyaBrainWash_1,ダイヤモンド - 財団の犬 I,Diamond - The Foundation's Dog I,鑽石 - 財團的狗 I,钻石 - 财团的狗 I
-Memory.DaiyaBrainWash_2,ダイヤモンド - 財団の犬 II,Diamond - The Foundation's Dog II,鑽石 - 財團的狗 II,钻石 - 财团的狗 II
-Memory.DaiyaBrainWash_3,ダイヤモンド - 財団の犬 III,Diamond - The Foundation's Dog III,鑽石 - 財團的狗 III,钻石 - 财团的狗 III
-Memory.DaiyaHorny_1,ダイヤモンド - ペット同士 I,Diamond - Among Pets I,鑽石 - 寵物之間 I,钻石 - 宠物之间 I
-Memory.DaiyaHorny_2,ダイヤモンド - ペット同士 II,Diamond - Among Pets II,鑽石 - 寵物之間 II,钻石 - 宠物之间 II
-Memory.DaiyaCore_1,ダイヤモンド - 聖核研究 I,Diamond - Holy Core Research I,鑽石 - 聖核研究 I,钻石 - 圣核研究 I
-Memory.HisuiBrainWash_1,ヒスイ - 下級戦闘員 I,Hisui - Low-Ranking Combatant I,翡翠 - 下級戰鬥員 I,翡翠 - 下级战斗员 I
-Memory.HisuiBrainWash_2,ヒスイ - 下級戦闘員 II,Hisui - Low-Ranking Combatant II,翡翠 - 下級戰鬥員 II,翡翠 - 下级战斗员 II
-Memory.HisuiBrainWash_3,ヒスイ - 下級戦闘員 III,Hisui - Low-Ranking Combatant III,翡翠 - 下級戰鬥員 III,翡翠 - 下级战斗员 III
-Memory.HisuiHorny_1,ヒスイ - 昔いの憧れ I,Hisui - Old Admiration I,翡翠 - 以往的憧憬 I,翡翠 - 以往的憧憬 I
-Memory.HisuiHorny_2,ヒスイ - 昔いの憧れ II,Hisui - Old Admiration II,翡翠 - 以往的憧憬 II,翡翠 - 以往的憧憬 II
-Memory.HisuiCore_1,ヒスイ - 聖核研究 I,Hisui - Holy Core Research I,翡翠 - 聖核研究 I,翡翠 - 圣核研究 I
-Memory.K22BrainWash_1,K22 - 底辺日常 I,K22 - Bottom-tier Daily Life I,K22 - 底層日常 I,K22 - 底层日常 I
-Memory.K22BrainWash_2,K22 - 底辺日常 II,K22 - Bottom-tier Daily Life II,K22 - 底層日常 II,K22 - 底层日常 II
-Memory.AkihoDLC,明穂＆クローン戦闘員,Akiho & Clone Combatants,明穗＆克隆戰鬥員,明穗＆克隆战斗员
-Memory.ErenaDLC,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜
 WorldMapScene,ワールドマップ,World Map,ワールドマップ,ワールドマップ
 System.Story,ストーリー進行,Continue story,繼續故事,继续故事
 System.EndGameContent,高難易度コンテンツ,Endgame\nContent,番外篇劇情,番外篇剧情
@@ -576,7 +500,7 @@ Ability.Bite_Info,敵単体を噛んで1ターン行動不能にする。,"Bites
 Ability.StopThinking,思考停止,Thought Stop,停止思考,停止思考
 Ability.StopThinking_Info,下級戦闘員には余計な思考は不要。集中力を上げてしばらく攻撃力アップ。,Lower-ranking soldiers don't need excessive thoughts. Temporarily increases attack power by enhancing concentration.,對於下級戰鬥員來說，不需要多餘的思考。集中精神，提升攻擊力一段時間。,对于下级战斗员来说，不需要多余的思考。集中精神，提升攻击力一段时间。
 Ability.Horny,発情,In Heat,發情,发情
-Ability.Horny_Info,下級戦闘員の調教を最後まで受けたものはいつでも発情できる。発動者が3ターン発情状態になる。,"Soldiers who have completed their training can become ""in heat"" anytime. The user enters ""heat"" status for 3 turns.",接受過下級戰鬥員的調教的人隨時可以發情。發動者將進入發情狀態3回合。,接受过下级战斗员的调教的人随时可以发情。发动者将进入发情状态3回合。
+Ability.Horny_Info,下級戦闘員はいつでも発情できる。発動者が3ターン発情状態になる。,"Soldiers who have completed their training can become ""in heat"" anytime. The user enters ""heat"" status for 3 turns.",接受過下級戰鬥員的訓練的人隨時可以發情。發動者將進入發情狀態3回合。,接受过下级战斗员的训练的人随时可以发情。发动者将进入发情状态3回合。
 Ability.DiamondSlash,袈裟上げ,Diagonal Slash,鈍擊,钝击
 Ability.DiamondSlash_Info,"ダイヤの技。
 敵単体を２ターン行動不能にする。","Diamond’s skill.
@@ -623,13 +547,6 @@ HomeChar.Daiya_DLC_1-2,「へっ、へっ、へっ、えへへぇ…♥」,"「H
 HomeChar.Daiya_DLC_1-3,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」
 HomeChar.Daiya_DLC_1-4,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」
 WorldScene,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词
-World.Chapter2-3,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」
-World.Chapter3-3,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」
-World.Chapter5-3,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」
-World.Chapter6-1,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」
-World.DLC-2,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」
-World.DLC-8,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」
-World.DLC-8-2,このステージでは「猫宮 京」を出動させることができません。,,在這個關卡中無法派遣猫宮 京。,在这个关卡中无法派遣猫宫 京。
 BattleLog,戦闘ログ,Battlelog,戦闘ログ,戦闘ログ
 BattleLog.Attack,{0}　の攻撃！,{0}'s attack!,{0}　的攻擊！,{0}　的攻击！
 BattleLog.Damage,{0}　に　{1}　のダメージを与えた！,Deals {1} damage to {0}!,向　{0}　造成　{1}　點傷害！,向　{0}　造成　{1}　点伤害！
@@ -695,16 +612,16 @@ There may be future updates involving specification changes, feature additions, 
 未來有可能進行包含規格變更、功能新增或修正錯誤的版本更新。","目前部分功能受到限制，角色语音尚未全部实装。
 今后可能会有包含规格变更、功能追加或修复问题的版本更新。"
 Demo.End,"遊んでいただき、ありがとうございます！
-これからは、強くてプライドの高い変身ヒロイン達が敗北し、調教され、改造され堕ちていきます。
+これからは、強くてプライドの高い変身ヒロイン達が敗北し、改造され堕ちていきます。
 
-気に入ったところ、そうでなかったところ、改良する提案などあれば、ぜひ教えてください！","From now on, our strong and proud transformed heroines will be defeated, trained, remodeled and fallen.
+気に入ったところ、そうでなかったところ、改良する提案などあれば、ぜひ教えてください！","From now on, our strong and proud transformed heroines will be defeated and turned under the jurisdiction of the organization.
 Full character voices will be implemented in the later version.
 
 Please let us know what you liked about the game, what you didn't, and any suggestions for improving!","感謝您的遊玩！
-從這邊開始，強大而且高傲的變身女主們將會被逐一打敗，捕獲，調教和墮落成組織的忠僕。
+從這邊開始，強大而且高傲的變身女主們將會被逐一打敗，捕獲，然後墮落成組織的忠僕。
 
 如果對遊戲有任何建議，歡迎到Discord和作者溝通！","感谢您的游玩！
-从这边开始，强大而且高傲的变身女主们将会被逐一打败，捕获，调教和堕落成组织的忠仆。
+从这边开始，强大而且高傲的变身女主们将会被逐一打败，捕获，然後堕落成组织的忠仆。
 
 如果对游戏有任何建议，欢迎到Discord和作者沟通！"
 Demo.LockedFeature,今は使えません。,Not available.,現在還不能使用,现在还不能使用
