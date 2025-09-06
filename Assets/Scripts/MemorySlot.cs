@@ -39,6 +39,13 @@ public class MemorySlot : MonoBehaviour
             btn.onClick.AddListener(OnClickButton);
             memoryNameText.text = LocalizationManager.Localize(memoryNameID);
         }
+
+#if STEAM_REVIEW
+       if (memoryNameID != "Memory.Akiho_1")
+        {
+            gameObject.SetActive(false);
+        }
+#endif
     }
 
     public void OnClickButton()

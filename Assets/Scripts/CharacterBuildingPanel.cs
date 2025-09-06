@@ -37,6 +37,9 @@ public class CharacterBuildingPanel : MonoBehaviour
     {
         tabLocalPosY = characterDataButton.GetComponent<RectTransform>().localPosition.y;
 
+#if STEAM_REVIEW
+        characterSelectionScrollContent.sizeDelta = new Vector2(characterSelectionScrollContent.sizeDelta.x, 340.0f);
+#else
         if (DLCManager.isDLCEnabled)
         {
             characterSelectionScrollContent.sizeDelta = new Vector2(characterSelectionScrollContent.sizeDelta.x, 1100.0f);
@@ -45,6 +48,7 @@ public class CharacterBuildingPanel : MonoBehaviour
                 icon.SetActive(true);
             }
         }
+#endif
     }
 
     public void OpenCharacterBuildingPanel()

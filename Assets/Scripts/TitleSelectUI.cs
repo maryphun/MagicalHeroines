@@ -14,9 +14,13 @@ public class TitleSelectUI : MonoBehaviour
     {
         NewGame,
         Load,
+#if !STEAM_REVIEW
         Gallery,
+#endif
         Option,
+#if !STEAM_REVIEW
         Credit,
+#endif
         Exit,
     };
 
@@ -28,9 +32,13 @@ public class TitleSelectUI : MonoBehaviour
         [TitleSelection.NewGame] = "System.NewGame",
 #endif
         [TitleSelection.Load] = "System.Load",
+#if !STEAM_REVIEW
         [TitleSelection.Gallery] = "System.Gallery",
+#endif
         [TitleSelection.Option] = "System.Option",
+#if !STEAM_REVIEW
         [TitleSelection.Credit] = "System.Credit",
+#endif
         [TitleSelection.Exit] = "System.Exit",
     };
 
@@ -349,11 +357,14 @@ public class TitleSelectUI : MonoBehaviour
     {
         switch (targetScene)
         {
+#if !STEAM_REVIEW
             case TitleSelection.Credit:
                 return "Credit";
+#endif
             case TitleSelection.Exit:
                 Application.Quit();
                 return string.Empty;
+#if !STEAM_REVIEW
             case TitleSelection.Gallery:
 #if DEMO
                 demoOnly.DOFade(1.0f, 0.5f);
@@ -365,6 +376,7 @@ public class TitleSelectUI : MonoBehaviour
                 memoryPanel.OpenMemoryPanel();
 #endif
                 return string.Empty;
+#endif
             case TitleSelection.Load:
                 saveloadPanel.OpenSaveLoadPanel(true);
                 return string.Empty;

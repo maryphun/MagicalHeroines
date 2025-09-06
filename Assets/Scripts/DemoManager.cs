@@ -14,7 +14,7 @@ public class DemoManager : MonoBehaviour
     [SerializeField] Button button;
     [SerializeField] CanvasGroup buttonGroup;
 
-#if DEMO
+#if DEMO && !STEAM_REVIEW
     // Start is called before the first frame update
     void Start()
     {
@@ -42,6 +42,25 @@ public class DemoManager : MonoBehaviour
                 buttonGroup.interactable = true;
                 buttonGroup.DOFade(1.0f, 1.0f);
             });
+        }
+    }
+#elif STEAM_REVIEW
+    void Start()
+    {
+        // ÉQÅ[ÉÄê›íËÇÉçÅ[Éh
+        PlayerPrefsManager.LoadPlayerPrefs();
+
+        if (DemoParameter.isDemoEnded)
+        {
+            label.text = LocalizationManager.Localize(DemoParameter.DemoEndTextID);
+            label.DOFade(1.0f, 0.1f);
+            button.gameObject.SetActive(true);
+            buttonGroup.interactable = true;
+            buttonGroup.DOFade(1.0f, 1.0f);
+        }
+        else
+        {
+            SceneManager.LoadScene("Title", LoadSceneMode.Single);
         }
     }
 #else
