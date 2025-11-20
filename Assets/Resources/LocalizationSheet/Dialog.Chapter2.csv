@@ -1,430 +1,430 @@
- ,Comment,Japanese,Japanese_Steam,Traditional Chinese,English
-Chapter 2-1,注釈,,,,
-Dialog.Chapter2-1-1,マンション(夕方),明穂が学校に来なくなってから一週間,明穂が司令部に来なくなってから一週間,自從明穂沒來學校，已經過去一個星期了。,It's been a week since Akiho stopped coming to school.
-,,,,,
-Dialog.Chapter2-1-2,六花,「……家にもいない…か。」,「……家にもいない…か。」,「……也不在家嗎……。」,「...... not even in home.」
-,,,,,
-Dialog.Chapter2-1-3,,六花は一週間前から学校に来ていない明穂の身を案じ、放課後に彼女が一人で住んでいるアパートに訪れていた。,六花は一週間前からレギオンに来ていない明穂の身を案じ、彼女が一人で住んでいるアパートに訪れていた。,六花擔心著從一週前就沒來學校的明穂，於是來到了她獨自居住的公寓。,Rikka was concerned about Akiho's condition since she had not come to school for a week and visited her after school at her apartment where she lived alone.
-,,,,,
-Dialog.Chapter2-1-4,,(スマホでチャットはできるけど電話に出れないのはおかしいし…。一週間も学校を休んでる理由も教えてくれない),(スマホでチャットはできるけど電話に出れないのはおかしいし…。一週間も任務を休んでる理由も教えてくれない),（發訊息的話姑且還會回覆，但卻不肯接電話，這太奇怪了……而且她也不告訴我為什麼已經缺課一整個星期。）,(She didn't even respond to my message.... And didn't even tell me why they've been out of school for a week.)
-,,,,,
-Dialog.Chapter2-1-5,,(……考えたくないけど―――やっぱり明穂に何かあったとしか…),(……考えたくないけど―――やっぱり明穂に何かあったとしか…),（……雖然不想往這方面想，但……果然，明穂一定是出事了……）,"(...... I don't want to think about it, but ――― I knew there was something wrong with Akiho...)"
-,,,,,
-Dialog.Chapter2-1-6,,「……うん。やっぱり副会長に相談するしかない。」,「……うん。やっぱり副司令に相談するしかない。」,「……嗯，果然還是只能去找副會長商量了。」,「...... yeah. I should talk to the VP about this.」
-,,,,,
-Dialog.Chapter2-1-7,,「うっ…でもあの人ちょっと怖いんだよね…。いや、そんなこと言ってる場合じゃないか…」,「うっ…でもあの人ちょっと怖いんだよね…。いや、そんなこと言ってる場合じゃないか…」,「呃……但是那個人有點可怕啊……不對，現在不是在意這種事的時候……」,"「Ugh...but she scares me a little... No, this is not the time to say that...」"
-,,,,,
-Dialog.Chapter2-1-8,,六花は意を決して学園へ向かうのだった。,六花は意を決して司令部へ向かうのだった。,六花下定決心，朝著學園走去。,Rikka went to the school with all her heart.
-,,,,,
-Dialog.Chapter2-1-9,生徒会室,聖月女学園生徒会室にて,対怪人特殊防衛組織　“ホーリーコア・レギオン”司令部にて,聖月女學園學生會室內,In the Student Council Room at Seigetsu Girl Academy
-,,,,,
-Dialog.Chapter2-1-10,エレナ,「――――――それで、1種間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――それで、1種間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――也就是說，明穂同學從一週前開始行蹤不明，家裡也找不到她。你想説的話就到此為止了嗎？」,"「―――――― So, you said that Akiho had been acting strangely for a seedy period of time and was not at home. Is that the end of your story?」"
-,,,,,
-Dialog.Chapter2-1-11,六花,「はい、エレナ先輩…。それで、どうにか生徒会の方で捜索隊を…！」,「はい、エレナ先輩…。それで、どうにか司令部の方で捜索隊を…！」,「是的，艾蓮娜學姐……所以，能不能請學生會組織搜查隊……！」,"「Yes, Erena-senpai... Please make student council to get a search party...!」"
-,,,,,
-Dialog.Chapter2-1-12,エレナ,「…そうですか。」,「…そうですか。」,「…這樣啊。」,「I see.」
-,,,,,
-Dialog.Chapter2-1-13,,「…残念ですが、今はその件は対応できません。」,「…残念ですが、今はその件は対応できません。」,「…很遺憾，我們目前無法處理這件事。」,"「...I'm sorry, but I can't deal with that right now.」"
-,,,,,
-Dialog.Chapter2-1-14,六花,「っ、どうして！」,「っ、どうして！」,「欸，為什麼！」,「Why?」
-,,,,,
-Dialog.Chapter2-1-15,エレナ,「………時間が無いので簡潔に説明します。」,「………時間が無いので簡潔に説明します。」,「………我沒什麼時間，我就長話短說吧。」,「I'll try to keep this brief since I don't have much time for stuff like this.」
-,,,,,
-Dialog.Chapter2-1-16,,「私達聖月生徒会は財団以外にもやるべき仕事が多いのです…。私達は強大な力を持っているが故、ただ悪者を倒してヒーローごっこをしていればいいわけではありません。」,「私達司令部は財団以外にもやるべき仕事が多いのです…。私達は強大な力を持っているが故、ただ悪者を倒してヒーローごっこをしていればいいわけではありません。」,「我們聖月學生會除了對抗財團之外，還有許多必須處理的事務……正因為我們擁有強大的力量，並不能只是單純地扮演英雄，打倒壞人而已。」,"「We, the Seigetsu Student Council, have a lot of work to do besides the Foundation.... We are a powerful force, and it is not enough just to defeat the bad guys and play hero.」"
-,,,,,
-Dialog.Chapter2-1-17,,「それに、ここ聖月女学園は各地の聖核戦姫のグループの総本山であり、政治や経済、更に海外へも大きな影響力があります。」,「ホーリーコア・レギオンはもはやただの聖核戦姫の集まりではありません、政治や経済、更に海外へも大きな影響力があります。」,「此外，這座聖月女學園作為各地聖核戰姬的總部，對政治、經濟，甚至海外局勢都有著深遠的影響力。」,"「Moreover, this Academy is the headquarters of a group of Seikaku Princess from all over the world, and has great influence in politics, economics, and even abroad.」"
-,,,,,
-Dialog.Chapter2-1-18,,「そして、もはやあの組織は壊滅寸前。生徒会長不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「そして、もはやあの組織は壊滅寸前。総司令が不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「更何況現在財團已經瀕臨滅絕了。在學生會長不在的現在，我們已經沒有閒工夫像從前那樣，把時間浪費在財團這種程度的小角色身上了。」,"「And now that Forren Foundation is on the verge of destruction. Without the student council president, we don't have the time to be bothered with them like we used to be.」"
-,,,,,
-Dialog.Chapter2-1-19,六花,「っ、…その程度って！」,「っ、…その程度って！」,「額、…你說 ‘這種程度’是什麼意思！」,「... what did you said?」
-,,,,,
-Dialog.Chapter2-1-20,エレナ,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算你們關係再好，也未免太過杞人憂天了。」,"「...I suspect that all the activities have become too painful for her and she's are playing around somewhere. I think you are worrying too much, despite how close you two were.」"
-,,,,,
-Dialog.Chapter2-1-21,六花,「でもっ！明穂は―――」,「でもっ！明穂は―――」,「但是！明穂她———」,「But..! No way Akiho is...」
-,,,,,
-Dialog.Chapter2-1-22,エレナ,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……這樣吧，六花同學就先暫時放假吧。我們會處理相關的手續，明穂同學的事，就全權交給你了。」,"「I will leave everything to you. I'll take care of the business procedures here, so you can take care of everything regarding Akiho-san.」"
-,,,,,
-Dialog.Chapter2-1-23,,「―――心配しないでください。事態が大きくなるようでしたら生徒会で対処します。そうならないように貴女には期待をしていますよ？」,「―――心配しないでください。事態が大きくなるようでしたら司令部で対処します。そうならないように貴女には期待をしていますよ？」,「———請放心。如果事情真的鬧大了，學生會會出面處理。不過，我期待你能讓事態不至於發展到那種地步哦？」,"「Don't worry. If the situation becomes more serious, the student council will take care of it. We're counting on you to make sure that doesn't happen.」"
-,,,,,
-Dialog.Chapter2-1-24,六花,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「…哼――――我明白了。打擾您忙碌的時間，抱歉……———告辭了。」,「...I...I―――― I understand. I'm sorry to bother you...―――Excuse me.」
-,,,,,
-Dialog.Chapter2-1-25,,そういうと、六花は心ならずな表情で高貴な香りのする生徒会室を後にするのだった。,そういうと、六花は心ならずな表情で高貴な香りのする司令部を後にするのだった。,六花露出不甘的神情，離開了瀰漫著高貴氣息的學生會室。,"With that, Rikka left the noble-smelling student council room with an absent-minded expression on her face."
-,,,,,
-Dialog.Chapter2-1-26,,夜の街にて,夜の街にて,夜晚的街道上,In the city at night
-,,,,,
-Dialog.Chapter2-1-27,六花,「―――生徒会は頼りにならないか…」,「―――司令部は頼りにならないか…」,「———學生會指望不上嗎……」,「―――― the student council is unreliable...」
-,,,,,
-Dialog.Chapter2-1-28,,「……明穂を探すにしても手がかりはないし、どうすれば…」,「……明穂を探すにしても手がかりはないし、どうすれば…」,「……必須要找到明穂，卻沒有任何線索，該怎麼辦才好……」,"「......I don't have a clue as to how to find Akiho, so what can I do...」"
-,,,,,
-Dialog.Chapter2-1-29,,その時、六花のスマホからピコンと電子音が響く,その時、六花のスマホからピコンと電子音が響く,就在這時，六花的手機發出了「嗶叮」的電子提示音。,"At that moment, a beeping electronic sound echoes from Rikka's phone."
-,,,,,
-Dialog.Chapter2-1-30,六花,「―――！」,「―――！」,「―――！」,「...!」
-,,,,,
-Dialog.Chapter2-1-31,,直ぐにスマホを取り出し通知を確認する,直ぐにスマホを取り出し通知を確認する,六花立刻拿出手機，查看通知內容。,Rikka immediately take out her phone and check your notifications.
-,,,,,
-Dialog.Chapter2-1-32,,メッセージ：笹谷明穂は確保した。明日14時、〇〇ビルの〇〇号室に来い。他言すれば彼女の命は保障しない,メッセージ：笹谷明穂は確保した。明日14時、〇〇ビルの〇〇号室に来い。他言すれば彼女の命は保障しない,訊息內容：「笹谷明穂已被我們控制。明天14點，到○○大樓的○○號房來。如果敢對外聲張，她的性命可就不保了。」,"Message: Sasaya Akiho is captured. Come to room ** of the ** building at 14:00 tomorrow. If you talk to anyone else, her life is not guaranteed."
-,,,,,
-Dialog.Chapter2-1-33,,明穂とのチャットにはこれまでの会話履歴と比べて明らかに異質な、恐ろしい現実を告げる脅迫文が届いていた,明穂とのチャットにはこれまでの会話履歴と比べて明らかに異質な、恐ろしい現実を告げる脅迫文が届いていた,在與明穂的聊天記錄中，赫然出現了一條與以往對話風格截然不同的訊息——一封透露出恐怖現實的威脅信。,The chat with Akiho had received a threatening message that was clearly different and more frighteningly realistic than the previous conversation history.
-,,,,,
-Dialog.Chapter2-1-34,六花,「―――明穂っ！」,「―――明穂っ！」,「―――明穂！」,「Akiho!」
-,,,,,
-Dialog.Chapter2-1-35,,都市の空はすっかり日が落ち暗くなり、夜の冷たい風が六花の肌を這った,都市の空はすっかり日が落ち暗くなり、夜の冷たい風が六花の肌を這った,城市的天空早已完全暗下來，夜晚冰冷的風輕輕掠過六花的肌膚。,"The city sky was darkening with the setting sun, and the cold night wind crawled across Rikka's skin."
-,,,,,
-Chapter 2-2,注釈,,,,
-,高層ビル(日中),,,,
-Dialog.Chapter2-2-1,六花,「…ここがそのビル…か」,「…ここがそのビル…か」,「…這裡就是指定的大樓嗎…」,「.. So this is the building.」
-,,,,,
-Dialog.Chapter2-2-2,,六花は指定されたビルの前に来ていた,六花は指定されたビルの前に来ていた,六花站在指定的大樓前，抬頭望著那棟沉默矗立的建築。,Rikka came to the front of the designated building.
-,,,,,
-Dialog.Chapter2-2-3,,(どう考えても罠だけど…明穂を人質に取られてる以上しょうがない…),(どう考えても罠だけど…明穂を人質に取られてる以上しょうがない…),（無論怎麼想，這都是個陷阱……但明穂被當成了人質，我別無選擇……）,(It's a trap no matter how I think about it... but it can't be helped as long as they have Akiho as a hostage...)
-,,,,,
-Dialog.Chapter2-2-4,,すると背後から何者かに声がかけれらる,すると背後から何者かに声がかけれらる,就在這時，身後突然傳來某人的聲音。,Someone calls out to her from behind.
-,,,,,
-Dialog.Chapter2-2-5,???,「お待ちしていました、水無瀬六花。」,「お待ちしていました、水無瀬六花。」,「久等了，水無瀬六花。」,"「We have been waiting for you, Minase Rikka.」"
-,,,,,
-Dialog.Chapter2-2-6,六花,「……あんたは…。財団の女戦闘員か」,「……あんたは…。財団の女戦闘員か」,「……你是……財團的女戰鬥員」,「...... you are.... Are you a female combatant for the Foundation?」
-,,,,,
-Dialog.Chapter2-2-7,???,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「沒錯，我是戰鬥員005號。現在負責執行‘原型’的帶路任務。」,"「Yes, I am Combatant No.005. Come with me, Original.」"
-,,,,,
-Dialog.Chapter2-2-8,六花,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「———等一下，‘原型’…？這是什麼意思…？」,"「―――Wait a minute, Original...? What does that even mean...?」"
-,,,,,
-Dialog.Chapter2-2-9,005号,「おや、気づいていなかったのですね。ではお伝えします。」,「おや、気づいていなかったのですね。ではお伝えします。」,「哦？原來您還沒察覺嗎？那就讓我來告訴你吧。」,"「Ah, so you didn't notice. Alright let me tell you.」"
-,,,,,
-Dialog.Chapter2-2-10,,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財團的克隆戰鬥員，全部是以你的遺傳資訊——水無瀬六花的基因為基礎製作的。」,"「All of the Foundation's cloned fighters are based on the genetic information of you, Minase Rikka.」"
-,,,,,
-Dialog.Chapter2-2-11,六花,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………原來如此。我一直從你們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,"「'............ yeah. I've had a strange, bad feeling about you guys... so that's what it was all about.」"
-,,,,,
-Dialog.Chapter2-2-12,005号,「おや、意外と驚かないのですね。」,「おや、意外と驚かないのですね。」,「哦？沒想到您竟然不太驚訝呢。」,"「Gosh, you're not that surprised.」"
-,,,,,
-Dialog.Chapter2-2-13,六花,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「沒什麼，我還是我自己。而且你們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來都不是我的對手。」,"「Nothing serious. I'm just me. And I'm disappointed that you're too weak to be my clone. No matter how many of them there are, You guys are no match for me.」"
-,,,,,
-Dialog.Chapter2-2-14,六花,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「快點進入正題吧。你們的要求是什麼？明穂在哪裡？」,「Let's move the conversation. What do you guys want? Where is Akiho?」
-,,,,,
-Dialog.Chapter2-2-15,005号,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穂現在在這棟大樓接近頂樓的房間裡。如果你們按照我們的要求行事，她今天之內就能被放出來。」,"「...Sasaya Akiho is in a room near the roof of this building. If you comply with our request, we will release her today.」"
-,,,,,
-Dialog.Chapter2-2-16,,「――――要求は簡単です。少し貴女の体を調べるだけです。」,「――――要求は簡単です。少し貴女の体を調べるだけです。」,「――要求很簡單。只是稍微檢查一下您的身體而已。」,「 ――――The request is simple. All we want is to examine your body a little.」
-,,,,,
-Dialog.Chapter2-2-16.2,ここからエロシーン,クローンに連れていかれたビルの中の一室にて,クローンに連れていかれたビルの中の一室にて,在被克隆人帶去的建築物內的一個房間裡,In a room in a building taken by a clone
-Dialog.Chapter2-2-17,六花,「…っなんで全裸になる必要があるのっ！？」,「…っなんで全裸になる必要があるのっ！？」,「等等…為什麼需要全裸啊！？」,「... Why do I have to be naked?」
-,Rikka2ｰ1,,,,
-Dialog.Chapter2-2-18,005号,「静かにしてください。大事な事なので。それにクローンに見られてもどうということは無いでしょう」,「静かにしてください。大事な事なので。それにクローンに見られてもどうということは無いでしょう」,「請您保持安靜，我們在執行很重要的事。而且被自己的克隆人看到應該也沒什麼大不了的吧。」,"「Please be quiet. It's important. Besides, what does it matter if the clone sees your body?」"
-,,,,,
-Dialog.Chapter2-2-19,,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花被迫脫光了所有衣服，正在被克隆戰鬥員們檢查身體。,Rikka was stripped of all her clothes and her body was examined by the clone fighters.
-,,,,,
-Dialog.Chapter2-2-20,六花,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……如果他們摸我或者想做什麼奇怪的事，那我隨時都會變身的啊。」,"「...... if you touch me or try anything weird, I'll transform.」"
-,,,,,
-Dialog.Chapter2-2-21,005号,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「我們知道。原型的內衣是水藍色條紋的…」,「Of course I know. So the original underwear was light blue striped...」
-,Rikka2-2,,,,
-Dialog.Chapter2-2-22,六花,「別になんだっていいでしょ！あんたたちだって不気味なスーツ着てるくせに！」,「別になんだっていいでしょ！あんたたちだって不気味なスーツ着てるくせに！」,「什麼都無所謂吧！你們這些傢伙自己還不是穿著詭異的制服！」,「How come things like this matter! You're the ones in the creepy suits!」
-,,,,,
-Dialog.Chapter2-2-23,005号,「なんでもよくありません。オリジナルの趣味嗜好も重要なデータですので」,「なんでもよくありません。オリジナルの趣味嗜好も重要なデータですので」,「沒有這麼隨便。原版的興趣和喜好也是重要的數據。」,「It does matter. Original's tastes and preferences are important data.」
-,,,,,
-Dialog.Chapter2-2-24,005号,「……計測を続けます。身長は162cm、体重は52.4kg、体脂肪率22.4％、乳輪の直径は32.5mm、乳頭は直径10.1mm―――」,「……計測を続けます。身長は162cm、体重は52.4kg、体脂肪率22.4％、乳輪の直径は32.5mm、乳頭は直径10.1mm―――」,「……繼續測量。身高162公分，體重52.4公斤，體脂肪率22.4%，乳暈直徑32.5毫米，乳頭直徑10.1毫米―――」,"「...... let's continue with the measurements. Height is 162 cm, weight is 52.4 kg, body fat percentage is 22.4%, nipple diameter is 32.5 mm, nipple diameter is 10.1 mm―――」"
-,Rikka2-3,,,,
-Dialog.Chapter2-2-25,六花,「っ、ちょっと！、身長体重はともかく、なんでそんな所まで計測するのっ！？」,「っ、ちょっと！、身長体重はともかく、なんでそんな所まで計測するのっ！？」,「喂、等等！身高體重就算了，為什麼連那種地方都要測量啊！？」,"「H.. hey! Other than height and weight, why are you measuring all that?」"
-,,,,,
-Dialog.Chapter2-2-26,005号,「聖核戦姫になる事がどの様に身体に影響を与えるかを調査するためです」,「聖核戦姫になる事がどの様に身体に影響を与えるかを調査するためです」,「這是為了調查成為聖核戰姫會如何影響您的身體。」,「The purpose is to investigate how being a Seikaku Princess affects the body.」
-,Rikka2-2,,,,
-Dialog.Chapter2-2-27,005号,「続けます。クリトリスの大きさは―――」,「続けます。クリトリスの大きさは―――」,「繼續。陰蒂的大小是―――」,「Continue. The size of the clitoris is―――」
-,,,,,
-Dialog.Chapter2-2-28,,しばらくクローン達による計測が続いた後,しばらくクローン達による計測が続いた後,在克隆人進行了一段時間的測量之後,After some time of measurement by the clones
-,,,,,
-Dialog.Chapter2-2-29,005号,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――接下來是口頭問題。請告訴我們你一週自慰的次數。」,「―――― the next question is an oral question. How many times do you masturbate in a week?」
-,,,,,
-Dialog.Chapter2-2-30,六花,「はぁっ！？なんでそんなことっ」,「はぁっ！？なんでそんなことっ」,「啥！？為什麼要問這種事啊！」,「Huh? Again why does that matter?」
-,,,,,
-Dialog.Chapter2-2-31,005号,「これも聖核戦姫の身体に与える影響を―――」,「これも聖核戦姫の身体に与える影響を―――」,「當然這也是為了調查聖核戰姫對身體的影響―――」,「This too will have an effect on the body of the Seikaku Princess...」
-,,,,,
-Dialog.Chapter2-2-32,六花,「だからってそんなの教えるわけないでしょ！」,「だからってそんなの教えるわけないでしょ！」,「就算這樣總不可能回答你這種問題吧！」,「That doesn't mean I'm going to tell you that!」
-,,,,,
-Dialog.Chapter2-2-33,005号,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……你是說你會比笹谷明穂更優先自己的尊嚴嗎？」,「...... you put your pride ahead of Sasaya Akiho?」
-,,,,,
-Dialog.Chapter2-2-34,六花,「っ！………うぅ～」,「っ！………うぅ～」,「！……嗚～」,「! ......... ugh~」
-,,,,,
-Dialog.Chapter2-2-35,,「………週に、3回…ぐらい。」,「………週に、3回…ぐらい。」,「……一週，大約…3次。」,「......... about...three times..... a week.」
-,,,,,
-Dialog.Chapter2-2-36,005号,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「請不要做出虛假的報告。從你的搜尋記錄來看———」,「Please do not report false information. Your search history says otherw――」
-,,,,,
-Dialog.Chapter2-2-37,六花,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「每天！除了累的時候以外，每天都做！早上起床時和晚上洗澡前！」,「Every day! I do it every day except when I'm tired! When I wake up in the morning and before I shower at night!」
-,,,,,
-Dialog.Chapter2-2-38,005号,「具体的にどのようにしているのかも教えてください。」,「具体的にどのようにしているのかも教えてください。」,「請具體告訴我你是怎麼做的。」,「Could you also tell me how exactly you do that?」
-,Rikka2-4,,,,
-Dialog.Chapter2-2-39,六花,「………っ、妄想しながらっ、……指……入れて…。」,「………っ、妄想しながらっ、……指……入れて…。」,「……一邊幻想著，……用手指……插進去…。」,「............ I'm fantasizing... While putting my ...... fingers .........」
-,,,,,
-Dialog.Chapter2-2-40,005号,「正直に答えていただきありがとうございました」,「正直に答えていただきありがとうございました」,「感謝您誠實地回答。」,「Thank you for your honesty.」
-,,,,,
-Dialog.Chapter2-2-41,六花,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……嗚，……應該說你為什麼知道我的搜尋記錄！？」,"「...... Ugh, I mean...how do you know my search history!」"
-,,,,,
-Dialog.Chapter2-2-42,005号,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「因為我是您的克隆，所以輕鬆突破了手機的生物認證。」,"「Since I am a clone of you, I was able to easily get past the biometrics on your phone.」"
-,,,,,
-Dialog.Chapter2-2-43,六花,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……！（完事後要把你揍飛然後消除記憶！）」,「...... (I'm going to blow you up and erase all history when I'm done!)」
-,,,,,
-Dialog.Chapter2-2-44,005号,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「那麼這是最後一步。請進行尿檢，把尿液排進這個容器裡。」,「Now the last part. Please urinate into this container as we perform a urine test.」
-,Rikka2-3,,,,
-Dialog.Chapter2-2-45,六花,「はぁ！？ここでっ！？」,「はぁ！？ここでっ！？」,「哈！？就在這裡嗎！？」,「Huh? Here!」
-,,,,,
-Dialog.Chapter2-2-46,005号,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「那是當然的。如果去了看不到的地方，誰知道您會做什麼。您也不讓我觸碰您，所以只能這樣。」,"「Of course. If you go somewhere we can't see, we don't know what you will do. I can't touch you, so I have no choice but to do this.」"
-,,,,,
-Dialog.Chapter2-2-47,六花,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「就算你這麼說……在這麼多人當中……！」,"「Even so, but there are so many people here...!」"
-,,,,,
-Dialog.Chapter2-2-48,005号,「そうですね。早くしてください。これで最後なので」,「そうですね。早くしてください。これで最後なので」,「是啊。請您快一點，這是最後一步了。」,「I see. Please hurry up. This is the last one.」
-,Rikka2-2,,,,
-Dialog.Chapter2-2-49,六花,「～～～～ッ！、すればいいんでしょ！」,「～～～～ッ！、すればいいんでしょ！」,「～～～～！只要做就好了吧！」,「～～～～! Fine I'll do it!」
-,,,,,
-Dialog.Chapter2-2-50,005号,「物分かりが良くて助かります。ではよく狙いを定めてお願いします」,「物分かりが良くて助かります。ではよく狙いを定めてお願いします」,「你理解力很好，真是幫大忙了。那麼，請好好瞄準目標。」,"「I'm glad you're so understanding. Now, please aim well.」"
-,Rikka2-4,,,,
-Dialog.Chapter2-2-51,六花,「――そんなすぐ出るものじゃっ、くっ、んうっ」,「――そんなすぐ出るものじゃっ、くっ、んうっ」,「這種東西不會這麼快就出來的，咕、嗯」,「――it's not supposed to come out that easy.」
-,,,,,
-Dialog.Chapter2-2-52,,六花は何人ものクローンが見ている中、がに股中腰の姿勢で容器に狙いを定めようとする,六花は何人ものクローンが見ている中、がに股中腰の姿勢で容器に狙いを定めようとする,在眾多克隆體注視下，六花採取著蹲姿，將目標對準容器。,Rikka tries to aim at the container with a hunched midriff position while several clones are watching
-,,,,,
-Dialog.Chapter2-2-53,六花,(っ、クローンとはいえっ、大勢が見てる前でこんな格好でっ…),(っ、クローンとはいえっ、大勢が見てる前でこんな格好でっ…),(咕、即使是克隆體，也不能在這麼多人面前以這種姿勢…),"(Even if it's just clone, being naked like this in front of so many people...)"
-,,,,,
-Dialog.Chapter2-2-54,,(ううん、明穂のためっ！私が恥ずかしい思いするくらいどうってことないっ！),(ううん、明穂のためっ！私が恥ずかしい思いするくらいどうってことないっ！),(不，這是為了明穂！就算讓我感到尷尬也無所謂！),"(No, it's for Akiho's sake! It doesn't matter if I'm embarrassed!)"
-,,,,,
-Dialog.Chapter2-2-55,,そして六花は膀胱に意識を集中させ―――,そして六花は膀胱に意識を集中させ―――,然後，六花將意識集中在膀胱上——,Rikka then concentrated on her bladder and ――――.
-,,,,,
-Dialog.Chapter2-2-56,Rikka2-5,ぷしゃあああっ…,ぷしゃあああっ…,噗夏啊啊啊…,Psshhhh...
-,,,,,
-Dialog.Chapter2-2-57,六花,「う……、ぁ……っ♥」,「う……、ぁ……っ♥」,"""唔……、啊……♥""","「U......, ah......♥」"
-,,,,,
-Dialog.Chapter2-2-58,,六花の尿道から黄色の液体が放たれ、じょぼじょぼと音を立てながら容器に溜まっていく,六花の尿道から黄色の液体が放たれ、じょぼじょぼと音を立てながら容器に溜まっていく,六花的尿道釋放出黃色液體，發出滴滴答答的聲音，不斷地積聚在容器中。,Yellow liquid is released from Rikka's urethra and accumulates in a container while making a dribbling sound.
-,,,,,
-Dialog.Chapter2-2-59,六花,「っ…！そんなに見るなぁっ」,「っ…！そんなに見るなぁっ」,「…！不要盯著看啦」,「.....Don't look at me like that!」
-,,,,,
-Dialog.Chapter2-2-60,005号,「沢山出ますね。サンプルが増えるので良いことです」,「沢山出ますね。サンプルが増えるので良いことです」,「好多了呢。樣本增加了，這是好事」,「It's good because it gives us a larger sample.」
-,,,,,
-Dialog.Chapter2-2-61,六花,(～～ううっ、室内だからおしっこの音反響してっ、全員に聞かれてるっ、恥ずかしすぎるっ！),(～～ううっ、室内だからおしっこの音反響してっ、全員に聞かれてるっ、恥ずかしすぎるっ！),(～～唔唔，因為在室內所以尿尿的聲音會回響出去，大家都聽得到，實在太丟臉了！),"(~~~Ugh, I'm indoors, so the sound of my pee will reverberate, everyone can hear me, it's too embarrassing!)"
-,,,,,
-Dialog.Chapter2-2-62,,ぷしゃっ、ちょろろ……,ぷしゃっ、ちょろろ……,噗夏，滴答……,Pshaw ......
-,Rikka2-6,,,,
-Dialog.Chapter2-2-63,六花,「――ふうっ、う…♥」,「――ふうっ、う…♥」,「――呼…♥」,「――hu...u...♥」
-,,,,,
-Dialog.Chapter2-2-64,005号,「全部出し切ったようで何よりです。オリジナルの排尿、興味深く見させてもらいました」,「全部出し切ったようで何よりです。オリジナルの排尿、興味深く見させてもらいました」,「全部排空了真是太好了。看到原創的排尿，讓我感到非常興奮」,「I'm glad you got it all out. I was very interested to see the Original's urination.」
-Dialog.Chapter2-2-65,六花,「～～～っっっ、！」,「～～～っっっ、！」,「～～～啊啊！」,「~~~~!」
-,,,,,
-,,,,,
-,エロシーン終了,,,,
-,廃ビル(日中),,,,
-Dialog.Chapter2-2-66,六花,「…これで要求には全部従った。早く明穂に合わせて」,「…これで要求には全部従った。早く明穂に合わせて」,「…這樣就完全遵從了要求。趕快配合明穂。」,"「I've complied with all of your demands. Quickly, let me see Akiho.」"
-,,,,,
-Dialog.Chapter2-2-67,005号,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「是啊…，但是面對著全裸並戴著手銬的敵人，你以為我們會什麼都不做嗎？」,「'Yes...but do you think we would do nothing in the face of an enemy who is completely naked and handcuffed?'」
-,,,,,
-Dialog.Chapter2-2-68,,部屋のあちこちから隠れていた戦闘員が現れる,部屋のあちこちから隠れていた戦闘員が現れる,從房間各處躲藏的戰鬥員現身。,Combatants who had been hiding emerge from various parts of the room.
-,,,,,
-Dialog.Chapter2-2-69,六花,「…こうなると思った。交渉は決裂か…」,「…こうなると思った。交渉は決裂か…」,「…原來如此。談判破裂了嗎…」,「I knew this would happen. Negotiations have broken down...」
-,,,,,
-Dialog.Chapter2-2-70,,「―――変身」,「―――変身」,「―――變身」,「Transform.」
-,,,,,
-Dialog.Chapter2-2-71,,六花の体から青色の光が立ち上り、体がスーツに包まれる,六花の体から青色の光が立ち上り、体がスーツに包まれる,從六花的身體上升起藍色光芒，身體被包裹在套裝中。,Blue light rises from Rikka's body and her body is enveloped by the suit.
-,,,,,
-Dialog.Chapter2-2-72,005号,「――――総員戦闘準備っ！水無瀬六花を確保する！」,「――――総員戦闘準備っ！水無瀬六花を確保する！」,「―――全員準備戰鬥！確保水無瀨六花！」,「―――― All hands prepare for battle! Capture Minase Rikka!」
-,,,,,
-Dialog.Chapter2-2-73,,戦闘員たちが一斉に六花に襲い掛かる,戦闘員たちが一斉に六花に襲い掛かる,戰鬥員們一齊向六花發動攻擊。,All the combatants attack Rikka at once.
-,,,,,
-Dialog.Chapter2-2-74,六花,「ふんっ！」,「ふんっ！」,「哼！」,「Hmph!」
-,,,,,
-Dialog.Chapter2-2-75,,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,當想到綁在六花身上的手銬的鎖鏈被輕而易舉地撕裂成線一樣時―――,The chains of the handcuffs on Rikka were ripped off as easily as thread―――.
-,,,,,
-Dialog.Chapter2-2-76,,「あんた達、流石に私を舐めすぎ…、はっ！」,「あんた達、流石に私を舐めすぎ…、はっ！」,「你們，果然太小看我了…，哈！」,「You guys underestimated too much...ha!」
-,,,,,
-Dialog.Chapter2-2-77,,ドガガガッ！,ドガガガッ！,「多嘎嘎嘎！」,Dogga―ga―ga!
-,,,,,
-Dialog.Chapter2-2-78,,「がはっ！」,「がはっ！」,「呵！」,「Gaaah!」
-,,,,,
-Dialog.Chapter2-2-79,,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,六花的回旋踢擊中下巴，衝上前的戰鬥員們全都倒在地板上。,Rikka's spinning kick blow shakes the jaw and all the attacked fighters crumple to the floor.
-,,,,,
-Dialog.Chapter2-2-80,六花,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「再也沒有時間理會你們了。明穂，等我！哈！」,"「I don't have time for you guys anymore. Wait for me, Akiho, I'm coming! Haa!」"
-,,,,,
-Dialog.Chapter2-2-81,,ドゴッ！！,ドゴッ！！,「多嘎嘎！！」,!!!!!!!!!!!!!!!!!
-,,,,,
-Dialog.Chapter2-2-82,,六花は天井に向かって飛び上がったと思うと、そのまま蹴りで天井を破る,六花は天井に向かって飛び上がったと思うと、そのまま蹴りで天井を破る,六花向天花板飛躍而起，接著一腳踢破了天花板。,Rikka jumps up toward the ceiling and breaks the ceiling with a direct kick
-,,,,,
-Dialog.Chapter2-2-83,戦闘員,「なんだコイツっ！、おいっ、他の階の部隊に告ぐっ！水無瀬六花を足止めしろ！」,「なんだコイツっ！、おいっ、他の階の部隊に告ぐっ！水無瀬六花を足止めしろ！」,「這傢伙是誰！快，通知其他樓層的部隊！阻止水無瀬六花！」,"「What the hell is this girl? Hey, tell the troops on the other floors! Stop Minase Rikka!」"
-,,,,,
-Dialog.Chapter2-2-84,六花,「無駄だってっ！はぁっ！」,「無駄だってっ！はぁっ！」,「無用的！哈！」,「It's useless! Hah!」
-,,,,,
-Dialog.Chapter2-2-85,,ドゴンッ！ドゴンッ！,ドゴンッ！ドゴンッ！,「多嘎噹！多嘎噹！」,Boom!
-,,,,,
-Dialog.Chapter2-2-86,,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,六花迅速擊倒所有襲來的戰鬥員，一邊踢破天花板，一邊沿著最短路線向著明穂所在的樓層前進。,"defeating every combatant who try to attacked her, Rikka took the shortest route up to the floor where Akiho was, breaking through the ceiling."
-,,,,,
-Dialog.Chapter2-2-87,,(待ってて明穂っ！今行くからっ！),(待ってて明穂っ！今行くからっ！),(等我一下，明穗！我馬上就來！),"(Wait for me, Akiho! I'm coming!)"
-,,,,,
-Dialog.Chapter2-2-88,,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,六花在短短一分鐘內便抵達了明穂所在的樓層———,"Rikka reached the floor where Akiho was in about a minute, and..."
-,,,,,
-Dialog.Chapter2-2-89,六花,「―――明穂っ！」,「―――明穂っ！」,「———明穗！」,「Akiho!」
-,,,,,
-Dialog.Chapter2-2-90,明穂,「――――六花…？」,「――――六花…？」,「———六花…？」,「―――― Rikka...?」
-,,,,,
-Dialog.Chapter2-2-91,,遂に六花は探していた親友を見つけた,遂に六花は探していた親友を見つけた,終於，六花找到了她一直在尋找的摯友。,"Finally, Rikka found the best friend she was looking for."
-,,,,,
-Chapter 2-3,注釈,,,,
-,廃ビル,,,,
-Dialog.Chapter2-3-1,六花,「―――明穂っ！」,「―――明穂っ！」,「———明穗！」,「Akiho!」
-,,,,,
-Dialog.Chapter2-3-2,明穂,「――――六花…？」,「――――六花…？」,「———六花…？」,「―――― Rikka...?」
-,,,,,
-Dialog.Chapter2-3-3,戦闘員,「っ！バケモノがっ、もう上がってきやがったのかっ！？」,「っ！バケモノがっ、もう上がってきやがったのかっ！？」,「！怪物竟然，已經上來了嗎！？」,「What! This monster has already come up!」
-,,,,,
-Dialog.Chapter2-3-4,六花,「―――明穂から離れろっ！」,「―――明穂から離れろっ！」,「———離開明穗！」,「Get away from Akiho!」
-,,,,,
-Dialog.Chapter2-3-5,,その瞬間、六花の蹴りが戦闘員二人を吹き飛ばす,その瞬間、六花の蹴りが戦闘員二人を吹き飛ばす,在那一瞬間，六花的踢擊將兩名戰鬥員踢飛。,"At that moment, Rikka's kick blows away two combatants."
-,,,,,
-Dialog.Chapter2-3-6,六花,「明穂っ！」,「明穂っ！」,「明穗！」,「Akiho!」
-,,,,,
-Dialog.Chapter2-3-7,明穂,「―――六花！」,「―――六花！」,「———六花！」,「Rikka!」
-,,,,,
-Dialog.Chapter2-3-8,六花,「よかった…無事で…」,「よかった…無事で…」,「太好了…平安無事…」,「Thank God... you're safe...」
-,,,,,
-Dialog.Chapter2-3-9,明穂,「うん…六花なら助けに来てくれるって信じてた…。」,「うん…六花なら助けに来てくれるって信じてた…。」,「嗯…我相信六花會來救我的…。」,「Yes. I've never doubt that Rikka would come to my rescue...」
-,,,,,
-Dialog.Chapter2-3-10,六花,「早くここから逃げよう。背中につかまって。」,「早くここから逃げよう。背中につかまって。」,「快點從這裡逃走。抓緊我的背。」,「Let's get the hell out of here. Hold on to my back.」
-,,,,,
-Dialog.Chapter2-3-11,,六花が明穂の拘束を解き、背中に背負って安堵した瞬間,六花が明穂の拘束を解き、背中に背負って安堵した瞬間,六花解開了明穗的束縛，背負在背上感到安心的瞬間。,The moment Rikka released Akiho's restraints and was relieved to carry her on her back
-,,,,,
-Dialog.Chapter2-3-12,,―――六花の首筋にチクリとした痛みが走る,―――六花の首筋にチクリとした痛みが走る,「———六花的脖子傳來一陣刺痛。」,―――A prickle of pain runs down Rikka's neck.
-,,,,,
-Dialog.Chapter2-3-13,六花,「――――――？っ！」,「――――――？っ！」,「———？！」,「I'm going to go to ――――――? !」
-,,,,,
-Dialog.Chapter2-3-14,,六花の全身から力が抜け変身が解け、その場に座り込む,六花の全身から力が抜け変身が解け、その場に座り込む,六花全身的力量消失，變身解除，她坐在原地。,"Rikka's entire body relaxes, her transformation is forced to released, and she sits down on the spot."
-,,,,,
-Dialog.Chapter2-3-15,明穂,「うんっ。ちゃんと効いたね～！良かった！」,「うんっ。ちゃんと効いたね～！良かった！」,「嗯。有效果了呢~！太好了！」,「It worked! It worked properly~~ That's great!」
-,,,,,
-Dialog.Chapter2-3-16,六花,「――――っ、なん…でっ、明穂っ！？」,「――――っ、なん…でっ、明穂っ！？」,「———？！為…為什麼、明穗！」,"「――――, what..., Akiho!?」"
-,,,,,
-Dialog.Chapter2-3-17,明穂,「ごめんね六花。でもしょうがないの…」,「ごめんね六花。でもしょうがないの…」,「對不起六花。但這是沒辦法的事情…」,「I'm sorry Rikka. But I can't help it...」
-,,,,,
-Dialog.Chapter2-3-18,,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,從明穗的身體中冒出紅紫色濃稠可疑的光芒，她的身形開始改變。,A suspicious reddish-purple sludge light rises from Akiho's body and changes her form.
-,,,,,
-Dialog.Chapter2-3-19,六花,「――――――っ、――明穂……なの？」,「――――――っ、――明穂……なの？」,「———？！——明穗……？」,「――――――――.....are you.... Akiho.?」
-,,,,,
-Dialog.Chapter2-3-20,明穂,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「呼呼，沒錯六花♥ 外表或許有點變了♥」,"「Rikka, I may have changed my appearance a little, but I'm still the same person.」"
-,,,,,
-Dialog.Chapter2-3-21,,明穂の髪は戦闘員のような白色に変わり、もともと大きめだった胸は肥大化して人間の体とは思えないほどになっている。,明穂の髪は戦闘員のような白色に変わり、もともと大きめだった胸は肥大化して人間の体とは思えないほどになっている。,明穗的頭髮變成了像戰鬥員一樣的白色，原本已經相當大的胸部也變得肥大到讓人難以置信不像人類的身體。,"Akiho's hair turned white, and her originally large breasts have become so enlarged that they do not seem human."
-,,,,,
-Dialog.Chapter2-3-22,,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,而從她的嘴角溢出了以前應該不會出現的淫穢而虐待性的笑容。,And her mouth was smiling an obscene and lecherous smile that she would never have done.
-,,,,,
-Dialog.Chapter2-3-23,明穂,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花一開始就被引導來到這裡的嗎？雖然沒想到她會破壞地板…」,"「Rikka was led to come here from the beginning, you know? I didn't think you'd break through the quicksand floor like that, but...」"
-,,,,,
-Dialog.Chapter2-3-24,,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,然後，從暗處冒出了許多財團的戰鬥員和怪人。,"Then, out of the shadows, a number of foundation fighters and monsters emerge."
-,,,,,
-Dialog.Chapter2-3-25,,「私、財団に怪人に改造してもらって、今はこんな素敵な体にしてもらえたの♥六花も怪人になって私と一緒に気持ちよくなっちゃお？」,「私、財団に怪人に改造してもらって、今はこんな素敵な体にしてもらえたの♥六花も怪人になって私と一緒に気持ちよくなっちゃお？」,「我，被財團改造成怪人，現在擁有這樣美好的身體♥ 六花也成為怪人，和我一起感受快樂吧？」,"「I was converted into a monster by the foundation, and now I have such a wonderful body.」"
-,,,,,
-Dialog.Chapter2-3-26,六花,「そ、んな…っ」,「そ、んな…っ」,「這、這樣…」,"「Oh, no...」"
-,,,,,
-Dialog.Chapter2-3-27,,「……許さないっ！――――――！」,「……許さないっ！――――――！」,「……不會原諒你！——！」,「I won't forgive ......! ――――――!」
-,,,,,
-Dialog.Chapter2-3-28,,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,在毫無力氣、意識朦朧的狀態下，六花努力地靠著意志站了起來。,"With no strength and in a daze of consciousness, Rikka forced herself to stand up with her spirit."
-,,,,,
-Dialog.Chapter2-3-29,,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「哈、哈啊，絕對要拿回來的！變身！」,"「Huh, huh, Akiho...I'll get you back! Transform!」"
-,,,,,
-Dialog.Chapter2-3-30,明穂,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「六花果然厲害！光是藥物是無法阻止你的。——或許會有點痛，但請忍耐一下哦？」,"「Rikka, as expected! I knew drugs alone wouldn't stop you. ―――It might hurt a little bit, but you'll just have to bear with it, okay?」"
-,,,,,
-,戦闘開始,,,,
-,,,,,
-,戦闘終了,,,,
-,,,,,
-Dialog.Chapter2-3-31,六花,「ハァッ、ハァッ、私はっ、負けな―――っっ」,「ハァッ、ハァッ、私はっ、負けな―――っっ」,「哈啊、哈啊，我不會輸——！」,"「Huh, huh, I'm not going to lose...」"
-,,,,,
-Dialog.Chapter2-3-32,明穂,「おっと！」,「おっと！」,「哦！」,「Oops!」
-,,,,,
-Dialog.Chapter2-3-33,,倒れる六花を明穂が受け止める,倒れる六花を明穂が受け止める,明穂接住了倒下的六花。,Akiho catches Rikka as she falls.
-,,,,,
-Dialog.Chapter2-3-34,明穂,「ふふっ、六花負けちゃったね？諦めて私と一緒に楽になろう？」,「ふふっ、六花負けちゃったね？諦めて私と一緒に楽になろう？」,「呵呵，六花輸了呢？要放棄，跟我一起輕鬆一下嗎？」,"「Rikka, you lost, didn't you? Why don't you just give up and get comfortable together with me?」"
-,,,,,
-Dialog.Chapter2-3-35,六花,「……明穂…っ！目を覚まして…っ！」,「……明穂…っ！目を覚まして…っ！」,「……明穗…！請醒來…！」,「......Akiho...! Please wake up...!」
-,,,,,
-Dialog.Chapter2-3-36,明穂,「大丈夫だよ…堕ちるときは一緒に…ね？」,「大丈夫だよ…堕ちるときは一緒に…ね？」,「沒事的…一起墜落吧…對吧？」,「Don't worry... Even in the dark we'll fall together... right?」
-,,,,,
-Dialog.Chapter2-3-37,,明穂が六花の頭を赤子をなだめるようにをなでると、強烈な眠気と安心感が六花を襲う,明穂が六花の頭を赤子をなだめるようにをなでると、強烈な眠気と安心感が六花を襲う,當明穗像撫慰嬰兒般撫摸著六花的頭時，強烈的睡意和安心感襲來。,"When Akiho patted Rikka's head as if she were soothing a baby, a strong sense of sleepiness and relief overcame Rikka."
-,,,,,
-Dialog.Chapter2-3-38,六花,「だめっ―――、あき…ほ…っ」,「だめっ―――、あき…ほ…っ」,「不行―――，明穂…」,「No... aki... ho...」
-,,,,,
-Dialog.Chapter2-3-39,,「ぁ、―――」,「ぁ、―――」,「啊，——」,「uh...」
-,,,,,
-Dialog.Chapter2-3-40,,…………<br>………<br>……,…………<br>………<br>……,「…………<br>………<br>……」,............<br>.........<br>......
-,,,,,
-Dialog.Chapter2-3-41,,六花の意識はそこで途絶えた,六花の意識はそこで途絶えた,六花的意識在那裡中斷了。,Rikka's consciousness ceased there.
-,,,,,
-,報酬画面に入る,――――――,――――――,「————」,――――――
-,突発イベント：,,,,
-Dialog.Chapter2-3-42,005号,「対象の沈黙を確認。作戦は成功です、このままオリジナル“水無瀬六花”を拘束し、アジトへ帰還します」,「対象の沈黙を確認。作戦は成功です、このままオリジナル“水無瀬六花”を拘束し、アジトへ帰還します」,「確認目標的沉默。作戰成功，現在將原本的「水無瀬六花」拘束，返回基地。」,"「The target's silence has been confirmed. The operation was a success. We will take the original ""Minase Rikka"" and return to the hideout.」"
-,,,,,
-Dialog.Chapter2-3-43,明穂,「みんなおつかれ～！六花は強いから心配してたけど、思ったより大したこと無かったね！」,「みんなおつかれ～！六花は強いから心配してたけど、思ったより大したこと無かったね！」,「大家辛苦了~！六花很強所以有點擔心，但事實上沒什麼大不了的呢！」,"「I was worried because Rikka is so strong, but it wasn't as big a deal as I thought!」"
-,,,,,
-Dialog.Chapter2-3-44,005号,「対象をアジトへ移送し、完全に拘束するまでが本作戦です。まだ気を抜かないように。」,「対象をアジトへ移送し、完全に拘束するまでが本作戦です。まだ気を抜かないように。」,「將目標移送至基地，直到完全拘束為止是本次作戰的目標。請保持警惕，別掉以輕心。」,「The operation will continue until the subject is transported to thehideout and taken into full custody. Do not let your guard down yet.」
-,,,,,
-Dialog.Chapter2-3-45,明穂,「う～～、クローンちゃんも六花に似て真面目なんだから…後は帰るだけなんだし心配いらないよ！」,「う～～、クローンちゃんも六花に似て真面目なんだから…後は帰るだけなんだし心配いらないよ！」,「嗚～～，克隆小姐也和六花一樣認真呢…剩下的只是回家而已，不用擔心！」,"「Uh~~, Clone-chan is just as serious as Rikka... all we have to do now is go home, so don't worry!」"
-,,,,,
-Dialog.Chapter2-3-46,,その時、周辺の監視をしていた戦闘員から連絡が入る,その時、周辺の監視をしていた戦闘員から連絡が入る,在那時，正在周邊監視的戰鬥員傳來聯絡。,"At that moment, the fighters monitoring the perimeter make contact."
-,,,,,
-Dialog.Chapter2-3-47,戦闘員,「六花捕獲班に告ぐっ！、作戦地点から6kmの距離で非常に強力な聖核戦姫と交戦中！」,「六花捕獲班に告ぐっ！、作戦地点から6kmの距離で非常に強力な聖核戦姫と交戦中！」,「告知六花捕獲班！在作戰地點距離6公里處，正在與一位極為強大的聖核戰姬對戰！」,「Attention Rikka Capture Team! We are engaged with a very powerful Seikaku Princess at a distance of 6 kilometers from the operation point!」
-,,,,,
-Dialog.Chapter2-3-48,戦闘員,「聖核戦姫はビル方向へ向かって移動している模様！こっちの部隊はまもなく全滅する！」,「聖核戦姫はビル方向へ向かって移動している模様！こっちの部隊はまもなく全滅する！」,「聖核戰姬正朝大樓方向移動！我們的部隊很快就會全軍覆沒！」,「The Seikaku Princess appears to be moving toward the building! Our troops will be annihilated soon!」
-,,,,,
-Dialog.Chapter2-3-49,005号,「……！？、監視班、対象の特徴を教えてください」,「……！？、監視班、対象の特徴を教えてください」,「……！？監視班，請告訴我目標的特徵。」,"「......! Surveillance team, please describe the subject.」"
-,,,,,
-Dialog.Chapter2-3-50,戦闘員,「金髪で…とにかく強すぎるっ！、並みの聖核戦姫じゃねえっ――ぐぁっ――――」,「金髪で…とにかく強すぎるっ！、並みの聖核戦姫じゃねえっ――ぐぁっ――――」,「金髮的… 簡直太強了！不是一般的聖核戰姬啊――咕啊――――」,「She's blonde...and too strong! She's no ordinary Seikaku Princess――gasp――――」
-,,,,,
-Dialog.Chapter2-3-51,,ピ―――――――,ピ―――――――,皮───,Pi―――――――
-,,,,,
-Dialog.Chapter2-3-52,005号,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………作戰將更改。從現在開始，將部隊分為兩支，一支是六花移送部隊，另一支是阻止部隊。」,"「......... I am going to revert the operation plan. From now on, we will split the force into two. One will be the Rikka transport force. The other is a stall force.」"
-,,,,,
-Dialog.Chapter2-3-53,005号,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「請笹谷明穂帶著幾名戰鬥員將水無瀬六花帶回根據地。其他戰鬥員將與我一起在此處拖延時間。」,"「Sasaya Akiho, please return to the hideout with a few fighters and take Minase Rikka with you. The rest of the fighters will stay here with me to buy time.」"
-,,,,,
-Dialog.Chapter2-3-54,明穂,「…っ！分かった。じゃあ行くねっ！」,「…っ！分かった。じゃあ行くねっ！」,「…！明白了。那麼，我走囉！」,"「Okay, I'll go then!」"
-,,,,,
-Dialog.Chapter2-3-55,戦闘員,「報告っ！既に対象が1kmの位置に接近！到着まであと30秒！」,「報告っ！既に対象が1kmの位置に接近！到着まであと30秒！」,「報告！目標已接近到1公里的位置！到達還有30秒！」,「Report! Subject already approaching 1km position! 30 seconds to arrival!」
-,,,,,
-Dialog.Chapter2-3-56,005号,「了解しました。総員戦闘準備！ビル前の道路で敵を足止めします！」,「了解しました。総員戦闘準備！ビル前の道路で敵を足止めします！」,「明白了。全員準備戰鬥！在大樓前的道路上阻止敵人！」,「Copy that. All personnel prepare for battle! We'll hold the enemy back on the road in front of the building!」
-,,,,,
-Dialog.Chapter2-3-57,暗転,――――――,――――――,――――――,――――――
-,,,,,
-,,戦闘開始,戦闘開始,戰鬥開始,
-,,負けイベ,負けイベ,失敗事件,
-,,戦闘終了,戦闘終了,戰鬥結束,
-,,,,,
-Dialog.Chapter2-3-58,???(エレナ黒),「―――やれやれ、1分もかかりませんでしたね。」,「―――やれやれ、1分もかかりませんでしたね。」,「―――哎呀，不到1分鐘就搞定了呢。」,"「――― Oh dear, that took less than a minute.」"
-,,,,,
-Dialog.Chapter2-3-59,戦闘員,「………バケモノめっ、…ガハッ」,「………バケモノめっ、…ガハッ」,「………妖怪傢伙，…嘎哈」,"「......... you monster, ...gah!」"
-,,,,,
-Dialog.Chapter2-3-60,エレナ,「バケモノとは心外です。私は清藤エレナ、聖月女学園のNo2です。知らずに戦いを挑んだのですか？」,「バケモノとは心外です。私は清藤エレナ、ホーリーコア・レギオンのNo2です。知らずに戦いを挑んだのですか？」,「妖怪之事令人生氣。我是清藤艾蓮娜，聖核軍團的第二把交椅。你是不知情地挑戰戰鬥的嗎？」,"「I'm sorry to be called a monster. I am Seidō Erena, No. 2 of Seigetsu Girl Academy. Did you challenge me to a fight without knowing it?」"
-,,,,,
-Dialog.Chapter2-3-61,エレナ,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「好吧，也罷。那麼，我們去找六花小姐吧。」,"「Well, that's all right. Now let's go to Rikka―san's.」"
-,,,,,
-Dialog.Chapter2-3-62,,「そこの戦闘員。水無瀬六花と笹谷明穂がどこにいるのか教えなさい。5秒以内に言わなければ―――」,「そこの戦闘員。水無瀬六花と笹谷明穂がどこにいるのか教えなさい。5秒以内に言わなければ―――」,「你們那邊的戰鬥員。告訴我水無瀬六花和笹谷明穂在哪裡。如果5秒內不說出來的話───」,「Tell me where Minase Rikka and Sasaya Akiho are. Tell me where Minase Rikka and Sasaya Akiho are if you don't tell me within five seconds...」
-,,,,,
-Dialog.Chapter2-3-63,戦闘員,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「嗚啊！我、我說！水無瀬六花在這棟大樓的頂樓，剛剛還和我們戰鬥過！」,"「I'll say it! Minase Rikka is on the top floor of this building! Minase Rikka is on the top floor of this building, and she was fighting with us just now!」"
-,,,,,
-Dialog.Chapter2-3-64,,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,隨著「咚咚！」的聲音，艾蓮娜一躍而起，飛到大樓的頂樓高度，然後直接打破玻璃進入其中。,"With a thud, Erena jumped to the top floor of the building, smashing the glass and entering! Erena jumps up to the altitude of the top floor of the building, smashes the glass, and enters the building."
-,,,,,
-Dialog.Chapter2-3-65,六花？,「……！エレナ先輩っ！？」,「……！エレナ先輩っ！？」,「……！艾蓮娜前輩！」,「......! Erena senior!」
-,,,,,
-Dialog.Chapter2-3-66,エレナ,「……ああ六花さん、無事でしたか。」,「……ああ六花さん、無事でしたか。」,「……啊啊，六花小姐，平安無事嗎。」,"「...... Oh Rikka―san, are you all right?」"
-,,,,,
-Dialog.Chapter2-3-67,,ビルの最上階には制服の水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,ビルの最上階には水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,在大樓的頂樓，水無瀬六花被反手銬住，一個人躺在那裡。,"On the top floor of the building, a uniformed Minase Rikka was lying alone, handcuffed behind her back."
-,,,,,
-Dialog.Chapter2-3-68,エレナ,「…どういう状況か詳しく説明をお願いします。」,「…どういう状況か詳しく説明をお願いします。」,「…請詳細說明現況是什麼。」,「...Could you please elaborate on what the situation is?」
-,,,,,
-Dialog.Chapter2-3-69,六花？,「っ、はいっ！……それはかくかくしかじかで―――」,「っ、はいっ！……それはかくかくしかじかで―――」,「啊、好的！……這是保密事項，所以——」,「I'll tell you what! ...... it's a matter of kakka kakka―――」
-,,,,,
-Dialog.Chapter2-3-70,六花？,「―――明穂を見つけたものの…逃がしてしまいました…っ」,「―――明穂を見つけたものの…逃がしてしまいました…っ」,「―――找到了明穂，但…卻讓她逃走了…」,「―――I found Akiho... but I let him go...」
-,,,,,
-Dialog.Chapter2-3-71,エレナ,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………是嗎。唉…，但就算被注射了藥物，竟然還被這種程度的敵人逃走了…。」,"「......... I see. Huh...but even though I was drugged, I didn't think I could escape even an enemy of this caliber...」"
-,,,,,
-Dialog.Chapter2-3-72,,「あなたにはもっと期待していたのですが。残念です」,「あなたにはもっと期待していたのですが。残念です」,「我對你抱有更高期望。可惜了。」,「I expected more from you. It's a shame.」
-,,,,,
-Dialog.Chapter2-3-73,エレナ,「そして脅されていたとはいえ、生徒会に報告することなく勝手な行動をしたのも問題です。」,「そして脅されていたとはいえ、司令部に報告することなく勝手な行動をしたのも問題です。」,「雖然被威脅，但未經報告就擅自行動也是問題。」,"「And even though he was threatened, the fact that he acted on his own without informing the student council is also problematic.」"
-,,,,,
-Dialog.Chapter2-3-74,六花？,「っ、申し訳ありません……。」,「っ、申し訳ありません……。」,「啊、對不起……。」,「I'm sorry. .......」
-,,,,,
-Dialog.Chapter2-3-75,エレナ,「……。まあ、あなたの処分は明日生徒会で検討するとして…。」,「……。まあ、あなたの処分は明日司令部で検討するとして…。」,「……。嗯，你的處置將在明天由司令部討論。」,"「....... Well, your punishment will be considered by the student council tomorrow...」"
-,,,,,
-Dialog.Chapter2-3-76,エレナ,「私が財団の危険性を過小評価していたのも事実です。」,「私が財団の危険性を過小評価していたのも事実です。」,「我對財團的危險性也有著過於輕視的事實。」,「It is also true that I underestimated the dangers of the Foundation.」
-,,,,,
-Dialog.Chapter2-3-77,,「ここからは聖月生徒会がこの誘拐事件を担当します。明穂さんを奪還し、この際ついでに財団も完全に壊滅させてしまいましょう。」,「ここからはホーリーコア・レギオン司令部がこの誘拐事件を担当します。明穂さんを奪還し、この際ついでに財団も完全に壊滅させてしまいましょう。」,「從這裡起，聖核軍團司令部將負責處理這起綁架事件。讓明穂小姐重返，順便將財團完全摧毀吧。」,「The Seigetsu Student Council will be in charge of this kidnapping case from here on. Let's retrieve Ms. Akiho and completely destroy the Foundation while we're at it.」
-,,,,,
-Dialog.Chapter2-3-78,六花？,「――――！」,「――――！」,「——！」,「――――!」
-,,,,,
-Dialog.Chapter2-3-79,エレナ,「この忙しい時期に仕事が増えてしまいましたが…。しかたありません。」,「この忙しい時期に仕事が増えてしまいましたが…。しかたありません。」,「在這個繁忙的時期工作增加了一些……。沒辦法。」,"「I have more work to do at this busy time of the year..."" It can't be helped.」"
-,,,,,
-Dialog.Chapter2-3-80,,「―――これから緊急で聖月女学園生徒会を招集します。財団との戦いを終わらせましょう。」,「―――これから緊急で上位の聖核戦姫達を招集します。財団との戦いを終わらせましょう。」,「——現在緊急召集高階聖核戰姬。結束與財團的戰鬥吧。」,「―――I am now going to urgently convene the student council of Seigetsu School. Let's finish the fight against the Foundation.」
+ ,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,Traditional Chinese,English,English_Steam,Korean
+Chapter 2-1,注釈,,,,,,,
+Dialog.Chapter2-1-1,マンション(夕方),明穂が学校に来なくなってから一週間,明穂が司令部に来なくなってから一週間,自從明穂沒來總部已經過去一個星期了。,自從明穂沒來學校，已經過去一個星期了。,It's been a week since Akiho stopped coming to school.,One week after Akiho stopped coming to the Command Center...,아키호가 사령부에 오지 않게 된 지 일주일
+,,,,,,,,
+Dialog.Chapter2-1-2,六花,「……家にもいない…か。」,「……家にもいない…か。」,「……今天也不在家嗎……。」,「……今天也不在家嗎……。」,「...... not even in home.」,"""...Not home either, huh?""",「……집에도 없나…」
+,,,,,,,,
+Dialog.Chapter2-1-3,,六花は一週間前から学校に来ていない明穂の身を案じ、放課後に彼女が一人で住んでいるアパートに訪れていた。,六花は一週間前からレギオンに来ていない明穂の身を案じ、彼女が一人で住んでいるアパートに訪れていた。,六花一直擔心著從一週前就沒來學校的明穂，於是來到了她獨自居住的公寓。,六花一直擔心著從一週前就沒來學校的明穂，於是來到了她獨自居住的公寓。,Rikka was concerned about Akiho's condition since she had not come to school for a week and visited her after school at her apartment where she lived alone.,"Rikka was worried about Akiho, who hasn't been coming to Legion for a week, so she went to the apartment where Akiho lived by herself.","릿카는 일주일 전부터 레기온에 오지 않는 아키호의 신변을 걱정하여, 그녀가 혼자 사는 아파트를 찾아왔다."
+,,,,,,,,
+Dialog.Chapter2-1-4,,(スマホでチャットはできるけど電話に出れないのはおかしいし…。一週間も学校を休んでる理由も教えてくれない),(スマホでチャットはできるけど電話に出れないのはおかしいし…。一週間も任務を休んでる理由も教えてくれない),（發訊息的話姑且還會回覆，但卻始終不肯接電話，這太奇怪了……而且她也不告訴我為什麼會缺課一整個星期。）,（發訊息的話姑且還會回覆，但卻始終不肯接電話，這太奇怪了……而且她也不告訴我為什麼會缺課一整個星期。）,(She didn't even respond to my message.... And didn't even tell me why they've been out of school for a week.),(It's strange that she can chat on her phone but can't receive calls... And she wouldn't tell me why she couldn't take any missions for a week.),(스마트폰으로 채팅은 되지만 전화를 받지 않는 건 이상하고…. 일주일이나 임무를 쉰 이유도 알려주지 않아)
+,,,,,,,,
+Dialog.Chapter2-1-5,,(……考えたくないけど―――やっぱり明穂に何かあったとしか…),(……考えたくないけど―――やっぱり明穂に何かあったとしか…),（……雖然不想往這方面想，但……果然，明穂一定是出事了……）,（……雖然不想往這方面想，但……果然，明穂一定是出事了……）,"(...... I don't want to think about it, but ――― I knew there was something wrong with Akiho...)","(I don't want to think about this, but something must have happened to her.)",(……생각하고 싶지 않지만――― 역시 아키호에게 무슨 일이 생긴 게 틀림없어…)
+,,,,,,,,
+Dialog.Chapter2-1-6,,「……うん。やっぱり副会長に相談するしかない。」,「……うん。やっぱり副司令に相談するしかない。」,「……嗯，果然還是只能去找副司令商量了。」,「……嗯，果然還是只能去找副會長商量了。」,「...... yeah. I should talk to the VP about this.」,"""...I'll have to talk to the Deputy Commander.""",「……응. 역시 부사령관님께 상담하는 수밖에 없어.」
+,,,,,,,,
+Dialog.Chapter2-1-7,,「うっ…でもあの人ちょっと怖いんだよね…。いや、そんなこと言ってる場合じゃないか…」,「うっ…でもあの人ちょっと怖いんだよね…。いや、そんなこと言ってる場合じゃないか…」,「呃……但是那個人有點可怕啊……不對，現在不是在意這種事的時候……」,「呃……但是那個人有點可怕啊……不對，現在不是在意這種事的時候……」,"「Ugh...but she scares me a little... No, this is not the time to say that...」","""But he's kind of scary... Wait, this is no time for that.""","「윽… 하지만 그분 좀 무섭단 말이지…. 아니, 그런 말 할 때가 아니지…」"
+,,,,,,,,
+Dialog.Chapter2-1-8,,六花は意を決して学園へ向かうのだった。,六花は意を決して司令部へ向かうのだった。,六花下定決心，朝著總部走去。,六花下定決心，朝著學園走去。,Rikka went to the school with all her heart.,Rikka made up her mind and headed for the Command Center.,릿카는 마음을 굳게 먹고 사령부로 향하는 것이었다.
+,,,,,,,,
+Dialog.Chapter2-1-9,生徒会室,聖月女学園生徒会室にて,対怪人特殊防衛組織　“ホーリーコア・レギオン”司令部にて,在對怪人特殊防衛組織「聖核軍團」司令部——,聖月女學園學生會室內,In the Student Council Room at Seigetsu Girl Academy,"At the Command Center of Holy Core Legion, a special organization for combating monsters...",대 괴인 특수 방위 조직 “홀리코어 레기온” 사령부에서
+,,,,,,,,
+Dialog.Chapter2-1-10,エレナ,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――您是說，明穂小姐從一週前開始行蹤不明，家裡也找不到她。你想説的就這麽多嗎？」,「――――――您是說，明穂同學從一週前開始行蹤不明，家裡也找不到她。你想説的就這麽多嗎？」,"「―――――― So, you said that Akiho had been acting strangely for a seedy period of time and was not at home. Is that the end of your story?」","""...So you're saying that Akiho has been acting strange since a week ago, and she hasn't been home? Is that it?""","「――――――그래서, 1주일 전부터 아키호 양의 상태가 이상하고, 집에도 없었다고. 이야기는 그걸로 끝인가요?」"
+,,,,,,,,
+Dialog.Chapter2-1-11,六花,「はい、エレナ先輩…。それで、どうにか生徒会の方で捜索隊を…！」,「はい、エレナ先輩…。それで、どうにか司令部の方で捜索隊を…！」,「是的，艾蓮娜前輩……所以，能不能請聖核軍團組織搜查隊……！」,「是的，艾蓮娜學姐……所以，能不能請學生會組織搜查隊……！」,"「Yes, Erena-senpai... Please make student council to get a search party...!」","""Yes, Elena. And... If the Command Center can launch a search party...""","「네, 엘레나 선배…. 그래서, 어떻게든 사령부 쪽에서 수색대를…!」"
+,,,,,,,,
+Dialog.Chapter2-1-12,エレナ,「…そうですか。」,「…そうですか。」,「…這樣啊。」,「…這樣啊。」,「I see.」,"""Right.""",「…그렇군요.」
+,,,,,,,,
+Dialog.Chapter2-1-13,,「…残念ですが、今はその件は対応できません。」,「…残念ですが、今はその件は対応できません。」,「…很遺憾，我們目前沒辦法處理這件事情。」,「…很遺憾，我們目前沒辦法處理這件事情。」,"「...I'm sorry, but I can't deal with that right now.」","""Unfortunately, we are unable to deal with that right now.""","「…유감이지만, 지금은 그 건에 대응할 수 없습니다.」"
+,,,,,,,,
+Dialog.Chapter2-1-14,六花,「っ、どうして！」,「っ、どうして！」,「為，為什麼！」,「為，為什麼！」,「Why?」,"""W-Why?""","「읏, 어째서죠!」"
+,,,,,,,,
+Dialog.Chapter2-1-15,エレナ,「………時間が無いので簡潔に説明します。」,「………時間が無いので簡潔に説明します。」,「………我沒什麼時間，我就長話短說吧。」,「………我沒什麼時間，我就長話短說吧。」,「I'll try to keep this brief since I don't have much time for stuff like this.」,"""...I don't have a lot of time, so I'll make it simple.""",「………시간이 없으니 간결하게 설명하겠습니다.」
+,,,,,,,,
+Dialog.Chapter2-1-16,,「私達聖月生徒会は財団以外にもやるべき仕事が多いのです…。私達は強大な力を持っているが故、ただ悪者を倒してヒーローごっこをしていればいいわけではありません。」,「私達司令部は財団以外にもやるべき仕事が多いのです…。私達は強大な力を持っているが故、ただ悪者を倒してヒーローごっこをしていればいいわけではありません。」,「我們聖核軍團除了對抗財團之外，還有許多必須處理的事務……因為我們擁有強大的力量，並不能只是單純地扮演英雄，打倒壞人而已。」,「我們聖月學生會除了對抗財團之外，還有許多必須處理的事務……正因為我們擁有強大的力量，並不能只是單純地扮演英雄，打倒壞人而已。」,"「We, the Seigetsu Student Council, have a lot of work to do besides the Foundation.... We are a powerful force, and it is not enough just to defeat the bad guys and play hero.」","""We at the Command Center has a lot of work in addition to dealing with the Foundation... We are very powerful, therefore we can't simply just play heroes and defeat the bad guys.""","「저희 사령부는 재단 외에도 해야 할 일이 많습니다…. 저희는 강대한 힘을 가졌기에, 그저 악당을 쓰러뜨리고 히어로 놀이를 하면 되는 것이 아닙니다.」"
+,,,,,,,,
+Dialog.Chapter2-1-17,,「それに、ここ聖月女学園は各地の聖核戦姫のグループの総本山であり、政治や経済、更に海外へも大きな影響力があります。」,「ホーリーコア・レギオンはもはやただの聖核戦姫の集まりではありません、政治や経済、更に海外へも大きな影響力があります。」,「此外，聖核軍團作為各地聖核戰姬的總部，對政治、經濟，甚至海外局勢都有著深遠的影響力。」,「此外，這座聖月女學園作為各地聖核戰姬的總部，對政治、經濟，甚至海外局勢都有著深遠的影響力。」,"「Moreover, this Academy is the headquarters of a group of Seikaku Princess from all over the world, and has great influence in politics, economics, and even abroad.」","""The Holy Core Legion is not just a place where Holy Core Battlemaidens gather. It has influence over politics, economy, and even overseas.""","「홀리코어 레기온은 이제 단순한 성핵전희의 모임이 아닙니다, 정치나 경제, 나아가 해외에도 큰 영향력이 있습니다.」"
+,,,,,,,,
+Dialog.Chapter2-1-18,,「そして、もはやあの組織は壊滅寸前。生徒会長不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「そして、もはやあの組織は壊滅寸前。総司令が不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「而且，財團如今已經瀕臨壞滅。現在總司令又不在，光是這種程度的事，我們已經沒有像以前一樣去理會區區財團的餘裕了。」,「更何況現在財團已經瀕臨滅絕了。在學生會長不在的現在，我們已經沒有閒工夫像從前那樣，把時間浪費在財團這種程度的小角色身上了。」,"「And now that Forren Foundation is on the verge of destruction. Without the student council president, we don't have the time to be bothered with them like we used to be.」","""And the Foundation is on the brink of falling apart anyway. With the Commander not here, we don't have time to focus on the Foundation over something so trivial like we used to do.""","「그리고, 이제 그 조직은 괴멸 직전. 총사령관이 부재중인 지금, 그 정도 일로 예전처럼 재단 따위에 신경 쓸 시간은 저희에게 없습니다.」"
+,,,,,,,,
+Dialog.Chapter2-1-19,六花,「っ、…その程度って！」,「っ、…その程度って！」,「…你說 ‘這種程度’！」,「額、…你說 ‘這種程度’是什麼意思！」,「... what did you said?」,"""T-Trivial...""","「읏, …그 정도라뇨!」"
+,,,,,,,,
+Dialog.Chapter2-1-20,エレナ,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算你們關係再好，也未免太過杞人憂天了。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算你們關係再好，也未免太過杞人憂天了。」,"「...I suspect that all the activities have become too painful for her and she's are playing around somewhere. I think you are worrying too much, despite how close you two were.」","""Are you sure she's not just slacking off somewhere because the work has been too hard? I know you're good friends, but maybe you worry too much.""",「…대강 활동이 힘들어져서 어딘가에서 놀고 있는 건 아닌지? 아무리 사이가 좋다고는 하지만 걱정이 지나친 것 아닙니까.」
+,,,,,,,,
+Dialog.Chapter2-1-21,六花,「でもっ！明穂は―――」,「でもっ！明穂は―――」,「但是！明穂她———」,「但是！明穂她———」,「But..! No way Akiho is...」,"""But Akiho...""",「하지만! 아키호는―――」
+,,,,,,,,
+Dialog.Chapter2-1-22,エレナ,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……這樣吧，六花小姐您就先暫時放假吧。我們會處理相關的手續，明穂的事，就全權交給你了。」,「……這樣吧，六花同學就先暫時放假吧。我們會處理相關的手續，明穂同學的事，就全權交給你了。」,"「I will leave everything to you. I'll take care of the business procedures here, so you can take care of everything regarding Akiho-san.」","""I see. Why don't you take some time off, then? We will deal with the paperwork so you can focus on finding Akiho.""","「……알겠어요, 당분간 릿카 양은 공무 휴가로 처리하죠. 업무 절차는 이쪽에서 해둘 테니, 아키호 양의 건은 전부 당신에게 맡기겠습니다.」"
+,,,,,,,,
+Dialog.Chapter2-1-23,,「―――心配しないでください。事態が大きくなるようでしたら生徒会で対処します。そうならないように貴女には期待をしていますよ？」,「―――心配しないでください。事態が大きくなるようでしたら司令部で対処します。そうならないように貴女には期待をしていますよ？」,「———請放心。如果事情真的鬧大了，聖核軍團會出面處理。不過，我期待你能讓事態不至於發展到那種地步。」,「———請放心。如果事情真的鬧大了，學生會會出面處理。不過，我期待你能讓事態不至於發展到那種地步哦？」,"「Don't worry. If the situation becomes more serious, the student council will take care of it. We're counting on you to make sure that doesn't happen.」","""Please don't worry. The Command Center will get involved if things get worse, but we expect you to take care of it before it gets there.""",「―――걱정하지 마세요. 사태가 커지면 사령부에서 대처하겠습니다. 그렇게 되지 않도록 당신에게 기대하고 있겠어요?」
+,,,,,,,,
+Dialog.Chapter2-1-24,六花,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「……我明白了。打擾您繁忙的時間，真的很抱歉……失禮了。」,「……我明白了。打擾您繁忙的時間，真的很抱歉……失禮了。」,「...I...I―――― I understand. I'm sorry to bother you...―――Excuse me.」,"""...Understood. Sorry to have disturbed you.""",「…읏――――알겠습니다. 바쁘신 와중에 죄송합니다…―――실례하겠습니다.」
+,,,,,,,,
+Dialog.Chapter2-1-25,,そういうと、六花は心ならずな表情で高貴な香りのする生徒会室を後にするのだった。,そういうと、六花は心ならずな表情で高貴な香りのする司令部を後にするのだった。,六花露出不甘的神情，離開了瀰漫著高貴氣息的司令部。,六花露出不甘的神情，離開了瀰漫著高貴氣息的學生會室。,"With that, Rikka left the noble-smelling student council room with an absent-minded expression on her face.",Rikka left the fragrance-filled Command Center reluctantly.,"그렇게 말하며, 릿카는 마지못한 표정으로 고귀한 향기가 나는 사령부를 뒤로하는 것이었다."
+,,,,,,,,
+Dialog.Chapter2-1-26,,夜の街にて,夜の街にて,夜晚的街道上,夜晚的街道上,In the city at night,"At night, on the streets...",밤의 거리에서
+,,,,,,,,
+Dialog.Chapter2-1-27,六花,「―――生徒会は頼りにならないか…」,「―――司令部は頼りにならないか…」,「……司令部指望不上嗎……」,「———學生會指望不上嗎……」,「―――― the student council is unreliable...」,"""...The Command Center is no use.""",「―――사령부는 의지할 수 없나…」
+,,,,,,,,
+Dialog.Chapter2-1-28,,「……明穂を探すにしても手がかりはないし、どうすれば…」,「……明穂を探すにしても手がかりはないし、どうすれば…」,「……必須要找到明穂，卻沒有任何線索，該怎麼辦才好……」,「……必須要找到明穂，卻沒有任何線索，該怎麼辦才好……」,"「......I don't have a clue as to how to find Akiho, so what can I do...」","""I don't know where to start looking for her. What should I...""","「……아키호를 찾는다고 해도 단서가 없고, 어떡하면…」"
+,,,,,,,,
+Dialog.Chapter2-1-29,,その時、六花のスマホからピコンと電子音が響く,その時、六花のスマホからピコンと電子音が響く,就在這時，六花的手機發出了「嗶叮」的電子提示音。,就在這時，六花的手機發出了「嗶叮」的電子提示音。,"At that moment, a beeping electronic sound echoes from Rikka's phone.",Rikka's smartphone beeped.,"그때, 릿카의 스마트폰에서 삐콩 하고 전자음이 울린다"
+,,,,,,,,
+Dialog.Chapter2-1-30,六花,「―――！」,「―――！」,「―――！」,「―――！」,「...!」,"""...!""",「―――!」
+,,,,,,,,
+Dialog.Chapter2-1-31,,直ぐにスマホを取り出し通知を確認する,直ぐにスマホを取り出し通知を確認する,六花立刻拿出手機，查看通知內容。,六花立刻拿出手機，查看通知內容。,Rikka immediately take out her phone and check your notifications.,She took out her phone and looked at the notification.,즉시 스마트폰을 꺼내 알림을 확인한다
+,,,,,,,,
+Dialog.Chapter2-1-32,,メッセージ：笹谷明穂は確保した。明日14時、〇〇ビルの〇〇号室に来い。他言すれば彼女の命は保障しない,メッセージ：笹谷明穂は確保した。明日14時、〇〇ビルの〇〇号室に来い。他言すれば彼女の命は保障しない,訊息內容：「笹谷明穂已被我們控制。明天14點，到○○大樓的○○號房來。如果敢對外聲張，她的性命可就不保了。」,訊息內容：「笹谷明穂已被我們控制。明天14點，到○○大樓的○○號房來。如果敢對外聲張，她的性命可就不保了。」,"Message: Sasaya Akiho is captured. Come to room ** of the ** building at 14:00 tomorrow. If you talk to anyone else, her life is not guaranteed.",Message: Akiho Sasaya is in our custody. Come to Room XX in YY Building tomorrow at 14:00. We cannot guarantee her life if we determine that the information has been leaked.,"메시지: 사사야 아키호는 확보했다. 내일 14시, 〇〇빌딩 〇〇호실로 와라. 다른 사람에게 말하면 그녀의 목숨은 보장하지 않는다"
+,,,,,,,,
+Dialog.Chapter2-1-33,,明穂とのチャットにはこれまでの会話履歴と比べて明らかに異質な、恐ろしい現実を告げる脅迫文が届いていた,明穂とのチャットにはこれまでの会話履歴と比べて明らかに異質な、恐ろしい現実を告げる脅迫文が届いていた,在與明穂的聊天記錄中，赫然出現了一條與以往對話風格截然不同的訊息——一封透露出恐怖現實的威脅信。,在與明穂的聊天記錄中，赫然出現了一條與以往對話風格截然不同的訊息——一封透露出恐怖現實的威脅信。,The chat with Akiho had received a threatening message that was clearly different and more frighteningly realistic than the previous conversation history.,"Compared to her chat history with Akiho, this was clearly a ransom note that indicated what terrible things might have happened to Akiho.","아키호와의 채팅에는 지금까지의 대화 기록과 비교해 명백히 이질적인, 끔찍한 현실을 알리는 협박문이 도착해 있었다"
+,,,,,,,,
+Dialog.Chapter2-1-34,六花,「―――明穂っ！」,「―――明穂っ！」,「―――明穂！」,「―――明穂！」,「Akiho!」,"""Akiho...""",「―――아키호!」
+,,,,,,,,
+Dialog.Chapter2-1-35,,都市の空はすっかり日が落ち暗くなり、夜の冷たい風が六花の肌を這った,都市の空はすっかり日が落ち暗くなり、夜の冷たい風が六花の肌を這った,城市的天空早已完全暗下來，夜晚冰冷的風輕輕掠過六花的肌膚。,城市的天空早已完全暗下來，夜晚冰冷的風輕輕掠過六花的肌膚。,"The city sky was darkening with the setting sun, and the cold night wind crawled across Rikka's skin.",The sun had gone down in the city sky while the cold breeze of the night caressed Rikka.,"도시의 하늘은 완전히 해가 져 어두워졌고, 밤의 차가운 바람이 릿카의 피부를 스쳤다"
+,,,,,,,,
+Chapter 2-2,注釈,,,,,,,
+,高層ビル(日中),,,,,,,
+Dialog.Chapter2-2-1,六花,「…ここがそのビル…か」,「…ここがそのビル…か」,「…這裡就是指定的大樓嗎…」,「…這裡就是指定的大樓嗎…」,「.. So this is the building.」,"""This must be the building...""",「…여기가 그 빌딩…인가」
+,,,,,,,,
+Dialog.Chapter2-2-2,,六花は指定されたビルの前に来ていた,六花は指定されたビルの前に来ていた,六花站在指定的大樓前，抬頭望著那棟沉默矗立的建築。,六花站在指定的大樓前，抬頭望著那棟沉默矗立的建築。,Rikka came to the front of the designated building.,Rikka arrived at the building mentioned in the message.,릿카는 지정된 빌딩 앞에 와 있었다
+,,,,,,,,
+Dialog.Chapter2-2-3,,(どう考えても罠だけど…明穂を人質に取られてる以上しょうがない…),(どう考えても罠だけど…明穂を人質に取られてる以上しょうがない…),（無論怎麼想，這都是個陷阱……但明穂被當成了人質，我別無選擇……）,（無論怎麼想，這都是個陷阱……但明穂被當成了人質，我別無選擇……）,(It's a trap no matter how I think about it... but it can't be helped as long as they have Akiho as a hostage...),"(This has to be a trap, but if they have Akiho, I have to take the risk...)",(어떻게 생각해도 함정이지만… 아키호를 인질로 잡혀있는 이상 어쩔 수 없어…)
+,,,,,,,,
+Dialog.Chapter2-2-4,,すると背後から何者かに声がかけれらる,すると背後から何者かに声がかけれらる,就在這時，身後突然傳來某人的聲音。,就在這時，身後突然傳來某人的聲音。,Someone calls out to her from behind.,A voice rang out from behind her.,그러자 등 뒤에서 누군가가 말을 걸어온다
+,,,,,,,,
+Dialog.Chapter2-2-5,???,「お待ちしていました、水無瀬六花。」,「お待ちしていました、水無瀬六花。」,「久等了，水無瀬六花。」,「久等了，水無瀬六花。」,"「We have been waiting for you, Minase Rikka.」","""We have been waiting for you, Rikka Minase.""","「기다리고 있었습니다, 미나세 릿카.」"
+,,,,,,,,
+Dialog.Chapter2-2-6,六花,「……あんたは…。財団の女戦闘員か」,「……あんたは…。財団の女戦闘員か」,「……你是……財團的女戰鬥員」,「……你是……財團的女戰鬥員」,「...... you are.... Are you a female combatant for the Foundation?」,"""...You're a soldier from the Foundation.""",「……너는…. 재단의 여성 전투원인가」
+,,,,,,,,
+Dialog.Chapter2-2-7,???,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「沒錯，我是戰鬥員005號。現在負責執行‘原型’的帶路任務。」,「沒錯，我是戰鬥員005號。現在負責執行‘原型’的帶路任務。」,"「Yes, I am Combatant No.005. Come with me, Original.」","""Yes, I am Soldier 005. I will be guiding you, the 'Original'.""","「네, 전투원 005호입니다. 지금부터 “오리지널”을 안내하겠습니다.」"
+,,,,,,,,
+Dialog.Chapter2-2-8,六花,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「———等一下，‘原型’…？這是什麼意思…？」,「———等一下，‘原型’…？這是什麼意思…？」,"「―――Wait a minute, Original...? What does that even mean...?」","""...The Original? What does that mean?""","「―――잠깐 기다려, 오리지널…? 그게 무슨 의미…?」"
+,,,,,,,,
+Dialog.Chapter2-2-9,005号,「おや、気づいていなかったのですね。ではお伝えします。」,「おや、気づいていなかったのですね。ではお伝えします。」,「哦？原來您還沒察覺嗎？那就讓我來告訴你吧。」,「哦？原來您還沒察覺嗎？那就讓我來告訴你吧。」,"「Ah, so you didn't notice. Alright let me tell you.」","""You haven't noticed? I shall explain.""","「어머, 눈치채지 못하셨군요. 그럼 알려드리겠습니다.」"
+,,,,,,,,
+Dialog.Chapter2-2-10,,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財團的克隆戰鬥員，全部是以你的遺傳資訊——水無瀬六花的基因為基礎製作的。」,「財團的克隆戰鬥員，全部是以你的遺傳資訊——水無瀬六花的基因為基礎製作的。」,"「All of the Foundation's cloned fighters are based on the genetic information of you, Minase Rikka.」","""All the clone soldiers of the Foundation are created from the DNA of Rikka Minase... You.""",「재단의 클론 전투원은 전부 당신 “미나세 릿카”의 유전 정보를 바탕으로 만들어졌습니다」
+,,,,,,,,
+Dialog.Chapter2-2-11,六花,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………原來如此。我一直從你們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,「…………原來如此。我一直從你們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,"「'............ yeah. I've had a strange, bad feeling about you guys... so that's what it was all about.」","""...I see. That must be why I already dislike you the moment I saw you.""",「…………그래. 당신들에게 묘하게 싫은 느낌이 들었는데… 그런 거였구나」
+,,,,,,,,
+Dialog.Chapter2-2-12,005号,「おや、意外と驚かないのですね。」,「おや、意外と驚かないのですね。」,「哦？沒想到您竟然不太驚訝呢。」,「哦？沒想到您竟然不太驚訝呢。」,"「Gosh, you're not that surprised.」","""You're not surprised.""","「어머, 의외로 놀라지 않으시는군요.」"
+,,,,,,,,
+Dialog.Chapter2-2-13,六花,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「沒什麼，我還是我自己。而且你們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,「沒什麼，我還是我自己。而且你們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,"「Nothing serious. I'm just me. And I'm disappointed that you're too weak to be my clone. No matter how many of them there are, You guys are no match for me.」","""Not really, I am me. And I'm disappointed that my clones are so weak. I can take on as many of you as I want.""","「딱히, 나는 나고. 게다가 내 클론치고는 너무 약해서 실망이야. 몇 명이 있든 내 적이 아니지」"
+,,,,,,,,
+Dialog.Chapter2-2-14,六花,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「快點進入正題吧。你們的要求是什麼？明穂在哪裡？」,「快點進入正題吧。你們的要求是什麼？明穂在哪裡？」,「Let's move the conversation. What do you guys want? Where is Akiho?」,"""Let's cut to the chase. What do you want? Where is Akiho?""",「빨리 이야기를 진행하자. 당신들의 요구는 뭐야? 아키호는 어디에 있어?」
+,,,,,,,,
+Dialog.Chapter2-2-15,005号,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穂現在在這棟大樓接近頂樓的房間裡。如果您按照我們的要求行事，她今天之內就能被放出來。」,「…笹谷明穂現在在這棟大樓接近頂樓的房間裡。如果您按照我們的要求行事，她今天之內就能被放出來。」,"「...Sasaya Akiho is in a room near the roof of this building. If you comply with our request, we will release her today.」","""Akiho Sasaya is in a room near the top of the building. If you do as we say, we will allow you to see her today.""",「…사사야 아키호는 이 빌딩 옥상 근처 방에 있습니다. 저희 요구에 따르면 오늘 중으로라도 개방하겠습니다」
+,,,,,,,,
+Dialog.Chapter2-2-16,,「――――要求は簡単です。少し貴女の体を調べるだけです。」,「――――要求は簡単です。少し貴女の体を調べるだけです。」,「――我們的要求很簡單。只是想稍微檢查一下您的身體而已。」,「――我們的要求很簡單。只是想稍微檢查一下您的身體而已。」,「 ――――The request is simple. All we want is to examine your body a little.」,"""What we want is very simple. We just need to inspect your body.""",「――――요구는 간단합니다. 잠시 당신의 몸을 조사할 뿐입니다.」
+,,,,,,,,
+Dialog.Chapter2-2-16.2,ここからエロシーン,クローンに連れていかれたビルの中の一室にて,クローンに連れていかれたビルの中の一室にて,六花被克隆人帶去建築物內的某一個房間裡,六花被克隆人帶去建築物內的某一個房間裡,In a room in a building taken by a clone,The clone took her to a room in the building.,클론에게 끌려간 빌딩 안의 한 방에서
+Dialog.Chapter2-2-17,六花,「…っなんで全裸になる必要があるのっ！？」,「…っなんで全裸になる必要があるのっ！？」,「等等…為什麼需要全裸啊！？」,「等等…為什麼需要全裸啊！？」,「... Why do I have to be naked?」,"""...Is it really necessary for me to be naked?""","「…읏, 왜 알몸이 될 필요가 있는 거야!?」"
+,Rikka2ｰ1,,,,,,,
+Dialog.Chapter2-2-18,005号,「静かにしてください。大事な事なので。それにクローンに見られてもどうということは無いでしょう」,「静かにしてください。大事な事なので。それにクローンに見られてもどうということは無いでしょう」,「請您保持安靜，我們在執行很重要的事。而且被自己的克隆人看到裸體應該也沒什麼大不了的吧。」,「請您保持安靜，我們在執行很重要的事。而且被自己的克隆人看到裸體應該也沒什麼大不了的吧。」,"「Please be quiet. It's important. Besides, what does it matter if the clone sees your body?」","""Please be quiet, as this is very important. And it doesn't matter if your clone looks at your body, right?""",「조용히 하십시오. 중요한 일이니. 그리고 클론에게 보여진다고 문제 될 건 없을 텐데요」
+,,,,,,,,
+Dialog.Chapter2-2-19,,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花被迫脫光了所有衣服，正在被克隆戰鬥員們檢查身體。,六花被迫脫光了所有衣服，正在被克隆戰鬥員們檢查身體。,Rikka was stripped of all her clothes and her body was examined by the clone fighters.,Rikka was stripped naked and inspected by the clone soldiers.,"릿카는 옷을 전부 벗겨지고, 클론 전투원들에게 신체를 검사받고 있었다"
+,,,,,,,,
+Dialog.Chapter2-2-20,六花,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……如果你們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,「……如果你們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,"「...... if you touch me or try anything weird, I'll transform.」","""I am going to transform if you try to do anything funny.""","「……만약 만지거나, 뭔가 이상한 짓 하려 하면 그땐 언제든 변신할 거니까」"
+,,,,,,,,
+Dialog.Chapter2-2-21,005号,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「這種事情我們當然知道。嗯.. 原來原型的內衣是水藍色條紋的…」,「這種事情我們當然知道。嗯.. 原來原型的內衣是水藍色條紋的…」,「Of course I know. So the original underwear was light blue striped...」,"""We understand. Your underwear is blue... I see...""",「물론 알고 있습니다. 오리지널의 속옷은 하늘색 줄무늬…라고」
+,Rikka2-2,,,,,,,
+Dialog.Chapter2-2-22,六花,「別になんだっていいでしょ！あんたたちだって不気味なスーツ着てるくせに！」,「別になんだっていいでしょ！あんたたちだって不気味なスーツ着てるくせに！」,「這種事情怎樣都無所謂吧！你們這些傢伙自己還不是穿著詭異的制服！」,「這種事情怎樣都無所謂吧！你們這些傢伙自己還不是穿著詭異的制服！」,「How come things like this matter! You're the ones in the creepy suits!」,"""That doesn't matter, does it? I mean, look at the gross suits you're all wearing!""",「딱히 뭐든 상관없잖아! 너희들도 불쾌한 슈트나 입고 있으면서!」
+,,,,,,,,
+Dialog.Chapter2-2-23,005号,「なんでもよくありません。オリジナルの趣味嗜好も重要なデータですので」,「なんでもよくありません。オリジナルの趣味嗜好も重要なデータですので」,「沒有這麼隨便。原型的興趣和喜好也是重要的數據。」,「沒有這麼隨便。原型的興趣和喜好也是重要的數據。」,「It does matter. Original's tastes and preferences are important data.」,"""It does, because the Original's tastes and hobbies are important to us.""",「뭐든 상관없지는 않습니다. 오리지널의 취미 취향도 중요한 데이터이므로」
+,,,,,,,,
+Dialog.Chapter2-2-24,005号,「……計測を続けます。身長は162cm、体重は52.4kg、体脂肪率22.4％、乳輪の直径は32.5mm、乳頭は直径10.1mm―――」,「……計測を続けます。身長は162cm、体重は52.4kg、体脂肪率22.4％、乳輪の直径は32.5mm、乳頭は直径10.1mm―――」,「……繼續測量。身高162公分，體重52.4公斤，體脂肪率22.4%，乳暈直徑32.5毫米，乳頭直徑10.1毫米―――」,「……繼續測量。身高162公分，體重52.4公斤，體脂肪率22.4%，乳暈直徑32.5毫米，乳頭直徑10.1毫米―――」,"「...... let's continue with the measurements. Height is 162 cm, weight is 52.4 kg, body fat percentage is 22.4%, nipple diameter is 32.5 mm, nipple diameter is 10.1 mm―――」","""...The measuring continues. 162 centimeters tall, weighs 52.4 kilograms, with 22.4% body fat. The diameter of the areola is 32.5 millimeters, and the diameter of the nipple is 10.1 millimeters...""","「……계측을 계속합니다. 신장은 162cm, 체중은 52.4kg, 체지방률 22.4％, 유륜 직경은 32.5mm, 유두는 직경 10.1mm―――」"
+,Rikka2-3,,,,,,,
+Dialog.Chapter2-2-25,六花,「っ、ちょっと！、身長体重はともかく、なんでそんな所まで計測するのっ！？」,「っ、ちょっと！、身長体重はともかく、なんでそんな所まで計測するのっ！？」,「喂、等等！身高體重就算了，為什麼連那種地方都要測量啊！？」,「喂、等等！身高體重就算了，為什麼連那種地方都要測量啊！？」,"「H.. hey! Other than height and weight, why are you measuring all that?」","""W-Wait! I understand the need for height and weight, but these other measurements...:","「윽, 잠깐!, 신장 체중은 그렇다 쳐도, 왜 그런 데까지 계측하는 거야!?」"
+,,,,,,,,
+Dialog.Chapter2-2-26,005号,「聖核戦姫になる事がどの様に身体に影響を与えるかを調査するためです」,「聖核戦姫になる事がどの様に身体に影響を与えるかを調査するためです」,「這是為了調查成為聖核戰姫會如何影響您的身體。」,「這是為了調查成為聖核戰姫會如何影響您的身體。」,「The purpose is to investigate how being a Seikaku Princess affects the body.」,"""We need to investigate the impact on your body from being a Holy Core Battlemaiden.""",「성핵전희가 되는 것이 어떻게 신체에 영향을 주는지 조사하기 위해서입니다」
+,Rikka2-2,,,,,,,
+Dialog.Chapter2-2-27,005号,「続けます。クリトリスの大きさは―――」,「続けます。クリトリスの大きさは―――」,「我們繼續。陰蒂的大小是―――」,「我們繼續。陰蒂的大小是―――」,「Continue. The size of the clitoris is―――」,"""Next, the size of her clitoris is...""",「계속합니다. 클리토리스의 크기는―――」
+,,,,,,,,
+Dialog.Chapter2-2-28,,しばらくクローン達による計測が続いた後,しばらくクローン達による計測が続いた後,在克隆人進行了一段時間的測量之後,在克隆人進行了一段時間的測量之後,After some time of measurement by the clones,After the clones measured what they needed from Rikka...,잠시 클론들에 의한 계측이 계속된 후
+,,,,,,,,
+Dialog.Chapter2-2-29,005号,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――接下來是口頭問題。請告訴我們你一週自慰的次數。」,「――接下來是口頭問題。請告訴我們你一週自慰的次數。」,「―――― the next question is an oral question. How many times do you masturbate in a week?」,"""Now we will ask you some questions. How many times a week do you masturbate?""",「――――그럼 다음은 구두 질문입니다. 일주일간의 자위 횟수를 알려주십시오.」
+,,,,,,,,
+Dialog.Chapter2-2-30,六花,「はぁっ！？なんでそんなことっ」,「はぁっ！？なんでそんなことっ」,「啥！？為什麼要問這種事啊！」,「啥！？為什麼要問這種事啊！」,「Huh? Again why does that matter?」,"""Huh? Why do you need to know?""",「하앗!? 왜 그런 걸」
+,,,,,,,,
+Dialog.Chapter2-2-31,005号,「これも聖核戦姫の身体に与える影響を―――」,「これも聖核戦姫の身体に与える影響を―――」,「當然這也是為了調查聖核戰姫對身體的影響―――」,「當然這也是為了調查聖核戰姫對身體的影響―――」,「This too will have an effect on the body of the Seikaku Princess...」,"""We need to know the impact of being a Holy Core Battlemaiden...""",「이것도 성핵전희의 신체에 미치는 영향을―――」
+,,,,,,,,
+Dialog.Chapter2-2-32,六花,「だからってそんなの教えるわけないでしょ！」,「だからってそんなの教えるわけないでしょ！」,「就算這樣總不可能回答你這種問題吧！」,「就算這樣總不可能回答你這種問題吧！」,「That doesn't mean I'm going to tell you that!」,"""That's not something I will tell you!""",「그렇다고 그런 걸 가르쳐줄 리 없잖아!」
+,,,,,,,,
+Dialog.Chapter2-2-33,005号,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……比起笹谷明穂您更優先自己的尊嚴嗎？」,「……比起笹谷明穂您更優先自己的尊嚴嗎？」,「...... you put your pride ahead of Sasaya Akiho?」,"""...Is your pride more important than Akiho Sasaya?""",「……당신은 사사야 아키호보다 자신의 프라이드를 우선시하는 겁니까?」
+,,,,,,,,
+Dialog.Chapter2-2-34,六花,「っ！………うぅ～」,「っ！………うぅ～」,「！……嗚～」,「！……嗚～」,「! ......... ugh~」,"""Ugh...""",「윽!………으으~」
+,,,,,,,,
+Dialog.Chapter2-2-35,,「………週に、3回…ぐらい。」,「………週に、3回…ぐらい。」,「……一週，大約…3次。」,「……一週，大約…3次。」,「......... about...three times..... a week.」,"""About... three times a week...""","「………일주일에, 3번…정도.」"
+,,,,,,,,
+Dialog.Chapter2-2-36,005号,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「請不要做出虛假的報告。從你的搜尋記錄來看———」,「請不要做出虛假的報告。從你的搜尋記錄來看———」,「Please do not report false information. Your search history says otherw――」,"""Please do not provide false information. From your search history...""",「허위 보고는 하지 마십시오. 당신의 검색 기록에는―――」
+,,,,,,,,
+Dialog.Chapter2-2-37,六花,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「每天！！除非太累的時候，每天都會做！早上起床時和晚上洗澡前！」,「每天！！除非太累的時候，每天都會做！早上起床時和晚上洗澡前！」,「Every day! I do it every day except when I'm tired! When I wake up in the morning and before I shower at night!」,"""Every day! Every day unless I'm tired! I do it when I wake up and before I take a shower at night!""",「매일! 피곤할 때 빼고는 매일 하고 있어! 아침에 일어났을 때랑 밤에 샤워하기 전에!」
+,,,,,,,,
+Dialog.Chapter2-2-38,005号,「具体的にどのようにしているのかも教えてください。」,「具体的にどのようにしているのかも教えてください。」,「請具體告訴我您是怎麼做的。」,「請具體告訴我您是怎麼做的。」,「Could you also tell me how exactly you do that?」,"""How do you do it? Please describe.""",「구체적으로 어떻게 하는지도 알려주십시오.」
+,Rikka2-4,,,,,,,
+Dialog.Chapter2-2-39,六花,「………っ、妄想しながらっ、……指……入れて…。」,「………っ、妄想しながらっ、……指……入れて…。」,「……一邊幻想著，……用手指……插進去…。」,「……一邊幻想著，……用手指……插進去…。」,「............ I'm fantasizing... While putting my ...... fingers .........」,"""I fantasize about things... Then I put my finger... inside...""","「………윽, 망상하면서… …손가락…… 넣어서….」"
+,,,,,,,,
+Dialog.Chapter2-2-40,005号,「正直に答えていただきありがとうございました」,「正直に答えていただきありがとうございました」,「感謝您誠實地回答。」,「感謝您誠實地回答。」,「Thank you for your honesty.」,"""Thank you for providing the correct answers.""",「솔직하게 답해주셔서 감사합니다」
+,,,,,,,,
+Dialog.Chapter2-2-41,六花,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……嗚……應該說你們為什麼會知道我的搜尋記錄！？」,「……嗚……應該說你們為什麼會知道我的搜尋記錄！？」,"「...... Ugh, I mean...how do you know my search history!」","""Ugh... Wait, how do you know my search history?""","「……으으, …그보다 왜 검색 기록을 아는 거야!?」"
+,,,,,,,,
+Dialog.Chapter2-2-42,005号,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「因為我是您的克隆，所以輕鬆突破了手機的生物認證。」,「因為我是您的克隆，所以輕鬆突破了手機的生物認證。」,"「Since I am a clone of you, I was able to easily get past the biometrics on your phone.」","""I'm your clone, it was easy to bypass the biometric verification on your phone.""","「저는 당신의 클론이므로, 스마트폰의 생체 인증도 간단히 돌파할 수 있었습니다」"
+,,,,,,,,
+Dialog.Chapter2-2-43,六花,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……！（完事後要把你們揍飛然後消除記憶！）」,「……！（完事後要把你們揍飛然後消除記憶！）」,「...... (I'm going to blow you up and erase all history when I'm done!)」,"""... (I'm going to beat her up so she won't remember a thing!)""",「……윽! (끝나면 박살 내서 기억 지워버리겠어!)」
+,,,,,,,,
+Dialog.Chapter2-2-44,005号,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「那麼最後一項。接下來要進行尿液檢查，請對著這個容器排尿。」,「那麼最後一項。接下來要進行尿液檢查，請對著這個容器排尿。」,「Now the last part. Please urinate into this container as we perform a urine test.」,"""We're almost at the end. A urine test is required, so please urinate toward this container.""",「그럼 마지막입니다. 소변 검사를 할 테니 이 용기에 소변을 보십시오.」
+,Rikka2-3,,,,,,,「하앗!? 여기서!?」
+Dialog.Chapter2-2-45,六花,「はぁ！？ここでっ！？」,「はぁ！？ここでっ！？」,「蛤！？在、在這裡！？」,「蛤！？在、在這裡！？」,「Huh? Here!」,"""Huh? Here? Now?""",
+,,,,,,,,
+Dialog.Chapter2-2-46,005号,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,"「Of course. If you go somewhere we can't see, we don't know what you will do. I can't touch you, so I have no choice but to do this.」","""Of course. We don't know what you might do where we can't see you. Since we can't touch you, this is the only way.""","「당연합니다. 안 보이는 곳에 가면 무슨 짓을 할지 모르니까요. 만질 수도 없으니, 이렇게 할 수밖에 없습니다.」"
+,,,,,,,,
+Dialog.Chapter2-2-47,六花,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「就算你這麼說……在、在這麼多人面前……！」,「就算你這麼說……在、在這麼多人面前……！」,"「Even so, but there are so many people here...!」","""Even if you say so, to do it with everyone here...""","「그런 말 해도…윽, 이렇게 사람 많은 데서!」"
+,,,,,,,,
+Dialog.Chapter2-2-48,005号,「そうですね。早くしてください。これで最後なので」,「そうですね。早くしてください。これで最後なので」,「嗯。請快一點吧。這是最後一項了。」,「嗯。請快一點吧。這是最後一項了。」,「I see. Please hurry up. This is the last one.」,"""Right. Well, please hurry up. This is the last item on the list.""",「그렇군요. 빨리 하십시오. 이걸로 마지막이니까」
+,Rikka2-2,,,,,,,
+Dialog.Chapter2-2-49,六花,「～～～～ッ！、すればいいんでしょ！」,「～～～～ッ！、すればいいんでしょ！」,「～～～～！我照做就是了吧！」,「～～～～！我照做就是了吧！」,「～～～～! Fine I'll do it!」,"""...I just have to pee, right?""","「~~~~~~윽!, 하면 될 거 아냐!」"
+,,,,,,,,
+Dialog.Chapter2-2-50,005号,「物分かりが良くて助かります。ではよく狙いを定めてお願いします」,「物分かりが良くて助かります。ではよく狙いを定めてお願いします」,「您這麼配合真是幫大忙了。那麼請好好瞄準，拜託了。」,「您這麼配合真是幫大忙了。那麼請好好瞄準，拜託了。」,"「I'm glad you're so understanding. Now, please aim well.」","""It helps that you understand the situation. Please aim carefully.""",「말귀를 잘 알아들으셔서 다행입니다. 그럼 잘 조준해서 부탁드립니다」
+,Rikka2-4,,,,,,,
+Dialog.Chapter2-2-51,六花,「――そんなすぐ出るものじゃっ、くっ、んうっ」,「――そんなすぐ出るものじゃっ、くっ、んうっ」,「──哪有可能說出來就出來…唔、嗯─…」,「──哪有可能說出來就出來…唔、嗯─…」,「――it's not supposed to come out that easy.」,"""...It's not something you just... do! Ugh...""","「――그런다고 바로 나오는 게 아니… 큭, 응읏」"
+,,,,,,,,
+Dialog.Chapter2-2-52,,六花は何人ものクローンが見ている中、がに股中腰の姿勢で容器に狙いを定めようとする,六花は何人ものクローンが見ている中、がに股中腰の姿勢で容器に狙いを定めようとする,六花在眾多複製體的注視下，以外八蹲低的姿勢，試圖朝容器瞄準定位。,六花在眾多複製體的注視下，以外八蹲低的姿勢，試圖朝容器瞄準定位。,Rikka tries to aim at the container with a hunched midriff position while several clones are watching,"With all the clones watching her, Rikka bent her legs and squatted a little.","릿카는 몇 명이나 되는 클론이 보는 앞에서, 다리를 벌리고 허리를 낮춘 자세로 용기에 조준하려 한다"
+,,,,,,,,
+Dialog.Chapter2-2-53,六花,(っ、クローンとはいえっ、大勢が見てる前でこんな格好でっ…),(っ、クローンとはいえっ、大勢が見てる前でこんな格好でっ…),（唔、就算對象是複製體……在這麼多人面前擺出這種姿勢……）,（唔、就算對象是複製體……在這麼多人面前擺出這種姿勢……）,"(Even if it's just clone, being naked like this in front of so many people...)","(I know they're just clones, but it's hard to do this with them watching...)","(큭, 클론이라지만, 많은 사람이 보는 앞에서 이런 꼴로…)"
+,,,,,,,,
+Dialog.Chapter2-2-54,,(ううん、明穂のためっ！私が恥ずかしい思いするくらいどうってことないっ！),(ううん、明穂のためっ！私が恥ずかしい思いするくらいどうってことないっ！),（不、不對，這是為了明穗！只是讓我丟點臉而已，根本不算什麼！）,（不、不對，這是為了明穗！只是讓我丟點臉而已，根本不算什麼！）,"(No, it's for Akiho's sake! It doesn't matter if I'm embarrassed!)",(But I can't let this get in my way of saving Akiho!),"(아냐, 아키호를 위해서야! 내가 부끄러운 꼴 당하는 것쯤 아무것도 아니야!)"
+,,,,,,,,
+Dialog.Chapter2-2-55,,そして六花は膀胱に意識を集中させ―――,そして六花は膀胱に意識を集中させ―――,接著，六花將意識集中至膀胱——,接著，六花將意識集中至膀胱——,Rikka then concentrated on her bladder and ――――.,"Rikka focused on her bladder, and...",그리고 릿카는 방광에 의식을 집중시켜―――
+,,,,,,,,
+Dialog.Chapter2-2-56,Rikka2-5,ぷしゃあああっ…,ぷしゃあああっ…,噗咻啊啊啊……,噗咻啊啊啊……,Psshhhh...,Pzzzz...,푸샤아아앗…
+,,,,,,,,
+Dialog.Chapter2-2-57,六花,「う……、ぁ……っ♥」,「う……、ぁ……っ♥」,「嗚……啊……♥」,「嗚……啊……♥」,"「U......, ah......♥」","""Haaa... ♥""","「으……, 아……읏♥」"
+,,,,,,,,
+Dialog.Chapter2-2-58,,六花の尿道から黄色の液体が放たれ、じょぼじょぼと音を立てながら容器に溜まっていく,六花の尿道から黄色の液体が放たれ、じょぼじょぼと音を立てながら容器に溜まっていく,黃色的液體從六花的尿道流出，發出嘩啦嘩啦的聲響，逐漸積滿了容器。,黃色的液體從六花的尿道流出，發出嘩啦嘩啦的聲響，逐漸積滿了容器。,Yellow liquid is released from Rikka's urethra and accumulates in a container while making a dribbling sound.,A yellow liquid came out of Rikka and filled the container.,"릿카의 요도에서 노란 액체가 방출되어, 조르륵 조르륵 소리를 내며 용기에 쌓여간다"
+,,,,,,,,
+Dialog.Chapter2-2-59,六花,「っ…！そんなに見るなぁっ」,「っ…！そんなに見るなぁっ」,「…！不要盯著看啦」,「…！不要盯著看啦」,「.....Don't look at me like that!」,"""Ugh, don't look at me!""",「윽…! 그렇게 보지 마!」
+,,,,,,,,
+Dialog.Chapter2-2-60,005号,「沢山出ますね。サンプルが増えるので良いことです」,「沢山出ますね。サンプルが増えるので良いことです」,「出得真多呢。這是好事，樣本越多越好。」,「出得真多呢。這是好事，樣本越多越好。」,「It's good because it gives us a larger sample.」,"""That is a lot of urine. This is good, because we will have more samples to work with.""",「많이 나오네요. 샘플이 늘어나니 좋은 일입니다」
+,,,,,,,,
+Dialog.Chapter2-2-61,六花,(～～ううっ、室内だからおしっこの音反響してっ、全員に聞かれてるっ、恥ずかしすぎるっ！),(～～ううっ、室内だからおしっこの音反響してっ、全員に聞かれてるっ、恥ずかしすぎるっ！),（～～嗚嗚、因為是在室內，小便的聲音一直迴盪……全都被聽見了……太羞恥了啦！）,（～～嗚嗚、因為是在室內，小便的聲音一直迴盪……全都被聽見了……太羞恥了啦！）,"(~~~Ugh, I'm indoors, so the sound of my pee will reverberate, everyone can hear me, it's too embarrassing!)","(Ugh, it's so embarrassing... Everyone can hear me peeing because I'm in a room...)","(~~으윽, 실내라서 오줌 소리가 울려서… 전부 듣고 있잖아! 너무 창피해!)"
+,,,,,,,,
+Dialog.Chapter2-2-62,,ぷしゃっ、ちょろろ……,ぷしゃっ、ちょろろ……,噗咻、滴哩哩……,噗咻、滴哩哩……,Pshaw ......,Pzzzz...,"푸샷, 조르르……"
+,Rikka2-6,,,,,,,
+Dialog.Chapter2-2-63,六花,「――ふうっ、う…♥」,「――ふうっ、う…♥」,「――呼…♥」,「――呼…♥」,「――hu...u...♥」,"""Phew...♥""","「――후웃, 으…♥」"
+,,,,,,,,
+Dialog.Chapter2-2-64,005号,「全部出し切ったようで何よりです。オリジナルの排尿、興味深く見させてもらいました」,「全部出し切ったようで何よりです。オリジナルの排尿、興味深く見させてもらいました」,「看來已經全都排乾淨了，真是太好了。原型的排尿過程，我也觀察得十分有興趣。」,「看來已經全都排乾淨了，真是太好了。原體的排尿過程，我也觀察得十分有興趣。」,「I'm glad you got it all out. I was very interested to see the Original's urination.」,"""It's important that you empty your bladder. It was very interesting to see the Original urinate.""","「전부 다 나온 것 같아 다행입니다. 오리지널의 배뇨, 흥미롭게 잘 봤습니다」"
+Dialog.Chapter2-2-65,六花,「～～～っっっ、！」,「～～～っっっ、！」,「～～～～～！！」,「～～～～～！！」,「~~~~!」,"""...Ugh!""","「~~~으읏읏,!」"
+,,,,,,,,
+,,,,,,,,
+,エロシーン終了,,,,,,,
+,廃ビル(日中),,,,,,,
+Dialog.Chapter2-2-66,六花,「…これで要求には全部従った。早く明穂に会わせて」,「…これで要求には全部従った。早く明穂に会わせて」,「……我已經配合完所有要求了。快讓我見明穗。」,「……我已經配合完所有要求了。快讓我見明穗。」,"「I've complied with all of your demands. Quickly, let me see Akiho.」","""I've done everything you asked, so please take me to Akiho.""",「…이걸로 요구는 전부 따랐어. 빨리 아키호에게 데려가 줘.」
+,,,,,,,,
+Dialog.Chapter2-2-67,005号,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「'Yes...but do you think we would do nothing in the face of an enemy who is completely naked and handcuffed?'」,"""I see. But do you think we won't take any action with our enemy standing in front of us naked?""","「그렇군요… 하지만 알몸에 수갑 찬 상태의 적을 앞에 두고, 저희가 아무것도 안 할 거라고 생각하십니까?」"
+,,,,,,,,
+Dialog.Chapter2-2-68,,部屋のあちこちから隠れていた戦闘員が現れる,部屋のあちこちから隠れていた戦闘員が現れる,隱藏在房間各處的戰鬥員們陸續現身。,隱藏在房間各處的戰鬥員們陸續現身。,Combatants who had been hiding emerge from various parts of the room.,Soldiers emerged from their hiding spots in the room.,방 곳곳에서 숨어 있던 전투원들이 나타난다
+,,,,,,,,
+Dialog.Chapter2-2-69,六花,「…こうなると思った。交渉は決裂か…」,「…こうなると思った。交渉は決裂か…」,「……我就知道會變成這樣。談判破裂了……」,「……我就知道會變成這樣。談判破裂了……」,「I knew this would happen. Negotiations have broken down...」,"""I knew it. I guess our negotiation has gone south.""",「…이렇게 될 줄 알았어. 교섭은 결렬인가…」
+,,,,,,,,
+Dialog.Chapter2-2-70,,「―――変身」,「―――変身」,「―――變身」,「―――變身」,「Transform.」,"""...Transform.""",「―――변신」
+,,,,,,,,
+Dialog.Chapter2-2-71,,六花の体から青色の光が立ち上り、体がスーツに包まれる,六花の体から青色の光が立ち上り、体がスーツに包まれる,藍色光芒自六花體內迸發，身體隨之被戰鬥套裝包覆。,藍色光芒自六花體內迸發，身體隨之被戰鬥套裝包覆。,Blue light rises from Rikka's body and her body is enveloped by the suit.,Rikka's body glowed blue and she was covered in her battle suit.,"릿카의 몸에서 푸른 빛이 피어오르며, 몸이 슈트로 감싸인다"
+,,,,,,,,
+Dialog.Chapter2-2-72,005号,「――――総員戦闘準備っ！水無瀬六花を確保する！」,「――――総員戦闘準備っ！水無瀬六花を確保する！」,「――――全員戰鬥準備！抓住水無瀨六花！」,「――――全員戰鬥準備！抓住水無瀨六花！」,「―――― All hands prepare for battle! Capture Minase Rikka!」,"""Ready for battle! We need to capture Rikka Minase!""",「――――총원 전투 준비! 미나세 릿카를 확보한다!」
+,,,,,,,,
+Dialog.Chapter2-2-73,,戦闘員たちが一斉に六花に襲い掛かる,戦闘員たちが一斉に六花に襲い掛かる,戰鬥員們一齊向六花發動攻擊。,戰鬥員們一齊向六花發動攻擊。,All the combatants attack Rikka at once.,The soldiers attacked Rikka in unison.,전투원들이 일제히 릿카에게 덤벼든다
+,,,,,,,,
+Dialog.Chapter2-2-74,六花,「ふんっ！」,「ふんっ！」,「哼！」,「哼！」,「Hmph!」,"""Ha!""",「흥!」
+,,,,,,,,
+Dialog.Chapter2-2-75,,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,原本銬在六花身上的手銬鎖鏈，竟如細線般被輕易扯斷——,原本銬在六花身上的手銬鎖鏈，竟如細線般被輕易扯斷——,The chains of the handcuffs on Rikka were ripped off as easily as thread―――.,Rikka broke the handcuffs they placed around her wrists like a thread.,릿카에게 채워져 있던 수갑 사슬이 실처럼 간단히 끊어지는가 싶더니―――
+,,,,,,,,
+Dialog.Chapter2-2-76,,「あんた達、流石に私を舐めすぎ…、はっ！」,「あんた達、流石に私を舐めすぎ…、はっ！」,「你們也未免太小看我了……哈！」,「你們也未免太小看我了……哈！」,「You guys underestimated too much...ha!」,"""You really thought this could keep me down? Huh?""","「너희들, 너무 나를 얕봤어…, 하앗!」"
+,,,,,,,,
+Dialog.Chapter2-2-77,,ドガガガッ！,ドガガガッ！,轟轟轟轟！,轟轟轟轟！,Dogga―ga―ga!,Boom!,도가각!
+,,,,,,,,
+Dialog.Chapter2-2-78,,「がはっ！」,「がはっ！」,「哈！」,「哈！」,「Gaaah!」,"""Ugh!""",「커헉!」
+,,,,,,,,
+Dialog.Chapter2-2-79,,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,被六花的一記迴旋踢震碎下顎，襲向她的戰鬥員們應聲全數倒地。,被六花的一記迴旋踢震碎下顎，襲向她的戰鬥員們應聲全數倒地。,Rikka's spinning kick blow shakes the jaw and all the attacked fighters crumple to the floor.,Rikka launched a roundhouse kick that knocked all the soldiers around her down.,"릿카의 돌려차기 한 방이 턱을 흔들고, 덤벼든 전투원 전원이 바닥에 쓰러진다"
+,,,,,,,,
+Dialog.Chapter2-2-80,六花,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「我沒那麽多時間陪你們。明穗，我現在就去找你！哈！」,「我沒那麽多時間陪你們。明穗，我現在就去找你！哈！」,"「I don't have time for you guys anymore. Wait for me, Akiho, I'm coming! Haa!」","""I don't have time for this. Akiho, I'm coming to rescue you!""","「이제 너희들 상대할 시간 없어. 기다려 아키호, 지금 갈 테니까! 하아앗!」"
+,,,,,,,,
+Dialog.Chapter2-2-81,,ドゴッ！！,ドゴッ！！,咚轟！！,咚轟！！,!!!!!!!!!!!!!!!!!,Bang!,도곡!!
+,,,,,,,,
+Dialog.Chapter2-2-82,,六花は天井に向かって飛び上がったと思うと、そのまま蹴りで天井を破る,六花は天井に向かって飛び上がったと思うと、そのまま蹴りで天井を破る,六花向天花板飛躍而起，接著一腳踢破了天花板。,六花向天花板飛躍而起，接著一腳踢破了天花板。,Rikka jumps up toward the ceiling and breaks the ceiling with a direct kick,Rikka jumped toward the ceiling and broke through with a kick.,"릿카는 천장을 향해 뛰어오르는가 싶더니, 그대로 발차기로 천장을 부순다"
+,,,,,,,,
+Dialog.Chapter2-2-83,戦闘員,「なんだコイツっ！、おいっ、他の階の部隊に告ぐっ！水無瀬六花を足止めしろ！」,「なんだコイツっ！、おいっ、他の階の部隊に告ぐっ！水無瀬六花を足止めしろ！」,「這傢伙是怎麽回事！？喂，通報其他樓層的部隊！給我阻止水無瀨六花的行動！」,「這傢伙是怎麽回事！？喂，通報其他樓層的部隊！給我阻止水無瀨六花的行動！」,"「What the hell is this girl? Hey, tell the troops on the other floors! Stop Minase Rikka!」","""What the hell? Alert the teams on the other floors! Stop Rikka Minase!""",「뭐야 이 자식! 어이! 다른 층 부대에게 고한다! 미나세 릿카의 발을 묶어라!」
+,,,,,,,,
+Dialog.Chapter2-2-84,六花,「無駄だってっ！はぁっ！」,「無駄だってっ！はぁっ！」,「沒用的！哈！」,「沒用的！哈！」,「It's useless! Hah!」,"""It's no use! Haaa!""",「소용없다고! 하아앗!」
+,,,,,,,,
+Dialog.Chapter2-2-85,,ドゴンッ！ドゴンッ！,ドゴンッ！ドゴンッ！,咚轟！！咚轟！！,咚轟！！咚轟！！,Boom!,Boom! Crash!,도공! 도공!
+,,,,,,,,
+Dialog.Chapter2-2-86,,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,將襲來的戰鬥員一一瞬殺，六花破開天花板，沿最短路徑衝向明穗所在的樓層。,將襲來的戰鬥員一一瞬殺，六花破開天花板，沿最短路徑衝向明穗所在的樓層。,"defeating every combatant who try to attacked her, Rikka took the shortest route up to the floor where Akiho was, breaking through the ceiling.","Rikka took down all the soldiers in the blink of an eye, and kept going up by breaking through the ceiling.","덤벼드는 전투원들을 모조리 순살하고, 릿카는 천장을 부수며 최단 루트로 아키호가 있는 층으로 올라간다."
+,,,,,,,,
+Dialog.Chapter2-2-87,,(待ってて明穂っ！今行くからっ！),(待ってて明穂っ！今行くからっ！),（等我明穗！我現在就去找你！）,（等我明穗！我現在就去找你！）,"(Wait for me, Akiho! I'm coming!)","(Just wait, Akiho! I'm coming!)",(기다려 아키호! 지금 갈게!)
+,,,,,,,,
+Dialog.Chapter2-2-88,,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,六花僅用了不到一分鐘便抵達了明穗所在的樓層——,六花僅用了不到一分鐘便抵達了明穗所在的樓層——,"Rikka reached the floor where Akiho was in about a minute, and...",It only took Rikka about a minute to reach the floor that Akiho was on.,그리고 릿카는 불과 1분 만에 아키호가 있는 층에 도착하여―――
+,,,,,,,,
+Dialog.Chapter2-2-89,六花,「―――明穂っ！」,「―――明穂っ！」,「———明穗！」,「———明穗！」,「Akiho!」,"""Akiho...!""",「―――아키호!」
+,,,,,,,,
+Dialog.Chapter2-2-90,明穂,「――――六花…？」,「――――六花…？」,「———六花…？」,「———六花…？」,「―――― Rikka...?」,"""Rikka?""",「――――릿카…?」
+,,,,,,,,
+Dialog.Chapter2-2-91,,遂に六花は探していた親友を見つけた,遂に六花は探していた親友を見つけた,終於，六花找到了她一直在尋找的摯友。,終於，六花找到了她一直在尋找的摯友。,"Finally, Rikka found the best friend she was looking for.",Rikka finally found her friend.,마침내 릿카는 찾고 있던 친구를 발견했다
+,,,,,,,,
+Chapter 2-3,注釈,,,,,,,
+,廃ビル,,,,,,,
+Dialog.Chapter2-3-1,六花,「―――明穂っ！」,「―――明穂っ！」,「———明穗！」,「———明穗！」,「Akiho!」,"""Akiho!""",「―――아키호!」
+,,,,,,,,
+Dialog.Chapter2-3-2,明穂,「――――六花…？」,「――――六花…？」,「———六花…？」,「———六花…？」,「―――― Rikka...?」,"""Rikka...""",「――――릿카…?」
+,,,,,,,,
+Dialog.Chapter2-3-3,戦闘員,「っ！バケモノがっ、もう上がってきやがったのかっ！？」,「っ！バケモノがっ、もう上がってきやがったのかっ！？」,「什、什麼！？竟然已經殺上來了嗎！？」,「什、什麼！？竟然已經殺上來了嗎！？」,「What! This monster has already come up!」,"""She's already up here? What a freak...""","「윽! 괴물 자식이, 벌써 올라온 거냐!」"
+,,,,,,,,
+Dialog.Chapter2-3-4,六花,「―――明穂から離れろっ！」,「―――明穂から離れろっ！」,「――――給我離明穗遠一點！」,「――――給我離明穗遠一點！」,「Get away from Akiho!」,"""Stay away from Akiho!""",「―――아키호에게서 떨어져!」
+,,,,,,,,
+Dialog.Chapter2-3-5,,その瞬間、六花の蹴りが戦闘員二人を吹き飛ばす,その瞬間、六花の蹴りが戦闘員二人を吹き飛ばす,只花了一瞬間，六花的踢擊將兩名戰鬥員踢飛。,只花了一瞬間，六花的踢擊將兩名戰鬥員踢飛。,"At that moment, Rikka's kick blows away two combatants.",Rikka sent another two soldiers flying with a kick.,"그 순간, 릿카의 발차기가 전투원 두 명을 날려버린다"
+,,,,,,,,
+Dialog.Chapter2-3-6,六花,「明穂っ！」,「明穂っ！」,「明穗！」,「明穗！」,「Akiho!」,"""Akiho!""",「아키호!」
+,,,,,,,,
+Dialog.Chapter2-3-7,明穂,「―――六花！」,「―――六花！」,「———六花！」,「———六花！」,「Rikka!」,"""Rikka!""",「―――릿카!」
+,,,,,,,,
+Dialog.Chapter2-3-8,六花,「よかった…無事で…」,「よかった…無事で…」,「太好了……妳沒事就好……」,「太好了……妳沒事就好……」,「Thank God... you're safe...」,"""I'm glad you're all right...""",「다행이다… 무사했구나…」
+,,,,,,,,
+Dialog.Chapter2-3-9,明穂,「うん…六花なら助けに来てくれるって信じてた…。」,「うん…六花なら助けに来てくれるって信じてた…。」,「嗯……我就知道，六花一定會來救我……」,「嗯……我就知道，六花一定會來救我……」,「Yes. I've never doubt that Rikka would come to my rescue...」,"""I knew you would come for me...""",「응… 릿카라면 도와주러 올 거라고 믿었어….」
+,,,,,,,,
+Dialog.Chapter2-3-10,六花,「早くここから逃げよう。背中につかまって。」,「早くここから逃げよう。背中につかまって。」,「我們趕快離開這裡吧。抓緊我的背后。」,「我們趕快離開這裡吧。抓緊我的背后。」,「Let's get the hell out of here. Hold on to my back.」,"""Let's get out of here. Get on my back.""",「빨리 여기서 도망치자. 등에 매달려.」
+,,,,,,,,
+Dialog.Chapter2-3-11,,六花が明穂の拘束を解き、背中に背負って安堵した瞬間,六花が明穂の拘束を解き、背中に背負って安堵した瞬間,六花解開明穗的束縛，將她背到背上，正感到安心的瞬間——,六花解開明穗的束縛，將她背到背上，正感到安心的瞬間——,The moment Rikka released Akiho's restraints and was relieved to carry her on her back,Rikka undid Akiho's restraints and turned her back toward Akiho.,"릿카가 아키호의 구속을 풀고, 등에 업고 안도한 순간"
+,,,,,,,,
+Dialog.Chapter2-3-12,,―――六花の首筋にチクリとした痛みが走る,―――六花の首筋にチクリとした痛みが走る,「———六花的脖子傳來一陣刺痛。」,「———六花的脖子傳來一陣刺痛。」,―――A prickle of pain runs down Rikka's neck.,...And then something stung her in the neck.,―――릿카의 목덜미에 따끔한 통증이 스친다
+,,,,,,,,
+Dialog.Chapter2-3-13,六花,「――――――？っ！」,「――――――？っ！」,「———？！」,「———？！」,「I'm going to go to ――――――? !」,"""...?""",「――――――? 윽!」
+,,,,,,,,
+Dialog.Chapter2-3-14,,六花の全身から力が抜け変身が解け、その場に座り込む,六花の全身から力が抜け変身が解け、その場に座り込む,六花全身的力氣瞬間被抽空，變身隨之解除，整個人無力地癱坐在地上。,六花全身的力氣瞬間被抽空，變身隨之解除，整個人無力地癱坐在地上。,"Rikka's entire body relaxes, her transformation is forced to released, and she sits down on the spot.","Rikka lost all her strength and crumpled to the floor, losing her transformation in the process.","릿카의 온몸에서 힘이 빠져 변신이 풀리고, 그 자리에 주저앉는다"
+,,,,,,,,
+Dialog.Chapter2-3-15,明穂,「うんっ。ちゃんと効いたね～！良かった！」,「うんっ。ちゃんと効いたね～！良かった！」,「嗯～效果很明顯呢！太好了～！」,「嗯～效果很明顯呢！太好了～！」,「It worked! It worked properly~~ That's great!」,"""It worked! Woohoo!""",「응. 제대로 먹혔네~! 다행이다!」
+,,,,,,,,
+Dialog.Chapter2-3-16,六花,「――――っ、なん…でっ、明穂っ！？」,「――――っ、なん…でっ、明穂っ！？」,「———？！為…為什麼、明穗！」,「———？！為…為什麼、明穗！」,"「――――, what..., Akiho!?」","""...Wh-Why, Akiho?""","「――――윽, 왜…어째서, 아키호!?」"
+,,,,,,,,
+Dialog.Chapter2-3-17,明穂,「ごめんね六花。でもしょうがないの…」,「ごめんね六花。でもしょうがないの…」,「對不起，六花。但是我也沒辦法……」,「對不起，六花。但是我也沒辦法……」,「I'm sorry Rikka. But I can't help it...」,"""Sorry, Rikka. I had to do it.""",「미안해 릿카. 하지만 어쩔 수 없어…」
+,,,,,,,,
+Dialog.Chapter2-3-18,,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,赤紫色、黏稠而詭異的光芒自明穗體內湧出，她的身姿也隨之扭曲改變。,赤紫色、黏稠而詭異的光芒自明穗體內湧出，她的身姿也隨之扭曲改變。,A suspicious reddish-purple sludge light rises from Akiho's body and changes her form.,Akiho's body glowed red and purple as she transformed.,"아키호의 몸에서 자줏빛 질척한 빛이 피어오르며, 모습이 변한다"
+,,,,,,,,
+Dialog.Chapter2-3-19,六花,「――――――っ、――明穂……なの？」,「――――――っ、――明穂……なの？」,「――……妳、是……明穗……嗎？」,「――……妳、是……明穗……嗎？」,「――――――――.....are you.... Akiho.?」,"""...Are you Akiho?""","「――――――윽, ――아키호……맞아?」"
+,,,,,,,,
+Dialog.Chapter2-3-20,明穂,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「呵呵，是我喔，六花♥ 雖然……外表好像變得有點不一樣了♥」,「呵呵，是我喔，六花♥ 雖然……外表好像變得有點不一樣了♥」,"「Rikka, I may have changed my appearance a little, but I'm still the same person.」","""Yes, I am. I might look a little different, though.""","「후훗, 맞아 릿카♥ 좀 모습은 변했을지도 모르지만♥」"
+,,,,,,,,
+Dialog.Chapter2-3-21,,明穂の髪は戦闘員のような白色に変わり、もともと大きめだった胸は肥大化して人間の体とは思えないほどになっている。,明穂の髪は戦闘員のような白色に変わり、もともと大きめだった胸は肥大化して人間の体とは思えないほどになっている。,明穗的髮色轉為與戰鬥員相同的純白，而原本就比一般人豐滿的胸部，更是膨脹到異常巨大，已經到了不像人類身體的程度。,明穗的髮色轉為與戰鬥員相同的純白，而原本就比一般人豐滿的胸部，更是膨脹到異常巨大，已經到了不像人類身體的程度。,"Akiho's hair turned white, and her originally large breasts have become so enlarged that they do not seem human.","Akiho's hair looked white, just like the soldiers. Her already-large breasts were even bigger, so big that they almost didn't look humanly possible.","아키호의 머리카락은 전투원처럼 하얗게 변했고, 원래 컸던 가슴은 비대화되어 인간의 몸이라고는 생각할 수 없을 정도가 되었다."
+,,,,,,,,
+Dialog.Chapter2-3-22,,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,而此刻，那張曾屬於摯友的臉上，卻浮現出過去從未見過、充滿惡意與妖媚的笑容。,而此刻，那張曾屬於摯友的臉上，卻浮現出過去從未見過、充滿惡意與妖媚的笑容。,And her mouth was smiling an obscene and lecherous smile that she would never have done.,"She had a perverted and sadistic smile on her face, one that Rikka had never seen before from her friend.","그리고, 그 입가에서는 과거의 친구가 지을 리 없는 음란하고 가학적인 미소가 흘러나왔다."
+,,,,,,,,
+Dialog.Chapter2-3-23,明穂,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花，從一開始的計劃就是把你引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,「六花，從一開始的計劃就是把你引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,"「Rikka was led to come here from the beginning, you know? I didn't think you'd break through the quicksand floor like that, but...」","""You were guided here, right? I didn't expect you to break the floors, though.""",「릿카는 처음부터 여기 오도록 유도된 거라고? 설마 바닥을 부수고 올 줄은 몰랐지만…」
+,,,,,,,,
+Dialog.Chapter2-3-24,,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,接著，許多財團的戰鬥員與怪人接連從陰影處現身。,接著，許多財團的戰鬥員與怪人接連從陰影處現身。,"Then, out of the shadows, a number of foundation fighters and monsters emerge.",Several Foundation monsters and soldiers emerged from the shadows.,"그리고, 그늘에서 몇 명이나 되는 재단 전투원과 괴인이 나타난다."
+,,,,,,,,
+Dialog.Chapter2-3-25,,「私、財団に怪人に改造してもらって、今はこんな素敵な体にしてもらえたの♥六花も怪人になって私と一緒に気持ちよくなっちゃお？」,「私、財団に怪人に改造してもらって、今はこんな素敵な体にしてもらえたの♥六花も怪人になって私と一緒に気持ちよくなっちゃお？」,「我被財團改造成了怪人，現在這副身體超級棒的♥ 六花不如也變成怪人，跟我一起舒服一下嘛～♥」,「我被財團改造成了怪人，現在這副身體超級棒的♥ 六花不如也變成怪人，跟我一起舒服一下嘛～♥」,"「I was converted into a monster by the foundation, and now I have such a wonderful body.」","""The Foundation turned me into a monster and gave me this incredible body. Why don't you join me?""","「나, 재단에서 괴인으로 개조받아서, 지금은 이렇게 멋진 몸이 되었어♥ 릿카도 괴인이 돼서 나랑 같이 기분 좋아지자?」"
+,,,,,,,,
+Dialog.Chapter2-3-26,六花,「そ、んな…っ」,「そ、んな…っ」,「怎、怎麼會這樣……」,「怎、怎麼會這樣……」,"「Oh, no...」","""I... No...""","「그, 럴…윽」"
+,,,,,,,,
+Dialog.Chapter2-3-27,,「……許さないっ！――――――！」,「……許さないっ！――――――！」,「……絕不饒恕你們！――――――！」,「……絕不饒恕你們！――――――！」,「I won't forgive ......! ――――――!」,"""I can't forgive you for this!""",「……용서 못 해! ――――――!」
+,,,,,,,,
+Dialog.Chapter2-3-28,,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,即使全身無力、意識也逐漸模糊，六花仍憑著一股意志硬是撐起身體站了起來。,即使全身無力、意識也逐漸模糊，六花仍憑著一股意志硬是撐起身體站了起來。,"With no strength and in a daze of consciousness, Rikka forced herself to stand up with her spirit.",Rikka tried to stand up despite her mind fading.,"힘이 들어가지 않고, 몽롱한 의식 속에서, 릿카는 기합으로 억지로 일어선다."
+,,,,,,,,
+Dialog.Chapter2-3-29,,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「哈、哈啊……我一定會把明穗……帶回來！變身！」,「哈、哈啊……我一定會把明穗……帶回來！變身！」,"「Huh, huh, Akiho...I'll get you back! Transform!」","""Huff... I will take Akiho back! Transform!""","「하아, 하아앗, 아키호는… 절대로 되찾겠어! 변신!」"
+,,,,,,,,
+Dialog.Chapter2-3-30,明穂,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，你得忍一忍咯？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，你得忍一忍咯？」,"「Rikka, as expected! I knew drugs alone wouldn't stop you. ―――It might hurt a little bit, but you'll just have to bear with it, okay?」","""Wow, go you! I knew drugs weren't enough to keep you down. This is going to hurt, but bear with me.""",「역시 릿카! 역시 약만으로는 멈출 수 없구나. ―――좀 아플지도 모르지만 참아줘?」
+,,,,,,,,
+,戦闘開始,,,,,,,
+,,,,,,,,
+,戦闘終了,,,,,,,
+,,,,,,,,
+Dialog.Chapter2-3-31,六花,「ハァッ、ハァッ、私はっ、負けな―――っっ」,「ハァッ、ハァッ、私はっ、負けな―――っっ」,「哈、哈啊……我、絕對……不會輸——唔！」,「哈、哈啊……我、絕對……不會輸——唔！」,"「Huh, huh, I'm not going to lose...」","""Huff... I... You can't beat me!""","「하아앗, 하아앗, 나는, 지지 않아―――으윽」"
+,,,,,,,,
+Dialog.Chapter2-3-32,明穂,「おっと！」,「おっと！」,「哎喲！」,「哎喲！」,「Oops!」,"""Whoa!""",「어이쿠!」
+,,,,,,,,
+Dialog.Chapter2-3-33,,倒れる六花を明穂が受け止める,倒れる六花を明穂が受け止める,明穗一把接住倒下的六花。,明穗一把接住倒下的六花。,Akiho catches Rikka as she falls.,Akiho caught a falling Rikka.,쓰러지는 릿카를 아키호가 받아 안는다
+,,,,,,,,
+Dialog.Chapter2-3-34,明穂,「ふふっ、六花負けちゃったね？諦めて私と一緒に楽になろう？」,「ふふっ、六花負けちゃったね？諦めて私と一緒に楽になろう？」,「呵呵，六花輸了呢？放棄抵抗，跟我一起變輕鬆吧？」,「呵呵，六花輸了呢？放棄抵抗，跟我一起變輕鬆吧？」,"「Rikka, you lost, didn't you? Why don't you just give up and get comfortable together with me?」","""But you lost. Just give up and enjoy it with me!""","「후훗, 릿카 져버렸네? 포기하고 나랑 같이 편해지자?」"
+,,,,,,,,
+Dialog.Chapter2-3-35,六花,「……明穂…っ！目を覚まして…っ！」,「……明穂…っ！目を覚まして…っ！」,「……明穗……拜託，清醒一點……！」,「……明穗……拜託，清醒一點……！」,「......Akiho...! Please wake up...!」,"""Akiho! Wake up!""",「……아키호…윽! 정신 차려…윽!」
+,,,,,,,,
+Dialog.Chapter2-3-36,明穂,「大丈夫だよ…堕ちるときは一緒に…ね？」,「大丈夫だよ…堕ちるときは一緒に…ね？」,「沒事的…我們一起墮落吧？」,「沒事的…我們一起墮落吧？」,「Don't worry... Even in the dark we'll fall together... right?」,"""It's fine. We'll fall together, right?""",「괜찮아… 타락도 함께니까… 알겠지?」
+,,,,,,,,
+Dialog.Chapter2-3-37,,明穂が六花の頭を赤子をなだめるようにをなでると、強烈な眠気と安心感が六花を襲う,明穂が六花の頭を赤子をなだめるようにをなでると、強烈な眠気と安心感が六花を襲う,明穗像安撫孩子般輕撫著六花的頭，強烈的睡意與異樣的安心感頓時席捲而來。,明穗像安撫孩子般輕撫著六花的頭，強烈的睡意與異樣的安心感頓時席捲而來。,"When Akiho patted Rikka's head as if she were soothing a baby, a strong sense of sleepiness and relief overcame Rikka.",Rikka was overcome with a powerful sense of safety and drifted off to sleep as Akiho petted her head like a baby.,"아키호가 릿카의 머리를 달래듯 쓰다듬자, 강렬한 졸음과 안도감이 릿카를 덮친다"
+,,,,,,,,
+Dialog.Chapter2-3-38,六花,「だめっ―――、あき…ほ…っ」,「だめっ―――、あき…ほ…っ」,「不行……明、穗……」,「不行……明、穗……」,「No... aki... ho...」,"""No... Aki... ho...""","「안 돼―――, 아키… 호…윽」"
+,,,,,,,,
+Dialog.Chapter2-3-39,,「ぁ、―――」,「ぁ、―――」,「啊、——」,「啊、——」,「uh...」,"""Ahh...""","「아, ―――」"
+,,,,,,,,
+Dialog.Chapter2-3-40,,…………<br>………<br>……,…………<br>………<br>……,「…………<br>………<br>……」,「…………<br>………<br>……」,............<br>.........<br>......,...<br>...<br>...,…………<br>………<br>……
+,,,,,,,,
+Dialog.Chapter2-3-41,,六花の意識はそこで途絶えた,六花の意識はそこで途絶えた,六花的意識就此中斷了。,六花的意識就此中斷了。,Rikka's consciousness ceased there.,Rikka lost consciousness.,릿카의 의식은 거기서 끊겼다
+,,,,,,,,
+,報酬画面に入る,――――――,――――――,――――――,――――――,――――――,...,――――――
+,突発イベント：,,,,,,,
+Dialog.Chapter2-3-42,005号,「対象の沈黙を確認。作戦は成功です、このままオリジナル“水無瀬六花”を拘束し、アジトへ帰還します」,「対象の沈黙を確認。作戦は成功です、このままオリジナル“水無瀬六花”を拘束し、アジトへ帰還します」,「確認目標已失去意識。作戰成功。立刻拘束原型『水無瀨六花』，返回據點。」,「確認目標已失去意識。作戰成功。立刻拘束原型『水無瀨六花』，返回據點。」,"「The target's silence has been confirmed. The operation was a success. We will take the original ""Minase Rikka"" and return to the hideout.」","""Target has been subdued, the operation was a success. We have captured Rikka Minase, the ""Original"", and we will be returning to the hideout.""","「대상의 침묵을 확인. 작전은 성공입니다, 이대로 오리지널 “미나세 릿카”를 구속하고, 아지트로 귀환합니다」"
+,,,,,,,,
+Dialog.Chapter2-3-43,明穂,「みんなおつかれ～！六花は強いから心配してたけど、思ったより大したこと無かったね！」,「みんなおつかれ～！六花は強いから心配してたけど、思ったより大したこと無かったね！」,「大家辛苦啦～！原本還擔心六花太強，不過結果看來也沒什麼了不起嘛！」,「大家辛苦啦～！原本還擔心六花太強，不過結果看來也沒什麼了不起嘛！」,"「I was worried because Rikka is so strong, but it wasn't as big a deal as I thought!」","""Good work! I was worried because Rikka is so powerful, but that was not too hard!""","「모두 수고했어~! 릿카는 강해서 걱정했는데, 생각보다 별거 아니었네!」"
+,,,,,,,,
+Dialog.Chapter2-3-44,005号,「対象をアジトへ移送し、完全に拘束するまでが本作戦です。まだ気を抜かないように。」,「対象をアジトへ移送し、完全に拘束するまでが本作戦です。まだ気を抜かないように。」,「本次作戰的任務是把目標移送回據點，並在完全拘束。在此之前不能放鬆警惕。」,「本次作戰的任務是把目標移送回據點，並在完全拘束。在此之前不能放鬆警惕。」,「The operation will continue until the subject is transported to thehideout and taken into full custody. Do not let your guard down yet.」,"""The operation is not over until she is delivered to the secret hideout to be fully restrained. Stay alert!""","「대상을 아지트로 이송하고, 완전히 구속할 때까지가 본 작전입니다. 아직 긴장을 풀지 마십시오.」"
+,,,,,,,,
+Dialog.Chapter2-3-45,明穂,「う～～、クローンちゃんも六花に似て真面目なんだから…後は帰るだけなんだし心配いらないよ！」,「う～～、クローンちゃんも六花に似て真面目なんだから…後は帰るだけなんだし心配いらないよ！」,「唉～複製體小姐跟六花一樣也認真了吧…接下來只要回去就好了，沒什麼好擔心的啦～！」,「唉～複製體小姐跟六花一樣也認真了吧…接下來只要回去就好了，沒什麼好擔心的啦～！」,"「Uh~~, Clone-chan is just as serious as Rikka... all we have to do now is go home, so don't worry!」","""Even the clones are as serious as Rikka. We just have to go back, there's nothing to worry about!""","「우～～, 클론쨩도 릿카 닮아서 진지하다니까… 이제 돌아가기만 하면 되는데 걱정할 필요 없어!」"
+,,,,,,,,
+Dialog.Chapter2-3-46,,その時、周辺の監視をしていた戦闘員から連絡が入る,その時、周辺の監視をしていた戦闘員から連絡が入る,這時，正在周邊監視的戰鬥員傳來聯絡——,這時，正在周邊監視的戰鬥員傳來聯絡——,"At that moment, the fighters monitoring the perimeter make contact.",Then they received a message from the scouting team nearby.,"그때, 주변을 감시하던 전투원으로부터 연락이 들어온다"
+,,,,,,,,
+Dialog.Chapter2-3-47,戦闘員,「六花捕獲班に告ぐっ！、作戦地点から6kmの距離で非常に強力な聖核戦姫と交戦中！」,「六花捕獲班に告ぐっ！、作戦地点から6kmの距離で非常に強力な聖核戦姫と交戦中！」,「六花捕獲班請注意！距離作戰地點6公里處正與極強的聖核戰姬交戰中！」,「六花捕獲班請注意！距離作戰地點6公里處正與極強的聖核戰姬交戰中！」,「Attention Rikka Capture Team! We are engaged with a very powerful Seikaku Princess at a distance of 6 kilometers from the operation point!」,"""Rikka capture team! We are engaged in combat with an extremely powerful Holy Core Battlemaiden is about six kilometers away from you!""","「릿카 포획반에 고한다!, 작전 지점으로부터 6km 거리에서 매우 강력한 성핵전희와 교전 중!」"
+,,,,,,,,
+Dialog.Chapter2-3-48,戦闘員,「聖核戦姫はビル方向へ向かって移動している模様！こっちの部隊はまもなく全滅する！」,「聖核戦姫はビル方向へ向かって移動している模様！こっちの部隊はまもなく全滅する！」,「聖核戰姬正在朝大樓方向移動！這裏的監視部隊即將全滅！」,「聖核戰姬正在朝大樓方向移動！這裏的監視部隊即將全滅！」,「The Seikaku Princess appears to be moving toward the building! Our troops will be annihilated soon!」,"""The Battlemaiden is moving toward the building! We are about to be wiped out!""",「성핵전희는 빌딩 방향으로 이동 중인 모양! 이쪽 부대는 곧 전멸한다!」
+,,,,,,,,
+Dialog.Chapter2-3-49,005号,「……！？、監視班、対象の特徴を教えてください」,「……！？、監視班、対象の特徴を教えてください」,「……！？、監視班，請報告目標的特徵」,「……！？、監視班，請報告目標的特徵」,"「......! Surveillance team, please describe the subject.」","""Please tell us what she looks like!""","「……!?, 감시반, 대상의 특징을 알려주십시오」"
+,,,,,,,,
+Dialog.Chapter2-3-50,戦闘員,「金髪で…とにかく強すぎるっ！、並みの聖核戦姫じゃねえっ――ぐぁっ――――」,「金髪で…とにかく強すぎるっ！、並みの聖核戦姫じゃねえっ――ぐぁっ――――」,「金髮…總之強到誇張！、根本不是一般的聖核戰姬――嗚啊――――」,「金髮…總之強到誇張！、根本不是一般的聖核戰姬――嗚啊――――」,「She's blonde...and too strong! She's no ordinary Seikaku Princess――gasp――――」,"""Blonde... Very powerful... Not the usual Holy Core Battlemaiden... Agh!""","「금발에… 아무튼 너무 강해!, 보통 성핵전희가 아니야――크악――――」"
+,,,,,,,,
+Dialog.Chapter2-3-51,,ピ―――――――,ピ―――――――,嗶―――――――,嗶―――――――,Pi―――――――,Beep...,삐―――――――
+,,,,,,,,
+Dialog.Chapter2-3-52,005号,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………變更作戰計劃。現在起將部隊分成兩支，一支為六花移送部隊，另一支為阻截部隊。」,「………變更作戰計劃。現在起將部隊分成兩支，一支為六花移送部隊，另一支為阻截部隊。」,"「......... I am going to revert the operation plan. From now on, we will split the force into two. One will be the Rikka transport force. The other is a stall force.」","""Plan B. Split into two groups now. One will take Rikka back, and one will stop the Battlemaiden.""","「………작전을 변경합니다. 지금부터 부대를 둘로 나누어, 하나는 릿카 이송 부대. 다른 하나는 발 묶기 부대입니다.」"
+,,,,,,,,
+Dialog.Chapter2-3-53,005号,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,"「Sasaya Akiho, please return to the hideout with a few fighters and take Minase Rikka with you. The rest of the fighters will stay here with me to buy time.」","""Akiho Sasaya and several soldiers will take Rikka Minase back to the hideout. Everyone else will stay with me to stall the Battlemaiden.""",「사사야 아키호는 몇 명의 전투원과 함께 미나세 릿카를 데리고 아지트로 귀환하십시오. 그 외의 전투원은 저와 함께 여기서 시간을 벌겠습니다.」
+,,,,,,,,
+Dialog.Chapter2-3-54,明穂,「…っ！分かった。じゃあ行くねっ！」,「…っ！分かった。じゃあ行くねっ！」,「…！知道了。那我們走！」,「…！知道了。那我們走！」,"「Okay, I'll go then!」","""...Right. See you!""",「…윽! 알았어. 그럼 갈게!」
+,,,,,,,,
+Dialog.Chapter2-3-55,戦闘員,「報告っ！既に対象が1kmの位置に接近！到着まであと30秒！」,「報告っ！既に対象が1kmの位置に接近！到着まであと30秒！」,「報告！目標已逼近到1公里範圍！預計30秒後抵達！」,「報告！目標已逼近到1公里範圍！預計30秒後抵達！」,「Report! Subject already approaching 1km position! 30 seconds to arrival!」,"""Sir, the target is less than a kilometer from us! Contact in 30 seconds!""",「보고! 이미 대상이 1km 위치에 접근! 도착까지 앞으로 30초!」
+,,,,,,,,
+Dialog.Chapter2-3-56,005号,「了解しました。総員戦闘準備！ビル前の道路で敵を足止めします！」,「了解しました。総員戦闘準備！ビル前の道路で敵を足止めします！」,「了解。全員進入戰鬥準備！在大樓前的道路上阻截目標！」,「了解。全員進入戰鬥準備！在大樓前的道路上阻截目標！」,「Copy that. All personnel prepare for battle! We'll hold the enemy back on the road in front of the building!」,"""Noted. Prepare for combat! We'll stop her on the road in front of the building!""",「알겠습니다. 총원 전투 준비! 빌딩 앞 도로에서 적의 발을 묶습니다!」
+,,,,,,,,
+Dialog.Chapter2-3-57,暗転,――――――,――――――,――――――,――――――,――――――,...,――――――
+,,,,,,,,
+,,戦闘開始,戦闘開始,戦闘開始,戦闘開始,,Combat Starts,전투 시작
+,,負けイベ,負けイベ,負けイベ,負けイベ,,Defeated event,패배 장면
+,,戦闘終了,戦闘終了,戦闘終了,戦闘終了,,Combat Ends,전투 종료
+,,,,,,,,
+Dialog.Chapter2-3-58,???(エレナ黒),「―――やれやれ、1分もかかりませんでしたね。」,「―――やれやれ、1分もかかりませんでしたね。」,「―――唉，真是的，連一分鐘都沒花到呢。」,「―――唉，真是的，連一分鐘都沒花到呢。」,"「――― Oh dear, that took less than a minute.」","""...That took less than a minute.""","「―――이런이런, 1분도 걸리지 않았군요.」"
+,,,,,,,,
+Dialog.Chapter2-3-59,戦闘員,「………バケモノめっ、…ガハッ」,「………バケモノめっ、…ガハッ」,「………怪、怪物…咳哈」,「………怪、怪物…咳哈」,"「......... you monster, ...gah!」","""You... freak... Ugh...""","「………괴물 자식, …커헉」"
+,,,,,,,,
+Dialog.Chapter2-3-60,エレナ,「バケモノとは心外です。私は清藤エレナ、聖月女学園のNo2です。知らずに戦いを挑んだのですか？」,「バケモノとは心外です。私は清藤エレナ、ホーリーコア・レギオンのNo2です。知らずに戦いを挑んだのですか？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,"「I'm sorry to be called a monster. I am Seidō Erena, No. 2 of Seigetsu Girl Academy. Did you challenge me to a fight without knowing it?」","""That's mean. I'm Elena Kiyofuji, the second-in-command Battlemaiden in Holy Core Legion. Did you not know about me before you took me on?""","「괴물이라니 실례입니다. 저는 세이토 엘레나, 홀리코어 레기온의 No2입니다. 모르고 싸움을 걸었습니까?」"
+,,,,,,,,
+Dialog.Chapter2-3-61,エレナ,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「算了，也罷。那麼，去找六花小姐吧。」,「算了，也罷。那麼，去找六花同學吧。」,"「Well, that's all right. Now let's go to Rikka―san's.」","""Anyway, I guess I'll go find Rikka.""","「뭐 됐습니다. 자, 릿카 양에게 가볼까요.」"
+,,,,,,,,
+Dialog.Chapter2-3-62,,「そこの戦闘員。水無瀬六花と笹谷明穂がどこにいるのか教えなさい。5秒以内に言わなければ―――」,「そこの戦闘員。水無瀬六花と笹谷明穂がどこにいるのか教えなさい。5秒以内に言わなければ―――」,「那邊的戰鬥員，告訴我水無瀨六花跟笹谷明穗在哪裡。我數到五―――」,「那邊的戰鬥員，告訴我水無瀨六花跟笹谷明穗在哪裡。我數到五―――」,「Tell me where Minase Rikka and Sasaya Akiho are. Tell me where Minase Rikka and Sasaya Akiho are if you don't tell me within five seconds...」,"""You, over there! Where is Rikka Minase and Akiho Sasaya? If you don't tell me within five seconds...""",「거기 전투원. 미나세 릿카와 사사야 아키호가 어디 있는지 알려주십시오. 5초 안에 말하지 않으면―――」
+,,,,,,,,
+Dialog.Chapter2-3-63,戦闘員,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「噫！我說、我說！水無瀨六花人在這棟大樓的最上層，剛剛還跟我們交戰——」,「噫！我說、我說！水無瀨六花人在這棟大樓的最上層，剛剛還跟我們交戰——」,"「I'll say it! Minase Rikka is on the top floor of this building! Minase Rikka is on the top floor of this building, and she was fighting with us just now!」","""Gahhhh! Rikka Minase is on the top floor of this building. She was just...""","「히익! 말할게요, 말하겠습니다! 미나세 릿카는 이 빌딩 최상층에 있고, 방금 전까지 저희와 전투를」"
+,,,,,,,,
+Dialog.Chapter2-3-64,,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,"With a thud, Erena jumped to the top floor of the building, smashing the glass and entering! Erena jumps up to the altitude of the top floor of the building, smashes the glass, and enters the building.","Elena jumped and reached the highest floor, then broke the window and went inside.","두슈! 하는 소리와 함께 엘레나는 빌딩 최상층 높이까지 뛰어오르고, 그대로 유리를 파괴하고 안으로 들어간다"
+,,,,,,,,
+Dialog.Chapter2-3-65,六花？,「……！エレナ先輩っ！？」,「……！エレナ先輩っ！？」,「……！艾蓮娜前輩！？」,「……！艾蓮娜前輩！？」,「......! Erena senior!」,"""...Elena?""",「……! 엘레나 선배!?」
+,,,,,,,,
+Dialog.Chapter2-3-66,エレナ,「……ああ六花さん、無事でしたか。」,「……ああ六花さん、無事でしたか。」,「……啊，六花小姐，妳沒事真是太好了。」,「……啊，六花小姐，妳沒事真是太好了。」,"「...... Oh Rikka―san, are you all right?」","""Rikka... Glad you're all right.""","「……아아 릿카 양, 무사했군요.」"
+,,,,,,,,
+Dialog.Chapter2-3-67,,ビルの最上階には制服の水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,ビルの最上階には水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,在大樓的頂層，水無瀨六花被反銬著雙手，一個人躺在地上。,在大樓的頂層，水無瀨六花被反銬著雙手，一個人躺在地上。,"On the top floor of the building, a uniformed Minase Rikka was lying alone, handcuffed behind her back.",There was a body behind a handcuffed Rikka Minase.,빌딩 최상층에는 미나세 릿카가 뒷짐의 상태로 수갑이 채워진 채 혼자 누워 있었다
+,,,,,,,,
+Dialog.Chapter2-3-68,エレナ,「…どういう状況か詳しく説明をお願いします。」,「…どういう状況か詳しく説明をお願いします。」,「……麻煩詳細說明一下現在的狀況。」,「……麻煩詳細說明一下現在的狀況。」,「...Could you please elaborate on what the situation is?」,"""Tell me what happened.""",「…어떤 상황인지 자세히 설명 부탁합니다.」
+,,,,,,,,
+Dialog.Chapter2-3-69,六花？,「っ、はいっ！……それはかくかくしかじかで―――」,「っ、はいっ！……それはかくかくしかじかで―――」,「是、是的！……事情是這樣這樣、那樣那樣―――」,「是、是的！……事情是這樣這樣、那樣那樣―――」,「I'll tell you what! ...... it's a matter of kakka kakka―――」,"""Yes, ma'am. I...""","「윽, 네!……그건 이러쿵저러쿵해서―――」"
+,,,,,,,,
+Dialog.Chapter2-3-70,六花？,「―――明穂を見つけたものの…逃がしてしまいました…っ」,「―――明穂を見つけたものの…逃がしてしまいました…っ」,「――雖然找到了明穗……但還是被她們帶著逃走了……」,「――雖然找到了明穗……但還是被她們帶著逃走了……」,「―――I found Akiho... but I let him go...」,"""...I found Akiho, but I let her get away.""",「―――아키호를 찾았지만… 놓쳐버렸습니다…윽」
+,,,,,,,,
+Dialog.Chapter2-3-71,エレナ,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………是嗎。唉……不過，就算是被下了藥，居然連這種程度的敵人都讓她逃掉……。」,「………是嗎。唉……不過，就算是被下了藥，居然連這種程度的敵人都讓她逃掉……。」,"「......... I see. Huh...but even though I was drugged, I didn't think I could escape even an enemy of this caliber...」","""I see... I know you were drugged, but you let someone like that escape...""","「………그렇군요. 하아…, 하지만 약을 맞았다고는 해도, 이 정도의 적에게조차 당하다니….」"
+,,,,,,,,
+Dialog.Chapter2-3-72,,「あなたにはもっと期待していたのですが。残念です」,「あなたにはもっと期待していたのですが。残念です」,「我本來對妳抱有更多期待的。真是讓人失望。」,「我本來對妳抱有更多期待的。真是讓人失望。」,「I expected more from you. It's a shame.」,"""I was hoping you would do better. What a shame.""",「당신에게는 좀 더 기대하고 있었습니다만. 유감입니다」
+,,,,,,,,
+Dialog.Chapter2-3-73,エレナ,「そして脅されていたとはいえ、生徒会に報告することなく勝手な行動をしたのも問題です。」,「そして脅されていたとはいえ、司令部に報告することなく勝手な行動をしたのも問題です。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,"「And even though he was threatened, the fact that he acted on his own without informing the student council is also problematic.」","""And you were threatened, but you took actions without reporting to the Command Center.""","「그리고 협박당했다고는 하지만, 사령부에 보고하지 않고 멋대로 행동한 것도 문제입니다.」"
+,,,,,,,,
+Dialog.Chapter2-3-74,六花？,「っ、申し訳ありません……。」,「っ、申し訳ありません……。」,「……非常抱歉。」,「……非常抱歉。」,「I'm sorry. .......」,"""I... I'm sorry...""","「윽, 죄송합니다…….」"
+,,,,,,,,
+Dialog.Chapter2-3-75,エレナ,「……。まあ、あなたの処分は明日生徒会で検討するとして…。」,「……。まあ、あなたの処分は明日司令部で検討するとして…。」,「……算了，妳的處分明天再由司令部審議。」,「……算了，妳的處分明天再由司令部審議。」,"「....... Well, your punishment will be considered by the student council tomorrow...」","""We will discuss the repercussions at the Command Center tomorrow.""","「……. 뭐, 당신의 처분은 내일 사령부에서 검토하기로 하고….」"
+,,,,,,,,
+Dialog.Chapter2-3-76,エレナ,「私が財団の危険性を過小評価していたのも事実です。」,「私が財団の危険性を過小評価していたのも事実です。」,「再說，我確實也低估了財團的危險性。」,「再說，我確實也低估了財團的危險性。」,「It is also true that I underestimated the dangers of the Foundation.」,"""I also underestimated the danger of the Foundation.""",「제가 재단의 위험성을 과소평가한 것도 사실입니다.」
+,,,,,,,,
+Dialog.Chapter2-3-77,,「ここからは聖月生徒会がこの誘拐事件を担当します。明穂さんを奪還し、この際ついでに財団も完全に壊滅させてしまいましょう。」,「ここからはホーリーコア・レギオン司令部がこの誘拐事件を担当します。明穂さんを奪還し、この際ついでに財団も完全に壊滅させてしまいましょう。」,「從現在起聖核軍團司令部將負責這起誘拐事件。奪回明穗小姐，順便趁機將財團徹底殲滅。」,「從現在起聖核軍團司令部將負責這起誘拐事件。奪回明穗小姐，順便趁機將財團徹底殲滅。」,「The Seigetsu Student Council will be in charge of this kidnapping case from here on. Let's retrieve Ms. Akiho and completely destroy the Foundation while we're at it.」,"""Going forward, Holy Core Legion Command Center will take over the kidnapping case. We will bring back Akiho and topple the Foundation for good.""","「여기서부터는 홀리코어 레기온 사령부가 이 유괴 사건을 담당합니다. 아키호 양을 탈환하고, 이 참에 재단도 완전히 괴멸시켜 버립시다.」"
+,,,,,,,,
+Dialog.Chapter2-3-78,六花？,「――――！」,「――――！」,「――――！」,「――――！」,「――――!」,"""...!""",「――――!」
+,,,,,,,,
+Dialog.Chapter2-3-79,エレナ,「この忙しい時期に仕事が増えてしまいましたが…。しかたありません。」,「この忙しい時期に仕事が増えてしまいましたが…。しかたありません。」,「偏偏在這種忙得不可開交的時候又多了工作……但也只能認了。」,「偏偏在這種忙得不可開交的時候又多了工作……但也只能認了。」,"「I have more work to do at this busy time of the year..."" It can't be helped.」","""Now we have more work during this busy period... But it has to be done.""",「이 바쁜 시기에 일이 늘어버렸습니다만…. 어쩔 수 없죠.」
+,,,,,,,,
+Dialog.Chapter2-3-80,,「―――これから緊急で聖月女学園生徒会を招集します。財団との戦いを終わらせましょう。」,「―――これから緊急で上位の聖核戦姫達を招集します。財団との戦いを終わらせましょう。」,「―――現在緊急召集高階的聖核戰姬們。讓我們把與財團的戰鬥徹底結束吧。」,「―――現在緊急召集高階的聖核戰姬們。讓我們把與財團的戰鬥徹底結束吧。」,「―――I am now going to urgently convene the student council of Seigetsu School. Let's finish the fight against the Foundation.」,"""We will now summon the top-tier Holy Core Battlemaidens to end this battle with the Foundation.""",「―――이제부터 긴급히 상위 성핵전희들을 소집합니다. 재단과의 싸움을 끝내도록 하죠.」

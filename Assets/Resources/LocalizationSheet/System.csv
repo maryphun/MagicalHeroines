@@ -27,7 +27,7 @@ System.HolyCoreTraining,聖核研究,Seikaku Research,聖核研究,圣核研究,
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：
 System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,調教結束,调教结束
 System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放
-System.Back,戻る,Back,退後,退后,戻る,Back,退後,退后
+System.Back,戻る,Back,退出,退出,戻る,Back,退出,退出
 System.Confirm,確定,Confirm,確定,确定,確定,Confirm,確定,确定
 System.OptionPanel,設定,Option,設定,设定,設定,Option,設定,设定
 System.Attack,攻撃力：,ATK: ,攻撃力：,攻撃力：,攻撃力：,ATK: ,攻撃力：,攻撃力：
@@ -35,7 +35,7 @@ System.Level,LV：,LV: ,LV：,LV：,LV：,LV: ,LV：,LV：
 System.HP,体力：,HP: ,HP：,HP：,体力：,HP: ,HP：,HP：
 System.MP,SP：,SP: ,SP：,SP：,SP：,SP: ,SP：,SP：
 System.Defense,防御力：,DEF: ,防御：,防御：,防御力：,DEF: ,防御：,防御：
-System.Speed,素早さ：,SPD: ,速度：,速度：,素早さ：,SPD: ,速度：,速度：
+System.Speed,素早さ：,SPD: ,敏捷：,敏捷：,素早さ：,SPD: ,敏捷：,敏捷：
 System.Skill,特殊技：,Skill: ,技能：,技能：,特殊技：,Skill: ,技能：,技能：
 System.Equipment,装備,Equipment,装備,装备,装備,Equipment,装備,装备
 System.CharacterData,資料,Info,資料,资料,資料,Info,資料,资料
@@ -93,7 +93,7 @@ Go capture a Seikaku-princess!","未開放
 请去抓捕圣核戦姫"
 System.RewardItem,アイテム獲得,Item reward,獲得物品,获得物品,アイテム獲得,Item reward,獲得物品,获得物品
 System.Reward,成果報酬,Reward,報酬,报酬,成果報酬,Reward,報酬,报酬
-System.Receive,受取,Accept,受取,受取,受取,Accept,受取,受取
+System.Receive,受取,Accept,接受,接受,受取,Accept,接受,接受
 System.Heroin,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫
 System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！
 System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。
@@ -234,7 +234,7 @@ Name.Diamond,ダイヤモンド,Diamond,黛雅,黛雅,ダイヤモンド,Diamond
 Name.Hisui,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠
 Name.No5,005号,No.005,005号,005号,005号,No.005,005号,005号
 Name.No23,023号,No.023,023号,023号,023号,No.023,023号,023号
-Name.Battler,戦闘員,Battler,戦闘員,戦闘员,戦闘員,Battler,戦闘員,戦闘员
+Name.Battler,戦闘員,Combatant,戦闘員,戦闘员,戦闘員,Combatant,戦闘員,戦闘员
 Name.Tentacle,触手怪人,TentacleMan,触手怪人,触手怪人,触手怪人,TentacleMan,触手怪人,触手怪人
 Name.Clone,005号,No.005,005号,005号,005号,No.005,005号,005号
 Name.RikkaDisguise,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？
@@ -249,7 +249,7 @@ Name.DarkTank,軍用歩行型タンク,Military Tank,軍用歩行型坦克,军�
 Name.PrivateDrone,私兵ドローン,Private Drone,私兵無人機,私兵无人机,私兵ドローン,Private Drone,私兵無人機,私兵无人机
 Name.PrivateAndroid,私兵ドロイド,Private Droid,私兵機器人,私兵机器人,私兵ドロイド,Private Droid,私兵機器人,私兵机器人
 Name.RogueTank,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克
-Name.Battler+Tentacle,触手怪人、戦闘員,"Battler, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,触手怪人、戦闘員,"Battler, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员
+Name.Battler+Tentacle,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员
 Name.Man,男,Man,男,男,男,Man,男,男
 Name.Chairman,理事長,Chairman,理事長,理事长,理事長,Chairman,理事長,理事长
 Name.Tentacle_Human,触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态),触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态)
@@ -278,7 +278,7 @@ Name.Clones,072号＆他のクローン,No.072 and others,072号＆其他克隆�
 Name.No5_Call,005号(通信),No.005 (Call),005号(通信),005号(通信),005号(通信),No.005 (Call),005号(通信),005号(通信)
 Name.ErenaNayuta,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多
 Name.CloneBattler,クローン戦闘員,Clone,克隆,克隆,クローン戦闘員,Clone,克隆,克隆
-Name.Battler_Call,戦闘員(通信),Battler (Call),戦闘員(通信),戦闘员(通信),戦闘員(通信),Battler (Call),戦闘員(通信),戦闘员(通信)
+Name.Battler_Call,戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信),戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信)
 Name.Kei_Call,猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信),猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信)
 Name.Clone_Call,クローン(通信),Clone(Call),克隆(通信),克隆(通信),クローン(通信),Clone(Call),克隆(通信),克隆(通信)
 Name.Akiho_Corrupted,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂
@@ -288,8 +288,8 @@ Name.Erena_Corrupted,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾�
 Name.Nayuta_Corrupted,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多
 Name.Diamond_Corrupted,ダイヤ,Diamond,黛雅,黛雅,ダイヤ,Diamond,黛雅,黛雅
 Name.Kei_Battler,K22号,K22,K22,K22,K22号,K22,K22,K22
-Name.Woman_Battler,女戦闘員,Woman Battler,女戰斗員,女战斗员,女戦闘員,Woman Battler,女戰斗員,女战斗员
-Name.Noob_Battler,下級戦闘員,Low Rank Battler,低級戰斗員,低级战斗员,下級戦闘員,Low Rank Battler,低級戰斗員,低级战斗员
+Name.Woman_Battler,女戦闘員,Woman Combatant,女戰斗員,女战斗员,女戦闘員,Woman Combatant,女戰斗員,女战斗员
+Name.Noob_Battler,下級戦闘員,Low Rank Combatant,低級戰斗員,低级战斗员,下級戦闘員,Low Rank Combatant,低級戰斗員,低级战斗员
 Name.Hisui_Battler,H46号,H46,K47,K47,H46号,H46,K47,K47
 Name.Hisui_Battler2,K46号,K46,K46,K46,K46号,K46,K46,K46
 Name.K47,K47号,K47,K47,K47,K47号,K47,K47,K47
@@ -346,16 +346,16 @@ ON",AutoBattling,自動戰鬥,自动战斗,"オートバトル
 ON",AutoBattling,自動戰鬥,自动战斗
 Buff,状態,Buff,状態,状态,状態,Buff,状態,状态
 Buff.Stun,行動不能,Stunned,行動不能,行动不能,行動不能,Stunned,行動不能,行动不能
-Buff.Hurt,継続ダメージ,Hurt,継続ダメージ,継続ダメージ,継続ダメージ,Hurt,継続ダメージ,継続ダメージ
-Buff.Heal,継続回復,Heal,継続回復,継続回复,継続回復,Heal,継続回復,継続回复
-Buff.Shield_up,防御力上昇,DEF UP,防御力上昇,防御力上升,防御力上昇,DEF UP,防御力上昇,防御力上升
+Buff.Hurt,継続ダメージ,Hurt,持續傷害,持续伤害,継続ダメージ,Hurt,持續傷害,持续伤害
+Buff.Heal,継続回復,Heal,持續恢復,持续恢复,継続回復,Heal,持續恢復,持续恢复
+Buff.Shield_up,防御力上昇,DEF UP,防御力上升,防御力上升,防御力上昇,DEF UP,防御力上升,防御力上升
 Buff.Shield_down,防御力下降,DEF DOWN,防御力下降,防御力下降,防御力下降,DEF DOWN,防御力下降,防御力下降
-Buff.Attack_up,攻撃力上昇,ATK UP,攻撃力上昇,攻撃力上升,攻撃力上昇,ATK UP,攻撃力上昇,攻撃力上升
-Buff.Attack_down,攻撃力下降,ATK DOWN,攻撃力下降,攻撃力下降,攻撃力下降,ATK DOWN,攻撃力下降,攻撃力下降
-Buff.Speed_up,素早さ上昇,SPD UP,素早さ上昇,素早さ上升,素早さ上昇,SPD UP,素早さ上昇,素早さ上升
-Buff.Speed_down,素早さ下降,SPD DOWN,素早さ下降,素早さ下降,素早さ下降,SPD DOWN,素早さ下降,素早さ下降
+Buff.Attack_up,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升
+Buff.Attack_down,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降
+Buff.Speed_up,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升
+Buff.Speed_down,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降
 Buff.ContinuousAction,連続行動,Continuous Action,連続行動,连続行动,連続行動,Continuous Action,連続行動,连続行动
-Buff.Repel,反撃,Return damage,反撃,反撃,反撃,Return damage,反撃,反撃
+Buff.Repel,反撃,Return damage,反擊,反撃,反撃,Return damage,反擊,反撃
 Buff.Disarm,無力化,Disarm,無力化,无力化,無力化,Disarm,無力化,无力化
 Buff.Horny,発情,Estrus,發情,发情,発情,Estrus,發情,发情
 Equipment,アイテム名とその説明文,Items,アイテム名とその説明文,アイテム名とその说明文,アイテム名とその説明文,Items,アイテム名とその説明文,アイテム名とその说明文
@@ -728,9 +728,9 @@ HomeChar.Daiya_DLC_1-2,「へっ、へっ、へっ、えへへぇ…♥」,"「H
 HomeChar.Daiya_DLC_1-3,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」
 HomeChar.Daiya_DLC_1-4,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」
 WorldScene,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词
-World.Chapter2-3,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」
-World.Chapter3-3,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」
-World.Chapter5-3,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」
+World.Chapter2-3,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「這次的作戰需要〈笹谷 明穗〉的參與。調教那邊，請儘快推進。」,
+World.Chapter3-3,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花的調教進展怎麼樣？快點讓她徹底墮落吧！」,
+World.Chapter5-3,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多是個強敵……若能把〈清藤艾蓮娜〉納入戰力就好了……」,
 World.Chapter6-1,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」
 World.DLC-2,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」
 World.DLC-8,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」
