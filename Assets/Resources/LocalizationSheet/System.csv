@@ -795,30 +795,17 @@ BattleLog.DaiyaRevive,ダイヤモンドの聖核装備の特殊効果が発動�
 BattleLog.SitDown,{0}　お座り！　ちゃんとできてえらい！！,"{0}, sit! Good dog, well done!!",{0} 給我坐下！做得很好，真棒！！,{0} 给我坐下！做得很好，真棒！！,{0}　お座り！　ちゃんとできてえらい！！,"{0}, sit! Good dog, well done!!",{0} 給我坐下！做得很好，真棒！！,{0} 给我坐下！做得很好，真棒！！
 Demo,体験版,Trial,体験版,体験版,体験版,Trial,体験版,体験版
 Demo.Start,"本ソフトウェアは体験版になります。
-一部機能が制限されており、キャラクターボイスがまだ全部実装されておりません。
-ゲームの途中までしか遊べません。
-正式リリース版では仕様変更、機能追加・不具合対応のバージョンアップの可能性があります。","This software is a trial version.
-Some functions are limited and not all character voices have been implemented yet.
-You can only play up to the middle of the game.
-The official release version may be upgraded to change specifications, add functions, or deal with problems.","由於這是體驗版
+ゲームの途中までしか遊べません。","This software is a trial version.
+You can only play up to the middle of the game.","由於這是體驗版
 一部分的系統功能被限制住了。
-只能玩到遊戲的一部分。
-角色們的配音也還未完成。","由于这是体验版
+只能玩到遊戲的一部分。","由于这是体验版
 一部分的系统功能被限制住了。
-只能玩到游戏的一部分。
-角色们的配音也还未完成。","本ソフトウェアは体験版になります。
-一部機能が制限されており、キャラクターボイスがまだ全部実装されておりません。
-ゲームの途中までしか遊べません。
-正式リリース版では仕様変更、機能追加・不具合対応のバージョンアップの可能性があります。","This software is a trial version.
-Some functions are limited and not all character voices have been implemented yet.
-You can only play up to the middle of the game.
-The official release version may be upgraded to change specifications, add functions, or deal with problems.","由於這是體驗版
+只能玩到游戏的一部分。","本ソフトウェアは体験版になります。
+ゲームの途中までしか遊べません。","This software is a trial version.
+You can only play up to the middle of the game.","由於這是體驗版
 一部分的系統功能被限制住了。
-只能玩到遊戲的一部分。
-角色們的配音也還未完成。","由于这是体验版
-一部分的系统功能被限制住了。
-只能玩到游戏的一部分。
-角色们的配音也还未完成。"
+只能玩到遊戲的一部分。","由于这是体验版
+只能玩到游戏的一部分。"
 Demo.End,"体験版を遊んでいただき、ありがとうございます！
 これからは、強くてプライドの高い変身ヒロイン達が敗北し、調教され、改造され堕ちていきます。
 正式版にはヒロイン達フルボイスが実装される予定です。
