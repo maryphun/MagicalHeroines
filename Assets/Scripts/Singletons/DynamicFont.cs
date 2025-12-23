@@ -12,10 +12,12 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
     [SerializeField] private TMP_FontAsset englishFont;
     [SerializeField] private TMP_FontAsset tchineseFont;
     [SerializeField] private TMP_FontAsset schineseFont;
+    [SerializeField] private TMP_FontAsset koreanFont;
     [SerializeField] private TMP_FontAsset japaneseDialogueFont;
     [SerializeField] private TMP_FontAsset englishDialogueFont;
     [SerializeField] private TMP_FontAsset tchineseDialogueFont;
     [SerializeField] private TMP_FontAsset schineseDialogueFont;
+    [SerializeField] private TMP_FontAsset koreanDialogueFont;
     [SerializeField] private bool initiated;
 
     private void Initiate()
@@ -24,11 +26,13 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
         englishFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/JP/ipaexg SDF");
         tchineseFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/TC/NotoSansTC-VariableFont_wght SDF");
         schineseFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/SC/NotoSansSC-VariableFont_wght SDF");
+        koreanFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/KR/NotoSansKR-Regular SDF");
 
         japaneseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/JP/rounded-l-mplus-1c-heavy SDF");
         englishDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/JP/rounded-l-mplus-1c-heavy SDF");
         tchineseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/TC/NotoSansTC-VariableFont_wght SDF");
         schineseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/SC/NotoSansSC-VariableFont_wght SDF");
+        koreanDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/KR/NotoSansKR-Regular SDF");
 
         initiated = true;
     }
@@ -97,6 +101,9 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
                 case "Traditional Chinese":
                 case "Traditional Chinese_Steam":
                     return tchineseDialogueFont;
+                case "Korean":
+                case "Korean_Steam":
+                    return koreanDialogueFont;
                 case "Japanese":
                 case "Japanese_Steam":
                 default:
@@ -115,6 +122,9 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
             case "Traditional Chinese":
             case "Traditional Chinese_Steam":
                 return tchineseFont;
+            case "Korean":
+            case "Korean_Steam":
+                return koreanFont;
             case "Japanese":
             case "Japanese_Steam":
             default:

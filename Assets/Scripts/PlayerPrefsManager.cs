@@ -73,6 +73,9 @@ public static class PlayerPrefsManager
             case SystemLanguage.TCN:
                 Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Traditional Chinese_Steam";
                 break;
+            case SystemLanguage.KR:
+                Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Korean_Steam";
+                break;
             default:
                 break;
         }
@@ -90,6 +93,9 @@ public static class PlayerPrefsManager
                 break;
             case SystemLanguage.TCN:
                 Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Traditional Chinese";
+                break;
+            case SystemLanguage.KR:
+                Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Korean";
                 break;
             default:
                 break;

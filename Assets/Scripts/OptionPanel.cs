@@ -13,6 +13,7 @@ public enum SystemLanguage
     EN,
     SCN,
     TCN,
+    KR,
 }
 
 [RequireComponent(typeof(CanvasGroup))]
@@ -35,7 +36,7 @@ public class OptionPanel : MonoBehaviour
     [SerializeField] private TMP_Text autoSpeedValue;
     [SerializeField] private Toggle fullScreenToggle;
     [SerializeField] private Toggle windowScreenToggle;
-    [SerializeField] private Toggle JPToggle, ENToggle, SCNToggle, TCNToggle;
+    [SerializeField] private Toggle JPToggle, ENToggle, SCNToggle, TCNToggle, KRToggle;
     [SerializeField] private TMP_Dropdown resolutionOption;
     [SerializeField] private Button backButton;
 
@@ -95,11 +96,13 @@ public class OptionPanel : MonoBehaviour
         ENToggle.isOn = LocalizationManager.Language == "English_Steam";
         SCNToggle.isOn = LocalizationManager.Language == "Simplified Chinese_Steam";
         TCNToggle.isOn = LocalizationManager.Language == "Traditional Chinese_Steam";
+        KRToggle.isOn = LocalizationManager.Language == "Korean_Steam";
 #else
         JPToggle.isOn = LocalizationManager.Language == "Japanese";
         ENToggle.isOn = LocalizationManager.Language == "English";
         SCNToggle.isOn = LocalizationManager.Language == "Simplified Chinese";
         TCNToggle.isOn = LocalizationManager.Language == "Traditional Chinese";
+        KRToggle.isOn = LocalizationManager.Language == "Korean";
 #endif
         resolutionOption.SetValueWithoutNotify(tempResolutionOption);
 
@@ -251,6 +254,11 @@ public class OptionPanel : MonoBehaviour
             LocalizationManager.Language = "Traditional Chinese_Steam";
             PlayerPrefsManager.SetPlayerPrefs(PlayerPrefsManager.PlayerPrefsSave.Language, (int)SystemLanguage.TCN);
         }
+        else if (KRToggle.isOn && lastLanguage != "Korean_Steam")
+        {
+            LocalizationManager.Language = "Korean_Steam";
+            PlayerPrefsManager.SetPlayerPrefs(PlayerPrefsManager.PlayerPrefsSave.Language, (int)SystemLanguage.KR);
+        }
 #else
         string lastLanguage = LocalizationManager.Language;
         if (JPToggle.isOn && lastLanguage != "Japanese")
@@ -272,6 +280,11 @@ public class OptionPanel : MonoBehaviour
         {
             LocalizationManager.Language = "Traditional Chinese";
             PlayerPrefsManager.SetPlayerPrefs(PlayerPrefsManager.PlayerPrefsSave.Language, (int)SystemLanguage.TCN);
+        }
+        else if (KRToggle.isOn && lastLanguage != "Korean")
+        {
+            LocalizationManager.Language = "Traditional Chinese";
+            PlayerPrefsManager.SetPlayerPrefs(PlayerPrefsManager.PlayerPrefsSave.Language, (int)SystemLanguage.KR);
         }
 #endif
 
@@ -309,21 +322,31 @@ public class OptionPanel : MonoBehaviour
                 ENToggle.isOn = false;
                 SCNToggle.isOn = false;
                 TCNToggle.isOn = false;
+                KRToggle.isOn = false;
                 break;
             case SystemLanguage.EN:
                 JPToggle.isOn = false;
                 SCNToggle.isOn = false;
                 TCNToggle.isOn = false;
+                KRToggle.isOn = false;
                 break;
             case SystemLanguage.SCN:
                 JPToggle.isOn = false;
                 ENToggle.isOn = false;
                 TCNToggle.isOn = false;
+                KRToggle.isOn = false;
                 break;
             case SystemLanguage.TCN:
                 JPToggle.isOn = false;
                 ENToggle.isOn = false;
                 SCNToggle.isOn = false;
+                KRToggle.isOn = false;
+                break;
+            case SystemLanguage.KR:
+                JPToggle.isOn = false;
+                ENToggle.isOn = false;
+                SCNToggle.isOn = false;
+                TCNToggle.isOn = false;
                 break;
             default:
                 break;
