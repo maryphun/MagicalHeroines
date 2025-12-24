@@ -169,7 +169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UICanvas: {fileID: 1712548515}
   player: {fileID: 0}
-  data: {fileID: 11400000, guid: 8ae1469ba7aea564197c58eb92451a3f, type: 2}
+  data: {fileID: 11400000, guid: 8bd0ff9fe8d19ae4182c504498c7f4bf, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

@@ -23,9 +23,9 @@ public class TMP_DynamicFont : MonoBehaviour
 
     private void UpdateFont()
     {
-        if (GetComponent<TMP_Text>().font != DynamicFont.Instance.GetFont())
+        if (GetComponent<TMP_Text>().font != DynamicFont.Instance.GetFont(IsDialogue()))
         {
-            GetComponent<TMP_Text>().font = DynamicFont.Instance.GetFont();
+            GetComponent<TMP_Text>().font = DynamicFont.Instance.GetFont(IsDialogue());
         }
     }
 
