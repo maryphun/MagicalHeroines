@@ -103,7 +103,7 @@ namespace Assets.SimpleLocalization.Scripts
                 }
             }
 
-            AutoLanguage();
+            //AutoLanguage();
         }
 
         /// <summary>
