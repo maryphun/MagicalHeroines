@@ -22,6 +22,13 @@ public class DLCManager : MonoBehaviour
         text.SetActive(true);
         return;
 #endif
+
+#if STEAM
+        DLCManager.isDLCEnabled = true;
+        text.SetActive(true);
+        return;
+#endif
+
         // Check game version of the build
         float.TryParse(Application.version, out float applicationVersion);
         if (applicationVersion < 1.7f)
