@@ -1,382 +1,382 @@
-Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English,Korean_Steam,English_Steam
-Chapter 5-1,注釈,,,,,,
-Dialog.Chapter5-1-1,那由多,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「這座地下據點已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」,"""―――― this underground hideout has been overrun. Do not resist in vain and surrender immediately.""",「――――이 지하 아지트는 제압했습니다. 쓸데없는 저항은 하지 말고 즉시 투항하십시오」,"""I have conquered this underground hideout. Please surrender without further resistance."""
-,地下アジト,,,,,,
-Dialog.Chapter5-1-2,,「このアジトの最高責任者はあなたのようですので私が連行します」,「このアジトの最高責任者はあなたのようですので私が連行します」,「看來你是這裡的最高負責人，就由我親自押送你吧。」,"""Since you seem to be the chief executive of this hideout, I will bring you in myself.""",「이 아지트의 최고 책임자는 당신인 것 같으니 제가 연행하겠습니다」,"""And since you are the one in charge here, you will be coming with me."""
-,,,,,,,
-Dialog.Chapter5-1-3,SEL,……わかった、従う,……わかった、従う,……我明白了，我會照你説的做的,"...... Okay, I'll comply.","……알겠다, 따르겠다",...All right.
-,,,,,,,
-Dialog.Chapter5-1-4,那由多,「話が分かるようで助かります」,「話が分かるようで助かります」,「你願意配合就太好了。」,"""It helps that you seem to know what you're talking about.""",「말이 통하는 것 같아 다행입니다」,"""I'm glad we have an understanding."""
-,,,,,,,
-Dialog.Chapter5-1-5,那由多,「……そういえばエレナは何をやっているのでしょうか？ここは本来彼女の管轄なはずですが」,「……そういえばエレナは何をやっているのでしょうか？ここは本来彼女の管轄なはずですが」,「……話說回來，艾蓮娜現在到底在做什麼？按理說這裡本來應該是她的管轄區域。」,"""......So, what is Erena doing here? This is supposedly her jurisdiction.""",「……그러고 보니 엘레나는 뭘 하고 있는 겁니까? 여기는 원래 그녀의 관할일 텐데요」,"""What was Elena doing, anyway? Wasn't this area under her jurisdiction?"""
-,,,,,,,
-Dialog.Chapter5-1-6,京,「あ――…。エレナは捕まっちゃってね…まあ、油断してたんじゃないかな」,「あ――…。エレナは捕まっちゃってね…まあ、油断してたんじゃないかな」,「啊——……艾蓮娜被抓走了啦……嗯，大概是太大意了吧。」,"""Ah――.... Erena got caught... well, I guess she let her guard down.""","「아――…. 엘레나는 잡혀버려서… 뭐, 방심했던 거 아니려나」","""Ahhh... She was captured. Well, she was careless."""
-,,,,,,,
-Dialog.Chapter5-1-7,那由多,「エレナが？？まったく…あの女はいったい何をしてるんですか…帰ったらお説教ですね」,「エレナが？？まったく…あの女はいったい何をしてるんですか…帰ったらお説教ですね」,「艾蓮娜會被抓？？真是的……那個女人到底在搞什麼……回來之後非得好好訓她一頓不可。」,"""Erena? What the hell is that woman doing... A harsh lecture will be waiting for her when she return.""",「엘레나가?? 정말… 그 여자는 대체 뭘 하고 있는 겁니까… 돌아가면 설교네요」,"""Elena? Ugh, what was she thinking? I'll have to talk to her when we get back."""
-,,,,,,,
-Dialog.Chapter5-1-8,京,「あ、そうだ。ここにあったデータは君が研究したやつかな？結構非倫理的な研究もあったけど」,「あ、そうだ。ここにあったデータは君が研究したやつかな？結構非倫理的な研究もあったけど」,「啊，對了。這裡的資料是你研究的東西嗎？裡面有好幾項都相當不合倫理呢。」,"""Oh, yes. Is that the data you found here, the ones you studied? Some of the studies were pretty unethical.""","「아, 맞다. 여기에 있던 데이터는 네가 연구한 건가? 꽤 비윤리적인 연구도 있었지만」","""By the way, does the research data here belong to you? There's some real unethical stuff going on..."""
-,,,,,,,
-Dialog.Chapter5-1-9,那由多,「……そういえば誘拐した生徒達はどういう扱いをされているのでしょうか？返答によっては――――」,「……そういえば誘拐した聖核戦姫達はどういう扱いをされているのでしょうか？返答によっては――――」,「……說到這個，被你們綁走的那些聖核戰姫們現在是什麼狀況？你們怎麼對待她們的？根據你的回答――――」,"""I was wondering...... come to think of it, how are the students you abducted being treated? Depending on the response, ――――""",「……그러고 보니 유괴한 성핵전희들은 어떻게 취급되고 있는 겁니까? 대답에 따라서는――――」,"""Oh, and what happened to the Holy Core Battlemaidens you captured? Depending on your answer..."""
-,,,,,,,
-Dialog.Chapter5-1-10,戦闘員(通信),「―――緊急で連絡します！」,「―――緊急で連絡します！」,「―――緊急聯絡！」,"""―――urgent call!""",「―――긴급히 연락합니다!」,"""We have an emergency!"""
-,,,,,,,
-Dialog.Chapter5-1-10(1),SEL,…なんだ,…なんだ,……怎麼了？,...what,…뭐지,What is it?
-,背景(トンネル),,,,,,
-Dialog.Chapter5-1-11,戦闘員(通信),「現在、襲撃により隔壁が破損し厳重保管対象が脱走！既に我々のコントロール下から離れています！」,「現在、襲撃により隔壁が破損し厳重保管対象が脱走！既に我々のコントロール下から離れています！」,「因為這次襲擊，隔離壁受損，嚴密管控對象已經脫逃！目前完全脫離我們的掌控！」,"""The bulkhead has been breached by the attack and the object in our custody has escaped! It is already out of our control!""","「현재, 습격으로 인해 격벽이 파손되어 엄중 보관 대상이 탈주! 이미 저희의 통제 하에서 벗어났습니다!」","""The walls have been broken and the closely guarded subject has run away! We have lost control of them!"""
-,,,,,,,
-Dialog.Chapter5-1-12,触手モンスター(シルエット),ズルッ、ズルッ…,ズルッ、ズルッ…,（滋溜、滋溜……）,"Zulu, zulu...","스르륵, 스르륵…",Crackle...
-,,,,,,,
-Dialog.Chapter5-1-13,戦闘員(通信),「我々にはどうしようもありません！」,「我々にはどうしようもありません！」,「我們這邊已經無能為力了！」,"""There is nothing we can do about it!""",「저희로서는 어쩔 도리가 없습니다!」,"""There's nothing we can do!"""
-Dialog.Chapter5-1-13-1,戦闘員(通信),「う、うわああああっ！」,「う、うわああああっ！」,「呃、嗚哇啊啊啊啊！」,"""Uh―oh!""","「으, 으아아아아악!」","""Aghhhh!"""
-Dialog.Chapter5-1-13-2,アジト,……,……,……,......,……,...
-Dialog.Chapter5-1-13(1),SEL,……今すぐここから離れた方がいい,……今すぐここから離れた方がいい,……我們得立刻離開這裡比較好。,...... better get away from here now!,……지금 당장 여기서 벗어나는 게 좋겠다,You should probably get out of here.
-,,,,,,,
-Dialog.Chapter5-1-14,那由多,「…やれやれ、この期に及んでまだ何か企んでいるのですか？」,「…やれやれ、この期に及んでまだ何か企んでいるのですか？」,「……真是的，都到這種地步了你們還在打什麼主意嗎？」,"""...Good grief, are you still up to something at this stage of your life?""","「…이런이런, 이 지경에 이르러서도 아직 무언가 꾸미고 있는 겁니까?」","""Sigh, what are you trying to pull now?"""
-,,,,,,,
-Dialog.Chapter5-1-15,京,「ちょっとまって……脱走？ここにそんな強いのいたっけ…？」,「ちょっとまって……脱走？ここにそんな強いのいたっけ…？」,「等一下……脫逃？這裡有關著那麼強的傢伙嗎……？」,"""'Wait a minute... ...... breakout? I don't remember there being anything that strong here...?""",「잠깐 기다려…… 탈주? 여기에 그렇게 강한 녀석이 있었나…?」,"""Wait, escaped? You have something that powerful here?"""
-,,,,,,,
-Dialog.Chapter5-1-16,,その瞬間、赤黒い無数の触手が瓦礫の中から物凄い速度で現れる,その瞬間、赤黒い無数の触手が瓦礫の中から物凄い速度で現れる,就在那一瞬間，無數赤黑色的觸手從瓦礫之中，以驚人的速度竄出。,"At that moment, countless reddish―black tentacles emerge from the rubble at a tremendous speed.","그 순간, 검붉은 무수한 촉수가 잔해 속에서 엄청난 속도로 나타난다","The next moment, countless reddish-black tentacles emerged from the rubbles at a blinding speed."
-,,,,,,,
-Dialog.Chapter5-1-17,,ズルッ、ズルッ、ビシュッッ！！！,ズルッ、ズルッ、ビシュッッ！！！,滋溜、滋溜──啪、啪！！！,"Slurp, slurp, bish!","스르륵, 스르륵, 휘슉!!",Whip! Crackle!
-,,,,,,,
-Dialog.Chapter5-1-18,那由多,「！ッ、京！、離れてください！」,「！ッ、京！、離れてください！」,「！京！快退開！」,"""I'm going to go to the airport! Kei! Get away from me!""","「!윽, 케이!, 떨어지십시오!」","""Kei, get away from me!"""
-,,,,,,,
-Dialog.Chapter5-1-19,,キシャアアアアアッッ！！！,キシャアアアアアッッ！！！,「嘶呀啊啊啊啊啊啊！！！」,Kishaaaaaaaaaaaaaaaa!!!,키샤아아아아아악!!,Whoosh!
-,,,,,,,
-Dialog.Chapter5-1-20,那由多,「！、速いっ？！」,「！、速いっ？！」,「！好快？！」,"""...fast? How fast?""","「!, 빨라!?」","""That's so fast!"""
-,,,,,,,
-Dialog.Chapter5-1-21,,那由多は向かってきた触手のほとんどを切り落とすが、足に一本の触手を巻きつかれてしまう,那由多は向かってきた触手のほとんどを切り落とすが、足に一本の触手を巻きつかれてしまう,那由多雖然將迎面襲來的大多數觸手全數斬斷，但還是有一條觸手纏上了她的腿。,"Nayuta cuts off most of the tentacles that come toward her, but she gets one tentacle wrapped around her leg.","나유타는 달려드는 촉수의 대부분을 베어냈지만, 다리에 한 줄기의 촉수가 휘감긴다","Nayuta managed to cut down most of the tentacles attacking her, but one caught her leg."
-,,,,,,,
-Dialog.Chapter5-1-22,那由多,「っ！、何故財団がこれほど強力な怪人を…いや、もはや怪獣ですか？これを地上に出したらどれだけの被害がっ！」,「っ！、何故財団がこれほど強力な怪人を…いや、もはや怪獣ですか？これを地上に出したらどれだけの被害がっ！」,「呃！財團怎麼會有這種等級的怪人……不，這已經該叫怪獸了吧？要是讓這東西跑到地面上，不知道會造成多大的災害！」,"""I'm not sure why the Foundation would want to create such a powerful monster..! Why did the Foundation create such a powerful monster...or is it a monster now? What kind of damage could it do if it were to be released onto the ground?""","「윽!, 어째서 재단이 이렇게 강력한 괴인을… 아니, 이젠 괴수입니까? 이걸 지상으로 내보내면 얼마나 큰 피해가!」","""Why does the Foundation have so many powerful monsters... monstrosities? Don't they know the damage these things can do to the surface?"""
-,,,,,,,
-Dialog.Chapter5-1-23,京,「触手型怪人のハイエンド個体…！知能は高くないが聖核エネルギーに反応する…」,「触手型怪人のハイエンド個体…！知能は高くないが聖核エネルギーに反応する…」,「觸手型怪人的高階個體……！雖然智力不高，卻會對聖核能量產生反應……」,"""A high―end individual of a tentacle―type monster...! It is not highly intelligent, but it reacts to the Seikaku energy...""",「촉수형 괴인의 하이엔드 개체…! 지능은 높지 않지만 성핵 에너지에 반응해…」,"""An advanced version of the Tentacle Man! Not very intelligent, but reacts to Holy Core energy..."""
-,,,,,,,
-Dialog.Chapter5-1-24,京,「気を付けて会長！多分コイツの狙いは―――」,「気を付けて総司令！多分コイツの狙いは―――」,「總司令小心！這傢伙多半是以妳為―――」,"""Be careful, Mr. Chairman! Maybe he's trying to...""",「조심해 총사령관! 아마 이 녀석의 노림수는――――」,"""Be careful, Commander! I think they're after..."""
-,,,,,,,
-Dialog.Chapter5-1-24-2,京,「―――うぐっ！？」,「―――うぐっ！？」,「―――呃！？」,"""Ugh!""",「―――윽!?」,"""Ugh!"""
-,,,,,,,
-Dialog.Chapter5-1-25,005号,「はあ、はあ、…貴女には私達と一緒に来てもらいます！一番危険なのはやはり貴女ですからっ！」,「はあ、はあ、…貴女には私達と一緒に来てもらいます！一番危険なのはやはり貴女ですからっ！」,「哈啊、哈啊……妳得跟我們一起走！仔細想最危險的果然還是妳啊！」,"""We'll have you come with us! You are the one in the most danger!""","「하아, 하아, …당신에게는 저희와 함께 가주셔야겠습니다! 가장 위험한 것은 역시 당신이니까요!」","""Huff, puff... You're coming with us! After all, you're the most dangerous one!"""
-,,,,,,,
-Dialog.Chapter5-1-26,京,「うぁ、しまっ…た…」,「うぁ、しまっ…た…」,「啊……糟糕……」,"""Oh, shit...""","「으아, 이럴…수가…」","""Oo... ps..."""
-,,,,,,,
-Dialog.Chapter5-1-27,005号,「八雲那由多が気を取られているうちに本部を移動させます！」,「八雲那由多が気を取られているうちに本部を移動させます！」,「趁八雲那由多分心的這段時間，立刻將她轉移到本部！」,"""We'll move headquarters while Yakumo Nayuta is distracted!""",「야쿠모 나유타가 정신 팔린 사이에 본부를 이동시키겠습니다!」,"""We will move the Central Command while Nayuta Yagumo is distracted!"""
-,,,,,,,
-Dialog.Chapter5-1-27(1),SEL,わかった。直ちに移動させよう,わかった。直ちに移動させよう,知道了。馬上進行轉移。,"All right, I'm on it. Let's move it immediately.",알겠다. 즉시 이동시키자,"Got it, move out now."
-,地下通路,,,,,,
-Dialog.Chapter5-1-28,那由多,「あっ、逃げるつもりですかっ！？…！くっ、しかしこの怪物をこのままにしておくわけにはっ」,「あっ、逃げるつもりですかっ！？…！くっ、しかしこの怪物をこのままにしておくわけにはっ」,「啊，你們打算逃走嗎！？……！可惡，但是也不能就這樣把這隻怪物丟在這裡不管……！」,"""Are you trying to escape? Oh, are you trying to escape? But I can't leave this monster like this.""","「앗, 도망칠 셈입니까!?…! 큭, 하지만 이 괴물을 이대로 둘 수는!」","""Are you running away? Ugh, but I can't very well leave this monster behind..."""
-,,,,,,,
-Dialog.Chapter5-1-29,,「待っていてください京！、今すぐ助けに行きますから！」,「待っていてください京！、今すぐ助けに行きますから！」,「請等我一下，京！我馬上就去救妳！」,"""Please wait for me, Kei! I'm coming to save you right now!""","「기다리십시오 케이!, 지금 바로 구하러 가겠습니다!」","""Just wait, Kei! I'll save you now!"""
-,,,,,,,
-Dialog.Chapter5-1-30,,「―――ッ！触手がもう再生した？！」,「―――ッ！触手がもう再生した？！」,「――什麽！觸手竟然已經重新長出來了？！」,"""――――! Tentacles already regenerated?""",「―――윽! 촉수가 벌써 재생했어?!」,"""...The tentacles have respawned?"""
-,,,,,,,
-Dialog.Chapter5-1-31,Nayuta1ｰ1,「しまった、刀がっ！」,「しまった、刀がっ！」,「糟了，我的刀被……！」,"""Oh, no, the sword!""","「이런, 칼이!」","""No, my blade!"""
-,,,,,,,
-Dialog.Chapter5-1-32,,那由多の体に触手が巻きつき、動きが封じられてしまう,那由多の体に触手が巻きつき、動きが封じられてしまう,觸手纏上那由多的身體，把她整個人死死束縛住。,"Tentacles wrap around Nayuta's body, blocking her movement.","나유타의 몸에 촉수가 휘감겨, 움직임이 봉쇄되고 만다","The tentacles wrapped themselves around Nayuta, immobilizing her."
-,,,,,,,
-Dialog.Chapter5-1-33,,キシャアアアアアッッ！！！,キシャアアアアアッッ！！！,「嘶呀啊啊啊啊啊！！！」,Kishaaaaaaaaaaaaaaaa!!!,키샤아아아아아악!!,Shaaaaaa!
-,,,,,,,
-Dialog.Chapter5-1-34,,「ぐっ、こ、このっ、離しなさい！」,「ぐっ、こ、このっ、離しなさい！」,「呃！你、你這傢伙……給我放開！」,"""Get off of me!""","「크윽, 이, 이놈, 놓으십시오!」","""Ugh, get... get away from me!"""
-,,,,,,,
-Dialog.Chapter5-1-35,,「なんて力…っ、この私が振りほどけないなんてっ…今までの触手とは比べ物にならないっ！」,「なんて力…っ、この私が振りほどけないなんてっ…今までの触手とは比べ物にならないっ！」,「這股力量……！連我都掙不開……完全不是之前那些觸手能比的！」,"""I can't shake it off... it's nothing compared to the tentacles I've seen before!""","「이 무슨 힘…윽, 이 내가 뿌리칠 수 없다니… 지금까지의 촉수와는 비교도 안 돼!」","""What strength... Even I can't shake it off... These are no ordinary tentacles!"""
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Dialog.Chapter5-1-36,,「ますますこんなものを野放しにはしておけませんね…なんとかここで倒さなければっ」,「ますますこんなものを野放しにはしておけませんね…なんとかここで倒さなければっ」,「這種東西更不能放任它到處亂跑……無論如何都得在這裡把它打倒才行！」,"""We can't let this thing get away with it...we've got to get it down here somehow.""",「더욱더 이런 것을 방치할 수는 없군요… 어떻게든 여기서 쓰러뜨려야」,"""Surely I can't leave this behind... I have to get rid of it here and now..."""
-,,,,,,,
-Dialog.Chapter5-1-37,,「しかしっ…、このままでは京どころか私も危険ですっ、何とか突破口を…」,「しかしっ…、このままでは京どころか私も危険ですっ、何とか突破口を…」,「可是這樣下去，不只是京，連我自己都很危險了，得想辦法找到突破口……」,"""But...if things continue as they are, not only Kei but myself will be in danger...I have to make a breakthrough somehow...""","「하지만… 이대로라면 케이는커녕 저도 위험합니다, 어떻게든 돌파구를…」","""But Kei and I are both in danger... What can we do here?"""
-,,,,,,,
-Dialog.Chapter5-1-38,,ギチッ、ミチミチミチッ！,ギチッ、ミチミチミチッ！,咯吱、咯啦咯啦！,"Gitch, michi michi michi!","기칫, 미치미치미칫!",Geeeeee!
-,,,,,,,
-Dialog.Chapter5-1-39,,「ぐうっ、ドロドロした粘液が滑ってっ、抜け出せませんっ！」,「ぐうっ、ドロドロした粘液が滑ってっ、抜け出せませんっ！」,「呃……這黏稠的液體太滑了，根本沒辦法掙脫！」,"""Ugh, I can't get out, the sloppy mucus is sliding all over me!""","「크윽, 질척한 점액이 미끄러워서, 빠져나갈 수가 없습니다!」","""Ugh, I can't get out of this slippery slime!"""
-,,,,,,,
-Dialog.Chapter5-1-40,,「この程度の触手など…せめて刀があればっ！」,「この程度の触手など…せめて刀があればっ！」,「區區這種程度的觸手……要是我的刀還在的話...」,"""I wish I had a sword at least!""",「이 정도 촉수 따위… 적어도 칼만 있었다면!」,"""They're just tentacles... If only I had my blade..."""
-,,,,,,,
-Dialog.Chapter5-1-41,,その時、怪物の口のような部分が開き、那由多の頭上に迫る,その時、怪物の口のような部分が開き、那由多の頭上に迫る,就在那時，怪物彷彿嘴巴般的部位張開，朝那由多的頭頂逼近。,"At that moment, the mouth―like part of the monster opens and looms over Nayuta's head.","그때, 괴물의 입 같은 부분이 열리며, 나유타의 머리 위로 다가온다",The mouth of the monster opened and hovered above Nayuta.
-,,,,,,,
-Dialog.Chapter5-1-42,Nayuta1-2,グパッ、ブジュルルルルルッ！！,グパッ、ブジュルルルルルッ！！,啪嗒——黏答答的聲音接連響起。,"Gup, buuuurrrrrrrrrrrrrrrrrrrrrrrrrr!","크팟, 부쥬르르르르릇!!",Kwaaaaa! Pssssshhhh!
-,,,,,,,
-Dialog.Chapter5-1-43,,「何ですかっ！？、この化け物っ、口を開いてっ！？」,「何ですかっ！？、この化け物っ、口を開いてっ！？」,「這是什麼！？這怪物、把嘴張開了！？」,"""What is it? You monster, open your mouth!""","「무엇입니까!?, 이 괴물, 입을 벌리고!?」","""What is this? It opened its mouth?!"""
-,,,,,,,
-Dialog.Chapter5-1-44,,グパッ、ジュルッ、ジュルルルッ,グパッ、ジュルッ、ジュルルルッ,嘎啵、啾嚕、啾嚕嚕——,"Gup, julp, julp, julp.","크팟, 쥬릇, 쥬르르르릇",Kwaaaa! Pshhh... Pshhh...
-,,,,,,,
-Dialog.Chapter5-1-45,,「この化け物、まさか…私を捕食しようとしている…！？」,「この化け物、まさか…私を捕食しようとしている…！？」,「這傢伙難道是……想把我吃掉嗎！？」,"""This monster, don't tell me... it's trying to prey on me...!""","「이 괴물, 설마… 저를 포식하려는…!?」","""Is this monster going to eat me?!"""
-,,,,,,,
-Dialog.Chapter5-1-46,,「まずいですね…今すぐにでも脱出しなければっ！」,「まずいですね…今すぐにでも脱出しなければっ！」,「糟糕了……得立刻想辦法脫身才行！」,"""This is bad...we have to get out now!""",「위험하군요… 지금 당장이라도 탈출해야!」,"""This is bad, we have to get out of here!"""
-,,,,,,,
-Dialog.Chapter5-1-47,,「――――仕方ありません、しばらくパワーが落ちるので使いたくは無いのですがっ！」,「――――仕方ありません、しばらくパワーが落ちるので使いたくは無いのですがっ！」,「――――沒辦法了，雖然不想用，因為之後力量會暫時下降……！」,"""―――― can't help it, I don't want to use it because the power will be down for a while!""","「――――어쩔 수 없습니다, 잠시 힘이 떨어지니 사용하고 싶지는 않았습니다만!」","""...This leave me with no choice. I'm going to be weakened for a bit and that's why I didn't want to use it, but..."""
-,,,,,,,
-Dialog.Chapter5-1-48,Nayuta1-3,那由多の体から紫色のオーラが沸き上がる,那由多の体から紫色のオーラが沸き上がる,那由多的身上湧出紫色的光芒。,A purple aura rises from Nayuta's body.,나유타의 몸에서 보라색 오라가 뿜어져 나온다,Nayuta glowed purple.
-,,,,,,,
-Dialog.Chapter5-1-49,,「聖核エネルギー開放ッ、高出力状態―――――――雷神之相！」,「聖核エネルギー開放ッ、高出力状態―――――――雷神之相！」,「聖核能量解放，高輸出狀態――――――雷神之相！」,"""Seikaku energy release, high―power state――――――― thunder god no phase!""","「성핵 에너지 개방, 고출력 상태―――――――뇌신지상!」","""Holy Core energy release! High power mode! Thunderous Avatar!"""
-,,,,,,,
-Dialog.Chapter5-1-50,,「汚らわしい化け物がっ！私から離れなさいっ、ハアッッ！！」,「汚らわしい化け物がっ！私から離れなさいっ、ハアッッ！！」,「骯髒的怪物！給我從我身上滾開，哈啊啊！！」,"""You filthy monster! Get away from me, you filthy monster!""","「더러운 괴물이! 저에게서 떨어지십시오, 하아앗!!」","""Get away from me, you filthy monster!"""
-,,,,,,,
-Dialog.Chapter5-1-51,,那由多は首に纏わりついていた触手を引きちぎり、拘束をほどく,那由多は首に纏わりついていた触手を引きちぎり、拘束をほどく,那由多將纏在自己脖子上的觸手整條扯斷，掙脫了束縛。,Nayuta rips off the tentacles around her neck and unties the restraints.,"나유타는 목에 휘감겨 있던 촉수를 잡아 뜯어내고, 구속을 푼다",Nayuta pulled the tentacles away from her neck and broke free.
-,地下通路,,,,,,
-Dialog.Chapter5-1-52,,キシャアアアアアッッ！,キシャアアアアアッッ！,嘶呀啊啊啊啊啊！！,Kishaaaaaaaahhhh!,키샤아아아아아악!,Ksssshaaaaaaaaaaaa!
-,,,,,,,
-Dialog.Chapter5-1-53,,「――――刀さえ手に入れればこちらのものです。さて、早急にこの怪物を倒してしまいましょう」,「――――刀さえ手に入れればこちらのものです。さて、早急にこの怪物を倒してしまいましょう」,「――――只要把刀拿回來，勝負就已經決定了。那麼，剩下的就是這頭怪物解決掉而已了。」,"""―――― If we can just get our hands on a sword, it's ours. Now, let's defeat this monster ASAP.""","「――――칼만 손에 넣으면 이쪽의 승리입니다. 자, 조속히 이 괴물을 쓰러뜨리도록 하죠」","""...As long as I have a blade, you are nothing to me. Let's kill this one now!"""
-,暗転,,,,,,
-Dialog.Chapter5-1-54,,………キンッ,………キンッ,………鏘——,.........kink,………팅,Clink...
-,,,,,,,
-Dialog.Chapter5-1-55,那由多,「ふう、これだけの肉片に切り刻んでおけば再生する心配もないでしょう」,「ふう、これだけの肉片に切り刻んでおけば再生する心配もないでしょう」,「呼，碎成這種程度的話應該就不用擔心還會再生了吧。」,"""'Wind, if you chop it up into this many pieces, you won't have to worry about it regenerating.'""","「후우, 이만큼의 살점 조각으로 잘게 썰어두면 재생할 걱정도 없겠죠」","""I don't think we have to worry about respawning if it's cut up like this."""
-,,,,,,,
-Dialog.Chapter5-1-56,,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……唔，體力消耗得有點過頭了。如果繼續追擊京實在太危險。」,"""......Gosh, I've exhausted my energy a little too much. It's frustrating, but it's dangerous to go after Kei too deep.""","「……크윽, 조금 체력을 너무 소모했습니다. 분하지만 케이를 쫓아 깊이 추격하는 것은 위험하군요」","""...I used up too much of my stamina. This is not ideal, but it's dangerous to keep going to find Kei."""
-,,,,,,,
-Dialog.Chapter5-1-57,,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「……真不像我竟然會犯這種錯誤，不過地下據點的大致位置我已經掌握好了。」,"""I'm afraid I've made a mistake, but I have a rough idea of the location of the hideout.""","「…저답지 않게 실수를 했군요, 하지만 아지트의 대략적인 위치는 알았습니다」","""...This is my fault, but now we know where roughly the hideout is."""
-,,,,,,,
-Dialog.Chapter5-1-58,,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「對方應該也幾乎沒有戰力剩下了……不久之後，就由司令部的精銳聖核戰姫再來將這裡徹底收復。」,"""There will be very little strength left...and in the near future, the elite of the Seigetsu Student Council will take control of this place again.""","「이제 거의 전력은 남아 있지 않겠죠… 조만간, 사령부의 정예 성핵전희로 다시 이곳을 제압하겠습니다」","""We don't have any troops left... We shall come back with the elite Holy Core Battlemaidens soon."""
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Chapter 5-2,注釈,,,,,,
-,,,,,,,
-Dialog.Chapter5-2-1,,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多的攻擊過去一夜之後，據點暫時恢復了片刻的平靜。,"The night after the attack by Nayuta, the hideout had briefly regained its composure.","나유타에 의한 공격으로부터 하룻밤이 지나고, 아지트는 잠깐의 평온을 되찾고 있었다","It has been a day since Nayuta's attack, and the hideout finally managed to stabilize itself."
-,,,,,,,
-Dialog.Chapter5-2-2,005号,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……那麼，現在來說明一下關於前幾天襲擊據點的聖核戰姫，我們目前掌握到的情報。」,"""At ......, we'll tell you what we currently know about the Seikaku Princess who recently attacked our hideout.""","「……그럼, 얼마 전 아지트를 습격한 성핵전희에 대해 현재 알고 있는 것을 말씀드리겠습니다」","""...This is what we currently know about the Holy Core Battlemaiden that attacked us the other day."""
-,,,,,,,
-Dialog.Chapter5-2-2(1),SEL,よろしく頼む,よろしく頼む,麻煩你了。,I look forward to working with you,잘 부탁한다,Go ahead.
-,モニター背景,,,,,,
-Dialog.Chapter5-2-3,那由多,「彼女は“八雲那由多”、ホーリーコア・レギオン会長にして最強の聖核戦姫です」,「彼女は“八雲那由多”、ホーリーコア・レギオン総司令にして最強の聖核戦姫です」,「她名叫「八雲那由多」，是聖核軍團的總司令，同時也是最強的聖核戰姫。」,"""She is ""Yakumo Nayuta,"" the president of the Seigetsu Student Council and the most powerful Seikaku Princess.""","「그녀는 “야쿠모 나유타”, 홀리코어 레기온 총사령관이자 최강의 성핵전희입니다」","""She is Nayuta Yagumo, the Commander of Holy Core Legion and the most powerful Holy Core Battlemaiden."""
-,,,,,,,
-Dialog.Chapter5-2-4,,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外的財團分部大約有一半，都是被她親手摧毀的。」,"""About half of the Foundation's branches abroad have been destroyed by her.""",「해외 재단 지부의 약 절반은 그녀에 의해 괴멸되었습니다」,"""She is responsible for destroying about half of the Foundation's overseas branches."""
-,,,,,,,
-Dialog.Chapter5-2-5,,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「照理說，她現在應該在海外行動…她的出現完全出乎我們的預料。」,"""'Originally, I would have gone overseas now...it was unexpected.'""","「본래라면, 지금은 해외에 가 있어야 했을 텐데… 예상 밖이었습니다」","""She should have been overseas, and we did not expect her to be here."""
-,,,,,,,
-Dialog.Chapter5-2-6,,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「到目前為止，我們一直躲在地下據點裡活動……但既然對方都已經侵入到這麼深的區域，想再一直躲下去恐怕是不可能了。」,"""So far we have been hiding in our underground hideouts, but now that they have penetrated this deep, it will no longer be possible for us to continue hiding.""","「지금까지는 지하 아지트에 숨어 있었습니다만… 여기까지 깊숙이 침입당한 이상, 더 이상 숨어 지내는 것은 불가능할 것입니다」","""We have been concealing the underground hideout, but after the enemy reached its depths, it is likely impossible for us to keep hiding."
-,,,,,,,
-Dialog.Chapter5-2-7,,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「……而且，她還擁有能夠單獨擊倒嚴密管控對象——觸手怪獸——的戰鬥力。」,"""...and she has enough fighting ability to defeat the tentacle monster in strict custody all by herself.""",「…그리고 그녀는 혼자서 엄중 보관 대상인 촉수 괴수를 쓰러뜨릴 정도의 전투 능력을 가지고 있습니다」,"""...And she has the power to take down the heavily guarded Tentacle Monster."""
-,,,,,,,
-Dialog.Chapter5-2-8,,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「不論我們這邊有多少克隆和戰鬥員都沒有勝算。現在我們需要的是能與之匹敵的單體戰力。」,"""No matter how many clones and fighters we have, we won't stand a chance. We need a strong stand―alone force.""",「저희 클론이나 전투원이 아무리 있어도 승산은 없을 것입니다. 단독으로 강력한 전력이 필요합니다」,"""We don't stand a chance, no matter how many clones or soldiers we send. We need an extremely powerful individual."""
-,,,,,,,
-Dialog.Chapter5-2-9,,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間不多了。我們必須儘快展開新的作戰計畫。」,"""We don't have much time at ....... Let's start a new operation as soon as possible.""",「……시간은 그다지 없습니다. 신속히 새로운 작전을 개시합시다」,"""We don't have much time. We need to start a new operation soon."""
-,,,,,,,
-Dialog.Chapter5-2-10,暗転,ホーリーコア・レギオン司令部にて,ホーリーコア・レギオン司令部にて,聖核軍團司令部,At the Seigetsu Student Council,홀리코어 레기온 사령부에서,At the Holy Core Legion Command Center...
-,,,,,,,
-,執務室,,,,,,
-Dialog.Chapter5-2-11,那由多(制服),「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「――以上就是此次的作戰概要。這次務必要從此結束和財團之間的戰鬥。」,"""――― ""So, here's the gist of the operation. This time we will end the war with the Foundation.""",「―――그럼 작전의 개요는 이렇습니다. 이번에야말로 재단과의 싸움을 끝내겠습니다」,"""...This is the summary of the operation. We will finish the Foundation off, once and for all."""
-,,,,,,,
-Dialog.Chapter5-2-12,,「何か質問のある方はいますか？」,「何か質問のある方はいますか？」,「有誰有問題嗎？」,"""Does anyone have any questions?""",「질문이 있는 분은 있습니까?」,"""Any questions?"""
-,,,,,,,
-Dialog.Chapter5-2-13,生徒１,「……あ、あの…」,「……あ、あの…」,「……那、那個……」,"""...... Oh, um...""","「……저, 저기…」","""Um..."""
-,,,,,,,
-Dialog.Chapter5-2-14,那由多,「どうしましたか？」,「どうしましたか？」,「怎麼了嗎？」,"""Can I help you?""",「무슨 일입니까?」,"""Yes?"""
-,,,,,,,
-Dialog.Chapter5-2-15,生徒１,「本当に大丈夫なんでしょうか…いくら那由多先輩がいるとは言えエレナ先輩が負けた相手に…」,「本当に大丈夫なんでしょうか…いくら那由多先輩がいるとは言えエレナ先輩が負けた相手に…」,「真的沒問題嗎……就算有那由多前輩在，對方可是能打敗艾蓮娜前輩的對手……」,"""I wonder if it's really okay...no matter how much Nayuta―senpai is there, against whom Erena-senpai lost...""",「정말 괜찮은 걸까요… 아무리 나유타 선배가 있다고는 해도 엘레나 선배가 패배한 상대에게…」,"""Are we really going to be okay? Even with Nayuta here, we're going up against whoever defeated Elena..."""
-,,,,,,,
-Dialog.Chapter5-2-16,生徒1,「…それに那由多先輩が仕留めきれないなんて…そんな相手、私達で大丈夫なのでしょうか…？」,「…それに那由多先輩が仕留めきれないなんて…そんな相手、私達で大丈夫なのでしょうか…？」,「……而且連那由多前輩都沒能徹底解決……這種對手，交給我們真的沒關係嗎……？」,"""And Nayuta―senpai can't finish him off...will we be able to handle such an opponent?""","「…게다가 나유타 선배가 끝내지 못했다니… 그런 상대, 저희로 괜찮을까요…?」","""And if even Nayuta couldn't finish them off... Can we really handle an opponent like that?"""
-,,,,,,,
-Dialog.Chapter5-2-17,那由多,「そうですね…はい、心配する必要は全くありません」,「そうですね…はい、心配する必要は全くありません」,「這點嘛……是的，完全不用擔心。」,"""Well...yes, no need to worry at all.""","「그렇군요… 네, 걱정할 필요는 전혀 없습니다」","""Right... Yes, there's absolutely no need to worry."""
-,,,,,,,
-Dialog.Chapter5-2-18,那由多,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「據點裡其實沒有那麼強的怪人。就算艾蓮娜會輸，多半也是因為大意而被偷襲了吧。」,"""There were no strong monsters inside the hideout. Even if Erena lost, it was probably because she was caught off guard.""",「아지트 내부에는 그다지 강한 괴인은 없었습니다. 엘레나가 패배했다고 해도 방심해서 기습당한 것이겠죠」,"""There weren't any particularly strong monsters inside their hideout. Even if Elena lost, it was probably because she was caught off guard by a surprise attack."""
-,,,,,,,
-Dialog.Chapter5-2-19,那由多,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「稍微強一點的怪人，也幾乎都已經被我削弱到沒什麼戰力了。現在那個基地幾乎已經喪失作戰能力。」,"""I have almost neutralized the monsters that were a little stronger than the others. There will be very little strength left in that branch to fight now.""","「조금 강했던 괴인도 제가 거의 무력화했습니다. 지금, 저 지부에는 거의 싸울 힘은 남아 있지 않을 겁니다」","""I've already neutralized most of the somewhat stronger monsters. That branch probably has almost no fighting power left now."""
-,,,,,,,
-Dialog.Chapter5-2-20,那由多,「……そしてこの私がいるのです。どう間違っても失敗などという事はありえません」,「……そしてこの私がいるのです。どう間違っても失敗などという事はありえません」,「……再說，現在這裡還有我坐鎮。不管怎麼看都沒有失敗的可能性。」,"""I am here at ...... and here I am. There is no such thing as failure, no matter how wrong you are.""",「……그리고 이 제가 있습니다. 어떻게 잘못되더라도 실패 같은 일은 있을 수 없습니다」,"""...And I am here. No matter what happens, failure is impossible."""
-,,,,,,,
-Dialog.Chapter5-2-21,那由多,「私達が行うのは圧倒的に有利な殲滅戦です。心配は杞憂です、私に付いてきなさい」,「私達が行うのは圧倒的に有利な殲滅戦です。心配は杞憂です、私に付いてきなさい」,「我們將要進行的是在絕對優勢下的殲滅戰。你們的擔心只是杞人憂天——跟著我就行了。」,"""What we will do is a battle of extermination with overwhelming odds in our favor. Your fears are unfounded. Follow me.""","「저희가 하는 것은 압도적으로 유리한 섬멸전입니다. 걱정은 기우입니다, 저를 따라오십시오」","""What we're running is an overwhelmingly advantageous extermination operation. Your worries are unfounded—follow me."""
-,,,,,,,
-Dialog.Chapter5-2-22,,その時、執務室に一人の生徒が入ってくる,その時、執務室に一人の女性が入ってくる,就在這時，一名女性走進了辦公室,"At that moment, a student walks into the office.","그때, 집무실에 한 여성이 들어온다","At that moment, a woman entered the office."
-,,,,,,,
-Dialog.Chapter5-2-23,生徒２,「連絡します！現在都市内の複数個所で同時多発的に怪人と戦闘員が出現したとの報告がありました！」,「連絡します！現在都市内の複数個所で同時多発的に怪人と戦闘員が出現したとの報告がありました！」,「報告！目前回報顯示，市區內多個地點同時出現怪人與戰鬥員！」,"""Attention! We have reports of simultaneous appearances of monsters and combatants in multiple locations in the capital city at this time!""",「연락합니다! 현재 도시 내 여러 곳에서 동시다발적으로 괴인과 전투원이 출현했다는 보고가 있었습니다!」,"""Incoming report! We have confirmed simultaneous appearances of monsters and soldiers at multiple locations throughout the city!"""
-,,,,,,,
-Dialog.Chapter5-2-24,那由多,「…隠れていればいいものをわざわざ向こうから出てくるとは…最後の悪あがきですか？」,「…隠れていればいいものをわざわざ向こうから出てくるとは…最後の悪あがきですか？」,「……乖乖躲起來不就算了，偏要自己跑出來送死嗎……這就是所謂最後的掙扎嗎？」,"""...is it a last ditch effort to come out from the other side when all you had to do was hide?""",「…숨어 있으면 될 것을 굳이 일부러 저쪽에서 먼저 나서다니… 최후의 발악입니까?」,"""They should have stayed hidden, but they're coming out on their own... Is this their last desperate struggle?"""
-,,,,,,,
-Dialog.Chapter5-2-25,生徒２,「都市中央部に戦闘員が多数出現し、既にセントラルタワーの警備システムは半壊、占拠されかけているようです！」,「都市中央部に戦闘員が多数出現し、既にセントラルタワーの警備システムは半壊、占拠されかけているようです！」,「市中心一帶出現大量戰鬥員，中央塔的防衛系統已經有一半被破壞，正逐步被對方奪取控制權！」,"""A large number of combatants have appeared in the center of the city, and it appears that the security system of the Central Tower is already half―collapsed and nearly occupied!""","「도시 중앙부에 전투원이 다수 출현하여, 이미 센트럴 타워의 경비 시스템은 반파, 점거당할 것 같습니다!」","""Multiple soldiers have appeared in the city center, and Central Tower's security system is already half-destroyed and nearly occupied!"""
-,,,,,,,
-Dialog.Chapter5-2-26,那由多,「思ったより早い展開ですね…また何か小細工でもしているのでしょうか……」,「思ったより早い展開ですね…また何か小細工でもしているのでしょうか……」,「發展比預想中還快呢……看來他們又在搞什麼小動作了……」,"""This is unfolding faster than I expected...are they playing some tricks on us again?"" ......""",「생각보다 빠른 전개군요… 또 뭔가 잔꾀라도 부리고 있는 걸까요……」,"""Faster than expected... Are they pulling some kind of trick again?"""
-,,,,,,,
-Dialog.Chapter5-2-27,,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「――只是讓作戰時程稍微提前罷了。那我們就提前開始行動，請各部隊分別殲滅各地的敵人。」,"""―――― The operation has just been moved up a little bit. We will start the operation ahead of schedule. Please destroy the enemy in each area by unit.""","「―――작전이 조금 앞당겨졌을 뿐입니다. 앞당겨 작전을 개시합니다, 부대별로 각지의 적을 격파하십시오」","""The operation has just been moved up slightly. We're starting the operation ahead of schedule—each squad will defeat enemies in their assigned areas."""
-,,,,,,,
-Dialog.Chapter5-2-28,,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戰姫：翡翠、祖母綠、海藍寶，妳們三人跟我一起走。我們要親自奪回中央塔。」,"""Seikaku Princess: Jade, Emerald, and Aquamarine come with me. We will retake the Central Tower ourselves.""","「성핵전희: 히스이, 에메랄드, 아쿠아마린은 저와 함께 오십시오. 저희가 센트럴 타워를 탈환합니다」","""Holy Core Battlemaidens Hisui, Emerald, and Aquamarine, come with me. We will take back Central Tower."""
-,,,,,,,
-Dialog.Chapter5-2-29,,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「這恐怕會是最後一戰了。那麼，各位，祝你們武運昌隆。」,"""This will probably be my last fight. So, ladies and gentlemen, I wish you all the best of luck.""","「이것이 아마 마지막 싸움이 될 것입니다. 그럼 여러분, 무운을 빕니다」","""This will probably be our final battle. Everyone, I wish you good luck."""
-,暗転,,,,,,
-Dialog.Chapter5-2-30,セントラルタワー,セントラルタワー内部,セントラルタワー内部,中央塔內部,Inside the Central Tower,센트럴 타워 내부,Inside Central Tower
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Dialog.Chapter5-2-31,那由多,「邪魔です。通しなさい」,「邪魔です。通しなさい」,「擋路了。讓開。」,"""You are in my way. Let me through.""",「방해됩니다. 비키십시오」,"""You're in my way. Let me through."""
-,,,,,,,
-Dialog.Chapter5-2-32,戦闘員,「ぐあっ！？」,「ぐあっ！？」,「呃啊！？」,"""AUGH!""",「크악!?」,"""Gaahhh!"""
-,,,,,,,
-Dialog.Chapter5-2-33,,那由多達は戦闘員達を撃破し、セントラルタワーの中枢へ向かっていた,那由多達は戦闘員達を撃破し、セントラルタワーの中枢へ向かっていた,那由多等人打倒了戰鬥員，朝中央塔的核心區域前進。,Nayuta and his team had defeated the fighters and were heading for the center of the Central Tower.,"나유타 일행은 전투원들을 격파하고, 센트럴 타워의 중추로 향하고 있었다",Nayuta and the others defeated the soldiers and headed toward Central Tower's core.
-,,,,,,,
-Dialog.Chapter5-2-34,那由多(変身),「さて、ここが建物中心部でしょうか？大した敵はいませんでしたね」,「さて、ここが建物中心部でしょうか？大した敵はいませんでしたね」,「那麼，這裡就是這棟大樓的中心區域吧？一路上並沒有遇到什麼像樣的敵人呢。」,"""Now, is this the center of the building? I didn't see any major enemies.""","「자, 여기가 건물 중심부입니까? 별다른 적은 없었군요」","""So this is the center of the building? There weren't any significant enemies."""
-,,,,,,,
-Dialog.Chapter5-2-35,???(エレナ影),「……！誰ですか！？」,「……！誰ですか！？」,「……！你是誰！？」,"""......! Who are you!""",「……! 누구입니까!?」,"""...! Who's there?!"""
-,,,,,,,
-Dialog.Chapter5-2-36,那由多,「聖月生徒会です。セントラルタワーを開放しに来ました―――エレナ？なぜあなたがこんな所に？」,「レギオン司令部です。セントラルタワーを開放しに来ました―――エレナ？なぜあなたがこんな所に？」,「我們是軍團司令部的人。是來解放中央塔的―――艾蓮娜？妳為什麼會在這裡？」,"""This is the Seigetsu Student Council. We're here to open up the Central Tower―――Erena? Why are you here?""",「레기온 사령부입니다. 센트럴 타워를 개방하러 왔습니다―――엘레나? 어째서 당신이 이런 곳에?」,"""Legion Command. We've come to liberate Central Tower—Elena? Why are you in a place like this?"""
-,,,,,,,
-Dialog.Chapter5-2-37,エレナ,「…那由多ですか」,「…那由多ですか」,「……是那由多啊。」,"""Nayuta?""",「…나유타입니까」,"""Nayuta?"""
-,那由多(制服)(変身解除),,,,,,
-Dialog.Chapter5-2-38,那由多,「貴女は財団に敗北し、拉致されていたはずでは？一体ここで何をやっているのですか？」,「貴女は財団に敗北し、拉致されていたたはずでは？一体ここで何をやっているのですか？」,「妳不是應該已經敗給財團，被他們擄走了嗎？現在到底在這裡做什麼？」,"""Weren't you supposed to have been defeated and abducted by the Foundation? What on earth are you doing here?""","「당신은 재단에 패배하여, 납치되었을 텐데요? 대체 여기서 뭘 하고 있는 겁니까?」","""Weren't you defeated by the Foundation and abducted? What exactly are you doing here?"""
-,,,,,,,
-Dialog.Chapter5-2-39,エレナ,「……財団を抜け出して一足早くここへ来ただけです。ここの職員は皆私が避難させました」,「……財団を抜け出して一足早くここへ来ただけです。ここの職員は皆私が避難させました」,「……我只是先從財團那邊脫身，稍微早一步趕到這裡而已。這裡的職員全都已經由我安排撤離了。」,"""I just got out of the ...... foundation and came here a step early. I evacuated all the staff here myself.""",「……재단을 빠져나와 한 발 먼저 여기로 왔을 뿐입니다. 여기 직원들은 전부 제가 피난시켰습니다」,"""I just escaped from the Foundation and got here ahead of you. I evacuated all the staff here."""
-,,,,,,,
-Dialog.Chapter5-2-40,那由多,「………そうですか。それなら連絡してくれればよかったのに」,「………そうですか。それなら連絡してくれればよかったのに」,「………這樣啊。那妳早說一聲聯絡我不就好了。」,"""'......... I see. Then you should have contacted me.""",「………그렇군요. 그렇다면 연락해주셨으면 좋았을 텐데」,"""...I see. You could have contacted us though."""
-,,,,,,,
-Dialog.Chapter5-2-41,那由多,「…とはいえここまで財団による被害が大きくなった原因は貴女にあります」,「…とはいえここまで財団による被害が大きくなった原因は貴女にあります」,「……話雖如此，如今財團把局面搞到這個地步，根本原因還是在妳身上。」,"""...but you are the cause of the damage done by the foundation.""",「…라고는 해도 여기까지 재단에 의한 피해가 커진 원인은 당신에게 있습니다」,"""However, you're the reason the Foundation's damage became this extensive."""
-,,,,,,,
-Dialog.Chapter5-2-42,,「貴女なら大丈夫だと思っていたのですが、情けなくもこの程度の敵に負けてしまうとは…」,「貴女なら大丈夫だと思っていたのですが、情けなくもこの程度の敵に負けてしまうとは…」,「我原本以為以妳的實力應該沒問題，結果居然丟臉地輸給這種程度的敵人……」,"""I thought you would be all right, but you were pitifully defeated by an enemy of this caliber.""","「당신이라면 괜찮다고 생각했습니다만, 한심하게도 이 정도 적에게 패배해버리다니…」","""I thought you'd be fine, but to be defeated so pathetically by enemies of this level..."""
-,,,,,,,
-Dialog.Chapter5-2-43,,「やれやれ、少し貴女の実力を買いかぶり過ぎていたかもしれませんね」,「やれやれ、少し貴女の実力を買いかぶり過ぎていたかもしれませんね」,「真是的，也許我是有點過度高估妳了呢。」,"""I may have overestimated your abilities a bit.""","「이런이런, 조금 당신의 실력을 너무 높게 평가했던 것일지도 모르겠군요」","""Good grief, perhaps I overestimated your abilities."""
-,,,,,,,
-Dialog.Chapter5-2-44,エレナ,「…そうですね。理解しています」,「…そうですね。理解しています」,「……是啊。我很清楚。」,"""I understand. I understand.""",「…그렇군요. 이해하고 있습니다」,"""...You're right. I understand."""
-,,,,,,,
-Dialog.Chapter5-2-45,那由多,「貴女にしてはやけに素直ですね…」,「貴女にしてはやけに素直ですね…」,「真稀奇... 妳今天比往常還要坦率啊。」,"""For a woman like you, you're awfully straightforward...""",「당신치고는 꽤 순순하군요…」,"""You're being unusually compliant..."""
-,,,,,,,
-Dialog.Chapter5-2-46,那由多,「おそらく副会長は解任となるでしょう。聖核戦姫の戦闘ライセンスの剝奪もあり得ます」,「おそらく副司令は解任となるでしょう。聖核戦姫の戦闘ライセンスの剝奪もあり得ます」,「妳的副司令職務大概會被解除吧。另外聖核戰姫的戰鬥執照也有可能被剝奪。」,"""Your status as vice president will be dismissed, and her license will be dismissed.""",「아마 부사령관은 해임될 것입니다. 성핵전희 전투 라이선스 박탈도 있을 수 있습니다」,"""You'll probably be dismissed as Deputy Commander. Your Holy Core Battlemaiden combat license may also be revoked."""
-,,,,,,,
-,,,,,,,
-Dialog.Chapter5-2-47,那由多,「…まあそのことは後で考えましょう。帰還します、エレナ、私に付いてきなさい」,「…まあそのことは後で考えましょう。帰還します、エレナ、私に付いてきなさい」,「……嘛，這種事情之後再想吧。我們要撤退了，艾蓮娜，跟我來。」,"""...well, we'll figure that out later. We will return, Erena, follow me.""","「…뭐 그건 나중에 생각하도록 하죠. 귀환합니다, 엘레나, 저를 따라오십시오」","""Well, let's think about that later. We're returning—Elena, follow me."""
-,,,,,,,
-Dialog.Chapter5-2-48,,那由多と他三人の生徒はエレナに背を向け部屋の外へ向かう,那由多と他三人の聖核戦姫はエレナに背を向け部屋の外へ向かう,那由多和另外三名聖核戰姫轉身，把艾蓮娜留在身後，往房間外走去。,Nayuta and three other students turn their backs to Erena and head out of the room.,나유타와 다른 세 명의 성핵전희는 엘레나에게 등을 돌리고 방 밖으로 향한다,Nayuta and the other three Holy Core Battlemaidens turned their backs to Elena and headed toward the room's exit.
-,,,,,,,
-Dialog.Chapter5-2-49,エレナ,「………ええ、わかりました」,「………ええ、わかりました」,「………好的，我明白了。」,"""......... yeah, okay.""","「………네, 알겠습니다」","""...Yes, understood."""
-,,,,,,,
-Dialog.Chapter5-2-50,エレナ(変身),「………………変身、聖核戦姫、コード：ゴールド。」,「………………変身、聖核戦姫、コード：ゴールド。」,「………………變身。聖核戰姫，代號：黃金。」,""".................. transformation, Seikaku Princess, code: gold.""","「………………변신, 성핵전희, 코드: 골드.」","""...Transform, Holy Core Battlemaiden, Code: Gold."""
-,,,,,,,
-Dialog.Chapter5-2-51,,ガキィィン！！,ガキィィン！！,嘎鏘——！！,Gakiin!,카킹!!,CLANG!!
-,,,,,,,
-Dialog.Chapter5-2-52,那由多,「――――――！？」,「――――――！？」,「――――――！？」,"""――――――!""",「――――――!?」,"""—?!"""
-,,,,,,,
-Dialog.Chapter5-2-53,,那由多の刀がエレナの矛を防ぐ,那由多の刀がエレナの矛を防ぐ,那由多拔刀擋下了艾蓮娜的長矛。,Nayuta's sword prevents Erena's spear.,나유타의 칼이 엘레나의 창을 막는다,Nayuta's sword blocked Elena's spear.
-,,,,,,,
-Dialog.Chapter5-2-54,エレナ,「流石那由多、この奇襲も防ぎますか」,「流石那由多、この奇襲も防ぎますか」,「不愧是那由多，連這種奇襲都能擋下來嗎。」,"""Nayuta is a master at preventing surprise attacks.""","「역시 나유타, 이 기습도 막습니까」","""As expected of you, Nayuta. You blocked even this surprise attack."""
-,,,,,,,
-Dialog.Chapter5-2-55,那由多,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」,"""............ Erena...? Do you know what you are doing?""",「…………엘레나…? 자신이 뭘 하고 있는지 알고 있는 겁니까?」,"""...Elena? Do you understand what you're doing?"""
-,,,,,,,
-Dialog.Chapter5-2-56,エレナ,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」,"""It is all my will. ...... I will avenge you here and now ――――.""","「모든 것은 제 의지입니다. ……저는 지금 여기서, ――――당신을 칩니다」","""This is entirely my will. I will... strike you down here and now."""
-Chapter 5-3,注釈,,,,,,
-Dialog.Chapter5-3-1,那由多(制服),「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」,"""............ Erena...? Do you know what you are doing?""",「…………엘레나…? 자신이 뭘 하고 있는지 알고 있는 겁니까?」,"""...Elena? Do you understand what you're doing?"""
-,,,,,,,
-Dialog.Chapter5-3-2,エレナ,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」,"""It is all my will. ...... I will avenge you here and now ――――.""","「모든 것은 제 의지입니다. ……저는 지금 여기서, ――――당신을 칩니다」","""This is entirely my will. I will... strike you down here and now."""
-,,,,,,,
-Dialog.Chapter5-3-3,,エレナの体から赤色のオーラが沸き上がり、赤黒いスーツが身に纏わられる,エレナの体から赤色のオーラが沸き上がり、赤黒いスーツが身に纏わられる,艾蓮娜全身湧出赤紅色的氣息，赤黑色的戰鬥服纏繞著她的身軀。,Erena's body is covered with a red aura and a reddish―black suit.,"엘레나의 몸에서 붉은 오라가 뿜어져 나오며, 검붉은 슈트가 몸에 감싸인다",A red aura welled up from Elena's body as a crimson-black suit wrapped around her.
-,,,,,,,
-Dialog.Chapter5-3-4,エレナ,「変身完了…ふう、まだこの変身は慣れませんね」,「変身完了…ふう、まだこの変身は慣れませんね」,「變身完畢……呼，這種變身還是有點不太習慣呢。」,"""Transformation complete....phew, I still can't get used to this transformation.""","「변신 완료… 후우, 아직 이 변신은 익숙하지 않군요」","""Transformation complete... Phew, I'm still not used to this transformation."""
-,,,,,,,
-Dialog.Chapter5-3-5,那由多,「………エレナ、今ならまだ許します。馬鹿な真似は辞めて司令部に戻りなさい」,「………エレナ、今ならまだ許します。馬鹿な真似は辞めてレギオンに戻りなさい」,「………艾蓮娜，現在回頭還來得及。別再做這種蠢事了，乖乖回軍團來。」,"""......... Erena, I can still forgive you now. Quit your foolishness and return to the academy.""","「………엘레나, 지금이라면 아직 용서합니다. 어리석은 짓은 그만두고 레기온으로 돌아오십시오」","""Elena, I'll still forgive you now. Stop this foolishness and return to the Legion."""
-,,,,,,,
-Dialog.Chapter5-3-6,,「……それとも本気で私と戦うつもりですか？」,「……それとも本気で私と戦うつもりですか？」,「……還是說，你是認真打算跟我動真格的？」,"""...... or are you seriously going to fight me?""",「……아니면 진심으로 저와 싸울 생각입니까?」,"""...Or do you seriously intend to fight me?"""
-,,,,,,,
-Dialog.Chapter5-3-7,女生徒1,「！清藤エレナッ！いったい何のつもり！？」,「！清藤エレナッ！いったい何のつもり！？」,「！清藤艾蓮娜！妳到底想幹什麼！？」,"""! Seidō Erena! What the hell are you doing!""",「! 세이토 엘레나! 대체 무슨 짓이죠!?」,"""Elena Kiyofuji! What do you think you're doing?!"""
-,,,,,,,
-Dialog.Chapter5-3-8,女生徒2,「那由多先輩に攻撃なんてッ！それにその恰好…！」,「那由多先輩に攻撃なんてッ！それにその恰好…！」,「竟然對那由多前輩出手！而且妳那身打扮是怎麼回事……！」,"""I can't believe you attacked Nayuta―senpai! And you're dressed like that...!""",「나유타 선배에게 공격이라니! 게다가 그 모습…!」,"""Attacking Nayuta! And that outfit...!"""
-,,,,,,,
-Dialog.Chapter5-3-9,女生徒3,「エレナ先輩目を覚ましてください！私達も戦いますっ！変身っ！」,「エレナ先輩目を覚ましてください！私達も戦いますっ！変身っ！」,「艾蓮娜前輩請你清醒一點！我們也來加入戰鬥！變身！」,"""Erena-senpai, please wake up! We will fight too! Transform!""",「엘레나 선배 정신 차리세요! 저희도 싸우겠습니다! 변신!」,"""Elena, snap out of it! We'll fight too! Transform!"""
-,,,,,,,
-Dialog.Chapter5-3-10,エレナ,「―――――あなた達に興味はありません」,「―――――あなた達に興味はありません」,「―――――我對你們完全沒有興趣。」,"""――――― is not interested in any of you.""",「―――――당신들에게 흥미는 없습니다」,"""I have no interest in you."""
-,,,,,,,
-Dialog.Chapter5-3-11,女生徒,「―――！！！」,「―――！！！」,「―――！！！」,"""―――!!!!!!!!!!!!!!!!!!!!!!!!!!!!!""",「―――!!!」,"""—!!!"""
-,,,,,,,
-Dialog.Chapter5-3-12,那由多,「―――っ！いけませんっ、離れて―――――ッ」,「―――っ！いけませんっ、離れて―――――ッ」,「――不行！快退開――！！」,"""I can't..! Don't do it, get away from ―――――.""","「―――윽! 안됩니다, 떨어져―――――윽」","""—! No! Get away—!"""
-,,,,,,,
-Dialog.Chapter5-3-13,,ザシュッ！,ザシュッ！,刷！,Zash!,자슉!,SLASH!
-,,,,,,,
-Dialog.Chapter5-3-14,,エレナの矛の一太刀で三人の聖核戦姫が地面に崩れ落ちる,エレナの矛の一太刀で三人の聖核戦姫が地面に崩れ落ちる,艾蓮娜長矛一掃，三名聖核戰姬全都倒在地上。,Erena's single stroke of her contraption sends the three Seikaku Princesses crashing to the ground.,엘레나의 창 한 번 휘두름에 세 명의 성핵전희가 바닥에 쓰러진다,"With one strike of Elena's spear, the three Holy Core Battlemaidens collapse to the ground."
-,,,,,,,
-Dialog.Chapter5-3-15,那由多,「…っ！変身、コード：オブシディアンッ！……話し合いの余地は無さそうですね。」,「…っ！変身、コード：オブシディアンッ！……話し合いの余地は無さそうですね。」,「……！變身，代號：黑曜！……看來我們已經沒有談的餘地了呢。」,"""...! Transformation, code: obsidianck! ...... seems there is no room for discussion.""","「…윽! 변신, 코드: 옵시디언! ……이야기할 여지는 없어 보이는군요.」","""...! Transform, Code: Obsidian! There doesn't seem to be room for discussion."""
-,,,,,,,
-Dialog.Chapter5-3-16,エレナ,「ようやく私と戦う気になりましたか？あなたにしては判断が遅いですね」,「ようやく私と戦う気になりましたか？あなたにしては判断が遅いですね」,「終於有打算跟我認真戰鬥了嗎？以你來說，判斷下得得有點晚呢。」,"""You are finally ready to fight me? You are slow to judge, even for you.""",「겨우 저와 싸울 마음이 생겼습니까? 당신치고는 판단이 늦군요」,"""Finally ready to fight me? Your judgment is slow, even for you."""
-,,,,,,,
-Dialog.Chapter5-3-17,那由多(変身),「……清藤エレナ。あなたの行動をレギオンに対する重大な反逆とみなします。」,「……清藤エレナ。あなたの行動をレギオンに対する重大な反逆とみなします。」,「……清藤艾蓮娜。你的行為，將被視為對軍團的重大叛逆。」,"""...... Seidō Erena. We consider your actions to be a grave rebellion against the Seigetsu Student Council.""",「……세이토 엘레나. 당신의 행동을 레기온에 대한 중대한 반역으로 간주합니다.」,"""Elena Kiyofuji. I consider your actions to be serious treason against the Legion."""
-,,,,,,,
-Dialog.Chapter5-3-18,暗転,「貴女と戦いたくはなかったですが…。慈悲があると思わないでください！」,「貴女と戦いたくはなかったですが…。慈悲があると思わないでください！」,「我本來並不想和妳交戰……別指望我會手下留情！」,"""I did not want to fight you, but.... Don't think I have mercy on you!""",「당신과 싸우고 싶지는 않았습니다만…. 자비가 있을 거라 생각하지 마십시오!」,"""I didn't want to fight you, but... don't expect any mercy!"""
-,エレナVS那由多,,,,,,
-Dialog.Chapter5-3-19,,ガキンッ！ガキィィッ！,ガキンッ！ガキィィッ！,鏘！鏘啷！,Gakikk! Gaki―iii!,카킹! 카킹!,CLANG! CLAANG!
-,,,,,,,
-Dialog.Chapter5-3-20,,ホールに金属が激しくぶつかり合う音が響く,ホールに金属が激しくぶつかり合う音が響く,金屬激烈撞擊的聲音在大廳中迴盪。,The sound of metal clashing violently echoes through the hall.,홀에 금속이 격렬하게 부딪히는 소리가 울린다,The sound of metal clashing violently echoed through the hall.
-,,,,,,,
-Dialog.Chapter5-3-21,エレナ,「―――どうしました？私の記憶では貴女はもっと強かったはずですが」,「―――どうしました？私の記憶では貴女はもっと強かったはずですが」,「――怎麼了？照我的記憶，你應該比現在還要強得多才對。」,"""What's wrong? From what I remember, you were stronger than this.""",「―――어떻습니까? 제 기억으로는 당신은 더 강했을 텐데요」,"""What's wrong? From what I remember, you should be much stronger than this."""
-,,,,,,,
-Dialog.Chapter5-3-22,那由多,(ぐっ、この膂力、かつてのエレナとは比べ物になりませんっ),(ぐっ、この膂力、かつてのエレナとは比べ物になりませんっ),（可惡，這股臂力，已經完全不是從前的艾蓮娜能比的了）,"(Gosh, this physical strength is nothing compared to the Erena of the past!)","(크윽, 이 완력, 예전의 엘레나와는 비교도 안 됩니다)","(Ugh, this physical strength... it's incomparable to Elena's previous power!)"
-,,,,,,,
-Dialog.Chapter5-3-23,那由多,「っ！、…貴女こそ本気で私に勝てると思っているのですかっ？」,「っ！、…貴女こそ本気で私に勝てると思っているのですかっ？」,「妳……難道真覺得自己打得贏我嗎？」,"""I'm not sure I can beat you! Do you really think you can beat me?""","「윽!, …당신이야말로 진심으로 저에게 이길 수 있다고 생각하는 겁니까?」","""...Do you seriously think you can beat me?!"""
-,,,,,,,
-Dialog.Chapter5-3-24,,「それにっ、…プライドの高いあなたがこんなっ、一体財団に何をされたのですか？！」,「それにっ、…プライドの高いあなたがこんなっ、一体財団に何をされたのですか？！」,「而且……像妳這麼好勝的人竟然會變成這樣，財團到底對妳做了什麼？！」,"""And you, with all your pride, what in the world have you done to the Foundation?""","「게다가, …프라이드 높은 당신이 이런, 대체 재단에게 뭘 당한 겁니까?!」","""And with your pride... what exactly has the Foundation done to you?!"""
-,,,,,,,
-Dialog.Chapter5-3-25,エレナ,「……財団には愚かな私を洗脳して更なる力を頂きました。しかし――――これは私の意思です」,「……財団には愚かな私を洗脳して更なる力を頂きました。しかし――――これは私の意思です」,「……財團洗腦了愚蠢的我，並賜予我更強大的力量。不過――這一切都是出自我自己的意志。」,"""The ...... Foundation has given me further power by brainwashing me out of my foolishness. But ―――― this is my will.""",「……재단에게는 어리석은 저를 세뇌하여 더 큰 힘을 받았습니다. 하지만――――이것은 제 의지입니다」,"""The Foundation brainwashed foolish me and granted me greater power. But—this is my will."""
-,,,,,,,
-Dialog.Chapter5-3-26,那由多,「……っ、いったい何のためにそんな事を！これ以上力を求めて何の意味があるのですかっ！？」,「……っ、いったい何のためにそんな事を！これ以上力を求めて何の意味があるのですかっ！？」,「……到底是為了什麼才做到這種地步！再去追求力量又有什麼意義！？」,"""I said to myself, ""......, what in the world is the point of that? What's the point of asking for more power?""","「……윽, 대체 무엇 때문에 그런 짓을! 이 이상 힘을 추구하여 무슨 의미가 있는 겁니까!?」","""...Why would you do such a thing?! What's the point of seeking even more power?!"""
-,,,,,,,
-Dialog.Chapter5-3-27,エレナ,「……ここで私が貴女を倒せばホーリーコア・レギオンは崩壊します。統制を失った聖核戦姫は全て財団の管理下に置かれるでしょう」,「……ここで私が貴女を倒せばホーリーコア・レギオンは崩壊します。統制を失った聖核戦姫は全て財団の管理下に置かれるでしょう」,「……只要我在這裡打倒妳，聖核軍團就會崩潰。失去統制的聖核戰姫，最後全都會被納入財團的管理之下。」,"""If I defeat you here at ......, the Seigetsu Student Council will collapse. All the Seikaku Princesses who have lost control will be placed under the control of the Foundation.""",「……여기서 제가 당신을 쓰러뜨리면 홀리코어 레기온은 붕괴합니다. 통제를 잃은 성핵전희는 전부 재단의 관리 하에 놓이게 되겠죠」,"""If I defeat you here, the Holy Core Legion will collapse. All the Holy Core Battlemaidens who lose their leadership will be placed under the Foundation's control."""
-,,,,,,,
-Dialog.Chapter5-3-28,那由多,「なにを馬鹿なことを！特別な力を持った聖核戦姫のあの子たちを守るのが力ある私達の使命でしょう！？」,「なにを馬鹿なことを！特別な力を持った聖核戦姫たちを守るのが力ある私達の使命でしょう！？」,「別說這種蠢話！守護擁有特殊力量的聖核戰姫們，才是我們這些擁有力量之人的使命吧！？」,"""What nonsense! It's our mission to protect those kids in the academy!""",「무슨 어리석은 소리를! 특별한 힘을 가진 성핵전희들을 지키는 것이 힘 있는 저희의 사명 아닙니까!?」,"""What nonsense! Our mission as the powerful ones is to protect the Holy Core Battlemaidens with special powers!"""
-,,,,,,,
-Dialog.Chapter5-3-29,エレナ,「ええ、ですが考えてもみてください。私や貴女のような未熟な者がこれだけ強大な力を持っているのがどれだけ危険な事か」,「ええ、ですが考えてもみてください。私や貴女のような一個人がこれだけ強大な力を持っているのがどれだけ危険な事か」,「沒錯，不過妳也想一想，像我和妳這樣的個體，卻握有如此龐大的力量，本身就是極度危險的事。」,"""Yes, but think about it. How dangerous it is for someone as inexperienced as you and I to be so powerful.""","「네, 하지만 생각해보십시오. 저나 당신 같은 개인이 이렇게 강대한 힘을 가지고 있는 것이 얼마나 위험한 일인지」","""Yes, but think about it. How dangerous it is for individuals like you and me to possess such immense power?"""
-,,,,,,,
-Dialog.Chapter5-3-30,那由多,「っ！、だから聖核戦姫は多くの大人から狙われます。だからこそ、そんな私達を守れるのは私達自身でしかないっ！」,「っ！、だから聖核戦姫は多くの悪意ある組織から狙われます。だからこそ、そんな私達を守れるのは私達自身でしかないっ！」,「……！正因為如此，聖核戰姫才會被那麼多心懷不軌的組織盯上。所以能守護我們這種存在的，就只有我們自己！」,"""I'm not sure I want to be a part of this! That's why the Seikaku Princess is targeted by many adults. That is why we are the only ones who can protect us!""","「윽!, 그래서 성핵전희는 많은 악의적인 조직에게 노려집니다. 그렇기 때문에, 그런 우리를 지킬 수 있는 것은 우리 자신뿐!」","""That's exactly why Holy Core Battlemaidens are targeted by many malicious organizations! That's why only we ourselves can protect us!"""
-,,,,,,,
-Dialog.Chapter5-3-31,エレナ,「確かに私達は現在自分自身で戦って身の安全を守っています。しかしそんなことがいつまで続くでしょう？」,「確かに私達は現在自分自身で戦って身の安全を守っています。しかしそんなことがいつまで続くでしょう？」,「現在的確是由我們親自戰鬥，才能勉強保住自己的安全。但這種狀態，能維持到什麼時候呢？」,"""We are fighting for our own safety now, but how long can that last? But how long can that last?""",「확실히 저희는 현재 스스로 싸워서 신변의 안전을 지키고 있습니다. 하지만 그런 일이 언제까지 계속될까요?」,"""True, we're currently fighting and protecting our own safety. But how long can that continue?"""
-,,,,,,,
-Dialog.Chapter5-3-32,,「財団に囚われてわかりました。力だけでは勝てない存在がいると」,「財団に囚われてわかりました。力だけでは勝てない存在がいると」,「我在被財團囚禁之後才明白，有些存在是光靠力量根本贏不了的。」,"""I found out when I was trapped in the Foundation. I realized that there are beings who cannot be defeated by force alone.""",「재단에 붙잡혀서 알았습니다. 힘만으로는 이길 수 없는 존재가 있다고」,"""Being captured by the Foundation made me understand—there are beings that can't be defeated by strength alone."""
-,,,,,,,
-Dialog.Chapter5-3-33,,「聖核戦姫の力は私達の手に余ります。財団のような真に力のある組織に適切に管理された方が健全でしょう」,「聖核戦姫の力は私達の手に余ります。財団のような真に力のある組織に適切に管理された方が健全でしょう」,「聖核戰姫的力量，已經超出我們自己能掌控的範圍。交給像財團那種真正強大的組織來妥善管理，反而才是比較健全的形態。」,"""The power of the Seikaku is beyond our control. It would be healthier if it were properly managed by a truly powerful organization like the Foundation.""",「성핵전희의 힘은 저희 손에 벅찹니다. 재단 같은 진정으로 힘 있는 조직에게 적절히 관리되는 편이 건전하겠죠」,"""The power of Holy Core Battlemaidens is beyond our control. It would be healthier if properly managed by a truly powerful organization like the Foundation."""
-,,,,,,,
-Dialog.Chapter5-3-34,那由多,「……っ！何を訳のわからないことをっ！そんな世界を受け入れられるわけがないでしょう！目を覚ましなさい！」,「……っ！何を訳のわからないことをっ！そんな世界を受け入れられるわけがないでしょう！目を覚ましなさい！」,「……！你在胡說什麼鬼話！那樣的世界我絕對無法接受！給我清醒一點！」,"""I'll tell you what... ""......! What nonsense! How can you accept such a world? Wake up!""",「……윽! 무슨 말도 안 되는 소리를! 그런 세계를 받아들일 수 있을 리 없지 않습니까! 정신 차리십시오!」,"""...! What nonsense are you spouting?! There's no way I could accept such a world! Wake up!"""
-,,,,,,,
-Dialog.Chapter5-3-35,エレナ,「…そして那由多、あなたに対してです」,「…そして那由多、あなたに対してです」,「……還有，那由多，這段話是對妳說的。」,"""...and to you, Nayuta.""","「…그리고 나유타, 당신에 대해서입니다」","""And Nayuta, this is about you."""
-,,,,,,,
-Dialog.Chapter5-3-36,那由多,「っ！、いまさら何をっ？」,「っ！、いまさら何をっ？」,「！到這個節骨眼妳還想說什麼？」,"""What? What are you doing now?""","「윽!, 이제 와서 뭘?」","""...! What are you talking about now?!"""
-,,,,,,,
-Dialog.Chapter5-3-37,エレナ,「私に面倒な業務ばかり押し付けてっ！、自分は海外に行ったきり帰ってこない！」,「私に面倒な業務ばかり押し付けてっ！、自分は海外に行ったきり帰ってこない！」,「老是把麻煩的業務全部丟給我！自己飛去海外就不回來！」,"""He said, ""You keep putting me through all this trouble, and then you go overseas and never come back! You go overseas and never come back!""","「저에게 귀찮은 업무만 떠넘기고!, 자신은 해외에 간 채 돌아오지 않고!」","""You always dumped all the troublesome work on me! You went overseas and never came back!"""
-,,,,,,,
-Dialog.Chapter5-3-38,那由多,「なっ…私も遊んでいたわけではないのですがっ！確かに会長の仕事は多忙でしたが…」,「なっ…私も遊んでいたわけではないのですがっ！確かに総司令の仕事は多忙でしたが…」,「什……我也不是在那邊玩樂啊！總司令的工作確實很忙沒錯，但是……！」,"""I was not playing around either! It's true that I was very busy as student council president, but...""",「뭣… 저도 놀고 있었던 것은 아닙니다만! 확실히 총사령관의 일은 다망했지만…」,"""I... I wasn't just playing around! The Commander's work was certainly busy, but..."""
-,,,,,,,
-Dialog.Chapter5-3-39,エレナ,「私ももっと戦いたかったのに！つまらない書類仕事ばかり！」,「私ももっと戦いたかったのに！つまらない書類仕事ばかり！」,「我明明也想多上戰場的！結果每天都在做那些無聊的公文！」,"""'I wanted to fight more too! All that boring paperwork!""",「저도 더 싸우고 싶었는데! 재미없는 서류 작업만!」,"""I wanted to fight more too! But I was dealing with nothing but boring paperwork!"""
-,,,,,,,
-Dialog.Chapter5-3-40,那由多,「っ、私の方が強いのですから私が戦闘任務をするのは当然です！」,「っ、私の方が強いのですから私が戦闘任務をするのは当然です！」,「……因為我比較強，由我負責戰鬥任務是理所當然的！」,"""I'm stronger than you, so it's only natural that I should be the one doing the combat duty!""","「윽, 제가 더 강하니까 제가 전투 임무를 하는 것은 당연합니다!」","""Since I'm stronger, it's natural that I take on combat missions!"""
-,,,,,,,
-Dialog.Chapter5-3-41,エレナ,「―――そして同い年なのにあなたはいつも私の上を行って！比べられる私の気持ちを考えたことありますかっ！？」,「―――そして同い年なのにあなたはいつも私の上を行って！比べられる私の気持ちを考えたことありますかっ！？」,「――而且我們明明同歲，你卻總是走在我前面！有想過被拿來比較的我的心情嗎！？」,"""And you always go above me, even though we're the same age! Have you ever considered how I feel being compared to you!""",「―――그리고 동갑인데 당신은 언제나 저보다 앞서가고! 비교당하는 제 기분을 생각해 본 적 있습니까!?」,"""And even though we're the same age, you're always ahead of me! Have you ever considered how it feels to constantly be compared?!"""
-,,,,,,,
-Dialog.Chapter5-3-42,那由多,「――っ、それは貴女の問題でしょうっ！」,「――っ、それは貴女の問題でしょうっ！」,「――那是妳自己的問題吧！」,"""That's your problem!""","「――윽, 그건 당신의 문제겠죠!」","""That's your problem!"""
-,,,,,,,
-Dialog.Chapter5-3-43,那由多,(まずいですね…思ったよりもエレナの火力が高いです、速く戦いを終わらせないと…！),(まずいですね…思ったよりもエレナの火力が高いです、速く戦いを終わらせないと…！),（不妙呢……艾蓮娜的火力比想像中還高，得趕快結束這場戰鬥才行……！）,"(Not good... Erena's firepower is higher than I thought, we have to finish the fight fast...!)","(위험하군요… 생각보다 엘레나의 화력이 높습니다, 빨리 싸움을 끝내지 않으면…!)",(This is bad... Elena is more powerful than I thought. I need to end this fight quickly...!)
-,,,,,,,
-Dialog.Chapter5-3-44,,「……わかりましたっ、今後のことは二人でよく話し合いましょう。戦いを辞めてレギオンに戻って―――――」,「……わかりましたっ、今後のことは二人でよく話し合いましょう。戦いを辞めてレギオンに戻って―――――」,「……我明白了，今後的事情，我們兩個好好談談就行。先停手，跟我一起回軍團――――」,"""I understand,......, let's discuss the future between us. Quit the fight and go back to the academy ―――――.""","「……알겠습니다, 앞으로의 일은 둘이서 잘 이야기합시다. 싸움을 그만두고 레기온으로 돌아와―――――」","""...I understand! Let's discuss the future together. Stop fighting and return to the Legion—"""
-,,,,,,,
-Dialog.Chapter5-3-45,エレナ,「……今更何を言っているのですか？私はもうレギオンに戻るつもりなどありません」,「……今更何を言っているのですか？私はもうレギオンに戻るつもりなどありません」,「……妳現在還在說什麼呢？我已經不打算回軍團了。」,"""......What are you saying now? I have no intention of returning to the academy.""",「……이제 와서 무슨 말을 하는 겁니까? 저는 이제 레기온으로 돌아갈 생각 따위 없습니다」,"""What are you talking about? I have no intention of returning to the Legion anymore."""
-,,,,,,,
-Dialog.Chapter5-3-46,,職員だと思っていた人々が次々に戦闘員の姿に変わっていく,職員だと思っていた人々が次々に戦闘員の姿に変わっていく,原本以為只是一般職員的人們，一個接一個變回戰鬥員的模樣。,"One by one, people who thought they were staff members are transformed into combatants.",직원이라고 생각했던 사람들이 차례차례 전투원의 모습으로 변해간다,The people she thought were staff members transformed one after another into soldiers.
-,,,,,,,
-Dialog.Chapter5-3-47,那由多,「なっ！？、あなた達っ！？」,「なっ！？、あなた達っ！？」,「什麼！？你們這些傢伙……！」,"""What? You guys?""","「뭣!?, 당신들!」","""What?! You...?!"""
-,,,,,,,
-Dialog.Chapter5-3-48,エレナ,「那由多、貴女はここで私に負けるのです」,「那由多、貴女はここで私に負けるのです」,「那由多，妳將會在這裡輸給我。」,"""Nayuta, you are losing to me here.""","「나유타, 당신은 여기서 저에게 패배하는 겁니다」","""I am going to defeat you here, Nayuta."""
-,,,,,,,
-Dialog.Chapter5-3-49,那由多,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――看來現在不是猶豫的時候了。聖核能量全開！「雷神之相」！」,"""―――― is not the time to get lost. The Seikaku energy is in full swing! ""Thunder God phase!""",「――――망설일 때가 아니군요. 성핵 에너지 전개! “뇌신지상”!」,"""This is no time for hesitation. Full Holy Core Energy! Thunderous Avatar!"""
-,,,,,,,
-Dialog.Chapter5-3-50,,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雜魚來多少都沒有什麽差別。我可是最強的聖核戰姫。你們全部一起上吧！」,"""I don't care how many small fry there are. I am the most powerful Seikaku Princess. Get it together and come at me!""",「잡병이 아무리 있어도 관계없습니다. 저는 최강의 성핵전희입니다. 한꺼번에 덤비십시오!」,"""It doesn't matter how many foot soldiers there are. I am the strongest Holy Core Battlemaiden. Come at me all at once!"""
-,,,,,,,
-,,戦闘開始,戦闘開始,,戦闘開始,전투 시작,Combat Starts
-,,,,,,,
-,,戦闘終了,戦闘終了,,戦闘終了,전투 종료,Combat Ends
-,セントラルタワー,,,,,,
-Dialog.Chapter5-3-51,那由多,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「哈啊、哈啊，差不多死心吧！妳是不可能打贏我的！」,"""'Hah, hah, give it up for good! There is no way you can beat me!""","「하앗, 하아, 적당히 포기하십시오! 당신이 저에게 이길 수 있을 리 없지 않습니까!」","""Huff, huff... Just give up already! There's no way you can beat me!"""
-,,,,,,,
-Dialog.Chapter5-3-52,エレナ,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「哈啊、哈啊，那由多妳自己氣都喘成這樣了不是嗎？已經快到極限了對吧？！」,"""I'm sure you're breathing very hard, Nayuta. You must be near your limit!""","「하아, 하앗, 나유타야말로 상당히 숨이 차 있군요? 한계가 가까운 거죠?!」","""Huff, huff... You're the one who's quite out of breath, Nayuta! You're at the end of your rope, aren't you?"""
-,,,,,,,
-Dialog.Chapter5-3-53,那由多,「……っ、そんなわけがっ！――――がはっ！？」,「……っ、そんなわけがっ！――――がはっ！？」,「……才、才沒有那回事！――――呃啊！？」,"""I'm not sure how that's possible! ―――― is what?""","「……윽, 그럴 리가!――――커헉!?」","""...That can't be—gahh?!"""
-,,,,,,,
-Dialog.Chapter5-3-54,,那由多は口から血を吐き、地面に膝をつく,那由多は口から血を吐き、地面に膝をつく,那由多吐出一口血，單膝撐在地上。,Nayuta spits blood from his mouth and kneels on the ground,"나유타는 입에서 피를 토하며, 바닥에 무릎을 꿇는다",Nayuta spat blood and fell to her knee.
-,,,,,,,
-Dialog.Chapter5-3-55,那由多,「――――な、こんなっ！」,「――――な、こんなっ！」,「――這、這怎麼可能！」,"""――――, konk!""","「――――뭣, 이런!」","""N-No... How..."""
-,,,,,,,
-Dialog.Chapter5-3-56,エレナ,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「哈啊、哈啊……！看來副作用終於來了呢……！」,"""'Haaah, haaah ......! Looks like the force is rebounding...!""","「하앗, 하앗……! 아무래도 힘의 반동이 온 것 같군요…!」","""Huff, huff...! It seems the recoil from your power has caught up with you!"""
-,,,,,,,
-Dialog.Chapter5-3-57,エレナ,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「以前在妳強化狀態下，沒有任何人能撐過一分鐘，自然也就不會去想什麼持久戰吧？」,"""No one could stand for a minute in front of your enhanced state, so you're not planning for a prolonged battle, are you?""","「당신의 강화 상태 앞에서 1분도 버틴 자는 없었으니, 장기전을 상정하지 않았겠죠?」","""No one has been able to stand before your enhanced state for even a minute, so you weren't planning for a prolonged battle, were you?"""
-,,,,,,,
-Dialog.Chapter5-3-58,那由多,「ゴホッ、ガハッ、…ぐうっ、私がここで倒れるわけにはっ！」,「ゴホッ、ガハッ、…ぐうっ、私がここで倒れるわけにはっ！」,「咳、咳、嘎哈……可惡，我可不能在這裡倒下……！」,"""Gosh, gah, ... gosh, I'm not going to fall down here!""","「콜록, 카학, …크윽, 내가 여기서 쓰러질 수는!」","""Gahh... Ugh, I can't fall here!"""
-,,,,,,,
-Dialog.Chapter5-3-59,エレナ,「これで終わりです八雲那由多…！、あなたが次に目を覚ますときが聖核戦姫の最後です！」,「これで終わりです八雲那由多…！、あなたが次に目を覚ますときが聖核戦姫の最後です！」,「一切都結束了，八雲那由多……！等妳下一次醒來，就是聖核戰姫走向末路的時候！」,"""This is the end, Yakumo Nayuta..! The next time you wake up will be the last of the Seikaku Princess!""","「이걸로 끝입니다 야쿠모 나유타…!, 당신이 다음에 눈을 뜰 때가 성핵전희의 최후입니다!」","""This is the end, Nayuta Yagumo! When you next wake up, it will be the end of the Holy Core Battlemaidens!"""
-,,,,,,,
-Dialog.Chapter5-3-60,那由多,「――――ふざけないでっ！私が負けるはずがないっ！聖核戦姫の魂は屈しないっ！」,「――――ふざけないでっ！私が負けるはずがないっ！聖核戦姫の魂は屈しないっ！」,「――少開玩笑了！我不可能會輸！聖核戰姫的靈魂絕不屈服！」,"""I'm not going to let you beat me! I will not be defeated! The spirit of the Seikaku Princess will not yield!""",「――――웃기지 마! 내가 질 리가 없어! 성핵전희의 혼은 굴하지 않아!」,"""Nonsense! There's no way I can lose! The soul of a Holy Core Battlemaiden will never yield!"""
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,暗転,,,,,,
-Dialog.Chapter5-3-61,剣の音のSE,....,....,....,....,....,...
-,,,,,,,
-,,,,,,,
-Dialog.Chapter5-3-62,エレナ,「………八雲那由多は気絶しました。――――私達の勝利です」,「………八雲那由多は気絶しました。――――私達の勝利です」,「………八雲那由多已經昏過去了。――――這場戰鬥我們勝利了。」,"""......... Yakumo Nayuta fainted. ―――― we have won.""",「………야쿠모 나유타는 기절했습니다. ――――저희의 승리입니다」,"""Nayuta Yagumo has lost consciousness. This is our victory."""
+Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English,Korean_Steam,English_Steam,Simplified Chinese_Steam
+Chapter 5-1,注釈,,,,,,,
+Dialog.Chapter5-1-1,那由多,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「這座地下據點已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」,"""―――― this underground hideout has been overrun. Do not resist in vain and surrender immediately.""",「――――이 지하 아지트는 제압했습니다. 쓸데없는 저항은 하지 말고 즉시 투항하십시오」,"""I have conquered this underground hideout. Please surrender without further resistance.""",「這座地下據點已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」
+,地下アジト,,,,,,,
+Dialog.Chapter5-1-2,,「このアジトの最高責任者はあなたのようですので私が連行します」,「このアジトの最高責任者はあなたのようですので私が連行します」,「看來你是這裡的最高負責人，就由我親自押送你吧。」,"""Since you seem to be the chief executive of this hideout, I will bring you in myself.""",「이 아지트의 최고 책임자는 당신인 것 같으니 제가 연행하겠습니다」,"""And since you are the one in charge here, you will be coming with me.""",「看來你是這裡的最高負責人，就由我親自押送你吧。」
+,,,,,,,,
+Dialog.Chapter5-1-3,SEL,……わかった、従う,……わかった、従う,……我明白了，我會照你説的做的。,"...... Okay, I'll comply.","……알겠다, 따르겠다",...All right.,……我明白了，我會照你説的做的。
+,,,,,,,,
+Dialog.Chapter5-1-4,那由多,「話が分かるようで助かります」,「話が分かるようで助かります」,「你願意配合就太好了。」,"""It helps that you seem to know what you're talking about.""",「말이 통하는 것 같아 다행입니다」,"""I'm glad we have an understanding.""",「你願意配合就太好了。」
+,,,,,,,,
+Dialog.Chapter5-1-5,那由多,「……そういえばエレナは何をやっているのでしょうか？ここは本来彼女の管轄なはずですが」,「……そういえばエレナは何をやっているのでしょうか？ここは本来彼女の管轄なはずですが」,「……話說回來，艾蓮娜現在到底在做什麼？按理說這裡本來應該是她的管轄區域。」,"""......So, what is Erena doing here? This is supposedly her jurisdiction.""",「……그러고 보니 엘레나는 뭘 하고 있는 겁니까? 여기는 원래 그녀의 관할일 텐데요」,"""What was Elena doing, anyway? Wasn't this area under her jurisdiction?""",「……話說回來，艾蓮娜現在到底在做什麼？按理說這裡本來應該是她的管轄區域。」
+,,,,,,,,
+Dialog.Chapter5-1-6,京,「あ――…。エレナは捕まっちゃってね…まあ、油断してたんじゃないかな」,「あ――…。エレナは捕まっちゃってね…まあ、油断してたんじゃないかな」,「啊——……艾蓮娜被抓走了啦……嗯，大概是太大意了吧。」,"""Ah――.... Erena got caught... well, I guess she let her guard down.""","「아――…. 엘레나는 잡혀버려서… 뭐, 방심했던 거 아니려나」","""Ahhh... She was captured. Well, she was careless.""",「啊——……艾蓮娜被抓走了啦……嗯，大概是太大意了吧。」
+,,,,,,,,
+Dialog.Chapter5-1-7,那由多,「エレナが？？まったく…あの女はいったい何をしてるんですか…帰ったらお説教ですね」,「エレナが？？まったく…あの女はいったい何をしてるんですか…帰ったらお説教ですね」,「艾蓮娜會被抓？？真是的……那個女人到底在搞什麼……回來之後非得好好訓她一頓不可。」,"""Erena? What the hell is that woman doing... A harsh lecture will be waiting for her when she return.""",「엘레나가?? 정말… 그 여자는 대체 뭘 하고 있는 겁니까… 돌아가면 설교네요」,"""Elena? Ugh, what was she thinking? I'll have to talk to her when we get back.""",「艾蓮娜會被抓？？真是的……那個女人到底在搞什麼……回來之後非得好好訓她一頓不可。」
+,,,,,,,,
+Dialog.Chapter5-1-8,京,「あ、そうだ。ここにあったデータは君が研究したやつかな？結構非倫理的な研究もあったけど」,「あ、そうだ。ここにあったデータは君が研究したやつかな？結構非倫理的な研究もあったけど」,「啊，對了。這裡的資料是你研究的東西嗎？裡面有好幾項都相當不合倫理呢。」,"""Oh, yes. Is that the data you found here, the ones you studied? Some of the studies were pretty unethical.""","「아, 맞다. 여기에 있던 데이터는 네가 연구한 건가? 꽤 비윤리적인 연구도 있었지만」","""By the way, does the research data here belong to you? There's some real unethical stuff going on...""",「啊，對了。這裡的資料是你研究的東西嗎？裡面有好幾項都相當不合倫理呢。」
+,,,,,,,,
+Dialog.Chapter5-1-9,那由多,「……そういえば誘拐した生徒達はどういう扱いをされているのでしょうか？返答によっては――――」,「……そういえば誘拐した聖核戦姫達はどういう扱いをされているのでしょうか？返答によっては――――」,「……說到這個，被你們綁走的那些聖核戰姫們現在是什麼狀況？你們怎麼對待她們的？根據你的回答――――」,"""I was wondering...... come to think of it, how are the students you abducted being treated? Depending on the response, ――――""",「……그러고 보니 유괴한 성핵전희들은 어떻게 취급되고 있는 겁니까? 대답에 따라서는――――」,"""Oh, and what happened to the Holy Core Battlemaidens you captured? Depending on your answer...""",「……說到這個，被你們綁走的那些聖核戰姫們現在是什麼狀況？你們怎麼對待她們的？根據你的回答――――」
+,,,,,,,,
+Dialog.Chapter5-1-10,戦闘員(通信),「―――緊急で連絡します！」,「―――緊急で連絡します！」,「―――緊急聯絡！」,"""―――urgent call!""",「―――긴급히 연락합니다!」,"""We have an emergency!""",「―――緊急聯絡！」
+,,,,,,,,
+Dialog.Chapter5-1-10(1),SEL,…なんだ,…なんだ,……怎麼了？,...what,…뭐지,What is it?,……怎麼了？
+,背景(トンネル),,,,,,,
+Dialog.Chapter5-1-11,戦闘員(通信),「現在、襲撃により隔壁が破損し厳重保管対象が脱走！既に我々のコントロール下から離れています！」,「現在、襲撃により隔壁が破損し厳重保管対象が脱走！既に我々のコントロール下から離れています！」,「因為這次襲擊，隔離壁受損，嚴密管控對象已經脫逃！目前完全脫離我們的掌控！」,"""The bulkhead has been breached by the attack and the object in our custody has escaped! It is already out of our control!""","「현재, 습격으로 인해 격벽이 파손되어 엄중 보관 대상이 탈주! 이미 저희의 통제 하에서 벗어났습니다!」","""The walls have been broken and the closely guarded subject has run away! We have lost control of them!""",「因為這次襲擊，隔離壁受損，嚴密管控對象已經脫逃！目前完全脫離我們的掌控！」
+,,,,,,,,
+Dialog.Chapter5-1-12,触手モンスター(シルエット),ズルッ、ズルッ…,ズルッ、ズルッ…,（滋溜、滋溜……）,"Zulu, zulu...","스르륵, 스르륵…",Crackle...,（滋溜、滋溜……）
+,,,,,,,,
+Dialog.Chapter5-1-13,戦闘員(通信),「我々にはどうしようもありません！」,「我々にはどうしようもありません！」,「我們這邊已經無能為力了！」,"""There is nothing we can do about it!""",「저희로서는 어쩔 도리가 없습니다!」,"""There's nothing we can do!""",「我們這邊已經無能為力了！」
+Dialog.Chapter5-1-13-1,戦闘員(通信),「う、うわああああっ！」,「う、うわああああっ！」,「呃、嗚哇啊啊啊啊！」,"""Uh―oh!""","「으, 으아아아아악!」","""Aghhhh!""",「呃、嗚哇啊啊啊啊！」
+Dialog.Chapter5-1-13-2,アジト,……,……,……,......,……,...,……
+Dialog.Chapter5-1-13(1),SEL,……今すぐここから離れた方がいい,……今すぐここから離れた方がいい,……我們得立刻離開這裡比較好。,...... better get away from here now!,……지금 당장 여기서 벗어나는 게 좋겠다,You should probably get out of here.,……我們得立刻離開這裡比較好。
+,,,,,,,,
+Dialog.Chapter5-1-14,那由多,「…やれやれ、この期に及んでまだ何か企んでいるのですか？」,「…やれやれ、この期に及んでまだ何か企んでいるのですか？」,「……真是的，都到這種地步了你們還在打什麼主意嗎？」,"""...Good grief, are you still up to something at this stage of your life?""","「…이런이런, 이 지경에 이르러서도 아직 무언가 꾸미고 있는 겁니까?」","""Sigh, what are you trying to pull now?""",「……真是的，都到這種地步了你們還在打什麼主意嗎？」
+,,,,,,,,
+Dialog.Chapter5-1-15,京,「ちょっとまって……脱走？ここにそんな強いのいたっけ…？」,「ちょっとまって……脱走？ここにそんな強いのいたっけ…？」,「等一下……脫逃？這裡有關著那麼強的傢伙嗎……？」,"""'Wait a minute... ...... breakout? I don't remember there being anything that strong here...?""",「잠깐 기다려…… 탈주? 여기에 그렇게 강한 녀석이 있었나…?」,"""Wait, escaped? You have something that powerful here?""",「等一下……脫逃？這裡有關著那麼強的傢伙嗎……？」
+,,,,,,,,
+Dialog.Chapter5-1-16,,その瞬間、赤黒い無数の触手が瓦礫の中から物凄い速度で現れる,その瞬間、赤黒い無数の触手が瓦礫の中から物凄い速度で現れる,就在那一瞬間，無數赤黑色的觸手從瓦礫之中，以驚人的速度竄出。,"At that moment, countless reddish―black tentacles emerge from the rubble at a tremendous speed.","그 순간, 검붉은 무수한 촉수가 잔해 속에서 엄청난 속도로 나타난다","The next moment, countless reddish-black tentacles emerged from the rubbles at a blinding speed.",就在那一瞬間，無數赤黑色的觸手從瓦礫之中，以驚人的速度竄出。
+,,,,,,,,
+Dialog.Chapter5-1-17,,ズルッ、ズルッ、ビシュッッ！！！,ズルッ、ズルッ、ビシュッッ！！！,滋溜、滋溜──啪、啪！！！,"Slurp, slurp, bish!","스르륵, 스르륵, 휘슉!!",Whip! Crackle!,滋溜、滋溜──啪、啪！！！
+,,,,,,,,
+Dialog.Chapter5-1-18,那由多,「！ッ、京！、離れてください！」,「！ッ、京！、離れてください！」,「！京！快退開！」,"""I'm going to go to the airport! Kei! Get away from me!""","「!윽, 케이!, 떨어지십시오!」","""Kei, get away from me!""",「！京！快退開！」
+,,,,,,,,
+Dialog.Chapter5-1-19,,キシャアアアアアッッ！！！,キシャアアアアアッッ！！！,「嘶呀啊啊啊啊啊啊！！！」,Kishaaaaaaaaaaaaaaaa!!!,키샤아아아아아악!!,Whoosh!,「嘶呀啊啊啊啊啊啊！！！」
+,,,,,,,,
+Dialog.Chapter5-1-20,那由多,「！、速いっ？！」,「！、速いっ？！」,「！好快？！」,"""...fast? How fast?""","「!, 빨라!?」","""That's so fast!""",「！好快？！」
+,,,,,,,,
+Dialog.Chapter5-1-21,,那由多は向かってきた触手のほとんどを切り落とすが、足に一本の触手を巻きつかれてしまう,那由多は向かってきた触手のほとんどを切り落とすが、足に一本の触手を巻きつかれてしまう,那由多雖然將迎面襲來的大多數觸手全數斬斷，但還是有一條觸手纏上了她的腿。,"Nayuta cuts off most of the tentacles that come toward her, but she gets one tentacle wrapped around her leg.","나유타는 달려드는 촉수의 대부분을 베어냈지만, 다리에 한 줄기의 촉수가 휘감긴다","Nayuta managed to cut down most of the tentacles attacking her, but one caught her leg.",那由多雖然將迎面襲來的大多數觸手全數斬斷，但還是有一條觸手纏上了她的腿。
+,,,,,,,,
+Dialog.Chapter5-1-22,那由多,「っ！、何故財団がこれほど強力な怪人を…いや、もはや怪獣ですか？これを地上に出したらどれだけの被害がっ！」,「っ！、何故財団がこれほど強力な怪人を…いや、もはや怪獣ですか？これを地上に出したらどれだけの被害がっ！」,「呃！財團怎麼會有這種等級的怪人……不，這已經該叫怪獸了吧？要是讓這東西跑到地面上，不知道會造成多大的災害！」,"""I'm not sure why the Foundation would want to create such a powerful monster..! Why did the Foundation create such a powerful monster...or is it a monster now? What kind of damage could it do if it were to be released onto the ground?""","「윽!, 어째서 재단이 이렇게 강력한 괴인을… 아니, 이젠 괴수입니까? 이걸 지상으로 내보내면 얼마나 큰 피해가!」","""Why does the Foundation have so many powerful monsters... monstrosities? Don't they know the damage these things can do to the surface?""",「呃！財團怎麼會有這種等級的怪人……不，這已經該叫怪獸了吧？要是讓這東西跑到地面上，不知道會造成多大的災害！」
+,,,,,,,,
+Dialog.Chapter5-1-23,京,「触手型怪人のハイエンド個体…！知能は高くないが聖核エネルギーに反応する…」,「触手型怪人のハイエンド個体…！知能は高くないが聖核エネルギーに反応する…」,「觸手型怪人的高階個體……！雖然智力不高，卻會對聖核能量產生反應……」,"""A high―end individual of a tentacle―type monster...! It is not highly intelligent, but it reacts to the Seikaku energy...""",「촉수형 괴인의 하이엔드 개체…! 지능은 높지 않지만 성핵 에너지에 반응해…」,"""An advanced version of the Tentacle Man! Not very intelligent, but reacts to Holy Core energy...""",「觸手型怪人的高階個體……！雖然智力不高，卻會對聖核能量產生反應……」
+,,,,,,,,
+Dialog.Chapter5-1-24,京,「気を付けて会長！多分コイツの狙いは―――」,「気を付けて総司令！多分コイツの狙いは―――」,「總司令小心！這傢伙多半是以妳為―――」,"""Be careful, Mr. Chairman! Maybe he's trying to...""",「조심해 총사령관! 아마 이 녀석의 노림수는――――」,"""Be careful, Commander! I think they're after...""",「總司令小心！這傢伙多半是以妳為―――」
+,,,,,,,,
+Dialog.Chapter5-1-24-2,京,「―――うぐっ！？」,「―――うぐっ！？」,「―――呃！？」,"""Ugh!""",「―――윽!?」,"""Ugh!""",「―――呃！？」
+,,,,,,,,
+Dialog.Chapter5-1-25,005号,「はあ、はあ、…貴女には私達と一緒に来てもらいます！一番危険なのはやはり貴女ですからっ！」,「はあ、はあ、…貴女には私達と一緒に来てもらいます！一番危険なのはやはり貴女ですからっ！」,「哈啊、哈啊……妳得跟我們一起走！仔細想最危險的果然還是妳啊！」,"""We'll have you come with us! You are the one in the most danger!""","「하아, 하아, …당신에게는 저희와 함께 가주셔야겠습니다! 가장 위험한 것은 역시 당신이니까요!」","""Huff, puff... You're coming with us! After all, you're the most dangerous one!""",「哈啊、哈啊……妳得跟我們一起走！仔細想最危險的果然還是妳啊！」
+,,,,,,,,
+Dialog.Chapter5-1-26,京,「うぁ、しまっ…た…」,「うぁ、しまっ…た…」,「啊……糟糕……」,"""Oh, shit...""","「으아, 이럴…수가…」","""Oo... ps...""",「啊……糟糕……」
+,,,,,,,,
+Dialog.Chapter5-1-27,005号,「八雲那由多が気を取られているうちに本部を移動させます！」,「八雲那由多が気を取られているうちに本部を移動させます！」,「趁八雲那由多分心的這段時間，立刻將她轉移到本部！」,"""We'll move headquarters while Yakumo Nayuta is distracted!""",「야쿠모 나유타가 정신 팔린 사이에 본부를 이동시키겠습니다!」,"""We will move the Central Command while Nayuta Yagumo is distracted!""",「趁八雲那由多分心的這段時間，立刻將她轉移到本部！」
+,,,,,,,,
+Dialog.Chapter5-1-27(1),SEL,わかった。直ちに移動させよう,わかった。直ちに移動させよう,知道了。馬上進行轉移。,"All right, I'm on it. Let's move it immediately.",알겠다. 즉시 이동시키자,"Got it, move out now.",知道了。馬上進行轉移。
+,地下通路,,,,,,,
+Dialog.Chapter5-1-28,那由多,「あっ、逃げるつもりですかっ！？…！くっ、しかしこの怪物をこのままにしておくわけにはっ」,「あっ、逃げるつもりですかっ！？…！くっ、しかしこの怪物をこのままにしておくわけにはっ」,「啊，你們打算逃走嗎！？……！可惡，但是也不能就這樣把這隻怪物丟在這裡不管……！」,"""Are you trying to escape? Oh, are you trying to escape? But I can't leave this monster like this.""","「앗, 도망칠 셈입니까!?…! 큭, 하지만 이 괴물을 이대로 둘 수는!」","""Are you running away? Ugh, but I can't very well leave this monster behind...""",「啊，你們打算逃走嗎！？……！可惡，但是也不能就這樣把這隻怪物丟在這裡不管……！」
+,,,,,,,,
+Dialog.Chapter5-1-29,,「待っていてください京！、今すぐ助けに行きますから！」,「待っていてください京！、今すぐ助けに行きますから！」,「請等我一下，京！我馬上就去救妳！」,"""Please wait for me, Kei! I'm coming to save you right now!""","「기다리십시오 케이!, 지금 바로 구하러 가겠습니다!」","""Just wait, Kei! I'll save you now!""",「請等我一下，京！我馬上就去救妳！」
+,,,,,,,,
+Dialog.Chapter5-1-30,,「―――ッ！触手がもう再生した？！」,「―――ッ！触手がもう再生した？！」,「――什麽！觸手竟然已經重新長出來了？！」,"""――――! Tentacles already regenerated?""",「―――윽! 촉수가 벌써 재생했어?!」,"""...The tentacles have respawned?""",「――什麽！觸手竟然已經重新長出來了？！」
+,,,,,,,,
+Dialog.Chapter5-1-31,Nayuta1ｰ1,「しまった、刀がっ！」,「しまった、刀がっ！」,「糟了，我的刀被……！」,"""Oh, no, the sword!""","「이런, 칼이!」","""No, my blade!""",「糟了，我的刀被……！」
+,,,,,,,,
+Dialog.Chapter5-1-32,,那由多の体に触手が巻きつき、動きが封じられてしまう,那由多の体に触手が巻きつき、動きが封じられてしまう,觸手纏上那由多的身體，把她整個人死死束縛住。,"Tentacles wrap around Nayuta's body, blocking her movement.","나유타의 몸에 촉수가 휘감겨, 움직임이 봉쇄되고 만다","The tentacles wrapped themselves around Nayuta, immobilizing her.",觸手纏上那由多的身體，把她整個人死死束縛住。
+,,,,,,,,
+Dialog.Chapter5-1-33,,キシャアアアアアッッ！！！,キシャアアアアアッッ！！！,「嘶呀啊啊啊啊啊！！！」,Kishaaaaaaaaaaaaaaaa!!!,키샤아아아아아악!!,Shaaaaaa!,「嘶呀啊啊啊啊啊！！！」
+,,,,,,,,
+Dialog.Chapter5-1-34,,「ぐっ、こ、このっ、離しなさい！」,「ぐっ、こ、このっ、離しなさい！」,「呃！你、你這傢伙……給我放開！」,"""Get off of me!""","「크윽, 이, 이놈, 놓으십시오!」","""Ugh, get... get away from me!""",「呃！你、你這傢伙……給我放開！」
+,,,,,,,,
+Dialog.Chapter5-1-35,,「なんて力…っ、この私が振りほどけないなんてっ…今までの触手とは比べ物にならないっ！」,「なんて力…っ、この私が振りほどけないなんてっ…今までの触手とは比べ物にならないっ！」,「這股力量……！連我都掙不開……完全不是之前那些觸手能比的！」,"""I can't shake it off... it's nothing compared to the tentacles I've seen before!""","「이 무슨 힘…윽, 이 내가 뿌리칠 수 없다니… 지금까지의 촉수와는 비교도 안 돼!」","""What strength... Even I can't shake it off... These are no ordinary tentacles!""",「這股力量……！連我都掙不開……完全不是之前那些觸手能比的！」
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Dialog.Chapter5-1-36,,「ますますこんなものを野放しにはしておけませんね…なんとかここで倒さなければっ」,「ますますこんなものを野放しにはしておけませんね…なんとかここで倒さなければっ」,「這種東西更不能放任它到處亂跑……無論如何都得在這裡把它打倒才行！」,"""We can't let this thing get away with it...we've got to get it down here somehow.""",「더욱더 이런 것을 방치할 수는 없군요… 어떻게든 여기서 쓰러뜨려야」,"""Surely I can't leave this behind... I have to get rid of it here and now...""",「這種東西更不能放任它到處亂跑……無論如何都得在這裡把它打倒才行！」
+,,,,,,,,
+Dialog.Chapter5-1-37,,「しかしっ…、このままでは京どころか私も危険ですっ、何とか突破口を…」,「しかしっ…、このままでは京どころか私も危険ですっ、何とか突破口を…」,「可是這樣下去，不只是京，連我自己都很危險了，得想辦法找到突破口……」,"""But...if things continue as they are, not only Kei but myself will be in danger...I have to make a breakthrough somehow...""","「하지만… 이대로라면 케이는커녕 저도 위험합니다, 어떻게든 돌파구를…」","""But Kei and I are both in danger... What can we do here?""",「可是這樣下去，不只是京，連我自己都很危險了，得想辦法找到突破口……」
+,,,,,,,,
+Dialog.Chapter5-1-38,,ギチッ、ミチミチミチッ！,ギチッ、ミチミチミチッ！,咯吱、咯啦咯啦！,"Gitch, michi michi michi!","기칫, 미치미치미칫!",Geeeeee!,咯吱、咯啦咯啦！
+,,,,,,,,
+Dialog.Chapter5-1-39,,「ぐうっ、ドロドロした粘液が滑ってっ、抜け出せませんっ！」,「ぐうっ、ドロドロした粘液が滑ってっ、抜け出せませんっ！」,「呃……這黏稠的液體太滑了，根本沒辦法掙脫！」,"""Ugh, I can't get out, the sloppy mucus is sliding all over me!""","「크윽, 질척한 점액이 미끄러워서, 빠져나갈 수가 없습니다!」","""Ugh, I can't get out of this slippery slime!""",「呃……這黏稠的液體太滑了，根本沒辦法掙脫！」
+,,,,,,,,
+Dialog.Chapter5-1-40,,「この程度の触手など…せめて刀があればっ！」,「この程度の触手など…せめて刀があればっ！」,「區區這種程度的觸手……要是我的刀還在的話...」,"""I wish I had a sword at least!""",「이 정도 촉수 따위… 적어도 칼만 있었다면!」,"""They're just tentacles... If only I had my blade...""",「區區這種程度的觸手……要是我的刀還在的話...」
+,,,,,,,,
+Dialog.Chapter5-1-41,,その時、怪物の口のような部分が開き、那由多の頭上に迫る,その時、怪物の口のような部分が開き、那由多の頭上に迫る,就在那時，怪物彷彿嘴巴般的部位張開，朝那由多的頭頂逼近。,"At that moment, the mouth―like part of the monster opens and looms over Nayuta's head.","그때, 괴물의 입 같은 부분이 열리며, 나유타의 머리 위로 다가온다",The mouth of the monster opened and hovered above Nayuta.,就在那時，怪物彷彿嘴巴般的部位張開，朝那由多的頭頂逼近。
+,,,,,,,,
+Dialog.Chapter5-1-42,Nayuta1-2,グパッ、ブジュルルルルルッ！！,グパッ、ブジュルルルルルッ！！,啪嗒——黏答答的聲音接連響起。,"Gup, buuuurrrrrrrrrrrrrrrrrrrrrrrrrr!","크팟, 부쥬르르르르릇!!",Kwaaaaa! Pssssshhhh!,啪嗒——黏答答的聲音接連響起。
+,,,,,,,,
+Dialog.Chapter5-1-43,,「何ですかっ！？、この化け物っ、口を開いてっ！？」,「何ですかっ！？、この化け物っ、口を開いてっ！？」,「這是什麼！？這怪物、把嘴張開了！？」,"""What is it? You monster, open your mouth!""","「무엇입니까!?, 이 괴물, 입을 벌리고!?」","""What is this? It opened its mouth?!""",「這是什麼！？這怪物、把嘴張開了！？」
+,,,,,,,,
+Dialog.Chapter5-1-44,,グパッ、ジュルッ、ジュルルルッ,グパッ、ジュルッ、ジュルルルッ,嘎啵、啾嚕、啾嚕嚕——,"Gup, julp, julp, julp.","크팟, 쥬릇, 쥬르르르릇",Kwaaaa! Pshhh... Pshhh...,嘎啵、啾嚕、啾嚕嚕——
+,,,,,,,,
+Dialog.Chapter5-1-45,,「この化け物、まさか…私を捕食しようとしている…！？」,「この化け物、まさか…私を捕食しようとしている…！？」,「這傢伙難道是……想把我吃掉嗎！？」,"""This monster, don't tell me... it's trying to prey on me...!""","「이 괴물, 설마… 저를 포식하려는…!?」","""Is this monster going to eat me?!""",「這傢伙難道是……想把我吃掉嗎！？」
+,,,,,,,,
+Dialog.Chapter5-1-46,,「まずいですね…今すぐにでも脱出しなければっ！」,「まずいですね…今すぐにでも脱出しなければっ！」,「糟糕了……得立刻想辦法脫身才行！」,"""This is bad...we have to get out now!""",「위험하군요… 지금 당장이라도 탈출해야!」,"""This is bad, we have to get out of here!""",「糟糕了……得立刻想辦法脫身才行！」
+,,,,,,,,
+Dialog.Chapter5-1-47,,「――――仕方ありません、しばらくパワーが落ちるので使いたくは無いのですがっ！」,「――――仕方ありません、しばらくパワーが落ちるので使いたくは無いのですがっ！」,「――――沒辦法了，雖然不想用，因為之後力量會暫時下降……！」,"""―――― can't help it, I don't want to use it because the power will be down for a while!""","「――――어쩔 수 없습니다, 잠시 힘이 떨어지니 사용하고 싶지는 않았습니다만!」","""...This leave me with no choice. I'm going to be weakened for a bit and that's why I didn't want to use it, but...""",「――――沒辦法了，雖然不想用，因為之後力量會暫時下降……！」
+,,,,,,,,
+Dialog.Chapter5-1-48,Nayuta1-3,那由多の体から紫色のオーラが沸き上がる,那由多の体から紫色のオーラが沸き上がる,那由多的身上湧出紫色的光芒。,A purple aura rises from Nayuta's body.,나유타의 몸에서 보라색 오라가 뿜어져 나온다,Nayuta glowed purple.,那由多的身上湧出紫色的光芒。
+,,,,,,,,
+Dialog.Chapter5-1-49,,「聖核エネルギー開放ッ、高出力状態―――――――雷神之相！」,「聖核エネルギー開放ッ、高出力状態―――――――雷神之相！」,「聖核能量解放，高輸出狀態――――――雷神之相！」,"""Seikaku energy release, high―power state――――――― thunder god no phase!""","「성핵 에너지 개방, 고출력 상태―――――――뇌신지상!」","""Holy Core energy release! High power mode! Thunderous Avatar!""",「聖核能量解放，高輸出狀態――――――雷神之相！」
+,,,,,,,,
+Dialog.Chapter5-1-50,,「汚らわしい化け物がっ！私から離れなさいっ、ハアッッ！！」,「汚らわしい化け物がっ！私から離れなさいっ、ハアッッ！！」,「骯髒的怪物！給我從我身上滾開，哈啊啊！！」,"""You filthy monster! Get away from me, you filthy monster!""","「더러운 괴물이! 저에게서 떨어지십시오, 하아앗!!」","""Get away from me, you filthy monster!""",「骯髒的怪物！給我從我身上滾開，哈啊啊！！」
+,,,,,,,,
+Dialog.Chapter5-1-51,,那由多は首に纏わりついていた触手を引きちぎり、拘束をほどく,那由多は首に纏わりついていた触手を引きちぎり、拘束をほどく,那由多將纏在自己脖子上的觸手整條扯斷，掙脫了束縛。,Nayuta rips off the tentacles around her neck and unties the restraints.,"나유타는 목에 휘감겨 있던 촉수를 잡아 뜯어내고, 구속을 푼다",Nayuta pulled the tentacles away from her neck and broke free.,那由多將纏在自己脖子上的觸手整條扯斷，掙脫了束縛。
+,地下通路,,,,,,,
+Dialog.Chapter5-1-52,,キシャアアアアアッッ！,キシャアアアアアッッ！,嘶呀啊啊啊啊啊！！,Kishaaaaaaaahhhh!,키샤아아아아아악!,Ksssshaaaaaaaaaaaa!,嘶呀啊啊啊啊啊！！
+,,,,,,,,
+Dialog.Chapter5-1-53,,「――――刀さえ手に入れればこちらのものです。さて、早急にこの怪物を倒してしまいましょう」,「――――刀さえ手に入れればこちらのものです。さて、早急にこの怪物を倒してしまいましょう」,「――――只要把刀拿回來，勝負就已經決定了。那麼，剩下的就是這頭怪物解決掉而已了。」,"""―――― If we can just get our hands on a sword, it's ours. Now, let's defeat this monster ASAP.""","「――――칼만 손에 넣으면 이쪽의 승리입니다. 자, 조속히 이 괴물을 쓰러뜨리도록 하죠」","""...As long as I have a blade, you are nothing to me. Let's kill this one now!""",「――――只要把刀拿回來，勝負就已經決定了。那麼，剩下的就是這頭怪物解決掉而已了。」
+,暗転,,,,,,,
+Dialog.Chapter5-1-54,,………キンッ,………キンッ,………鏘——,.........kink,………팅,Clink...,………鏘——
+,,,,,,,,
+Dialog.Chapter5-1-55,那由多,「ふう、これだけの肉片に切り刻んでおけば再生する心配もないでしょう」,「ふう、これだけの肉片に切り刻んでおけば再生する心配もないでしょう」,「呼，碎成這種程度的話應該就不用擔心還會再生了吧。」,"""'Wind, if you chop it up into this many pieces, you won't have to worry about it regenerating.'""","「후우, 이만큼의 살점 조각으로 잘게 썰어두면 재생할 걱정도 없겠죠」","""I don't think we have to worry about respawning if it's cut up like this.""",「呼，碎成這種程度的話應該就不用擔心還會再生了吧。」
+,,,,,,,,
+Dialog.Chapter5-1-56,,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……唔，體力消耗得有點過頭了。如果繼續追擊京實在太危險。」,"""......Gosh, I've exhausted my energy a little too much. It's frustrating, but it's dangerous to go after Kei too deep.""","「……크윽, 조금 체력을 너무 소모했습니다. 분하지만 케이를 쫓아 깊이 추격하는 것은 위험하군요」","""...I used up too much of my stamina. This is not ideal, but it's dangerous to keep going to find Kei.""",「……唔，體力消耗得有點過頭了。如果繼續追擊京實在太危險。」
+,,,,,,,,
+Dialog.Chapter5-1-57,,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「……真不像我竟然會犯這種錯誤，不過地下據點的大致位置我已經掌握好了。」,"""I'm afraid I've made a mistake, but I have a rough idea of the location of the hideout.""","「…저답지 않게 실수를 했군요, 하지만 아지트의 대략적인 위치는 알았습니다」","""...This is my fault, but now we know where roughly the hideout is.""",「……真不像我竟然會犯這種錯誤，不過地下據點的大致位置我已經掌握好了。」
+,,,,,,,,
+Dialog.Chapter5-1-58,,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「對方應該也幾乎沒有戰力剩下了……不久之後，就由司令部的精銳聖核戰姫再來將這裡徹底收復。」,"""There will be very little strength left...and in the near future, the elite of the Seigetsu Student Council will take control of this place again.""","「이제 거의 전력은 남아 있지 않겠죠… 조만간, 사령부의 정예 성핵전희로 다시 이곳을 제압하겠습니다」","""We don't have any troops left... We shall come back with the elite Holy Core Battlemaidens soon.""",「對方應該也幾乎沒有戰力剩下了……不久之後，就由司令部的精銳聖核戰姫再來將這裡徹底收復。」
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Chapter 5-2,注釈,,,,,,,
+,,,,,,,,
+Dialog.Chapter5-2-1,,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多的攻擊過去一夜之後，據點暫時恢復了片刻的平靜。,"The night after the attack by Nayuta, the hideout had briefly regained its composure.","나유타에 의한 공격으로부터 하룻밤이 지나고, 아지트는 잠깐의 평온을 되찾고 있었다","It has been a day since Nayuta's attack, and the hideout finally managed to stabilize itself.",那由多的攻擊過去一夜之後，據點暫時恢復了片刻的平靜。
+,,,,,,,,
+Dialog.Chapter5-2-2,005号,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……那麼，現在來說明一下關於前幾天襲擊據點的聖核戰姫，我們目前掌握到的情報。」,"""At ......, we'll tell you what we currently know about the Seikaku Princess who recently attacked our hideout.""","「……그럼, 얼마 전 아지트를 습격한 성핵전희에 대해 현재 알고 있는 것을 말씀드리겠습니다」","""...This is what we currently know about the Holy Core Battlemaiden that attacked us the other day.""",「……那麼，現在來說明一下關於前幾天襲擊據點的聖核戰姫，我們目前掌握到的情報。」
+,,,,,,,,
+Dialog.Chapter5-2-2(1),SEL,よろしく頼む,よろしく頼む,麻煩妳了。,I look forward to working with you,잘 부탁한다,Go ahead.,麻煩妳了。
+,モニター背景,,,,,,,
+Dialog.Chapter5-2-3,那由多,「彼女は“八雲那由多”、ホーリーコア・レギオン会長にして最強の聖核戦姫です」,「彼女は“八雲那由多”、ホーリーコア・レギオン総司令にして最強の聖核戦姫です」,「她名叫『八雲那由多』，是聖核軍團的總司令，同時也是最強的聖核戰姫。」,"""She is ""Yakumo Nayuta,"" the president of the Seigetsu Student Council and the most powerful Seikaku Princess.""","「그녀는 “야쿠모 나유타”, 홀리코어 레기온 총사령관이자 최강의 성핵전희입니다」","""She is Nayuta Yagumo, the Commander of Holy Core Legion and the most powerful Holy Core Battlemaiden.""",「她名叫『八雲那由多』，是聖核軍團的總司令，同時也是最強的聖核戰姫。」
+,,,,,,,,
+Dialog.Chapter5-2-4,,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外的財團分部大約有一半，都是被她親手摧毀的。」,"""About half of the Foundation's branches abroad have been destroyed by her.""",「해외 재단 지부의 약 절반은 그녀에 의해 괴멸되었습니다」,"""She is responsible for destroying about half of the Foundation's overseas branches.""",「海外的財團分部大約有一半，都是被她親手摧毀的。」
+,,,,,,,,
+Dialog.Chapter5-2-5,,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「照理說，她現在應該在海外行動…她的出現完全出乎我們的預料。」,"""'Originally, I would have gone overseas now...it was unexpected.'""","「본래라면, 지금은 해외에 가 있어야 했을 텐데… 예상 밖이었습니다」","""She should have been overseas, and we did not expect her to be here.""",「照理說，她現在應該在海外行動…她的出現完全出乎我們的預料。」
+,,,,,,,,
+Dialog.Chapter5-2-6,,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「到目前為止，我們一直躲在地下據點裡活動……但既然對方都已經侵入到這麼深的區域，想再一直躲下去恐怕是不可能了。」,"""So far we have been hiding in our underground hideouts, but now that they have penetrated this deep, it will no longer be possible for us to continue hiding.""","「지금까지는 지하 아지트에 숨어 있었습니다만… 여기까지 깊숙이 침입당한 이상, 더 이상 숨어 지내는 것은 불가능할 것입니다」","""We have been concealing the underground hideout, but after the enemy reached its depths, it is likely impossible for us to keep hiding.",「到目前為止，我們一直躲在地下據點裡活動……但既然對方都已經侵入到這麼深的區域，想再一直躲下去恐怕是不可能了。」
+,,,,,,,,
+Dialog.Chapter5-2-7,,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「……而且，她還擁有能夠單獨擊倒嚴密管控對象——觸手怪獸——的戰鬥力。」,"""...and she has enough fighting ability to defeat the tentacle monster in strict custody all by herself.""",「…그리고 그녀는 혼자서 엄중 보관 대상인 촉수 괴수를 쓰러뜨릴 정도의 전투 능력을 가지고 있습니다」,"""...And she has the power to take down the heavily guarded Tentacle Monster.""",「……而且，她還擁有能夠單獨擊倒嚴密管控對象——觸手怪獸——的戰鬥力。」
+,,,,,,,,
+Dialog.Chapter5-2-8,,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「不論我們這邊有多少克隆和戰鬥員都沒有勝算。現在我們需要的是能與之匹敵的單體戰力。」,"""No matter how many clones and fighters we have, we won't stand a chance. We need a strong stand―alone force.""",「저희 클론이나 전투원이 아무리 있어도 승산은 없을 것입니다. 단독으로 강력한 전력이 필요합니다」,"""We don't stand a chance, no matter how many clones or soldiers we send. We need an extremely powerful individual.""",「不論我們這邊有多少克隆和戰鬥員都沒有勝算。現在我們需要的是能與之匹敵的單體戰力。」
+,,,,,,,,
+Dialog.Chapter5-2-9,,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間不多了。我們必須儘快展開新的作戰計畫。」,"""We don't have much time at ....... Let's start a new operation as soon as possible.""",「……시간은 그다지 없습니다. 신속히 새로운 작전을 개시합시다」,"""We don't have much time. We need to start a new operation soon.""",「……時間不多了。我們必須儘快展開新的作戰計畫。」
+,,,,,,,,
+Dialog.Chapter5-2-10,暗転,ホーリーコア・レギオン司令部にて,ホーリーコア・レギオン司令部にて,聖核軍團司令部,At the Seigetsu Student Council,홀리코어 레기온 사령부에서,At the Holy Core Legion Command Center...,聖核軍團司令部
+,,,,,,,,
+,執務室,,,,,,,
+Dialog.Chapter5-2-11,那由多(制服),「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「――以上就是此次的作戰概要。這次務必要從此結束和財團之間的戰鬥。」,"""――― ""So, here's the gist of the operation. This time we will end the war with the Foundation.""",「―――그럼 작전의 개요는 이렇습니다. 이번에야말로 재단과의 싸움을 끝내겠습니다」,"""...This is the summary of the operation. We will finish the Foundation off, once and for all.""",「――以上就是此次的作戰概要。這次務必要從此結束和財團之間的戰鬥。」
+,,,,,,,,
+Dialog.Chapter5-2-12,,「何か質問のある方はいますか？」,「何か質問のある方はいますか？」,「有誰有問題嗎？」,"""Does anyone have any questions?""",「질문이 있는 분은 있습니까?」,"""Any questions?""",「有誰有問題嗎？」
+,,,,,,,,
+Dialog.Chapter5-2-13,生徒１,「……あ、あの…」,「……あ、あの…」,「……那、那個……」,"""...... Oh, um...""","「……저, 저기…」","""Um...""",「……那、那個……」
+,,,,,,,,
+Dialog.Chapter5-2-14,那由多,「どうしましたか？」,「どうしましたか？」,「怎麼了嗎？」,"""Can I help you?""",「무슨 일입니까?」,"""Yes?""",「怎麼了嗎？」
+,,,,,,,,
+Dialog.Chapter5-2-15,生徒１,「本当に大丈夫なんでしょうか…いくら那由多先輩がいるとは言えエレナ先輩が負けた相手に…」,「本当に大丈夫なんでしょうか…いくら那由多先輩がいるとは言えエレナ先輩が負けた相手に…」,「真的沒問題嗎……就算有那由多前輩在，對方可是能打敗艾蓮娜前輩的對手……」,"""I wonder if it's really okay...no matter how much Nayuta―senpai is there, against whom Erena-senpai lost...""",「정말 괜찮은 걸까요… 아무리 나유타 선배가 있다고는 해도 엘레나 선배가 패배한 상대에게…」,"""Are we really going to be okay? Even with Nayuta here, we're going up against whoever defeated Elena...""",「真的沒問題嗎……就算有那由多前輩在，對方可是能打敗艾蓮娜前輩的對手……」
+,,,,,,,,
+Dialog.Chapter5-2-16,生徒1,「…それに那由多先輩が仕留めきれないなんて…そんな相手、私達で大丈夫なのでしょうか…？」,「…それに那由多先輩が仕留めきれないなんて…そんな相手、私達で大丈夫なのでしょうか…？」,「……而且連那由多前輩都沒能徹底解決……這種對手，交給我們真的沒關係嗎……？」,"""And Nayuta―senpai can't finish him off...will we be able to handle such an opponent?""","「…게다가 나유타 선배가 끝내지 못했다니… 그런 상대, 저희로 괜찮을까요…?」","""And if even Nayuta couldn't finish them off... Can we really handle an opponent like that?""",「……而且連那由多前輩都沒能徹底解決……這種對手，交給我們真的沒關係嗎……？」
+,,,,,,,,
+Dialog.Chapter5-2-17,那由多,「そうですね…はい、心配する必要は全くありません」,「そうですね…はい、心配する必要は全くありません」,「這點嘛……是的，完全不用擔心。」,"""Well...yes, no need to worry at all.""","「그렇군요… 네, 걱정할 필요는 전혀 없습니다」","""Right... Yes, there's absolutely no need to worry.""",「這點嘛……是的，完全不用擔心。」
+,,,,,,,,
+Dialog.Chapter5-2-18,那由多,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「據點裡其實沒有那麼強的怪人。就算艾蓮娜會輸，多半也是因為大意而被偷襲了吧。」,"""There were no strong monsters inside the hideout. Even if Erena lost, it was probably because she was caught off guard.""",「아지트 내부에는 그다지 강한 괴인은 없었습니다. 엘레나가 패배했다고 해도 방심해서 기습당한 것이겠죠」,"""There weren't any particularly strong monsters inside their hideout. Even if Elena lost, it was probably because she was caught off guard by a surprise attack.""",「據點裡其實沒有那麼強的怪人。就算艾蓮娜會輸，多半也是因為大意而被偷襲了吧。」
+,,,,,,,,
+Dialog.Chapter5-2-19,那由多,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「稍微強一點的怪人，也幾乎都已經被我削弱到沒什麼戰力了。現在那個基地幾乎已經喪失作戰能力。」,"""I have almost neutralized the monsters that were a little stronger than the others. There will be very little strength left in that branch to fight now.""","「조금 강했던 괴인도 제가 거의 무력화했습니다. 지금, 저 지부에는 거의 싸울 힘은 남아 있지 않을 겁니다」","""I've already neutralized most of the somewhat stronger monsters. That branch probably has almost no fighting power left now.""",「稍微強一點的怪人，也幾乎都已經被我削弱到沒什麼戰力了。現在那個基地幾乎已經喪失作戰能力。」
+,,,,,,,,
+Dialog.Chapter5-2-20,那由多,「……そしてこの私がいるのです。どう間違っても失敗などという事はありえません」,「……そしてこの私がいるのです。どう間違っても失敗などという事はありえません」,「……再說，現在這裡還有我坐鎮。不管怎麼看都沒有失敗的可能性。」,"""I am here at ...... and here I am. There is no such thing as failure, no matter how wrong you are.""",「……그리고 이 제가 있습니다. 어떻게 잘못되더라도 실패 같은 일은 있을 수 없습니다」,"""...And I am here. No matter what happens, failure is impossible.""",「……再說，現在這裡還有我坐鎮。不管怎麼看都沒有失敗的可能性。」
+,,,,,,,,
+Dialog.Chapter5-2-21,那由多,「私達が行うのは圧倒的に有利な殲滅戦です。心配は杞憂です、私に付いてきなさい」,「私達が行うのは圧倒的に有利な殲滅戦です。心配は杞憂です、私に付いてきなさい」,「我們將要進行的是在絕對優勢下的殲滅戰。你們的擔心只是杞人憂天——跟著我就行了。」,"""What we will do is a battle of extermination with overwhelming odds in our favor. Your fears are unfounded. Follow me.""","「저희가 하는 것은 압도적으로 유리한 섬멸전입니다. 걱정은 기우입니다, 저를 따라오십시오」","""What we're running is an overwhelmingly advantageous extermination operation. Your worries are unfounded—follow me.""",「我們將要進行的是在絕對優勢下的殲滅戰。你們的擔心只是杞人憂天——跟著我就行了。」
+,,,,,,,,
+Dialog.Chapter5-2-22,,その時、執務室に一人の生徒が入ってくる,その時、執務室に一人の女性が入ってくる,就在這時，一名女性走進了辦公室,"At that moment, a student walks into the office.","그때, 집무실에 한 여성이 들어온다","At that moment, a woman entered the office.",就在這時，一名女性走進了辦公室
+,,,,,,,,
+Dialog.Chapter5-2-23,生徒２,「連絡します！現在都市内の複数個所で同時多発的に怪人と戦闘員が出現したとの報告がありました！」,「連絡します！現在都市内の複数個所で同時多発的に怪人と戦闘員が出現したとの報告がありました！」,「報告！目前回報顯示，市區內多個地點同時出現怪人與戰鬥員！」,"""Attention! We have reports of simultaneous appearances of monsters and combatants in multiple locations in the capital city at this time!""",「연락합니다! 현재 도시 내 여러 곳에서 동시다발적으로 괴인과 전투원이 출현했다는 보고가 있었습니다!」,"""Incoming report! We have confirmed simultaneous appearances of monsters and soldiers at multiple locations throughout the city!""",「報告！目前回報顯示，市區內多個地點同時出現怪人與戰鬥員！」
+,,,,,,,,
+Dialog.Chapter5-2-24,那由多,「…隠れていればいいものをわざわざ向こうから出てくるとは…最後の悪あがきですか？」,「…隠れていればいいものをわざわざ向こうから出てくるとは…最後の悪あがきですか？」,「……乖乖躲起來不就算了，偏要自己跑出來送死嗎……這就是所謂最後的掙扎嗎？」,"""...is it a last ditch effort to come out from the other side when all you had to do was hide?""",「…숨어 있으면 될 것을 굳이 일부러 저쪽에서 먼저 나서다니… 최후의 발악입니까?」,"""They should have stayed hidden, but they're coming out on their own... Is this their last desperate struggle?""",「……乖乖躲起來不就算了，偏要自己跑出來送死嗎……這就是所謂最後的掙扎嗎？」
+,,,,,,,,
+Dialog.Chapter5-2-25,生徒２,「都市中央部に戦闘員が多数出現し、既にセントラルタワーの警備システムは半壊、占拠されかけているようです！」,「都市中央部に戦闘員が多数出現し、既にセントラルタワーの警備システムは半壊、占拠されかけているようです！」,「市中心一帶出現大量戰鬥員，中央塔的防衛系統已經有一半被破壞，正逐步被對方奪取控制權！」,"""A large number of combatants have appeared in the center of the city, and it appears that the security system of the Central Tower is already half―collapsed and nearly occupied!""","「도시 중앙부에 전투원이 다수 출현하여, 이미 센트럴 타워의 경비 시스템은 반파, 점거당할 것 같습니다!」","""Multiple soldiers have appeared in the city center, and Central Tower's security system is already half-destroyed and nearly occupied!""",「市中心一帶出現大量戰鬥員，中央塔的防衛系統已經有一半被破壞，正逐步被對方奪取控制權！」
+,,,,,,,,
+Dialog.Chapter5-2-26,那由多,「思ったより早い展開ですね…また何か小細工でもしているのでしょうか……」,「思ったより早い展開ですね…また何か小細工でもしているのでしょうか……」,「發展比預想中還快呢……看來他們又在搞什麼小動作了……」,"""This is unfolding faster than I expected...are they playing some tricks on us again?"" ......""",「생각보다 빠른 전개군요… 또 뭔가 잔꾀라도 부리고 있는 걸까요……」,"""Faster than expected... Are they pulling some kind of trick again?""",「發展比預想中還快呢……看來他們又在搞什麼小動作了……」
+,,,,,,,,
+Dialog.Chapter5-2-27,,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「――只是讓作戰時程稍微提前罷了。那我們就提前開始行動，請各部隊分別殲滅各地的敵人。」,"""―――― The operation has just been moved up a little bit. We will start the operation ahead of schedule. Please destroy the enemy in each area by unit.""","「―――작전이 조금 앞당겨졌을 뿐입니다. 앞당겨 작전을 개시합니다, 부대별로 각지의 적을 격파하십시오」","""The operation has just been moved up slightly. We're starting the operation ahead of schedule—each squad will defeat enemies in their assigned areas.""",「――只是讓作戰時程稍微提前罷了。那我們就提前開始行動，請各部隊分別殲滅各地的敵人。」
+,,,,,,,,
+Dialog.Chapter5-2-28,,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戰姫：翡翠、祖母綠、海藍寶，妳們三人跟我一起走。我們要親自奪回中央塔。」,"""Seikaku Princess: Jade, Emerald, and Aquamarine come with me. We will retake the Central Tower ourselves.""","「성핵전희: 히스이, 에메랄드, 아쿠아마린은 저와 함께 오십시오. 저희가 센트럴 타워를 탈환합니다」","""Holy Core Battlemaidens Hisui, Emerald, and Aquamarine, come with me. We will take back Central Tower.""",「聖核戰姫：翡翠、祖母綠、海藍寶，妳們三人跟我一起走。我們要親自奪回中央塔。」
+,,,,,,,,
+Dialog.Chapter5-2-29,,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「這恐怕會是最後一戰了。那麼，各位，祝你們武運昌隆。」,"""This will probably be my last fight. So, ladies and gentlemen, I wish you all the best of luck.""","「이것이 아마 마지막 싸움이 될 것입니다. 그럼 여러분, 무운을 빕니다」","""This will probably be our final battle. Everyone, I wish you good luck.""",「這恐怕會是最後一戰了。那麼，各位，祝你們武運昌隆。」
+,暗転,,,,,,,
+Dialog.Chapter5-2-30,セントラルタワー,セントラルタワー内部,セントラルタワー内部,中央塔內部,Inside the Central Tower,센트럴 타워 내부,Inside Central Tower,中央塔內部
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Dialog.Chapter5-2-31,那由多,「邪魔です。通しなさい」,「邪魔です。通しなさい」,「擋路了。讓開。」,"""You are in my way. Let me through.""",「방해됩니다. 비키십시오」,"""You're in my way. Let me through.""",「擋路了。讓開。」
+,,,,,,,,
+Dialog.Chapter5-2-32,戦闘員,「ぐあっ！？」,「ぐあっ！？」,「呃啊！？」,"""AUGH!""",「크악!?」,"""Gaahhh!""",「呃啊！？」
+,,,,,,,,
+Dialog.Chapter5-2-33,,那由多達は戦闘員達を撃破し、セントラルタワーの中枢へ向かっていた,那由多達は戦闘員達を撃破し、セントラルタワーの中枢へ向かっていた,那由多等人打倒了戰鬥員，朝中央塔的核心區域前進。,Nayuta and his team had defeated the fighters and were heading for the center of the Central Tower.,"나유타 일행은 전투원들을 격파하고, 센트럴 타워의 중추로 향하고 있었다",Nayuta and the others defeated the soldiers and headed toward Central Tower's core.,那由多等人打倒了戰鬥員，朝中央塔的核心區域前進。
+,,,,,,,,
+Dialog.Chapter5-2-34,那由多(変身),「さて、ここが建物中心部でしょうか？大した敵はいませんでしたね」,「さて、ここが建物中心部でしょうか？大した敵はいませんでしたね」,「那麼，這裡就是這棟大樓的中心區域吧？一路上並沒有遇到什麼像樣的敵人呢。」,"""Now, is this the center of the building? I didn't see any major enemies.""","「자, 여기가 건물 중심부입니까? 별다른 적은 없었군요」","""So this is the center of the building? There weren't any significant enemies.""",「那麼，這裡就是這棟大樓的中心區域吧？一路上並沒有遇到什麼像樣的敵人呢。」
+,,,,,,,,
+Dialog.Chapter5-2-35,???(エレナ影),「……！誰ですか！？」,「……！誰ですか！？」,「……！你是誰！？」,"""......! Who are you!""",「……! 누구입니까!?」,"""...! Who's there?!""",「……！你是誰！？」
+,,,,,,,,
+Dialog.Chapter5-2-36,那由多,「聖月生徒会です。セントラルタワーを開放しに来ました―――エレナ？なぜあなたがこんな所に？」,「レギオン司令部です。セントラルタワーを開放しに来ました―――エレナ？なぜあなたがこんな所に？」,「我們是軍團司令部的人。是來解放中央塔的―――艾蓮娜？妳為什麼會在這裡？」,"""This is the Seigetsu Student Council. We're here to open up the Central Tower―――Erena? Why are you here?""",「레기온 사령부입니다. 센트럴 타워를 개방하러 왔습니다―――엘레나? 어째서 당신이 이런 곳에?」,"""Legion Command. We've come to liberate Central Tower—Elena? Why are you in a place like this?""",「我們是軍團司令部的人。是來解放中央塔的―――艾蓮娜？妳為什麼會在這裡？」
+,,,,,,,,
+Dialog.Chapter5-2-37,エレナ,「…那由多ですか」,「…那由多ですか」,「……是那由多啊。」,"""Nayuta?""",「…나유타입니까」,"""Nayuta?""",「……是那由多啊。」
+,那由多(制服)(変身解除),,,,,,,
+Dialog.Chapter5-2-38,那由多,「貴女は財団に敗北し、拉致されていたはずでは？一体ここで何をやっているのですか？」,「貴女は財団に敗北し、拉致されていたたはずでは？一体ここで何をやっているのですか？」,「妳不是應該已經敗給財團，被他們擄走了嗎？現在到底在這裡做什麼？」,"""Weren't you supposed to have been defeated and abducted by the Foundation? What on earth are you doing here?""","「당신은 재단에 패배하여, 납치되었을 텐데요? 대체 여기서 뭘 하고 있는 겁니까?」","""Weren't you defeated by the Foundation and abducted? What exactly are you doing here?""",「妳不是應該已經敗給財團，被他們擄走了嗎？現在到底在這裡做什麼？」
+,,,,,,,,
+Dialog.Chapter5-2-39,エレナ,「……財団を抜け出して一足早くここへ来ただけです。ここの職員は皆私が避難させました」,「……財団を抜け出して一足早くここへ来ただけです。ここの職員は皆私が避難させました」,「……我只是先從財團那邊脫身，稍微早一步趕到這裡而已。這裡的職員全都已經由我安排撤離了。」,"""I just got out of the ...... foundation and came here a step early. I evacuated all the staff here myself.""",「……재단을 빠져나와 한 발 먼저 여기로 왔을 뿐입니다. 여기 직원들은 전부 제가 피난시켰습니다」,"""I just escaped from the Foundation and got here ahead of you. I evacuated all the staff here.""",「……我只是先從財團那邊脫身，稍微早一步趕到這裡而已。這裡的職員全都已經由我安排撤離了。」
+,,,,,,,,
+Dialog.Chapter5-2-40,那由多,「………そうですか。それなら連絡してくれればよかったのに」,「………そうですか。それなら連絡してくれればよかったのに」,「………這樣啊。那妳早說一聲聯絡我不就好了。」,"""'......... I see. Then you should have contacted me.""",「………그렇군요. 그렇다면 연락해주셨으면 좋았을 텐데」,"""...I see. You could have contacted us though.""",「………這樣啊。那妳早說一聲聯絡我不就好了。」
+,,,,,,,,
+Dialog.Chapter5-2-41,那由多,「…とはいえここまで財団による被害が大きくなった原因は貴女にあります」,「…とはいえここまで財団による被害が大きくなった原因は貴女にあります」,「……話雖如此，如今財團把局面搞到這個地步，根本原因還是在妳身上。」,"""...but you are the cause of the damage done by the foundation.""",「…라고는 해도 여기까지 재단에 의한 피해가 커진 원인은 당신에게 있습니다」,"""However, you're the reason the Foundation's damage became this extensive.""",「……話雖如此，如今財團把局面搞到這個地步，根本原因還是在妳身上。」
+,,,,,,,,
+Dialog.Chapter5-2-42,,「貴女なら大丈夫だと思っていたのですが、情けなくもこの程度の敵に負けてしまうとは…」,「貴女なら大丈夫だと思っていたのですが、情けなくもこの程度の敵に負けてしまうとは…」,「我原本以為以妳的實力應該沒問題，結果居然丟臉地輸給這種程度的敵人……」,"""I thought you would be all right, but you were pitifully defeated by an enemy of this caliber.""","「당신이라면 괜찮다고 생각했습니다만, 한심하게도 이 정도 적에게 패배해버리다니…」","""I thought you'd be fine, but to be defeated so pathetically by enemies of this level...""",「我原本以為以妳的實力應該沒問題，結果居然丟臉地輸給這種程度的敵人……」
+,,,,,,,,
+Dialog.Chapter5-2-43,,「やれやれ、少し貴女の実力を買いかぶり過ぎていたかもしれませんね」,「やれやれ、少し貴女の実力を買いかぶり過ぎていたかもしれませんね」,「真是的，也許我是有點過度高估妳了呢。」,"""I may have overestimated your abilities a bit.""","「이런이런, 조금 당신의 실력을 너무 높게 평가했던 것일지도 모르겠군요」","""Good grief, perhaps I overestimated your abilities.""",「真是的，也許我是有點過度高估妳了呢。」
+,,,,,,,,
+Dialog.Chapter5-2-44,エレナ,「…そうですね。理解しています」,「…そうですね。理解しています」,「……是啊。我很清楚。」,"""I understand. I understand.""",「…그렇군요. 이해하고 있습니다」,"""...You're right. I understand.""",「……是啊。我很清楚。」
+,,,,,,,,
+Dialog.Chapter5-2-45,那由多,「貴女にしてはやけに素直ですね…」,「貴女にしてはやけに素直ですね…」,「真稀奇... 妳今天比往常還要坦率啊。」,"""For a woman like you, you're awfully straightforward...""",「당신치고는 꽤 순순하군요…」,"""You're being unusually compliant...""",「真稀奇... 妳今天比往常還要坦率啊。」
+,,,,,,,,
+Dialog.Chapter5-2-46,那由多,「おそらく副会長は解任となるでしょう。聖核戦姫の戦闘ライセンスの剝奪もあり得ます」,「おそらく副司令は解任となるでしょう。聖核戦姫の戦闘ライセンスの剝奪もあり得ます」,「妳的副司令職務大概會被解除吧。另外聖核戰姫的戰鬥執照也有可能被剝奪。」,"""Your status as vice president will be dismissed, and her license will be dismissed.""",「아마 부사령관은 해임될 것입니다. 성핵전희 전투 라이선스 박탈도 있을 수 있습니다」,"""You'll probably be dismissed as Deputy Commander. Your Holy Core Battlemaiden combat license may also be revoked.""",「妳的副司令職務大概會被解除吧。另外聖核戰姫的戰鬥執照也有可能被剝奪。」
+,,,,,,,,
+,,,,,,,,
+Dialog.Chapter5-2-47,那由多,「…まあそのことは後で考えましょう。帰還します、エレナ、私に付いてきなさい」,「…まあそのことは後で考えましょう。帰還します、エレナ、私に付いてきなさい」,「……嘛，這種事情之後再想吧。我們要撤退了，艾蓮娜，跟我來。」,"""...well, we'll figure that out later. We will return, Erena, follow me.""","「…뭐 그건 나중에 생각하도록 하죠. 귀환합니다, 엘레나, 저를 따라오십시오」","""Well, let's think about that later. We're returning—Elena, follow me.""",「……嘛，這種事情之後再想吧。我們要撤退了，艾蓮娜，跟我來。」
+,,,,,,,,
+Dialog.Chapter5-2-48,,那由多と他三人の生徒はエレナに背を向け部屋の外へ向かう,那由多と他三人の聖核戦姫はエレナに背を向け部屋の外へ向かう,那由多和另外三名聖核戰姫轉身，把艾蓮娜留在身後，往房間外走去。,Nayuta and three other students turn their backs to Erena and head out of the room.,나유타와 다른 세 명의 성핵전희는 엘레나에게 등을 돌리고 방 밖으로 향한다,Nayuta and the other three Holy Core Battlemaidens turned their backs to Elena and headed toward the room's exit.,那由多和另外三名聖核戰姫轉身，把艾蓮娜留在身後，往房間外走去。
+,,,,,,,,
+Dialog.Chapter5-2-49,エレナ,「………ええ、わかりました」,「………ええ、わかりました」,「………好的，我明白了。」,"""......... yeah, okay.""","「………네, 알겠습니다」","""...Yes, understood.""",「………好的，我明白了。」
+,,,,,,,,
+Dialog.Chapter5-2-50,エレナ(変身),「………………変身、聖核戦姫、コード：ゴールド。」,「………………変身、聖核戦姫、コード：ゴールド。」,「………………變身。聖核戰姫，代號：黃金。」,""".................. transformation, Seikaku Princess, code: gold.""","「………………변신, 성핵전희, 코드: 골드.」","""...Transform, Holy Core Battlemaiden, Code: Gold.""",「………………變身。聖核戰姫，代號：黃金。」
+,,,,,,,,
+Dialog.Chapter5-2-51,,ガキィィン！！,ガキィィン！！,嘎鏘——！！,Gakiin!,카킹!!,CLANG!!,嘎鏘——！！
+,,,,,,,,
+Dialog.Chapter5-2-52,那由多,「――――――！？」,「――――――！？」,「――――――！？」,"""――――――!""",「――――――!?」,"""—?!""",「――――――！？」
+,,,,,,,,
+Dialog.Chapter5-2-53,,那由多の刀がエレナの矛を防ぐ,那由多の刀がエレナの矛を防ぐ,那由多拔刀擋下了艾蓮娜的長矛。,Nayuta's sword prevents Erena's spear.,나유타의 칼이 엘레나의 창을 막는다,Nayuta's sword blocked Elena's spear.,那由多拔刀擋下了艾蓮娜的長矛。
+,,,,,,,,
+Dialog.Chapter5-2-54,エレナ,「流石那由多、この奇襲も防ぎますか」,「流石那由多、この奇襲も防ぎますか」,「不愧是那由多，連這種奇襲都能擋下來嗎。」,"""Nayuta is a master at preventing surprise attacks.""","「역시 나유타, 이 기습도 막습니까」","""As expected of you, Nayuta. You blocked even this surprise attack.""",「不愧是那由多，連這種奇襲都能擋下來嗎。」
+,,,,,,,,
+Dialog.Chapter5-2-55,那由多,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」,"""............ Erena...? Do you know what you are doing?""",「…………엘레나…? 자신이 뭘 하고 있는지 알고 있는 겁니까?」,"""...Elena? Do you understand what you're doing?""",「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」
+,,,,,,,,
+Dialog.Chapter5-2-56,エレナ,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」,"""It is all my will. ...... I will avenge you here and now ――――.""","「모든 것은 제 의지입니다. ……저는 지금 여기서, ――――당신을 칩니다」","""This is entirely my will. I will... strike you down here and now.""",「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」
+Chapter 5-3,注釈,,,,,,,
+Dialog.Chapter5-3-1,那由多(制服),「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………エレナ…？自分が何をしているのか分かっているのですか？」,「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」,"""............ Erena...? Do you know what you are doing?""",「…………엘레나…? 자신이 뭘 하고 있는지 알고 있는 겁니까?」,"""...Elena? Do you understand what you're doing?""",「…………艾蓮娜……？妳知道自己現在在做什麼嗎？」
+,,,,,,,,
+Dialog.Chapter5-3-2,エレナ,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「すべては私の意思です。……私は今ここで、――――貴女を討ちます」,「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」,"""It is all my will. ...... I will avenge you here and now ――――.""","「모든 것은 제 의지입니다. ……저는 지금 여기서, ――――당신을 칩니다」","""This is entirely my will. I will... strike you down here and now.""",「這一切都是我自己的意志。……我現在就要在這裡――――親手把妳打倒。」
+,,,,,,,,
+Dialog.Chapter5-3-3,,エレナの体から赤色のオーラが沸き上がり、赤黒いスーツが身に纏わられる,エレナの体から赤色のオーラが沸き上がり、赤黒いスーツが身に纏わられる,艾蓮娜全身湧出赤紅色的氣息，赤黑色的戰鬥服纏繞著她的身軀。,Erena's body is covered with a red aura and a reddish―black suit.,"엘레나의 몸에서 붉은 오라가 뿜어져 나오며, 검붉은 슈트가 몸에 감싸인다",A red aura welled up from Elena's body as a crimson-black suit wrapped around her.,艾蓮娜全身湧出赤紅色的氣息，赤黑色的戰鬥服纏繞著她的身軀。
+,,,,,,,,
+Dialog.Chapter5-3-4,エレナ,「変身完了…ふう、まだこの変身は慣れませんね」,「変身完了…ふう、まだこの変身は慣れませんね」,「變身完畢……呼，這種變身還是有點不太習慣呢。」,"""Transformation complete....phew, I still can't get used to this transformation.""","「변신 완료… 후우, 아직 이 변신은 익숙하지 않군요」","""Transformation complete... Phew, I'm still not used to this transformation.""",「變身完畢……呼，這種變身還是有點不太習慣呢。」
+,,,,,,,,
+Dialog.Chapter5-3-5,那由多,「………エレナ、今ならまだ許します。馬鹿な真似は辞めて司令部に戻りなさい」,「………エレナ、今ならまだ許します。馬鹿な真似は辞めてレギオンに戻りなさい」,「………艾蓮娜，現在回頭還來得及。別再做這種蠢事了，乖乖回軍團來。」,"""......... Erena, I can still forgive you now. Quit your foolishness and return to the academy.""","「………엘레나, 지금이라면 아직 용서합니다. 어리석은 짓은 그만두고 레기온으로 돌아오십시오」","""Elena, I'll still forgive you now. Stop this foolishness and return to the Legion.""",「………艾蓮娜，現在回頭還來得及。別再做這種蠢事了，乖乖回軍團來。」
+,,,,,,,,
+Dialog.Chapter5-3-6,,「……それとも本気で私と戦うつもりですか？」,「……それとも本気で私と戦うつもりですか？」,「……還是說，妳是認真打算跟我動真格的？」,"""...... or are you seriously going to fight me?""",「……아니면 진심으로 저와 싸울 생각입니까?」,"""...Or do you seriously intend to fight me?""",「……還是說，妳是認真打算跟我動真格的？」
+,,,,,,,,
+Dialog.Chapter5-3-7,女生徒1,「！清藤エレナッ！いったい何のつもり！？」,「！清藤エレナッ！いったい何のつもり！？」,「！清藤艾蓮娜！妳到底想幹什麼！？」,"""! Seidō Erena! What the hell are you doing!""",「! 세이토 엘레나! 대체 무슨 짓이죠!?」,"""Elena Kiyofuji! What do you think you're doing?!""",「！清藤艾蓮娜！妳到底想幹什麼！？」
+,,,,,,,,
+Dialog.Chapter5-3-8,女生徒2,「那由多先輩に攻撃なんてッ！それにその恰好…！」,「那由多先輩に攻撃なんてッ！それにその恰好…！」,「竟然對那由多前輩出手！而且妳那身打扮是怎麼回事……！」,"""I can't believe you attacked Nayuta―senpai! And you're dressed like that...!""",「나유타 선배에게 공격이라니! 게다가 그 모습…!」,"""Attacking Nayuta! And that outfit...!""",「竟然對那由多前輩出手！而且妳那身打扮是怎麼回事……！」
+,,,,,,,,
+Dialog.Chapter5-3-9,女生徒3,「エレナ先輩目を覚ましてください！私達も戦いますっ！変身っ！」,「エレナ先輩目を覚ましてください！私達も戦いますっ！変身っ！」,「艾蓮娜前輩請妳清醒一點！我們也來加入戰鬥！變身！」,"""Erena-senpai, please wake up! We will fight too! Transform!""",「엘레나 선배 정신 차리세요! 저희도 싸우겠습니다! 변신!」,"""Elena, snap out of it! We'll fight too! Transform!""",「艾蓮娜前輩請妳清醒一點！我們也來加入戰鬥！變身！」
+,,,,,,,,
+Dialog.Chapter5-3-10,エレナ,「―――――あなた達に興味はありません」,「―――――あなた達に興味はありません」,「―――――我對妳們完全沒有興趣。」,"""――――― is not interested in any of you.""",「―――――당신들에게 흥미는 없습니다」,"""I have no interest in you.""",「―――――我對妳們完全沒有興趣。」
+,,,,,,,,
+Dialog.Chapter5-3-11,女生徒,「―――！！！」,「―――！！！」,「―――！！！」,"""―――!!!!!!!!!!!!!!!!!!!!!!!!!!!!!""",「―――!!!」,"""—!!!""",「―――！！！」
+,,,,,,,,
+Dialog.Chapter5-3-12,那由多,「―――っ！いけませんっ、離れて―――――ッ」,「―――っ！いけませんっ、離れて―――――ッ」,「――不行！快退開――！！」,"""I can't..! Don't do it, get away from ―――――.""","「―――윽! 안됩니다, 떨어져―――――윽」","""—! No! Get away—!""",「――不行！快退開――！！」
+,,,,,,,,
+Dialog.Chapter5-3-13,,ザシュッ！,ザシュッ！,刷！,Zash!,자슉!,SLASH!,刷！
+,,,,,,,,
+Dialog.Chapter5-3-14,,エレナの矛の一太刀で三人の聖核戦姫が地面に崩れ落ちる,エレナの矛の一太刀で三人の聖核戦姫が地面に崩れ落ちる,艾蓮娜長矛一掃，三名聖核戰姬全都倒在地上。,Erena's single stroke of her contraption sends the three Seikaku Princesses crashing to the ground.,엘레나의 창 한 번 휘두름에 세 명의 성핵전희가 바닥에 쓰러진다,"With one strike of Elena's spear, the three Holy Core Battlemaidens collapse to the ground.",艾蓮娜長矛一掃，三名聖核戰姬全都倒在地上。
+,,,,,,,,
+Dialog.Chapter5-3-15,那由多,「…っ！変身、コード：オブシディアンッ！……話し合いの余地は無さそうですね。」,「…っ！変身、コード：オブシディアンッ！……話し合いの余地は無さそうですね。」,「……！變身，代號：黑曜！……看來我們已經沒有談的餘地了呢。」,"""...! Transformation, code: obsidianck! ...... seems there is no room for discussion.""","「…윽! 변신, 코드: 옵시디언! ……이야기할 여지는 없어 보이는군요.」","""...! Transform, Code: Obsidian! There doesn't seem to be room for discussion.""",「……！變身，代號：黑曜！……看來我們已經沒有談的餘地了呢。」
+,,,,,,,,
+Dialog.Chapter5-3-16,エレナ,「ようやく私と戦う気になりましたか？あなたにしては判断が遅いですね」,「ようやく私と戦う気になりましたか？あなたにしては判断が遅いですね」,「終於有打算跟我認真戰鬥了嗎？以妳來說，判斷下得得有點晚呢。」,"""You are finally ready to fight me? You are slow to judge, even for you.""",「겨우 저와 싸울 마음이 생겼습니까? 당신치고는 판단이 늦군요」,"""Finally ready to fight me? Your judgment is slow, even for you.""",「終於有打算跟我認真戰鬥了嗎？以妳來說，判斷下得得有點晚呢。」
+,,,,,,,,
+Dialog.Chapter5-3-17,那由多(変身),「……清藤エレナ。あなたの行動をレギオンに対する重大な反逆とみなします。」,「……清藤エレナ。あなたの行動をレギオンに対する重大な反逆とみなします。」,「……清藤艾蓮娜。妳的行為，將被視為對軍團的重大叛逆。」,"""...... Seidō Erena. We consider your actions to be a grave rebellion against the Seigetsu Student Council.""",「……세이토 엘레나. 당신의 행동을 레기온에 대한 중대한 반역으로 간주합니다.」,"""Elena Kiyofuji. I consider your actions to be serious treason against the Legion.""",「……清藤艾蓮娜。妳的行為，將被視為對軍團的重大叛逆。」
+,,,,,,,,
+Dialog.Chapter5-3-18,暗転,「貴女と戦いたくはなかったですが…。慈悲があると思わないでください！」,「貴女と戦いたくはなかったですが…。慈悲があると思わないでください！」,「我本來並不想和妳交戰……別指望我會手下留情！」,"""I did not want to fight you, but.... Don't think I have mercy on you!""",「당신과 싸우고 싶지는 않았습니다만…. 자비가 있을 거라 생각하지 마십시오!」,"""I didn't want to fight you, but... don't expect any mercy!""",「我本來並不想和妳交戰……別指望我會手下留情！」
+,エレナVS那由多,,,,,,,
+Dialog.Chapter5-3-19,,ガキンッ！ガキィィッ！,ガキンッ！ガキィィッ！,鏘！鏘啷！,Gakikk! Gaki―iii!,카킹! 카킹!,CLANG! CLAANG!,鏘！鏘啷！
+,,,,,,,,
+Dialog.Chapter5-3-20,,ホールに金属が激しくぶつかり合う音が響く,ホールに金属が激しくぶつかり合う音が響く,金屬激烈撞擊的聲音在大廳中迴盪。,The sound of metal clashing violently echoes through the hall.,홀에 금속이 격렬하게 부딪히는 소리가 울린다,The sound of metal clashing violently echoed through the hall.,金屬激烈撞擊的聲音在大廳中迴盪。
+,,,,,,,,
+Dialog.Chapter5-3-21,エレナ,「―――どうしました？私の記憶では貴女はもっと強かったはずですが」,「―――どうしました？私の記憶では貴女はもっと強かったはずですが」,「――怎麼了？照我的記憶，妳應該比現在還要強得多才對。」,"""What's wrong? From what I remember, you were stronger than this.""",「―――어떻습니까? 제 기억으로는 당신은 더 강했을 텐데요」,"""What's wrong? From what I remember, you should be much stronger than this.""",「――怎麼了？照我的記憶，妳應該比現在還要強得多才對。」
+,,,,,,,,
+Dialog.Chapter5-3-22,那由多,(ぐっ、この膂力、かつてのエレナとは比べ物になりませんっ),(ぐっ、この膂力、かつてのエレナとは比べ物になりませんっ),（可惡，這股臂力，已經完全不是從前的艾蓮娜能比的了）,"(Gosh, this physical strength is nothing compared to the Erena of the past!)","(크윽, 이 완력, 예전의 엘레나와는 비교도 안 됩니다)","(Ugh, this physical strength... it's incomparable to Elena's previous power!)",（可惡，這股臂力，已經完全不是從前的艾蓮娜能比的了）
+,,,,,,,,
+Dialog.Chapter5-3-23,那由多,「っ！、…貴女こそ本気で私に勝てると思っているのですかっ？」,「っ！、…貴女こそ本気で私に勝てると思っているのですかっ？」,「妳……難道真覺得自己打得贏我嗎？」,"""I'm not sure I can beat you! Do you really think you can beat me?""","「윽!, …당신이야말로 진심으로 저에게 이길 수 있다고 생각하는 겁니까?」","""...Do you seriously think you can beat me?!""",「妳……難道真覺得自己打得贏我嗎？」
+,,,,,,,,
+Dialog.Chapter5-3-24,,「それにっ、…プライドの高いあなたがこんなっ、一体財団に何をされたのですか？！」,「それにっ、…プライドの高いあなたがこんなっ、一体財団に何をされたのですか？！」,「而且……像妳這麼好勝的人竟然會變成這樣，財團到底對妳做了什麼？！」,"""And you, with all your pride, what in the world have you done to the Foundation?""","「게다가, …프라이드 높은 당신이 이런, 대체 재단에게 뭘 당한 겁니까?!」","""And with your pride... what exactly has the Foundation done to you?!""",「而且……像妳這麼好勝的人竟然會變成這樣，財團到底對妳做了什麼？！」
+,,,,,,,,
+Dialog.Chapter5-3-25,エレナ,「……財団には愚かな私を洗脳して更なる力を頂きました。しかし――――これは私の意思です」,「……財団には愚かな私を教育して更なる力を頂きました。しかし――――これは私の意思です」,「……財團教育了愚蠢的我，並賜予我更強大的力量。不過――這一切都是出自我自己的意志。」,"""The ...... Foundation has given me further power by brainwashing me out of my foolishness. But ―――― this is my will.""",「……재단에게는 어리석은 저를 교육하여 더 큰 힘을 받았습니다. 하지만――――이것은 제 의지입니다」,"""The Foundation re-educated foolish me and granted me greater power. But—this is my will.""",「……財團教育了愚蠢的我，並賜予我更強大的力量。不過――這一切都是出自我自己的意志。」
+,,,,,,,,
+Dialog.Chapter5-3-26,那由多,「……っ、いったい何のためにそんな事を！これ以上力を求めて何の意味があるのですかっ！？」,「……っ、いったい何のためにそんな事を！これ以上力を求めて何の意味があるのですかっ！？」,「……到底是為了什麼才做到這種地步！再去追求力量又有什麼意義！？」,"""I said to myself, ""......, what in the world is the point of that? What's the point of asking for more power?""","「……윽, 대체 무엇 때문에 그런 짓을! 이 이상 힘을 추구하여 무슨 의미가 있는 겁니까!?」","""...Why would you do such a thing?! What's the point of seeking even more power?!""",「……到底是為了什麼才做到這種地步！再去追求力量又有什麼意義！？」
+,,,,,,,,
+Dialog.Chapter5-3-27,エレナ,「……ここで私が貴女を倒せばホーリーコア・レギオンは崩壊します。統制を失った聖核戦姫は全て財団の管理下に置かれるでしょう」,「……ここで私が貴女を倒せばホーリーコア・レギオンは崩壊します。統制を失った聖核戦姫は全て財団の管理下に置かれるでしょう」,「……只要我在這裡打倒妳，聖核軍團就會崩潰。失去統制的聖核戰姫，最後全都會被納入財團的管理之下。」,"""If I defeat you here at ......, the Seigetsu Student Council will collapse. All the Seikaku Princesses who have lost control will be placed under the control of the Foundation.""",「……여기서 제가 당신을 쓰러뜨리면 홀리코어 레기온은 붕괴합니다. 통제를 잃은 성핵전희는 전부 재단의 관리 하에 놓이게 되겠죠」,"""If I defeat you here, the Holy Core Legion will collapse. All the Holy Core Battlemaidens who lose their leadership will be placed under the Foundation's control.""",「……只要我在這裡打倒妳，聖核軍團就會崩潰。失去統制的聖核戰姫，最後全都會被納入財團的管理之下。」
+,,,,,,,,
+Dialog.Chapter5-3-28,那由多,「なにを馬鹿なことを！特別な力を持った聖核戦姫のあの子たちを守るのが力ある私達の使命でしょう！？」,「なにを馬鹿なことを！特別な力を持った聖核戦姫たちを守るのが力ある私達の使命でしょう！？」,「別說這種蠢話！守護擁有特殊力量的聖核戰姫們，才是我們這些擁有力量之人的使命吧！？」,"""What nonsense! It's our mission to protect those kids in the academy!""",「무슨 어리석은 소리를! 특별한 힘을 가진 성핵전희들을 지키는 것이 힘 있는 저희의 사명 아닙니까!?」,"""What nonsense! Our mission as the powerful ones is to protect the Holy Core Battlemaidens with special powers!""",「別說這種蠢話！守護擁有特殊力量的聖核戰姫們，才是我們這些擁有力量之人的使命吧！？」
+,,,,,,,,
+Dialog.Chapter5-3-29,エレナ,「ええ、ですが考えてもみてください。私や貴女のような未熟な者がこれだけ強大な力を持っているのがどれだけ危険な事か」,「ええ、ですが考えてもみてください。私や貴女のような一個人がこれだけ強大な力を持っているのがどれだけ危険な事か」,「沒錯，不過妳也想一想，像我和妳這樣的個體，卻握有如此龐大的力量，本身就是極度危險的事。」,"""Yes, but think about it. How dangerous it is for someone as inexperienced as you and I to be so powerful.""","「네, 하지만 생각해보십시오. 저나 당신 같은 개인이 이렇게 강대한 힘을 가지고 있는 것이 얼마나 위험한 일인지」","""Yes, but think about it. How dangerous it is for individuals like you and me to possess such immense power?""",「沒錯，不過妳也想一想，像我和妳這樣的個體，卻握有如此龐大的力量，本身就是極度危險的事。」
+,,,,,,,,
+Dialog.Chapter5-3-30,那由多,「っ！、だから聖核戦姫は多くの大人から狙われます。だからこそ、そんな私達を守れるのは私達自身でしかないっ！」,「っ！、だから聖核戦姫は多くの悪意ある組織から狙われます。だからこそ、そんな私達を守れるのは私達自身でしかないっ！」,「……！正因為如此，聖核戰姫才會被那麼多心懷不軌的組織盯上。所以能守護我們這種存在的，就只有我們自己！」,"""I'm not sure I want to be a part of this! That's why the Seikaku Princess is targeted by many adults. That is why we are the only ones who can protect us!""","「윽!, 그래서 성핵전희는 많은 악의적인 조직에게 노려집니다. 그렇기 때문에, 그런 우리를 지킬 수 있는 것은 우리 자신뿐!」","""That's exactly why Holy Core Battlemaidens are targeted by many malicious organizations! That's why only we ourselves can protect us!""",「……！正因為如此，聖核戰姫才會被那麼多心懷不軌的組織盯上。所以能守護我們這種存在的，就只有我們自己！」
+,,,,,,,,
+Dialog.Chapter5-3-31,エレナ,「確かに私達は現在自分自身で戦って身の安全を守っています。しかしそんなことがいつまで続くでしょう？」,「確かに私達は現在自分自身で戦って身の安全を守っています。しかしそんなことがいつまで続くでしょう？」,「現在的確是由我們親自戰鬥，才能勉強保住自己的安全。但這種狀態，能維持到什麼時候呢？」,"""We are fighting for our own safety now, but how long can that last? But how long can that last?""",「확실히 저희는 현재 스스로 싸워서 신변의 안전을 지키고 있습니다. 하지만 그런 일이 언제까지 계속될까요?」,"""True, we're currently fighting and protecting our own safety. But how long can that continue?""",「現在的確是由我們親自戰鬥，才能勉強保住自己的安全。但這種狀態，能維持到什麼時候呢？」
+,,,,,,,,
+Dialog.Chapter5-3-32,,「財団に囚われてわかりました。力だけでは勝てない存在がいると」,「財団に囚われてわかりました。力だけでは勝てない存在がいると」,「我在被財團囚禁之後才明白，有些存在是光靠力量根本贏不了的。」,"""I found out when I was trapped in the Foundation. I realized that there are beings who cannot be defeated by force alone.""",「재단에 붙잡혀서 알았습니다. 힘만으로는 이길 수 없는 존재가 있다고」,"""Being captured by the Foundation made me understand—there are beings that can't be defeated by strength alone.""",「我在被財團囚禁之後才明白，有些存在是光靠力量根本贏不了的。」
+,,,,,,,,
+Dialog.Chapter5-3-33,,「聖核戦姫の力は私達の手に余ります。財団のような真に力のある組織に適切に管理された方が健全でしょう」,「聖核戦姫の力は私達の手に余ります。財団のような真に力のある組織に適切に管理された方が健全でしょう」,「聖核戰姫的力量，已經超出我們自己能掌控的範圍。交給像財團那種真正強大的組織來妥善管理，反而才是比較健全的形態。」,"""The power of the Seikaku is beyond our control. It would be healthier if it were properly managed by a truly powerful organization like the Foundation.""",「성핵전희의 힘은 저희 손에 벅찹니다. 재단 같은 진정으로 힘 있는 조직에게 적절히 관리되는 편이 건전하겠죠」,"""The power of Holy Core Battlemaidens is beyond our control. It would be healthier if properly managed by a truly powerful organization like the Foundation.""",「聖核戰姫的力量，已經超出我們自己能掌控的範圍。交給像財團那種真正強大的組織來妥善管理，反而才是比較健全的形態。」
+,,,,,,,,
+Dialog.Chapter5-3-34,那由多,「……っ！何を訳のわからないことをっ！そんな世界を受け入れられるわけがないでしょう！目を覚ましなさい！」,「……っ！何を訳のわからないことをっ！そんな世界を受け入れられるわけがないでしょう！目を覚ましなさい！」,「……！妳在胡說什麼鬼話！那樣的世界我絕對無法接受！給我清醒一點！」,"""I'll tell you what... ""......! What nonsense! How can you accept such a world? Wake up!""",「……윽! 무슨 말도 안 되는 소리를! 그런 세계를 받아들일 수 있을 리 없지 않습니까! 정신 차리십시오!」,"""...! What nonsense are you spouting?! There's no way I could accept such a world! Wake up!""",「……！妳在胡說什麼鬼話！那樣的世界我絕對無法接受！給我清醒一點！」
+,,,,,,,,
+Dialog.Chapter5-3-35,エレナ,「…そして那由多、あなたに対してです」,「…そして那由多、あなたに対してです」,「……還有，那由多，這段話是對妳說的。」,"""...and to you, Nayuta.""","「…그리고 나유타, 당신에 대해서입니다」","""And Nayuta, this is about you.""",「……還有，那由多，這段話是對妳說的。」
+,,,,,,,,
+Dialog.Chapter5-3-36,那由多,「っ！、いまさら何をっ？」,「っ！、いまさら何をっ？」,「！到這個節骨眼妳還想說什麼？」,"""What? What are you doing now?""","「윽!, 이제 와서 뭘?」","""...! What are you talking about now?!""",「！到這個節骨眼妳還想說什麼？」
+,,,,,,,,
+Dialog.Chapter5-3-37,エレナ,「私に面倒な業務ばかり押し付けてっ！、自分は海外に行ったきり帰ってこない！」,「私に面倒な業務ばかり押し付けてっ！、自分は海外に行ったきり帰ってこない！」,「老是把麻煩的業務全部丟給我！自己飛去海外就不回來！」,"""He said, ""You keep putting me through all this trouble, and then you go overseas and never come back! You go overseas and never come back!""","「저에게 귀찮은 업무만 떠넘기고!, 자신은 해외에 간 채 돌아오지 않고!」","""You always dumped all the troublesome work on me! You went overseas and never came back!""",「老是把麻煩的業務全部丟給我！自己飛去海外就不回來！」
+,,,,,,,,
+Dialog.Chapter5-3-38,那由多,「なっ…私も遊んでいたわけではないのですがっ！確かに会長の仕事は多忙でしたが…」,「なっ…私も遊んでいたわけではないのですがっ！確かに総司令の仕事は多忙でしたが…」,「什……我也不是在那邊玩樂啊！總司令的工作確實很忙沒錯，但是……！」,"""I was not playing around either! It's true that I was very busy as student council president, but...""",「뭣… 저도 놀고 있었던 것은 아닙니다만! 확실히 총사령관의 일은 다망했지만…」,"""I... I wasn't just playing around! The Commander's work was certainly busy, but...""",「什……我也不是在那邊玩樂啊！總司令的工作確實很忙沒錯，但是……！」
+,,,,,,,,
+Dialog.Chapter5-3-39,エレナ,「私ももっと戦いたかったのに！つまらない書類仕事ばかり！」,「私ももっと戦いたかったのに！つまらない書類仕事ばかり！」,「我明明也想多上戰場的！結果每天都在做那些無聊的公文！」,"""'I wanted to fight more too! All that boring paperwork!""",「저도 더 싸우고 싶었는데! 재미없는 서류 작업만!」,"""I wanted to fight more too! But I was dealing with nothing but boring paperwork!""",「我明明也想多上戰場的！結果每天都在做那些無聊的公文！」
+,,,,,,,,
+Dialog.Chapter5-3-40,那由多,「っ、私の方が強いのですから私が戦闘任務をするのは当然です！」,「っ、私の方が強いのですから私が戦闘任務をするのは当然です！」,「……因為我比較強，由我負責戰鬥任務是理所當然的！」,"""I'm stronger than you, so it's only natural that I should be the one doing the combat duty!""","「윽, 제가 더 강하니까 제가 전투 임무를 하는 것은 당연합니다!」","""Since I'm stronger, it's natural that I take on combat missions!""",「……因為我比較強，由我負責戰鬥任務是理所當然的！」
+,,,,,,,,
+Dialog.Chapter5-3-41,エレナ,「―――そして同い年なのにあなたはいつも私の上を行って！比べられる私の気持ちを考えたことありますかっ！？」,「―――そして同い年なのにあなたはいつも私の上を行って！比べられる私の気持ちを考えたことありますかっ！？」,「――而且我們明明同歲，妳卻總是走在我前面！有想過被拿來比較的我的心情嗎！？」,"""And you always go above me, even though we're the same age! Have you ever considered how I feel being compared to you!""",「―――그리고 동갑인데 당신은 언제나 저보다 앞서가고! 비교당하는 제 기분을 생각해 본 적 있습니까!?」,"""And even though we're the same age, you're always ahead of me! Have you ever considered how it feels to constantly be compared?!""",「――而且我們明明同歲，妳卻總是走在我前面！有想過被拿來比較的我的心情嗎！？」
+,,,,,,,,
+Dialog.Chapter5-3-42,那由多,「――っ、それは貴女の問題でしょうっ！」,「――っ、それは貴女の問題でしょうっ！」,「――那是妳自己的問題吧！」,"""That's your problem!""","「――윽, 그건 당신의 문제겠죠!」","""That's your problem!""",「――那是妳自己的問題吧！」
+,,,,,,,,
+Dialog.Chapter5-3-43,那由多,(まずいですね…思ったよりもエレナの火力が高いです、速く戦いを終わらせないと…！),(まずいですね…思ったよりもエレナの火力が高いです、速く戦いを終わらせないと…！),（不妙呢……艾蓮娜的火力比想像中還高，得趕快結束這場戰鬥才行……！）,"(Not good... Erena's firepower is higher than I thought, we have to finish the fight fast...!)","(위험하군요… 생각보다 엘레나의 화력이 높습니다, 빨리 싸움을 끝내지 않으면…!)",(This is bad... Elena is more powerful than I thought. I need to end this fight quickly...!),（不妙呢……艾蓮娜的火力比想像中還高，得趕快結束這場戰鬥才行……！）
+,,,,,,,,
+Dialog.Chapter5-3-44,,「……わかりましたっ、今後のことは二人でよく話し合いましょう。戦いを辞めてレギオンに戻って―――――」,「……わかりましたっ、今後のことは二人でよく話し合いましょう。戦いを辞めてレギオンに戻って―――――」,「……我明白了，今後的事情，我們兩個好好談談就行。先停手，跟我一起回軍團――――」,"""I understand,......, let's discuss the future between us. Quit the fight and go back to the academy ―――――.""","「……알겠습니다, 앞으로의 일은 둘이서 잘 이야기합시다. 싸움을 그만두고 레기온으로 돌아와―――――」","""...I understand! Let's discuss the future together. Stop fighting and return to the Legion—""",「……我明白了，今後的事情，我們兩個好好談談就行。先停手，跟我一起回軍團――――」
+,,,,,,,,
+Dialog.Chapter5-3-45,エレナ,「……今更何を言っているのですか？私はもうレギオンに戻るつもりなどありません」,「……今更何を言っているのですか？私はもうレギオンに戻るつもりなどありません」,「……妳現在還在說什麼呢？我已經不打算回軍團了。」,"""......What are you saying now? I have no intention of returning to the academy.""",「……이제 와서 무슨 말을 하는 겁니까? 저는 이제 레기온으로 돌아갈 생각 따위 없습니다」,"""What are you talking about? I have no intention of returning to the Legion anymore.""",「……妳現在還在說什麼呢？我已經不打算回軍團了。」
+,,,,,,,,
+Dialog.Chapter5-3-46,,職員だと思っていた人々が次々に戦闘員の姿に変わっていく,職員だと思っていた人々が次々に戦闘員の姿に変わっていく,原本以為只是一般職員的人們，一個接一個變回戰鬥員的模樣。,"One by one, people who thought they were staff members are transformed into combatants.",직원이라고 생각했던 사람들이 차례차례 전투원의 모습으로 변해간다,The people she thought were staff members transformed one after another into soldiers.,原本以為只是一般職員的人們，一個接一個變回戰鬥員的模樣。
+,,,,,,,,
+Dialog.Chapter5-3-47,那由多,「なっ！？、あなた達っ！？」,「なっ！？、あなた達っ！？」,「什麼！？你們這些傢伙……！」,"""What? You guys?""","「뭣!?, 당신들!」","""What?! You...?!""",「什麼！？你們這些傢伙……！」
+,,,,,,,,
+Dialog.Chapter5-3-48,エレナ,「那由多、貴女はここで私に負けるのです」,「那由多、貴女はここで私に負けるのです」,「那由多，妳將會在這裡輸給我。」,"""Nayuta, you are losing to me here.""","「나유타, 당신은 여기서 저에게 패배하는 겁니다」","""I am going to defeat you here, Nayuta.""",「那由多，妳將會在這裡輸給我。」
+,,,,,,,,
+Dialog.Chapter5-3-49,那由多,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――看來現在不是猶豫的時候了。聖核能量全開！「雷神之相」！」,"""―――― is not the time to get lost. The Seikaku energy is in full swing! ""Thunder God phase!""",「――――망설일 때가 아니군요. 성핵 에너지 전개! “뇌신지상”!」,"""This is no time for hesitation. Full Holy Core Energy! Thunderous Avatar!""",「――――看來現在不是猶豫的時候了。聖核能量全開！「雷神之相」！」
+,,,,,,,,
+Dialog.Chapter5-3-50,,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雜魚來多少都沒有什麽差別。我可是最強的聖核戰姫。你們全部一起上吧！」,"""I don't care how many small fry there are. I am the most powerful Seikaku Princess. Get it together and come at me!""",「잡병이 아무리 있어도 관계없습니다. 저는 최강의 성핵전희입니다. 한꺼번에 덤비십시오!」,"""It doesn't matter how many foot soldiers there are. I am the strongest Holy Core Battlemaiden. Come at me all at once!""",「雜魚來多少都沒有什麽差別。我可是最強的聖核戰姫。你們全部一起上吧！」
+,,,,,,,,
+,,戦闘開始,戦闘開始,戰鬥開始,戦闘開始,전투 시작,Combat Starts,戰鬥開始
+,,,,,,,,
+,,戦闘終了,戦闘終了,戰鬥結束,戦闘終了,전투 종료,Combat Ends,戰鬥結束
+,セントラルタワー,,,,,,,
+Dialog.Chapter5-3-51,那由多,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「哈啊、哈啊，差不多死心吧！妳是不可能打贏我的！」,"""'Hah, hah, give it up for good! There is no way you can beat me!""","「하앗, 하아, 적당히 포기하십시오! 당신이 저에게 이길 수 있을 리 없지 않습니까!」","""Huff, huff... Just give up already! There's no way you can beat me!""",「哈啊、哈啊，差不多死心吧！妳是不可能打贏我的！」
+,,,,,,,,
+Dialog.Chapter5-3-52,エレナ,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「哈啊、哈啊，那由多妳自己氣都喘成這樣了不是嗎？已經快到極限了對吧？！」,"""I'm sure you're breathing very hard, Nayuta. You must be near your limit!""","「하아, 하앗, 나유타야말로 상당히 숨이 차 있군요? 한계가 가까운 거죠?!」","""Huff, huff... You're the one who's quite out of breath, Nayuta! You're at the end of your rope, aren't you?""",「哈啊、哈啊，那由多妳自己氣都喘成這樣了不是嗎？已經快到極限了對吧？！」
+,,,,,,,,
+Dialog.Chapter5-3-53,那由多,「……っ、そんなわけがっ！――――がはっ！？」,「……っ、そんなわけがっ！――――がはっ！？」,「……才、才沒有那回事！――――呃啊！？」,"""I'm not sure how that's possible! ―――― is what?""","「……윽, 그럴 리가!――――커헉!?」","""...That can't be—gahh?!""",「……才、才沒有那回事！――――呃啊！？」
+,,,,,,,,
+Dialog.Chapter5-3-54,,那由多は口から血を吐き、地面に膝をつく,那由多は口から血を吐き、地面に膝をつく,那由多吐出一口血，單膝撐在地上。,Nayuta spits blood from his mouth and kneels on the ground,"나유타는 입에서 피를 토하며, 바닥에 무릎을 꿇는다",Nayuta spat blood and fell to her knee.,那由多吐出一口血，單膝撐在地上。
+,,,,,,,,
+Dialog.Chapter5-3-55,那由多,「――――な、こんなっ！」,「――――な、こんなっ！」,「――這、這怎麼可能！」,"""――――, konk!""","「――――뭣, 이런!」","""N-No... How...""",「――這、這怎麼可能！」
+,,,,,,,,
+Dialog.Chapter5-3-56,エレナ,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「哈啊、哈啊……！看來副作用終於來了呢……！」,"""'Haaah, haaah ......! Looks like the force is rebounding...!""","「하앗, 하앗……! 아무래도 힘의 반동이 온 것 같군요…!」","""Huff, huff...! It seems the recoil from your power has caught up with you!""",「哈啊、哈啊……！看來副作用終於來了呢……！」
+,,,,,,,,
+Dialog.Chapter5-3-57,エレナ,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「以前在妳強化狀態下，沒有任何人能撐過一分鐘，自然也就不會去想什麼持久戰吧？」,"""No one could stand for a minute in front of your enhanced state, so you're not planning for a prolonged battle, are you?""","「당신의 강화 상태 앞에서 1분도 버틴 자는 없었으니, 장기전을 상정하지 않았겠죠?」","""No one has been able to stand before your enhanced state for even a minute, so you weren't planning for a prolonged battle, were you?""",「以前在妳強化狀態下，沒有任何人能撐過一分鐘，自然也就不會去想什麼持久戰吧？」
+,,,,,,,,
+Dialog.Chapter5-3-58,那由多,「ゴホッ、ガハッ、…ぐうっ、私がここで倒れるわけにはっ！」,「ゴホッ、ガハッ、…ぐうっ、私がここで倒れるわけにはっ！」,「咳、咳、嘎哈……可惡，我可不能在這裡倒下……！」,"""Gosh, gah, ... gosh, I'm not going to fall down here!""","「콜록, 카학, …크윽, 내가 여기서 쓰러질 수는!」","""Gahh... Ugh, I can't fall here!""",「咳、咳、嘎哈……可惡，我可不能在這裡倒下……！」
+,,,,,,,,
+Dialog.Chapter5-3-59,エレナ,「これで終わりです八雲那由多…！、あなたが次に目を覚ますときが聖核戦姫の最後です！」,「これで終わりです八雲那由多…！、あなたが次に目を覚ますときが聖核戦姫の最後です！」,「一切都結束了，八雲那由多……！等妳下一次醒來，就是聖核戰姫走向末路的時候！」,"""This is the end, Yakumo Nayuta..! The next time you wake up will be the last of the Seikaku Princess!""","「이걸로 끝입니다 야쿠모 나유타…!, 당신이 다음에 눈을 뜰 때가 성핵전희의 최후입니다!」","""This is the end, Nayuta Yagumo! When you next wake up, it will be the end of the Holy Core Battlemaidens!""",「一切都結束了，八雲那由多……！等妳下一次醒來，就是聖核戰姫走向末路的時候！」
+,,,,,,,,
+Dialog.Chapter5-3-60,那由多,「――――ふざけないでっ！私が負けるはずがないっ！聖核戦姫の魂は屈しないっ！」,「――――ふざけないでっ！私が負けるはずがないっ！聖核戦姫の魂は屈しないっ！」,「――少開玩笑了！我不可能會輸！聖核戰姫的靈魂絕不屈服！」,"""I'm not going to let you beat me! I will not be defeated! The spirit of the Seikaku Princess will not yield!""",「――――웃기지 마! 내가 질 리가 없어! 성핵전희의 혼은 굴하지 않아!」,"""Nonsense! There's no way I can lose! The soul of a Holy Core Battlemaiden will never yield!""",「――少開玩笑了！我不可能會輸！聖核戰姫的靈魂絕不屈服！」
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,暗転,,,,,,,
+Dialog.Chapter5-3-61,剣の音のSE,....,....,....,....,....,...,....
+,,,,,,,,
+,,,,,,,,
+Dialog.Chapter5-3-62,エレナ,「………八雲那由多は気絶しました。――――私達の勝利です」,「………八雲那由多は気絶しました。――――私達の勝利です」,「………八雲那由多已經昏過去了。――――這場戰鬥我們勝利了。」,"""......... Yakumo Nayuta fainted. ―――― we have won.""",「………야쿠모 나유타는 기절했습니다. ――――저희의 승리입니다」,"""Nayuta Yagumo has lost consciousness. This is our victory.""",「………八雲那由多已經昏過去了。――――這場戰鬥我們勝利了。」

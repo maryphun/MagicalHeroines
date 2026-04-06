@@ -1,856 +1,856 @@
-Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English_Steam,Korean_Steam
-Record nursery,注釈,変身ヒロイン苗床化　高難易度コンテンツ①触手クリア後,変身ヒロイン苗床化　高難易度コンテンツ①触手クリア後,,,변신 히로인 묘상화 고난이도 콘텐츠 ① 촉수 클리어 후
-Record.Nursery,暗転,【苗床へ堕ちる聖核戦姫】,【苗床へ堕ちる聖核戦姫】,,[Holy Core Battlemaidens Who Fall to Become Seedbeds],【묘상으로 타락하는 성핵전희】
-Record.Nursery-1,Record nuesery 1,記録：聖核戦姫育苗研究施設にて,記録：聖核戦姫育苗研究施設にて,記錄：於聖核戰姫育苗研究設施,Record: At the Holy Core Battlemaiden Cultivation Research Facility,기록: 성핵전희 육묘 연구 시설에서
-,,,,,,
-Record.Nursery-2,,財団との戦いに敗北した聖核戦姫達は様々な用途に利用され、強い力を持った者はより強い怪人を産む苗床となった,財団との戦いに敗北した聖核戦姫達は様々な用途に利用され、強い力を持った者はより強い怪人を産む苗床となった,在與財團的戰鬥中敗北的聖核戰姫們被用於各種用途，其中擁有強大力量者則成為了產下更強怪人的苗床,"The Holy Core Battlemaidens who were defeated in battles against the Foundation were used for various purposes, with those possessing strong power becoming seedbeds to birth even stronger monsters.","재단과의 싸움에 패배한 성핵전희들은 다양한 용도로 이용되었고, 강한 힘을 가진 자는 더욱 강한 괴인을 낳는 묘상이 되었다"
-,,,,,,
-Record.Nursery-3,,ズルルッ！、ズルッ、グポッ,ズルルッ！、ズルッ、グポッ,滑溜！、滑入、咕噗,"Squelch! Slurp, glop","즈르릇!, 즈릇, 그폿"
-,,,,,,
-Record.Nursery-4,聖核戦姫,「ん゛んっ！～～～～～～～～っ！！！！」,「ん゛んっ！～～～～～～～～っ！！！！」,「嗯嗯！～～～～～～～～！！！！」,"""Nnngh! Mmmmmmmph!!!!""",「응옷 응윽!~~~~~~윽!!!!」
-,,,,,,
-Record.Nursery-5,,部屋には苗床となった聖核戦姫達の快楽による苦悶の声が小さく響き渡る,部屋には苗床となった聖核戦姫達の快楽による苦悶の声が小さく響き渡る,房間裡微弱地迴盪著化為苗床的聖核戰姫們因快感而發出的苦悶聲,Soft agonized moans of pleasure from the Holy Core Battlemaidens who had become seedbeds echoed throughout the room.,방에는 묘상이 된 성핵전희들의 쾌락에 의한 고통스러운 목소리가 작게 울려 퍼진다
-,,,,,,
-Record.Nursery-6,クローン戦闘員,「苗床S11からS23までの状態を確認、健康状態に大きな変化はありません」,「苗床S11からS23までの状態を確認、健康状態に大きな変化はありません」,「確認苗床S11至S23的狀態，健康狀況沒有太大變化」,"""Status check confirmed for Seedbeds S11 through S23, no major changes in health.""","「묘상 S11부터 S23까지 상태 확인, 건강 상태에 큰 변화는 없습니다」"
-,,,,,,
-Record.Nursery-7,,「本日妊娠した触手の数は平均13。そのうち今日は平均7匹を出産済みです」,「本日妊娠した触手の数は平均13。そのうち今日は平均7匹を出産済みです」,「本日懷孕的觸手數量平均為13。其中今天已生下平均7隻」,"""Average number of tentacles impregnated today: 13. Of those, an average of 7 have already been birthed today.""",「오늘 임신한 촉수의 수는 평균 13. 그중 오늘은 평균 7마리를 출산 완료했습니다」
-,,,,,,
-Record.Nursery-8,,「このままならここの苗床群も2週間後にはクラス3怪人の生産に移行できるでしょう」,「このままならここの苗床群も2週間後にはクラス3怪人の生産に移行できるでしょう」,「照這樣下去，這裡的苗床群兩週後應該就能轉移至生產Class 3的怪人了吧」,"""At this rate, this seedbed group should be able to transition to Class 3 monster production in two weeks.""",「이 상태라면 이곳 묘상 군도 2주 후에는 클래스 3 괴인 생산으로 이행할 수 있을 것입니다」
-,,,,,,
-Record.Nursery-9,クローン戦闘員,「報告ありがとうございます」,「報告ありがとうございます」,「感謝報告」,"""Thank you for the report.""",「보고 감사합니다」
-,,,,,,
-Record.Nursery-10,,「…………しかし」,「…………しかし」,「…………可是」,"""...However""",「…………하지만」
-,,,,,,
-Record.Nursery-11,クローン戦闘員,「？どうしましたか？」,「？どうしましたか？」,「？怎麼了嗎？」,"""...? What's wrong?""",「? 무슨 일입니까?」
-,,,,,,
-Record.Nursery-12,クローン戦闘員,「いえ、かつては皆名のある聖核戦姫で、私達クローン何体で戦っても勝ち目はありませんでした」,「いえ、かつては皆名のある聖核戦姫で、私達クローン何体で戦っても勝ち目はありませんでした」,「不，她們過去都是赫赫有名的聖核戰姫，是我們這些複製人無論多少人上前戰鬥都毫無勝算的對象」,"""No, it's just that they were all once renowned Holy Core Battlemaidens. No matter how many of us clones fought them, we had no chance of winning.""","「아뇨, 예전에는 모두 이름 있는 성핵전희였고, 우리 클론 몇 체로 싸워도 승산이 없었습니다」"
-,,,,,,
-Record.Nursery-13,,「……………それが今やこの有様です」,「……………それが今やこの有様です」,「……………結果現在卻是這副模樣」,"""...And now look at them like this.""",「……………그것이 지금은 이 모양입니다」
-,,,,,,
-Record.Nursery-14,クローン戦闘員,「……ええ、こうなってしまえば聖核戦姫もただの肉袋ですね」,「……ええ、こうなってしまえば聖核戦姫もただの肉袋ですね」,「……是啊，變成這樣的話，聖核戰姫也不過是個肉袋呢」,"""...Yes, once they become like this, Holy Core Battlemaidens are just meat sacks.""","「……네, 이렇게 되어버리면 성핵전희도 그저 고깃덩어리네요」"
-,,,,,,
-Record.Nursery-15,,ズルッ、ズルルッ！,ズルッ、ズルルッ！,滑入、滑入！,"Slurp, squelch!","즈릇, 즈르릇!"
-,,,,,,
-Record.Nursery-16,,突然、部屋全体の触手と肉塊が収縮と弛緩を繰り返し始める,突然、部屋全体の触手と肉塊が収縮と弛緩を繰り返し始める,突然，房間裡所有的觸手與肉塊開始反覆收縮與鬆弛,"Suddenly, the tentacles and flesh masses throughout the room began repeatedly contracting and relaxing.","갑자기, 방 전체의 촉수와 살덩이가 수축과 이완을 반복하기 시작한다"
-,,,,,,
-Record.Nursery-17,聖核戦姫,「「「ん゛ん～～～っ！！」」」,「「「ん゛ん～～～っ！！」」」,「「「嗯嗯～～～！！」」」,"""Nnnn!!!""",「「「응옷 응~~~윽!!」」」
-,,,,,,
-Record.Nursery-18,クローン戦闘員,「おや、苗床の出産が始まりましたね」,「おや、苗床の出産が始まりましたね」,「喔呀，苗床的生產開始了呢」,"""Oh, the seedbeds have started giving birth.""","「어머, 묘상의 출산이 시작되었군요」"
-,,,,,,
-Record.Nursery-19,,聖核戦姫達は体中を肉塊によって押され、出産を促される,聖核戦姫達は体中を肉塊によって押され、出産を促される,聖核戦姫們的全身被肉塊擠壓，促使著她們生產,"The Holy Core Battlemaidens' bodies were pushed by the flesh masses, urging them to give birth.","성핵전희들은 온몸을 살덩이에 의해 눌려, 출산을 재촉당한다"
-,,,,,,
-Record.Nursery-20,,ビクンッ、ビクンッ！,ビクンッ、ビクンッ！,抽動！、抽動！,"Twitch, twitch!","비쿤, 비쿤!"
-,,,,,,
-Record.Nursery-21,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」
-,Record nursery 2,,,,,
-Record.Nursery-22,,ドバッ！ブルルルッ！ビシャッ♥！,ドバッ！ブルルルッ！ビシャッ♥！,噴湧！噗嚕嚕！啪唰♥！,Gush! Blurrrrp! Splash!♥,도밧! 부르릇! 비샷♥!
-,,,,,,
-Record.Nursery-23,聖核戦姫,「「「ん゛んんっっっ～～っ♥♥！！」」」,「「「ん゛んんっっっ～～っ♥♥！！」」」,「「「嗯嗯嗯～～♥♥！！」」」,"""Nnnnnn♥♥!!""",「「「응옷 응응윽~~~윽♥♥!!」」」
-,,,,,,
-Record.Nursery-24,,至る所の聖核戦姫達の胎内から大小さまざまな触手が飛び出す,至る所の聖核戦姫達の胎内から大小さまざまな触手が飛び出す,大大小小的觸手從各處聖核戰姫們的胎內噴出,Tentacles of various sizes burst forth from the wombs of Holy Core Battlemaidens everywhere.,곳곳의 성핵전희들의 태내에서 크고 작은 다양한 촉수가 튀어나온다
-,,,,,,
-Record.Nursery-25,,グチュッ！ドバッ！ビクンッ！,グチュッ！ドバッ！ビクンッ！,咕啾！噴出！抽動！,Squelch! Gush! Twitch!,구츗! 도밧! 비쿤!
-,,,,,,
-Record.Nursery-26,クローン戦闘員,「触手の出産を確認。今回はなかなか大きなサイズが生まれていますね」,「触手の出産を確認。今回はなかなか大きなサイズが生まれていますね」,「確認到觸手已生產。這次生出了體型相當大的個體呢」,"""Tentacle births confirmed. Some quite large sizes are being born this time.""",「촉수 출산 확인. 이번에는 제법 큰 사이즈가 태어났군요」
-,,,,,,
-Record.Nursery-27,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」
-,,,,,,
-Record.Nursery-28,,プシャッ、プシャッ、プシャッ！,プシャッ、プシャッ、プシャッ！,噗咻、噗咻、噗咻！,"Pshhh, pshhh, pshhh!","푸샷, 푸샷, 푸샷!"
-,,,,,,
-Record.Nursery-29,クローン戦闘員,「ふう、あらかた出産は落ち着きましたかね」,「ふう、あらかた出産は落ち着きましたかね」,「呼，生產大致上都平息下來了吧」,"""Phew, it seems the birthing has mostly settled down.""","「후우, 대충 출산은 진정되었군요」"
-,,,,,,
-Record.Nursery-30,クローン戦闘員,「……ところでこの苗床達は今後どうなるのでしょうか？」,「……ところでこの苗床達は今後どうなるのでしょうか？」,「……話說回來，這些苗床今後會怎麼樣呢？」,"""......By the way, what will happen to these seedbeds going forward?""",「……그런데 이 묘상들은 앞으로 어떻게 되는 걸까요?」
-,,,,,,
-Record.Nursery-31,クローン戦闘員,「ああ、最終的には聖核が触手に完全に同化して生殖器官、この苗床の一部となります」,「ああ、最終的には聖核が触手に完全に同化して生殖器官、この苗床の一部となります」,「啊，最終她們的聖核會與觸手完全同化，成為生殖器官、這個苗床的一部分」,"""Ah, ultimately their Holy Cores will completely assimilate with the tentacles and become reproductive organs, part of this seedbed.""","「아아, 최종적으로는 성핵이 촉수에 완전히 동화되어 생식 기관, 이 묘상의 일부가 됩니다」"
-,,,,,,
-Record.Nursery-32,クローン戦闘員,「なるほど…しかしここまでくると少し可哀そうですね」,「なるほど…しかしここまでくると少し可哀そうですね」,「原來如此…不過都到這一步了，感覺有點可憐呢」,"""I see... However, when it goes this far, it's a bit pitiful.""",「과연… 하지만 여기까지 오면 조금 불쌍하군요」
-,,,,,,
-Record.Nursery-33,クローン戦闘員,「いえ、実際は苗床達のドーパミン、オキシトシン的幸福度は非常に高いです」,「いえ、実際は苗床達のドーパミン、オキシトシン的幸福度は非常に高いです」,「不，實際上苗床們的多巴胺、催產素所帶來的幸福度非常高」,"""No, actually the seedbeds' dopamine and oxytocin-based happiness levels are extremely high.""","「아뇨, 실제로는 묘상들의 도파민, 옥시토신적 행복도는 매우 높습니다」"
-,,,,,,
-Record.Nursery-34,クローン戦闘員,「生殖器官となる時まで快楽の時間を過ごせるのです。彼女達も幸せでしょう」,「生殖器官となる時まで快楽の時間を過ごせるのです。彼女達も幸せでしょう」,「在成為生殖器官之前，她們都能享受著快感。她們想必也很幸福吧」,"""They get to spend their time in pleasure until they become reproductive organs. They must be happy too.""",「생식 기관이 될 때까지 쾌락의 시간을 보낼 수 있는 겁니다. 그녀들도 행복하겠죠」
-,,,,,,
-Record.Nursery-35,クローン戦闘員,「なるほど、安心しました。では本日の観察はこれで終了ということで……」,「なるほど、安心しました。では本日の観察はこれで終了ということで……」,「原來如此，那我就放心了。那麼今天的觀察就到此結束……」,"""I see, that's reassuring. Well then, that concludes today's observation...""","「과연, 안심했습니다. 그럼 오늘의 관찰은 이걸로 종료하는 것으로……」"
-,Record nursery 3,,,,,
-Record.Nursery-36,,苗床部屋から二人のクローン戦闘員が出て行き、部屋は暗闇に包まれる,苗床部屋から二人のクローン戦闘員が出て行き、部屋は暗闇に包まれる,兩名複製人戰鬥員走出了苗床室，房間被黑暗所包圍,"The two clone soldiers left the seedbed room, and the room was enveloped in darkness.","묘상 방에서 두 명의 클론 전투원이 나가고, 방은 어둠에 휩싸인다"
-,,,,,,
-Record.Nursery-37,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」
-,,,,,,
-Record.Nursery-38,,出産が終わった聖核戦姫達はすぐに精触手によって種付けが行われる,出産が終わった聖核戦姫達はすぐに精触手によって種付けが行われる,生產結束的聖核戰姫們，立刻被精觸手進行播種,The Holy Core Battlemaidens who had finished giving birth were immediately seeded by tentacles.,출산이 끝난 성핵전희들은 즉시 정촉수에 의해 수정이 이루어진다
-,,,,,,
-Record.Nursery-39,,ズルルッ、ズチュ、ズルルッ,ズルルッ、ズチュ、ズルルッ,滑溜、噗啾、滑入,"Squelch, squish, squelch","즈르릇, 즈츗, 즈르릇"
-,,,,,,
-Record.Nursery-40,,聖核戦姫達は暗闇の中出産を繰り返し、全身が同化して完全な苗床になるまで快楽の中に囚われるのだった,聖核戦姫達は暗闇の中出産を繰り返し、全身が同化して完全な苗床になるまで快楽の中に囚われるのだった,聖核戰姫們在黑暗中不斷重複著生產，直到全身同化成完全的苗床為止，永遠囚禁在快感之中。,"The Holy Core Battlemaidens repeatedly gave birth in the darkness, trapped in pleasure until their entire bodies assimilated and became complete seedbeds.","성핵전희들은 어둠 속에서 출산을 반복하고, 온몸이 동화되어 완전한 묘상이 될 때까지 쾌락 속에 갇히는 것이었다"
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Record Akiho paizuri,注釈,明穂闇堕ち後パイズリ(実装：Chapter2ｰ3クリア後),明穂闇堕ち後パイズリ(実装：Chapter2ｰ3クリア後),,,아키호 타락 후 파이즈리 (실장: Chapter 2-3 클리어 후)
-Record.AkihoPaizuri,,【爆乳怪人明穂の淫靡な日常】,【爆乳怪人明穂の淫靡な日常】,,[Busty Fiend Akiho's Lewd Life],【폭유 괴인 아키호의 음란한 일상】
-Record.AkihoPaizuri-1,,明穂が身も心も完全に堕ち、財団の一員となった日常の一幕,明穂が身も心も完全に堕ち、財団の一員となった日常の一幕,明穗身心完全墮落，成為財團一員的日常一幕。,"A slice of life after Akiho had completely fallen in body and mind, becoming a member of the Foundation.","아키호가 몸과 마음이 완전히 타락하여, 재단의 일원이 된 일상의 한 장면"
-,Record akiho paizuri,,,,,
-Record.AkihoPaizuri-2,明穂,「ふふっ♥ど～ですか戦闘員さんっ♥爆乳怪人明穂の改造おっぱいっ♥」,「ふふっ♥ど～ですか戦闘員さんっ♥爆乳怪人明穂の改造おっぱいっ♥」,「呵呵♥怎麼樣啊戰鬥員先生♥巨乳怪人明穗的改造胸部♥」,"""Fufu♥ How is it, soldier♥ Do you like my modified breasts♥""",「후훗♥ 어~때요 전투원 씨♥ 폭유 괴인 아키호의 개조 가슴♥」
-,,,,,,
-Record.AkihoPaizuri-3,,「戦闘員さんの改造デカちんぽも簡単に包めちゃいますっ♥！」,「戦闘員さんの改造デカちんぽも簡単に包めちゃいますっ♥！」,「輕易就能包住戰鬥員先生改造的大雞巴♥！」,"""I can easily wrap around even your modified huge cock, soldier♥""",「전투원 씨의 개조 왕자지도 간단히 감쌀 수 있어요♥!」
-,,,,,,
-Record.AkihoPaizuri-4,戦闘員,「うおっ、すげえ質量と圧迫感だっ！」,「うおっ、すげえ質量と圧迫感だっ！」,「哇靠，好驚人的質量和壓迫感！」,"""Whoa, incredible mass and pressure!""","「우옷, 굉장한 질량과 압박감이다!」"
-,,,,,,
-Record.AkihoPaizuri-5,明穂,「ふふっ、戦闘員の皆さんに毎日おっぱい調教されてこんなになっちゃいましたぁ♥♥」,「ふふっ、戦闘員の皆さんに毎日おっぱい調教されてこんなになっちゃいましたぁ♥♥」,「呵呵♥，每天被戰鬥員們調教胸部，就變成這樣啦♥♥」,"""Fufu, I became like this from daily breast training by all you soldiers♥♥""","「후훗, 전투원 여러분에게 매일 가슴 조교당해서 이렇게 되어버렸어요♥♥」"
-,,,,,,
-Record.AkihoPaizuri-6,,そこにかつての純朴で朗らかな表情はなく、明穂は堕ちた妖艶な笑みを浮かべる,そこにかつての純朴で朗らかな表情はなく、明穂は堕ちた妖艶な笑みを浮かべる,她臉上已沒有過去純樸開朗的神情，明穗露出墮落後妖豔的笑容。,"Gone was her once innocent and cheerful expression, replaced by Akiho's fallen, bewitching smile.","거기에는 예전의 순박하고 명랑한 표정은 없고, 아키호는 타락한 요염한 미소를 띤다"
-,,,,,,
-Record.AkihoPaizuri-7,,「明穂のおっぱい毎日搾ってくれる皆さんのためにっ♥、今日は明穂の爆乳おっぱいでパイズリご奉仕しますっ♥」,「明穂のおっぱい毎日搾ってくれる皆さんのためにっ♥、今日は明穂の爆乳おっぱいでパイズリご奉仕しますっ♥」,「為了每天榨取明穗胸部的各位♥，今天明穗要我的用巨乳來服務大家♥」,"""For everyone who milks my breasts every day♥ Today I'll let you fuck my huge boobs♥""","「아키호 가슴 매일 짜주는 여러분을 위해♥, 오늘은 아키호의 폭유 가슴으로 파이즈리 봉사합니다♥」"
-,Record akiho paizuri２,,,,,
-Record.AkihoPaizuri-8,,そして明穂は巨大な爆乳を体全体を使って動かしてちんぽへの奉仕を始める,そして明穂は巨大な爆乳を体全体を使って動かしてちんぽへの奉仕を始める,接著明穗用整個身體帶動巨大的巨乳，開始服侍眼前的雞巴。,"Then Akiho began servicing the cock, moving her gigantic breasts with her entire body.",그리고 아키호는 거대한 폭유를 온몸을 사용해 움직여 자지에 봉사를 시작한다
-,,,,,,
-Record.AkihoPaizuri-9,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥"
-,,,,,,
-Record.AkihoPaizuri-10,戦闘員,「ぐっ、デカチチがゴムボールみたいに揺れてすげえ迫力だなっ」,「ぐっ、デカチチがゴムボールみたいに揺れてすげえ迫力だなっ」,「呃，大奶像橡膠球一樣晃動，氣勢好驚人啊」,"""Ugh, those huge tits are bouncing like rubber balls, what incredible impact!""","「크윽, 큰 젖이 고무공처럼 흔들려서 굉장한 박력이네」"
-,,,,,,
-Record.AkihoPaizuri-11,明穂,「ふふっ♥♥私はおっぱい怪人ですからっ♥、このくらい簡単ですッ♥」,「ふふっ♥♥私はおっぱい怪人ですからっ♥、このくらい簡単ですッ♥」,「呵呵♥♥我是胸部怪人嘛♥，這種程度很簡單的♥」,"""Fufu♥♥ I'm a breast fiend after all♥ This much is easy♥""","「후훗♥♥ 저는 가슴 괴인이니까요♥, 이 정도는 간단합니다♥」"
-,,,,,,
-Record.AkihoPaizuri-12,,明穂は聖核戦姫の身体能力を全てパイズリに使い、目の前のチンポをしごくことに全神経を集中させる,明穂は聖核戦姫の身体能力を全てパイズリに使い、目の前のチンポをしごくことに全神経を集中させる,明穗將聖核戰姫所有的身體能力都用在奶砲上，全神貫注於搓揉眼前的雞巴。,"Akiho used all her Holy Core Battlemaiden physical abilities for the titfuck, concentrating on stroking the cock before her.","아키호는 성핵전희의 신체 능력을 전부 파이즈리에 사용하고, 눈앞의 자지를 흔드는 것에 온 신경을 집중시킨다"
-,,,,,,
-Record.AkihoPaizuri-13,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥"
-,,,,,,
-Record.AkihoPaizuri-14,戦闘員,「っ、しかしノーハンドパイズリとは舐められたもんだなっ！」,「っ、しかしノーハンドパイズリとは舐められたもんだなっ！」,「唔，竟然是不用的奶砲，太小看人了吧！」,"""Tch, but a no-hands titfuck? You're looking down on me!""","「윽, 하지만 노핸드 파이즈리라니 얕보였군!」"
-,,,,,,
-Record.AkihoPaizuri-15,明穂,「んっ♥、んっ♥、そうじゃなくてっ♥明穂のおっぱいっ♥、大きすぎて手で持てないんですよっ♥」,「んっ♥、んっ♥、そうじゃなくてっ♥明穂のおっぱいっ♥、大きすぎて手で持てないんですよっ♥」,「嗯♥、嗯♥、不是啦♥明穗的胸部♥，太大了手抓不住啦♥」,"""Ngh♥ Ngh♥ That's not it♥ My breasts♥ They're too big to hold with my hands♥""","「응읏♥, 응읏♥, 그렇지 않아요♥ 아키호 가슴♥, 너무 커서 손으로 잡을 수가 없어요♥」"
-,,,,,,
-Record.AkihoPaizuri-16,,「でもっ♥、こんなに大きくしてくれたのは戦闘員の皆様のおかげだからっ♥」,「でもっ♥、こんなに大きくしてくれたのは戦闘員の皆様のおかげだからっ♥」,「可是♥，能長這麼大都多虧了各位戰鬥員♥」,"""But♥ It's thanks to all you soldiers that they got this big♥""","「하지만♥, 이렇게 크게 만들어준 것은 전투원 여러분 덕분이니까♥」"
-,,,,,,
-Record.AkihoPaizuri-17,,「っ♥、全力でパイズリしてご奉仕しますっ♥♥！」,「っ♥、全力でパイズリしてご奉仕しますっ♥♥！」,「唔♥，我會全力奶砲來服侍各位的♥♥！」,"""♥ I'll give you the titfuck of your life♥♥""","「윽♥, 전력으로 파이즈리해서 봉사하겠습니다♥♥!」"
-,,,,,,
-Record.AkihoPaizuri-18,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥"
-,,,,,,
-Record.AkihoPaizuri-19,戦闘員,「ぐうっ！すげえ乳圧でもう出ちまいそうだっ！」,「ぐうっ！すげえ乳圧でもう出ちまいそうだっ！」,「嗚！好強的胸部壓力，快要射出來了！」,"""Guh! The breast pressure is so intense I'm about to come!""",「크으윽! 굉장한 젖압으로 이제 싸버릴 것 같아!」
-,,,,,,
-Record.AkihoPaizuri-20,明穂,「ふふっ♥、出してくださいっ♥、戦闘員様の改造特濃ザーメンッ♥♥」,「ふふっ♥、出してくださいっ♥、戦闘員様の改造特濃ザーメンッ♥♥」,「呵呵♥，請射出來吧♥，戰鬥員大人的改造特濃精液♥♥」,"""Fufu♥ Please ♥ Your modified super-thick semen, soldier♥♥""","「후훗♥, 싸주세요♥, 전투원 님의 개조 특농 정액♥♥」"
-,,,,,,
-Record.AkihoPaizuri-21,,明穂は身体全体をくねらし、爆乳を激しく震わせて射精を促す,明穂は身体全体をくねらし、爆乳を激しく震わせて射精を促す,明穗扭動全身，猛烈地震動巨乳，催促他射精。,"Akiho writhed her entire body, shaking her huge breasts violently to encourage ejaculation.","아키호는 몸 전체를 꿈틀거리며, 폭유를 격렬하게 흔들어 사정을 재촉한다"
-,,,,,,
-Record.AkihoPaizuri-22,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥"
-,,,,,,
-Record.AkihoPaizuri-23,戦闘員,「っ、ぐうっ、出すぞ！」,「っ、ぐうっ、出すぞ！」,「唔，我要射了！」,"""Tch, guh, I'm coming!""","「윽, 크윽, 싼다!」"
-,,,,,,
-Record.AkihoPaizuri-24,明穂,「んっ♥、出してくださいっ♥明穂の顔とおっぱいにぶちまけてっ♥♥！」,「んっ♥、出してくださいっ♥明穂の顔とおっぱいにぶちまけてっ♥♥！」,「嗯♥，請射出來吧♥，噴在明穗的臉上和胸部上♥♥！」,"""Ngh♥ Please com♥ Spray it all over my face and boobs♥♥!""","「응읏♥, 싸주세요♥ 아키호 얼굴과 가슴에 뿌려줘♥♥!」"
-,,,,,,
-Record.AkihoPaizuri-25,,そして戦闘員のチンポから明穂の眼前に精液が放たれる,そして戦闘員のチンポから明穂の眼前に精液が放たれる,接著精液從戰鬥員的雞巴噴向明穗的眼前。,Then semen shot out from the soldier's cock right before Akiho's eyes.,그리고 전투원의 자지에서 아키호 눈앞에 정액이 방출된다
-,Record akiho paizuri３,,,,,
-Record.AkihoPaizuri-26,,ドプッ、ビュルルルッルッ！,ドプッ、ビュルルルッルッ！,咚噗、咻嚕嚕嚕嚕！,"Splurt, spurrrrt!","도풋, 뷰르르르릇르릇!"
-,,,,,,
-Record.AkihoPaizuri-27,明穂,「あんっ♥、ザーメンきたあっ♥♥！」,「あんっ♥、ザーメンきたあっ♥♥！」,「啊♥，精液來啦♥♥！」,"""Ahn♥ Here comes the semen♥♥!""","「아앙♥, 정액 왔다아♥♥!」"
-,,,,,,
-Record.AkihoPaizuri-28,,「ふふっ♥凄い勢いっ♥、尿道に残った精液もこうやって♥」,「ふふっ♥凄い勢いっ♥、尿道に残った精液もこうやって♥」,「呵呵♥好大的衝力♥，尿道裡剩下的精液也要這樣♥」,"""Fufu♥ Such force♥ And now, the semen left in your urethra too, like this♥""","「후훗♥ 굉장한 기세♥, 요도에 남은 정액도 이렇게♥」"
-,,,,,,
-Record.AkihoPaizuri-29,,明穂は両乳を手で押して圧力を加え、戦闘員を最後まで射精へと促す,明穂は両乳を手で押して圧力を加え、戦闘員を最後まで射精へと促す,明穗用手擠壓兩側的乳房施加壓力，催促戰鬥員射精直到最後。,"Akiho pressed both breasts with her hands to apply pressure, urging the soldier to empty his sack fully.","아키호는 양 젖을 손으로 눌러 압력을 가하고, 전투원을 마지막까지 사정하도록 재촉한다"
-,,,,,,
-Record.AkihoPaizuri-30,,「ほらっ♥、精液全部だしてくださいっ♥」,「ほらっ♥、精液全部だしてくださいっ♥」,「快♥，把精液全部射出來吧♥」,"""Come on♥ Let out all your semen♥""","「자♥, 정액 전부 싸주세요♥」"
-,,,,,,
-Record.AkihoPaizuri-31,戦闘員,「っ、ぐうっ！」,「っ、ぐうっ！」,「唔，嗚！」,"""Ugh, guuh!""","「윽, 크으윽!」"
-,Record akiho paizuri4,,,,,
-Record.AkihoPaizuri-32,,ビュクッ、ドクッ,ビュクッ、ドクッ,咻、咚,"Spurt, throb","뷰큣, 도큣"
-,,,,,,
-Record.AkihoPaizuri-33,明穂,「ふふっ♥、沢山でましたねっ♥♥ごちそうさまでしたっ♥」,「ふふっ♥、沢山でましたねっ♥♥ごちそうさまでしたっ♥」,「呵呵♥，射了很多呢♥♥謝謝款待♥」,"""Fufu♥ So much came out♥♥ Thank you for the treat♥""","「후훗♥, 많이 나왔네요♥♥ 잘 먹었습니다♥」"
-,,,,,,
-Record.AkihoPaizuri-34,,「じゃあ次は待ってる皆さん……っ♥」,「じゃあ次は待ってる皆さん……っ♥」,「那接下來是在等候的各位……呀♥」,"""Now then, for everyone waiting...♥""",「그럼 다음 기다리는 여러분……♥」
-,,,,,,
-Record.AkihoPaizuri-35,,「みんな明穂がザーメン抜いてあげますからっ♥順番に並んでくださいっ♥」,「みんな明穂がザーメン抜いてあげますからっ♥順番に並んでくださいっ♥」,「大家，明穗會幫你們榨出精液的♥請排隊吧♥」,"""Akiho will milk everyone♥ Please line up♥""",「모두 아키호가 정액 빼드릴 테니까♥ 순서대로 줄 서주세요♥」
-,,,,,,
-Record.AkihoPaizuri-36,戦闘員,「ったく、あれだけ動いてたのにすげえ体力だなっ」,「ったく、あれだけ動いてたのにすげえ体力だなっ」,「真是的，動了那麼久，體力還真驚人啊」,"""Geez, after moving that much, what incredible stamina!""","「정말, 저렇게 움직였는데 굉장한 체력이네」"
-,,,,,,
-Record.AkihoPaizuri-37,,「ふふっ♥明穂は聖核戦姫からおっぱい怪人になったのでっ♥！」,「ふふっ♥明穂は聖核戦姫からおっぱい怪人になったのでっ♥！」,「呵呵♥明穗是從聖核戰姫變成胸部怪人的♥！」,"""Fufu♥ I went from Holy Core Battlemaiden to breast fiend♥""",「후훗♥ 아키호는 성핵전희에서 가슴 괴인이 되었으니까♥!」
-,,,,,,
-Record.AkihoPaizuri-38,,「パイズリには自信がありますからっ♥♥、皆さん精液沢山絞っちゃいますっ♥」,「パイズリには自信がありますからっ♥♥、皆さん精液沢山絞っちゃいますっ♥」,「對奶砲很有自信♥♥，會把大家的精液都榨乾的♥」,"""I'm confident in my titfuck♥♥ I'll squeeze out lots of semen from everyone♥""","「파이즈리에는 자신이 있으니까요♥♥, 여러분 정액 잔뜩 짜낼게요♥」"
-,,,,,,
-Record.AkihoPaizuri-39,,明穂は胸で何人もの戦闘員を果てさせ、事後は戦闘員に母乳を搾り取られるのだった,明穂は胸で何人もの戦闘員を果てさせ、事後は戦闘員に母乳を搾り取られるのだった,明穗用胸部讓好幾位戰鬥員射到高潮，事後胸部裡的母乳則被戰鬥員搾取出來。,"Akiho made many soldiers climax with her breasts, and afterwards the soldiers milked her breast milk.","아키호는 가슴으로 여러 명의 전투원을 절정 시키고, 일이 끝난 후에는 전투원에게 모유를 짜이는 것이었다"
-,,,,,,
-Record Akiho ＆　Rikka,注釈,エンドコンテンツ明穂＆六花,エンドコンテンツ明穂＆六花,,,엔드 콘텐츠 아키호＆릿카
-Record.Final,,【最後の二人の聖核戦姫】,【最後の二人の聖核戦姫】,,[The Last Two Holy Core Battlemaidens],【마지막 두 명의 성핵전희】
-Record.Final-1,,聖核戦姫が敗北し、生徒会が完全に制圧してからしばらくして,聖核戦姫が敗北し、レギオンが完全に陥落してからしばらくして,聖核戰姫戰敗，聖核軍團完全陷落後過了一段時間。,Some time after the Holy Core Battlemaidens were defeated and the Legion completely fell...,"성핵전희가 패배하고, 레기온이 완전히 함락된 후 얼마 지나지 않아"
-,背景　街中の横断歩道,,,,,
-Record.Final-2,戦闘員,「オラオラオラッ！」,「オラオラオラッ！」,「喂！喂！喂！」,"""Ora ora ora!""",「자자자!」
-,,,,,,
-Record.Final-3,,街中で財団の戦闘員が暴れまわる,街中で財団の戦闘員が暴れまわる,財團的戰鬥員在街上橫行霸道。,Foundation soldiers rampaged through the city.,거리에서 재단의 전투원이 날뛰고 있다
-,,,,,,
-Record.Final-4,戦闘員,「ははっ、もう聖核戦姫はいねえからなっ、好きに暴れさせてもらうぜっ！」,「ははっ、もう聖核戦姫はいねえからなっ、好きに暴れさせてもらうぜっ！」,「哈哈，聖核戰姫已經沒啦，讓我們盡情地搗亂吧！」,"""Haha, there are no more Holy Core Battlemaidens, so we can do whatever we want!""","「하핫, 이제 성핵전희는 없으니까! 마음껏 날뛰게 해주마!」"
-,,,,,,
-Record.Final-5,,その時戦闘員の前に二人の少女が現れる,その時戦闘員の前に二人の少女が現れる,這時，兩名少女出現在戰鬥員面前。,Two girls appeared before the soldiers.,그때 전투원 앞에 두 명의 소녀가 나타난다
-,,,,,,
-Record.Final-6,明穂,「フォーレン財団の戦闘員ッ！そこまでよっ！」,「フォーレン財団の戦闘員ッ！そこまでよっ！」,「福倫財團的戰鬥員！到此為止！」,"""Forren Foundation soldiers! That's enough!""",「폴른 재단의 전투원! 거기까지야!」
-,,,,,,
-Record.Final-7,六花,「街中での破壊行為……私達が許さない！」,「街中での破壊行為……私達が許さない！」,「在街上破壞的行為……我們絕不容許！」,"""Destruction in the city... We won't allow it!""",「거리에서의 파괴 행위…… 우리들이 용서하지 않아!」
-,,,,,,
-Record.Final-8,戦闘員,「ああ？なんだぁ？聖核戦姫は全員負けて捕らえられたはずだが？」,「ああ？なんだぁ？聖核戦姫は全員負けて捕らえられたはずだが？」,「啊？搞什麼？聖核戰姫應該全都輸了被抓起來才對啊？」,"""Huh? What's this? All the Holy Core Battlemaidens should have been defeated and captured?""",「아아? 뭐야? 성핵전희는 전원 패배해서 잡혔을 텐데?」
-,,,,,,
-Record.Final-9,明穂,「っ、聖核戦姫は…負けないからっ！」,「っ、聖核戦姫は…負けないからっ！」,「唔，聖核戰姫是…不會輸的！」,"""Holy Core Battlemaidens... don't lose!""","「윽, 성핵전희는… 지지 않으니까!」"
-,,,,,,
-Record.Final-10,六花,「そう……私達は絶対諦めない！」,「そう……私達は絶対諦めない！」,「沒錯……我們絕不放棄！」,"""That's right... We'll never give up!""",「그래…… 우리는 절대 포기하지 않아!」
-,,,,,,
-Record.Final-11,戦闘員,「何を言ってるのか分からねえが…いいぜ、相手してやるよ」,「何を言ってるのか分からねえが…いいぜ、相手してやるよ」,「不知道妳們在說什麼，算了，我就陪妳們玩玩吧。」,"""I don't know what you're talking about... but fine, we'll take you on.""","「무슨 말 하는지 모르겠지만… 좋아, 상대해주지」"
-,,,,,,
-Record.Final-12,明穂,「っ、手加減しないからっ！」,「っ、手加減しないからっ！」,「唔，我可不會手下留情！」,"""We won't hold back!""","「윽, 봐주지 않을 거야!」"
-,,,,,,
-Record.Final-13,六花,「ただの戦闘員が聖核戦姫に勝てるわけがない！行くよッ！」,「ただの戦闘員が聖核戦姫に勝てるわけがない！行くよッ！」,「區區戰鬥員怎麼可能贏過聖核戰姫！上！」,"""Mere soldiers could never beat Holy Core Battlemaidens! Let's go!""",「단순한 전투원이 성핵전희에게 이길 수 있을 리 없어! 간다!」
-,,,,,,
-Record.Final-14,,―――――1分後,―――――1分後,―――――一分鐘後,...One minute later,―――――1분 후
-,Record akiho＆rikka1,,,,,
-Record.Final-15,,明穂と六花はあっさりと戦闘員に敗北し、捕らえられていた,明穂と六花はあっさりと戦闘員に敗北し、捕らえられていた,明穗和六花輕易地敗給戰鬥員，被抓了起來。,Akiho and Rikka were easily defeated by the soldiers and captured.,"아키호와 릿카는 간단히 전투원에게 패배하여, 붙잡혀 있었다"
-,,,,,,
-Record.Final-16,明穂,「ちょ、ちょっと六花！なんでこんな簡単に負けてるのっ！？」,「ちょ、ちょっと六花！なんでこんな簡単に負けてるのっ！？」,「喂、喂六花！為什麼會這麼簡單就輸了！」,"""W-wait, Rikka! Why did we lose so easily?!""","「저, 잠깐 릿카! 왜 이렇게 간단히 지는 거야!?」"
-,,,,,,
-Record.Final-17,六花,「っ、明穂こそっ！ほとんど戦ってないし抵抗してなかった！」,「っ、明穂こそっ！ほとんど戦ってないし抵抗してなかった！」,「唔，明穗妳才是！幾乎沒戰鬥也沒抵抗！」,"""You're the one, Akiho! You barely fought or resisted!""","「윽, 아키호야말로! 거의 싸우지도 않고 저항도 안 했잖아!」"
-,,,,,,
-Record.Final-18,明穂,「そんなこと言ったって…六花早く何とかして！」,「そんなこと言ったって…六花早く何とかして！」,「話是這麼說…六花快想辦法！」,"""Even if you say that... Rikka, hurry and do something!""",「그런 말 해도… 릿카 빨리 어떻게 좀 해봐!」
-,,,,,,
-Record.Final-19,六花,「何とかって…もうこうなったら私でも……」,「何とかって…もうこうなったら私でも……」,「想辦法…事到如今連我也……」,"""Do something... At this point, even I can't...""",「어떻게든이라니… 이제 이렇게 되면 나라도……」
-,,,,,,
-Record.Final-20,戦闘員,「ははっ、何かと思ったらクソ弱いじゃねえか、一体何しに出てきたんだ？」,「ははっ、何かと思ったらクソ弱いじゃねえか、一体何しに出てきたんだ？」,「哈哈，本以為是什麼狠角色，結果這麼弱啊，到底是出來幹什麼的？」,"""Haha, I thought you were something special but you're weak as hell. What did you even come out here for?""","「하핫, 뭔가 했더니 엄청 약하잖아, 대체 뭘 하러 나온 거야?」"
-,,,,,,
-Record.Final-21,明穂,「っ、馬鹿にして……」,「っ、馬鹿にして……」,「唔，竟然把我當成笨蛋……」,"""Don't mock us...""","「윽, 바보 취급하지 마……」"
-,,,,,,
-Record.Final-22,六花,「っ、聖核戦姫は絶対に諦めないっ！」,「っ、聖核戦姫は絶対に諦めないっ！」,「唔，聖核戰姫是絕對不會放棄的！」,"""Holy Core Battlemaidens never give up!""","「윽, 성핵전희는 절대로 포기하지 않아!」"
-,,,,,,
-Record.Final-23,戦闘員,「それとも……お前らコレが欲しくてノコノコ出てきたんじゃねえか？」,「それとも……お前らコレが欲しくてノコノコ出てきたんじゃねえか？」,「還是說…妳們是想要這個才特地跑出來的？」,"""Or maybe... you came crawling out here because you wanted this?""",「아니면…… 너희들 이게 갖고 싶어서 뽈뽈 나온 거 아니야?」
-,Record akiho＆rikka２,,,,,
-Record.Final-24,,そう言うと戦闘員はスーツから男根を取り出し、二人に見せつける,そう言うと戦闘員はスーツから男根を取り出し、二人に見せつける,戰鬥員說著，從制服裡掏出陰莖，向兩人展示。,"Saying that, the soldier whipped out his manhood from his suit and showed it to the duo.","그렇게 말하며 전투원은 슈트에서 남근을 꺼내, 두 사람에게 보여준다"
-,,,,,,
-Record.Final-25,明穂,「…………っ♥！！」,「…………っ♥！！」,「…………唔♥！！」,"""......♥!!""",「…………윽♥!!」
-,,,,,,
-Record.Final-26,六花,「……っ♥♥！！！」,「……っ♥♥！！！」,「……唔♥♥！！！」,"""...♥♥!!!""",「……윽♥♥!!!」
-,,,,,,
-Record.Final-27,戦闘員,「お？、そんなに見つめやがって、図星みてえだなぁ？」,「お？、そんなに見つめやがって、図星みてえだなぁ？」,「哦？這樣盯著看，看來被我說中了呢？」,"""Oh? Staring at it that much, looks like I hit the mark?""","「오?, 그렇게 쳐다보다니, 정곡을 찔렀나?」"
-,,,,,,
-Record.Final-28,明穂,「っ、六花何とかしてっ♥、じゃないと私達戦闘員の極太チンポハメられちゃう……！」,「っ、六花何とかしてっ♥、じゃないと私達戦闘員の極太チンポハメられちゃう……！」,「唔，六花想辦法啊♥，不然我們就要被戰鬥員的粗大雞巴插進去了……！」,"""Rikka, do something♥ Otherwise we'll get fucked by the soldier's thick cock...!""","「윽, 릿카 어떻게 좀 해봐♥, 안 그러면 우리 전투원의 왕자지에 박혀버렷……!」"
-,,,,,,
-Record.Final-29,六花,「それなら明穂も見てないで少しは抵抗してよっ♥期待してるみたいじゃんっ♥」,「それなら明穂も見てないで少しは抵抗してよっ♥期待してるみたいじゃんっ♥」,「那明穗妳也別光看著抵抗一下啊♥看起來妳很期待嘛♥」,"""Then Akiho, stop staring and resist a little♥ You look like you're expecting it♥""",「그렇다면 아키호도 보고만 있지 말고 조금은 저항해♥ 기대하는 것 같잖아♥」
-,,,,,,
-Record.Final-30,戦闘員,「ははっ、待ちきれないみたいだなっ、じゃあ期待に応えてやるよっ！」,「ははっ、待ちきれないみたいだなっ、じゃあ期待に応えてやるよっ！」,「哈哈，看來等不及了呢，那就滿足妳們的期待吧！」,"""Haha, looks like you can't wait, so I'll meet your expectations!""","「하핫, 기다릴 수 없는 모양이네, 그럼 기대에 부응해주지!」"
-,,,,,,
-Record.Final-31,Record akiho＆rikka3,ズボッッ！！,ズボッッ！！,滋！！,Thrust!,즈봇!!
-,,,,,,
-Record.Final-32,明穂＆六花,「「ひあっ♥、チンポきたあッ～～～～ッ♥♥！」」,「「ひあっ♥、チンポきたあッ～～～～ッ♥♥！」」,「呀♥，雞巴來了啊～～～～♥！」,"""Hyaa♥ Here comes the cock♥""","「「히앗♥, 자지 왔다앗~~~~~읏♥♥!」」"
-,,,,,,
-Record.Final-33,,チンポが挿入されると同時に明穂と六花から嬌声が上がる,チンポが挿入されると同時に明穂と六花から嬌声が上がる,雞巴插入的同時，明穗和六花發出嬌聲。,Cries of pleasure rose from Akiho and Rikka the moment the cock was inserted.,자지가 삽입됨과 동시에 아키호와 릿카에게서 교성이 터져 나온다
-,Record akiho＆rikka４,,,,,
-Record.Final-34,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!
-,,,,,,
-Record.Final-35,明穂,「お゛っ♥、お゛っ♥、お゛っ♥、戦闘員の極太チンポっ♥、やばいっ♥♥♥！」,「お゛っ♥、お゛っ♥、お゛っ♥、戦闘員の極太チンポっ♥、やばいっ♥♥♥！」,「喔♥，喔♥，喔♥，戰鬥員的粗大雞巴♥，太棒了♥♥♥！」,"""Oh♥ Oh♥ Oh♥ The soldier's thick cock♥ It's too much♥♥♥!""","「오옷 옷♥, 오옷 옷♥, 오옷 옷♥, 전투원의 왕자지♥, 위험해♥♥♥!」"
-,,,,,,
-Record.Final-36,六花,「おまんこっ、深い所までっ♥、えぐれてるっ♥」,「おまんこっ、深い所までっ♥、えぐれてるっ♥」,「小穴，被插到深處♥，好用力地挖♥」,"""My pussy, so deep♥ It's being gouged out♥""","「보지♥, 깊은 곳까지♥, 파고들어와♥」"
-,,,,,,
-Record.Final-37,戦闘員,「やっぱりわざわざオナホになりに来たんじゃねえか！この淫乱女共がっ！」,「やっぱりわざわざオナホになりに来たんじゃねえか！この淫乱女共がっ！」,「果然是特地跑來當自慰套的嘛！這群淫亂女人！」,"""So you did come here just to become sex toys! You sluts!""",「역시 일부러 오나홀 되러 온 거 아니야! 이 음란한 년들이!」
-,,,,,,
-Record.Final-38,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!
-,,,,,,
-Record.Final-39,明穂,「んお゛っ♥、ちっ、違うのっ、たとえ勝てなくても立ち向かうのが聖核戦姫なのっ♥♥」,「んお゛っ♥、ちっ、違うのっ、たとえ勝てなくても立ち向かうのが聖核戦姫なのっ♥♥」,「嗯喔♥，才、才不是♥，就算贏不了，也要挺身而出才是聖核戰姫啊♥♥」,"""Noh♥ N-no, that's not it, Holy Core Battlemaidens face challenges even if we can't win♥♥""","「응오옷 옷♥, 다, 달라, 설령 이길 수 없어도 맞서는 것이 성핵전희야♥♥」"
-,,,,,,
-Record.Final-40,六花,「そうっ♥、たとえ即負け即ハメでもっ♥、心はまだ負けてないからっ♥！」,「そうっ♥、たとえ即負け即ハメでもっ♥、心はまだ負けてないからっ♥！」,「沒錯♥，就算立刻輸了立刻被插♥，內心也還沒輸♥！」,"""That's right♥ Even if we instantly lose and get fucked♥ Our hearts haven't lost yet♥!""","「그래♥, 설령 즉시 패배 즉시 박혀도♥, 마음은 아직 지지 않았으니까♥!」"
-,,,,,,
-Record.Final-41,明穂,「お゛っ♥、お゛っ♥、ん゛っ♥、聖核戦姫をっ♥ナメないでっ♥！」,「お゛っ♥、お゛っ♥、ん゛っ♥、聖核戦姫をっ♥ナメないでっ♥！」,「喔♥，喔♥，嗯♥，別小看聖核戰姫♥！」,"""Oh♥ Oh♥ Ngh♥ Don't underestimate♥ Holy Core Battlemaidens♥!""","「오옷 옷♥, 오옷 웃♥, 응읏♥, 성핵전희를♥ 얕보지 마♥!」"
-,,,,,,
-Record.Final-42,六花,「敗北レイプされてもっ♥、最後に勝つのは私達っ♥！」,「敗北レイプされてもっ♥、最後に勝つのは私達っ♥！」,「就算被戰敗強姦♥，最後勝利的還是我們♥！」,"""Even if we're violated during defeat♥ We'll win in the end♥!""","「패배 강간당해도♥, 마지막에 이기는 건 우리야♥!」"
-,,,,,,
-Record.Final-43,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!
-,,,,,,
-Record.Final-44,戦闘員,「ははっ、雑魚のくせに口先だけはいっちょ前だなっ！」,「ははっ、雑魚のくせに口先だけはいっちょ前だなっ！」,「哈哈，區區雜魚嘴皮子倒是挺厲害的嘛！」,"""Haha, for small fry, you sure talk big!""","「하핫, 잡것 주제에 말만 번지르르하네!」"
-,,,,,,
-Record.Final-45,明穂,「お゛っ♥、お゛うっ♥、んっ♥イクッ♥♥」,「お゛っ♥、お゛うっ♥、んっ♥イクッ♥♥」,「喔♥，喔♥，嗯♥要高潮了♥♥」,"""Oh♥ Ohh♥ Ngh♥ I'm coming♥♥""","「오옷 옷♥, 오옷 웃♥, 응읏♥ 가버렷♥♥」"
-,,,,,,
-Record.Final-46,六花,「お゛っ♥、戦闘員チンポッ、強すぎるっ♥」,「お゛っ♥、戦闘員チンポッ、強すぎるっ♥」,「喔♥，戰鬥員雞巴♥，太強了♥」,"""Oh♥ A soldier's cock... Too strong♥""","「오옷 옷♥, 전투원 자지♥, 너무 강해♥」"
-,,,,,,
-Record.Final-47,明穂,「お゛っ♥、六花っ、このままだと私達っ♥おまんこに中出しされちゃうよっ♥」,「お゛っ♥、六花っ、このままだと私達っ♥おまんこに中出しされちゃうよっ♥」,「喔♥，六花♥，這樣下去我們會被中出到小穴裡喔♥」,"""Oh♥ Rikka, at this rate we'll♥ get creampied♥""","「오옷 옷♥, 릿카, 이대로는 우리♥ 보지에 안에 싸게 될 거야♥」"
-,,,,,,
-Record.Final-48,六花,「んっ♥、わかってるっ♥、でもっ♥、チンポから逃げられないッ♥」,「んっ♥、わかってるっ♥、でもっ♥、チンポから逃げられないッ♥」,「嗯♥，我知道♥，但♥，逃不開雞巴了！」,"""Ngh♥ I know♥ But♥ I can't escape from the cock♥""","「응읏♥, 알고 있어♥, 하지만♥, 자지로부터 도망칠 수 없어♥」"
-,,,,,,
-Record.Final-49,,二人の聖核戦姫にはもはや抵抗する気力は残っていなかった,二人の聖核戦姫にはもはや抵抗する気力は残っていなかった,兩位聖核戰姫已沒有抵抗的力氣。,The two Holy Core Battlemaidens no longer had any willpower left to resist.,두 명의 성핵전희에게는 이제 저항할 기력은 남아 있지 않았다
-,,,,,,
-Record.Final-50,戦闘員,「あ？聖核戦姫は負けねえんじゃなかったのか？」,「あ？聖核戦姫は負けねえんじゃなかったのか？」,「啊？聖核戰姫不是不會輸的嗎？」,"""Huh? I thought Holy Core Battlemaidens never lose?""",「아? 성핵전희는 지지 않는다며?」
-,,,,,,
-Record.Final-51,,そう言うと戦闘員は更に腰の動きを激しくし、二人をオナホのように使っていく,そう言うと戦闘員は更に腰の動きを激しくし、二人をオナホのように使っていく,戰鬥員說著，腰部的動作更猛烈，將兩人當作自慰套使用。,"Saying that, the soldier moved his hips even more intensely, using the two like sex toys.","그렇게 말하며 전투원은 더욱 허리 움직임을 격렬하게 하여, 두 사람을 오나홀처럼 사용해간다"
-,,,,,,
-Record.Final-52,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!
-,,,,,,
-Record.Final-53,明穂,「お゛っ♥、お゛っ♥、お゛おっ～～♥♥イクッ♥」,「お゛っ♥、お゛っ♥、お゛おっ～～♥♥イクッ♥」,「喔♥，喔♥，喔喔～～♥♥要高潮了♥」,"""Oh♥ Oh♥ Ohhh♥♥ I'm coming♥""","「오옷 옷♥, 오옷 옷♥, 오옷 오옷~~♥♥ 가버렷♥」"
-,,,,,,
-Record.Final-54,六花,「私達はっ♥、お゛っ♥、絶対負けないっ♥！」,「私達はっ♥、お゛っ♥、絶対負けないっ♥！」,「我們♥，喔♥，絕對不會輸的♥！」,"""We'll♥ Oh♥ Never lose♥!""","「우리는♥, 오옷 옷♥, 절대 지지 않아♥!」"
-,,,,,,
-Record.Final-55,戦闘員,「はっ、そろそろ出してやるっ、これで終わりだっ！」,「はっ、そろそろ出してやるっ、これで終わりだっ！」,「哈，差不多該射了，就到此為止吧！」,"""Ha, I'm gonna cum soon, this is the end!""","「핫, 슬슬 싸주마, 이걸로 끝이다!」"
-,,,,,,
-Record.Final-56,明穂,「お゛っ♥、ま、負けないッ、聖核戦姫はチンポなんかにっ♥」,「お゛っ♥、ま、負けないッ、聖核戦姫はチンポなんかにっ♥」,「喔♥，不、不會輸的，聖核戰姫才不會輸給雞巴♥」,"""Oh♥ W-we won't lose, a cock is not going to defeat us Holy Core Battlemaidens♥""","「오옷 옷♥, 자, 지지 않아, 성핵전희는 자지 따위에♥」"
-,,,,,,
-Record.Final-57,六花,「そうっ♥、私達はっ♥、絶対に諦めないのっ♥」,「そうっ♥、私達はっ♥、絶対に諦めないのっ♥」,「沒錯♥，我們♥，絕不放棄的♥」,"""That's right♥ We'll♥ Never give up♥""","「그래♥, 우리는♥, 절대로 포기하지 않아♥」"
-,Record akiho＆rikka5,,,,,
-Record.Final-58,,ビュルルルッルッ！！ドクッ！！,ビュルルルッルッ！！ドクッ！！,咻嚕嚕嚕嚕！！咚！！,Spurrrrrt!! Throb!!,뷰르르르릇르릇!! 도큣!!
-,,,,,,
-Record.Final-59,明穂,「お゛おっ♥、おまんこにっ♥、出されてるっ♥！！」,「お゛おっ♥、おまんこにっ♥、出されてるっ♥！！」,「喔喔♥，被射到小穴裡了♥！！」,"""Ohh♥ In my pussy♥ He's coming inside me♥""","「오옷 오옷♥, 보지에♥, 싸고 있어♥!!」"
-,,,,,,
-Record.Final-60,六花,「お゛ほっ♥、んっ♥、中出しでっ♥、子宮があっ♥♥！」,「お゛ほっ♥、んっ♥、中出しでっ♥、子宮があっ♥♥！」,「喔呵♥，嗯♥，被中出♥，子宮啊♥♥！」,"""Ohho♥ Ngh♥ The creampie♥ My womb♥""","「오옷 홋♥, 응읏♥, 안에 싸서♥, 자궁이앗♥♥!」"
-,,,,,,
-Record.Final-61,戦闘員,「おらっ、さっさと負けを認めろオナホ共っ！聖核戦姫はすべからくオナホなんだよっ！」,「おらっ、さっさと負けを認めろオナホ共っ！聖核戦姫はすべからくオナホなんだよっ！」,「喂，快點認輸啊妳們自慰套！所有聖核戰姫都是自慰套啊！」,"""Come on, hurry up and admit defeat, sex toys! All Holy Core Battlemaidens are nothing but sex toys!""","「자!, 빨리 패배를 인정해라 오나홀들아! 성핵전희는 모조리 오나홀이야!」"
-,,,,,,
-Record.Final-62,明穂,「お゛っ♥、まけっ、負けましたっ！、チンポに負けましたっ♥♥♥」,「お゛っ♥、まけっ、負けましたっ！、チンポに負けましたっ♥♥♥」,「喔♥，輸、輸了！輸給雞巴了♥♥♥」,"""Oh♥ we lost, we lost! Your cock won♥♥♥""","「오옷 옷♥, 졌, 졌습니다!, 자지에 졌습니다♥♥♥」"
-,,,,,,
-Record.Final-63,六花,「お゛っ♥、私も負けっ♥♥、こんなの勝てるわけないぃっ♥！」,「お゛っ♥、私も負けっ♥♥、こんなの勝てるわけないぃっ♥！」,「喔♥，我也輸了♥♥，這根本贏不了啊♥！」,"""Oh♥ I lost too♥♥ There's no way we could win against this♥!""","「오옷 옷♥, 저도 패배♥♥, 이런 거 이길 리 없어잇♥!」"
-,,,,,,
-Record.Final-64,,ドクッ、ドクッ！,ドクッ、ドクッ！,咚、咚！,"Throb, throb!","도큣, 도큣!"
-,,,,,,
-Record.Final-65,明穂,「私は聖核戦姫じゃなくてただのメスオナホでしたっ♥♥、もっと射精してくださいっ♥」,「私は聖核戦姫じゃなくてただのメスオナホでしたっ♥♥、もっと射精してくださいっ♥」,「我不是聖核戰姫只是母自慰套♥♥，請再多射一點♥」,"""I'm not a Holy Core Battlemaiden, just a female sex toy♥♥ Please come more♥""","「저는 성핵전희가 아니라 그냥 암컷 오나홀이었어요♥♥, 더 사정해주세요♥」"
-,,,,,,
-Record.Final-66,六花,「お゛っ♥、私もっ♥、完全敗北ですっ♥、好きにお使いくださいっ♥♥！」,「お゛っ♥、私もっ♥、完全敗北ですっ♥、好きにお使いくださいっ♥♥！」,「喔♥，我也是♥，徹底敗北了♥，請隨意使用♥♥！」,"""Oh♥ Me too♥ Complete defeat♥ Please use me however you like♥♥!""","「오옷 옷♥, 저도♥, 완전 패배입니다♥, 마음껏 사용해주세요♥♥!」"
-,Record akiho＆rikka６,,,,,
-Record.Final-67,戦闘員,「ははっ、簡単に堕ちやがったな、これでいっちょ上がりだ」,「ははっ、簡単に堕ちやがったな、これでいっちょ上がりだ」,「哈哈，這麼簡單就墮落了，這就搞定了。」,"""Haha, you fell so easily, that's a wrap.""","「하핫, 간단히 타락했군, 이걸로 한 건 끝이다」"
-,,,,,,
-Record.Final-68,明穂,「んっ♥、そうですっ♥、負けですっ♥♥♥」,「んっ♥、そうですっ♥、負けですっ♥♥♥」,「嗯♥，對啊♥，輸了♥♥♥」,"""Ngh♥ That's right♥ We lost♥♥♥""","「응읏♥, 그렇습니다♥, 패배입니다♥♥♥」"
-,,,,,,
-Record.Final-69,六花,「私達っ♥♥、一生オナホとしてご奉仕しますっ♥♥」,「私達っ♥♥、一生オナホとしてご奉仕しますっ♥♥」,「我們♥♥，會一輩子作為自慰套服侍的♥♥」,"""We'll♥♥ Serve as sex toys for life♥♥""","「우리들♥♥, 평생 오나홀로서 봉사하겠습니다♥♥」"
-,,,,,,
-Record.Final-70,戦闘員,「まあいい、茶番は終わりだ。周りにも聖核戦姫が終わったってことは伝わっただろ」,「まあいい、茶番は終わりだ。周りにも聖核戦姫が終わったってことは伝わっただろ」,「算了，鬧劇結束。周圍的人也知道聖核戰姫完蛋了吧。」,"""Well, whatever, the charade is over. Everyone around should know the Holy Core Battlemaidens are finished.""","「뭐 됐어, 촌극은 끝이다. 주변에도 성핵전희가 끝났다는 건 전해졌겠지」"
-,,,,,,
-Record.Final-71,戦闘員,「撤収するぞ、アジトに帰ったらまたチンポハメてやる」,「撤収するぞ、アジトに帰ったらまたチンポハメてやる」,「撤退，回到基地再插妳們雞巴。」,"""We're withdrawing. When we get back to the hideout, I'll fuck you again.""","「철수한다, 아지트에 돌아가면 또 자지 박아주지」"
-,,,,,,
-Record.Final-72,明穂＆六花,「「あっ♥、ありがとうございますうっ♥♥♥」」,「「あっ♥、ありがとうございますうっ♥♥♥」」,「啊♥，謝謝您們♥♥♥」,"""Ah♥ Thank you so much♥♥♥""","「「앗♥, 감사합니다아♥♥♥」」"
-,,,,,,
-Record.Final-73,,その二人の表情には既戦士としての面影はなく、チンポへの媚びと期待しかない,その二人の表情には既戦士としての面影はなく、チンポへの媚びと期待しかない,兩人臉上已沒有戰士的身影，只有對雞巴的諂媚和期待。,"Their expressions no longer showed any trace of being warriors, only fawning and anticipation for cocks.","그 두 사람의 표정에는 이미 전사로서의 모습은 없고, 자지에 대한 아양과 기대뿐이다"
-,,,,,,
-Record.Final-74,明穂,「嬉しいですっ♥、もっとチンポ欲しいっ♥♥」,「嬉しいですっ♥、もっとチンポ欲しいっ♥♥」,「好開心♥，還想要更多雞巴♥♥」,"""I'm so happy♥ I want more cock♥♥""","「기뻐요♥, 더 자지 원해요♥♥」"
-,,,,,,
-Record.Final-75,六花,「負けて良かったっ♥、聖核戦姫やめて良かったっ♥♥」,「負けて良かったっ♥、聖核戦姫やめて良かったっ♥♥」,「輸了真好♥，不當聖核戰姫真好♥♥」,"""I'm glad we lost♥ I'm glad I quit being a Holy Core Battlemaiden♥♥""","「져서 다행이야♥, 성핵전희 그만두길 잘했어♥♥」"
-,,,,,,
-Record.Final-76,明穂＆六花,「「私達っ♥♥、皆様のオナホとして頑張りますっ♥♥」」,「「私達っ♥♥、皆様のオナホとして頑張りますっ♥♥」」,「我們♥♥，會努力作為大家的自慰套的♥♥」,"""We'll♥♥ Do our best as everyone's sex toys♥♥""","「「우리들♥♥, 여러분의 오나홀로서 힘내겠습니다♥♥」」"
-,,,,,,
-Record Kei,注釈,エンドコンテンツ　京　,エンドコンテンツ　京　,,,엔드 콘텐츠　케이
-Record.Kei,,【小悪魔の日常】,【小悪魔の日常】,,[The Little Devil's Life],【소악마의 일상】
-,アジト,,,,,
-Record.Kei-1,,財団アジトにて,財団アジトにて,財團基地裡,At the Foundation hideout,재단 아지트에서
-,,,,,,
-Record.Kei-2,京(闇落ち),「那由多を堕とした怪人……？」,「那由多を堕とした怪人……？」,「成功將那由多墮落的怪人……？」,"""The fiend who corrupted Nayuta...?""",「나유타를 타락시킨 괴인……?」
-,,,,,,
-Record.Kei-3,,「へえ、あの生徒会長をたった一人で堕とした怪人か…興味深いね」,「へえ、あの総司令をたった一人で堕とした怪人か…興味深いね」,「嘿，竟然是單憑一個人就讓那位總司令墮落的怪人嗎…有意思呢。」,"""Wow, the fiend who corrupted that Commander all by itself... How interesting.""","「헤에, 그 총사령관을 단신으로 타락시킨 괴인인가… 흥미롭네」"
-,,,,,,
-Record.Kei-4,,京は妖艶な笑みを浮かべちょろっと舌を出す,京は妖艶な笑みを浮かべちょろっと舌を出す,京露出妖豔的笑容，輕輕吐出舌頭。,Kei showed a bewitching smile and stuck out her tongue slightly.,케이는 요염한 미소를 띠며 살짝 혀를 내민다
-,,,,,,
-Record.Kei-5,京(闇落ち),「ふふっ♥最近戦闘員達のチンポで遊ぶのも飽きて来たんだよね」,「ふふっ♥最近戦闘員達のチンポで遊ぶのも飽きて来たんだよね」,「呵呵♥最近玩戰鬥員們的雞巴也玩膩了呢。」,"""Fufu♥ I've been getting bored playing with the soldiers lately.""",「후훗♥ 요즘 전투원들 자지로 노는 것도 질렸거든」
-,,,,,,
-Record.Kei-6,,「どれほどのものか分からないが…私をどれだけ満足させられるかな…？」,「どれほどのものか分からないが…私をどれだけ満足させられるかな…？」,「不知道有多厲害…能讓我滿足到什麼程度呢…？」,"""I don't know how good you are... but I wonder how much you can satisfy me...?""",「어느 정도일지 모르겠지만… 나를 얼마나 만족시킬 수 있을까…?」
-,暗転,,,,,
-,Record Kei 1,,,,,
-Record.Kei-7,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!
-,,,,,,
-Record.Kei-8,怪人,「どうした？随分と余裕が無さそうだが？」,「どうした？随分と余裕が無さそうだが？」,「怎麼了？你看來很沒餘裕啊？」,"""What's wrong? You don't seem so confident anymore?""",「왜 그러나? 상당히 여유가 없어 보이는데?」
-,,,,,,
-Record.Kei-9,京,「お゛っ♥、お゛っ♥、お゛っ♥、お゛おっ♥！？」,「お゛っ♥、お゛っ♥、お゛っ♥、お゛おっ♥！？」,「喔♥、喔♥、喔♥、喔喔♥！？」,"""Oh♥ Oh♥ Oh♥ Ohh♥?!""","「오옷 옷♥, 오옷 옷♥, 오옷 옷♥, 오옷 오옷♥!?」"
-,,,,,,
-Record.Kei-10,,京は小柄な体を巨大な怪人に捕まれ、無理やり膣でチンポを扱かれていた,京は小柄な体を巨大な怪人に捕まれ、無理やり膣でチンポを扱かれていた,京嬌小的身體被巨大的怪人抓住，陰道被強行用雞巴對待。,Kei's small body was grabbed by the giant fiend and forcibly used.,"케이는 작은 몸을 거대한 괴인에게 붙잡혀, 억지로 질로 자지를 흔들리고 있었다"
-,,,,,,
-Record.Kei-11,京,「お゛っ♥、お゛おっ♥、こんなのっ♥♥テクニック以前の問題っ♥♥♥」,「お゛っ♥、お゛おっ♥、こんなのっ♥♥テクニック以前の問題っ♥♥♥」,「喔♥、喔喔♥、這種根本是技術以前的問題♥♥♥」,"""Oh♥ Ohh♥ This is♥♥ Beyond technique♥♥♥""","「오옷 옷♥, 오옷 오옷♥, 이런 건♥♥ 테크닉 이전의 문제♥♥♥」"
-,Record Kei 2,,,,,
-Record.Kei-12,,「チンポデカすぎてっ♥♥♥、逝くッ♥♥♥、ハメ死んじゃうううぅぅッ♥♥♥」,「チンポデカすぎてっ♥♥♥、逝くッ♥♥♥、ハメ死んじゃうううぅぅッ♥♥♥」,「雞巴太大了♥♥♥，要高潮了♥♥♥，會被插死的啊啊啊啊♥♥♥」,"""It's too big♥♥♥ I'm coming♥♥♥ I'm going to die♥♥♥""","「자지 너무 커서♥♥♥, 가버렷♥♥♥, 박혀 죽어버려어어어엇♥♥♥」"
-,,,,,,
-Record.Kei-13,,「きゅうけいっ♥、抜いてッ♥♥、抜いてくださいっ♥♥！！」,「きゅうけいっ♥、抜いてッ♥♥、抜いてくださいっ♥♥！！」,「休息♥、拔出來♥♥、請拔出來♥♥！！」,"""Time for a break♥ Pull out♥♥ Please pull out♥♥!!""","「휴식♥, 빼줘♥♥, 빼주세요♥♥!!」"
-,,,,,,
-Record.Kei-14,怪人,「そうはいかんな。一回始めた以上最期まで付き合ってもらおう」,「そうはいかんな。一回始めた以上最期まで付き合ってもらおう」,「可不行呢。既然開始了，就陪我到底吧。」,"""I can't do that. Since we've started, you'll accompany me to the end.""",「그럴 수는 없지. 한 번 시작한 이상 마지막까지 함께 해줘야겠어」
-,Record Kei 3,,,,,
-Record.Kei-15,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!
-,,,,,,
-Record.Kei-16,京,「お゛っ♥、お゛っ♥、ま、まってくれっ♥♥！！」,「お゛っ♥、お゛っ♥、ま、まってくれっ♥♥！！」,「喔♥、喔♥、等、等等啊♥♥！！」,"""Oh♥ Oh♥ W-wait♥♥!!""","「오옷 옷♥!?, 오옷 홋~~♥♥!?!!」"
-,,,,,,
-Record.Kei-17,,「これ以上されたらっ♥♥、本当に死んでしまうっ♥♥」,「これ以上されたらっ♥♥、本当に死んでしまうっ♥♥」,「再這樣下去的話♥♥，真的會死掉的♥♥」,"""If you keep going♥♥ I'm really going to die♥♥""","「이 이상 당하면♥♥, 정말 죽어버려♥♥」"
-,,,,,,
-Record.Kei-18,,「調子に乗ったのは悪かったからっ♥♥、ここは一旦っ…！」,「調子に乗ったのは悪かったからっ♥♥、ここは一旦っ…！」,「得意忘形是我不好♥♥，這裡先……！」,"""I was wrong to get cocky♥♥ So let's take a break...!""","「잘난 척한 건 미안했으니까♥♥, 여기서는 일단…!」"
-,Record kei 2,,,,,
-Record.Kei-19,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!
-,,,,,,
-Record.Kei-20,京,「お゛っ♥！？、お゛ほおっ～～～～ッッ♥♥♥！？」,「お゛っ♥！？、お゛ほおっ～～～～ッッ♥♥♥！？」,「喔♥！？、喔齁～～～～♥♥♥！？」,"""Oh♥?! Ohooo♥♥♥?!""","「오옷 옷♥!?, 오옷 홋~~~~♥♥♥!?」"
-,,,,,,
-Record.Kei-21,,「へあっ♥♥、お゛っ♥、にゃんでっ♥♥♥」,「へあっ♥♥、お゛っ♥、にゃんでっ♥♥♥」,「嚇♥♥、喔♥、為什麼♥♥♥」,"""Heah♥♥ Oh♥ Whyyy♥♥♥""","「헤앗♥♥, 오옷 옷♥, 냣데♥♥♥」"
-,,,,,,
-Record.Kei-22,怪人,「オナホはオナホらしく犯されていろっ！」,「オナホはオナホらしく犯されていろっ！」,「自慰套就該像自慰套一樣被幹啊！」,"""A toy should act like a toy and be used!""",「오나홀은 오나홀답게 박히고 있어라!」
-,,,,,,
-Record.Kei-23,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!
-,,,,,,
-Record.Kei-24,京,「お゛っ♥、お゛おっ♥、イグッ♥♥、チンポでイクっ♥♥！」,「お゛っ♥、お゛おっ♥、イグッ♥♥、チンポでイクっ♥♥！」,「喔♥、喔喔♥、高潮♥♥、被雞巴搞到高潮♥♥！」,"""Oh♥ Ohh♥ I'm coming♥♥ Coming from being fucked by a cock♥♥!""","「오옷 옷♥, 오옷 오옷♥, 가버렷♥♥, 자지로 가버렷♥♥!」"
-,Record kei １,,,,,
-Record.Kei-25,,「ッ、わかりましたっ♥♥、私は只のオナホでしたッ♥♥、黙って犯されますっ♥♥」,「ッ、わかりましたっ♥♥、私は只のオナホでしたッ♥♥、黙って犯されますっ♥♥」,「唔、我明白了♥♥，我只是個自慰套♥♥，我會默默被幹的♥♥」,"""I understand♥♥ I'm just a toy♥♥ I'll be quiet and take it♥♥""","「윽, 알겠습니다♥♥, 저는 단지 오나홀이었습니다♥♥, 닥치고 박히겠습니다♥♥」"
-,,,,,,
-Record.Kei-26,,「少しでもおチンポ様の足しになるようにっ♥♥おマンコ締めますのでっ♥♥」,「少しでもおチンポ様の足しになるようにっ♥♥おマンコ締めますのでっ♥♥」,「為了能多少幫上雞巴大人的忙♥♥我會縮緊小穴的♥♥」,"""I'll tighten up to do my job for you♥♥""",「조금이라도 자지 님께 도움이 되도록♥♥ 보지 조일 테니까요♥♥」
-,,,,,,
-Record.Kei-27,,「ケイの雑魚穴存分にお使いくださいっ♥」,「ケイの雑魚穴存分にお使いくださいっ♥」,「請盡情使用京這個雜魚洞吧♥」,"""Please use Kei's weak pussy as much as you want♥""",「케이의 허접 구멍 마음껏 사용해주세요♥」
-,,,,,,
-Record.Kei-28,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!
-,,,,,,
-Record.Kei-29,怪人,「いい心がけだなっ！そろそろ出してやろう！」,「いい心がけだなっ！そろそろ出してやろう！」,「有這個覺悟不錯！差不多要射給妳了！」,"""Good attitude! I'll finish soon!""",「좋은 마음가짐이군! 슬슬 싸주마!」
-,,,,,,
-Record.Kei-30,京,「お゛っ♥、あ、ありがとうございますっ♥♥♥！」,「お゛っ♥、あ、ありがとうございますっ♥♥♥！」,「喔♥、啊、謝謝您♥♥♥！」,"""Oh♥ T-thank you♥♥♥!""","「오옷 옷♥, 아, 감사합니다♥♥♥!」"
-,,,,,,
-Record.Kei-31,,「不祥オナホっ♥♥、中だし準備万端ですっ♥♥」,「不祥オナホっ♥♥、中だし準備万端ですっ♥♥」,「不肖自慰套♥♥，中出準備完畢了♥♥」,"""This worthless toy♥♥ is ready to receive♥♥""","「불량 오나홀♥♥, 안에 싸기 준비 완료입니다♥♥」"
-,,,,,,
-Record.Kei-32,,「おチンポ様の性液っ♥♥、オナホに沢山流し込んでくださいっ♥♥」,「おチンポ様の性液っ♥♥、オナホに沢山流し込んでくださいっ♥♥」,「雞巴大人的精液♥♥，請大量灌進自慰套裡吧♥♥」,"""Please pour lots of your jizz into this toy♥♥""","「자지님의 정액♥♥, 오나홀에 잔뜩 흘려 넣어주세요♥♥」"
-,Record Kei 4,,,,,
-Record.Kei-33,,ドクッ！！ビュルルルッルッッ！ビシュッッ！,ドクッ！！ビュルルルッルッッ！ビシュッッ！,咚！！咻嚕嚕嚕嚕嚕！！噗哧！！,Throb!! Spurrrrrt! Splash!,도큣!! 뷰르르르릇르릇!! 비슛!!
-,,,,,,
-Record.Kei-34,京,「お゛っ♥、お゛おっ～～～～ッ♥♥♥！？」,「お゛っ♥、お゛おっ～～～～ッ♥♥♥！？」,「喔♥、喔喔～～～～♥♥♥！？」,"""Oh♥ Ohhh♥♥♥?!""","「오옷 옷♥, 오옷 오옷~~~~♥♥♥!?」"
-,,,,,,
-Record.Kei-35,,京の子宮内に大量の性液が流れ込み、入りきらなくなった精液が逆流する,京の子宮内に大量の性液が流れ込み、入りきらなくなった精液が逆流する,大量精液流入京的子宮內，裝不下的精液逆流而出。,"A large amount of semen flowed into Kei's womb, and the excess flowed back out.","케이의 자궁 안에 대량의 정액이 흘러 들어가고, 들어가지 못한 정액이 역류한다"
-,,,,,,
-Record.Kei-36,京,「お゛っ♥♥、お゛おっ♥、お゛ッッッッ♥♥！」,「お゛っ♥♥、お゛おっ♥、お゛ッッッッ♥♥！」,「喔♥♥、喔喔♥、喔喔喔喔喔♥♥！」,"""Oh♥♥ Ohh♥ Ohhh♥♥!""","「오옷 옷♥♥, 오옷 오옷♥, 오옷 옷♥♥!」"
-,,,,,,
-Record.Kei-37,,「私の中がっ♥♥、全部精液で満たされてっ♥♥♥」,「私の中がっ♥♥、全部精液で満たされてっ♥♥♥」,「我的裡面♥♥，全被精液填滿了♥♥♥」,"""My insides♥♥ are completely filled♥♥♥""","「내 안이♥♥, 전부 정액으로 채워져서♥♥♥」"
-,Record Kei 5,,,,,
-Record.Kei-38,,ドクンッ！ドクッ！,ドクンッ！ドクッ！,噗通！咚！,Throb! Throb!,도쿤! 도큣!
-,,,,,,
-Record.Kei-39,京,「お゛っ♥、お゛おっ♥……」,「お゛っ♥、お゛おっ♥……」,「喔♥、喔喔♥……」,"""Oh♥ Ohh♥...""","「오옷 옷♥, 오옷 오옷♥……」"
-,,,,,,
-Record.Kei-40,怪人,「ふう、まあオナホとしては及第点だろう」,「ふう、まあオナホとしては及第点だろう」,「呼，作為自慰套來說算是及格吧。」,"""Phew, well, as a toy you get a passing grade.""","「후우, 뭐 오나홀로서는 합격점이겠지」"
-,,,,,,
-Record.Kei-41,京,「はひっ♥♥、射精していただきありがとうございまひたっ♥♥♥」,「はひっ♥♥、射精していただきありがとうございまひたっ♥♥♥」,「哈伊♥♥，非常感謝您射精♥♥♥」,"""Hahi♥♥ Thank you for finishing♥♥♥""","「하힛♥♥, 사정해주셔서 감사합니다앗♥♥♥」"
-,,,,,,
-Record.Kei-42,怪人,「まあ噂以上ではなかったがな…また使ってやる」,「まあ噂以上ではなかったがな…また使ってやる」,「雖然沒有傳言中的厲害…我還會再用妳的。」,"""Well, you weren't better than the rumors... I'll use you again.""",「뭐 소문 이상은 아니었지만… 또 써주지」
-,,,,,,
-Record.Kei-43,京,「お゛っ♥、どうせならっ♥♥、今もう一回使ってくださいっ♥♥」,「お゛っ♥、どうせならっ♥♥、今もう一回使ってくださいっ♥♥」,「喔♥，不如說♥♥，現在再用一次吧♥♥」,"""Oh♥ If that's the case♥♥ Please use me one more time now♥♥""","「오옷 옷♥, 기왕이면♥♥, 지금 한 번 더 써주세요♥♥」"
-,,,,,,
-Record.Kei-44,京,「オナホはハメられるのが仕事なのでっ♥♥」,「オナホはハメられるのが仕事なのでっ♥♥」,「自慰套的工作就是被插呀♥♥」,"""A toy's job is to be used♥♥""",「오나홀은 박히는 게 일이므로♥♥」
-,,,,,,
-Record.Kei-45,,「……それに……次はもっとうまくやりますから…♥」,「……それに……次はもっとうまくやりますから…♥」,「……而且……下次我會做得更好一點的…♥」,"""...Besides... I'll do better next time...♥""",「……그리고…… 다음엔 더 잘할 테니까…♥」
-,,,,,,
-,,,,,,
-,,,,,,
-Record Clone ,注釈,クローン達　(実装：Chapter3ｰ3クリア後),クローン達　(実装：Chapter3ｰ3クリア後),,,클론들 (실장: Chapter3ｰ3 클리어 후)
-Record.CloneTask,,【クローンの通常業務】,【クローンの通常業務】,,[A Clone's Regular Duties],【클론의 통상 업무】
-,,,,,,
-Record.CloneTask-1,,水無瀬六花がクローンの一員になった日からしばらくして――――,水無瀬六花がクローンの一員になった日からしばらくして――――,水無瀬六花成為複製人一員後過了一段時間――――,Some time after Rikka Minase became a member of the clones...,미나세 릿카가 클론의 일원이 된 지 얼마 지나지 않아――――
-,Record clone 1,,,,,
-Record.CloneTask-2,,072号含む新規ロットのクローン達は穴の開いた壁の前に立たされていた,072号含む新規ロットのクローン達は穴の開いた壁の前に立たされていた,包括072號在內的新一批複製人們被帶到了一面開了洞的牆壁前。,072 and the other new lot clones were made to stand in front of a wall with holes.,072호를 포함한 신규 로트 클론들은 구멍 뚫린 벽 앞에 서 있었다
-,,,,,,
-Record.CloneTask-3,072号,「…………これは？」,「…………これは？」,「…………這是？」,"""......What is this?""",「…………이것은?」
-,,,,,,
-Record.CloneTask-4,クローン,「072号、静かに。これよりクローン戦闘員性奉仕業務を開始します」,「072号、静かに。これよりクローン戦闘員性奉仕業務を開始します」,「072號，安靜。接下來將開始複製人戰鬥員性服務業務。」,"""072, be quiet. We will now begin clone soldier service duties.""","「072호, 조용히. 지금부터 클론 전투원 성봉사 업무를 개시합니다」"
-,,,,,,
-Record.CloneTask-5,クローン,「我々の仕事は戦闘ですが……待機時には戦闘員達の性処理も行います」,「我々の仕事は戦闘ですが……待機時には戦闘員達の性処理も行います」,「我們的工作是戰鬥……但在待命時也要進行戰鬥員們的性處理。」,"""Our job is to fight... but while on standby we also provide services to the soldiers.""",「우리의 일은 전투입니다만…… 대기 시에는 전투원들의 성처리도 합니다」
-,,,,,,
-Record.CloneTask-6,クローン,「まあ戦闘力は我々の方が高いのですが…我々はクローンですので」,「まあ戦闘力は我々の方が高いのですが…我々はクローンですので」,「雖然我們的戰鬥力更高……但我們是複製人。」,"""Well, our combat ability is higher... but we are clones, so...""",「뭐 전투력은 우리 쪽이 높습니다만… 우리는 클론이므로」
-,,,,,,
-Record.CloneTask-7,072号,「……了解しました」,「……了解しました」,「……了解。」,"""...Understood.""",「……알겠습니다」
-,,,,,,
-Record.CloneTask-8,,その時、壁の前に戦闘員がやってくる,その時、壁の前に戦闘員がやってくる,這時，一名戰鬥員來到牆壁前。,"At that moment, a soldier came to the wall.","그때, 벽 앞에 전투원이 온다"
-,,,,,,
-Record.CloneTask-9,戦闘員,「よーし、今日も頼んだぜクローンちゃん共」,「よーし、今日も頼んだぜクローンちゃん共」,「好，今天也拜託你們了，複製人小妞們。」,"""Alright, I'm counting on you today too, clones.""","「좋아, 오늘도 부탁한다 클론쨩들」"
-,Record clone 2,,,,,
-Record.CloneTask-10,,壁に空いた穴の中に戦闘員のチンポが突っ込まれ、072号の目の前に現れる,壁に空いた穴の中に戦闘員のチンポが突っ込まれ、072号の目の前に現れる,戰鬥員的雞巴塞進牆壁上的洞裡，出現在072號的眼前。,"The soldier inserted his cock through the hole in the wall, appearing before 072.","벽에 뚫린 구멍 안에 전투원의 자지가 쑤셔 박혀, 072호 눈앞에 나타난다"
-,,,,,,
-Record.CloneTask-11,072号,「っ………！」,「っ………！」,「唔………！」,"""...!""",「윽………!」
-,,,,,,
-Record.CloneTask-12,クローン,「おや、どうしましたか072号？」,「おや、どうしましたか072号？」,「喔呀，怎麼了072號？」,"""Oh, what's wrong, 072?""","「어머, 왜 그러십니까 072호?」"
-,,,,,,
-Record.CloneTask-13,072号,「…いえ、なんでもありません」,「…いえ、なんでもありません」,「…不，沒什麼。」,"""...No, it's nothing.""","「…아니요, 아무것도 아닙니다」"
-,,,,,,
-Record.CloneTask-14,クローン,「そうですか、では早速。戦闘員の男性器の咥えなさい」,「そうですか、では早速。戦闘員の男性器の咥えなさい」,「是嗎，那麼立刻開始。含住戰鬥員的男性生殖器。」,"""I see. Then proceed and put the soldier's organ in your mouth.""","「그렇습니까, 그럼 즉시. 전투원의 남성기를 물도록 하십시오」"
-,,,,,,
-Record.CloneTask-15,072号,「っ、………了解しました」,「っ、………了解しました」,「唔、………了解。」,"""...Understood.""","「윽, ………알겠습니다」"
-,Record,,,,,
-Record.CloneTask-16,,そして072号は目の前に差し出されたチンポを咥える,そして072号は目の前に差し出されたチンポを咥える,接著072號含住了眼前伸出的雞巴。,Then 072 put the cock in front of her in her mouth.,그리고 072호는 눈앞에 내밀어진 자지를 문다
-,,,,,,
-Record.CloneTask-17,,チュポッ,チュポッ,啾波,Chup,츄폿
-,,,,,,
-Record.CloneTask-18,072号,「んっ……むうっ……」,「んっ……むうっ……」,「嗯……唔……」,"""Nn... Muu...""",「응읏…… 으읏……」
-,,,,,,
-Record.CloneTask-19,,(………っ、咥えるのは初めてですが……独特な感触ですね……),(………っ、咥えるのは初めてですが……独特な感触ですね……),（………唔，雖然是第一次含住……但這感覺很特別呢……）,(...This is my first time... it's a unique sensation...),"(………윽, 무는 것은 처음입니다만…… 독특한 감촉이군요……)"
-,,,,,,
-Record.CloneTask-20,戦闘員,「なんだぁ？今日の穴は外れか？」,「なんだぁ？今日の穴は外れか？」,「搞什麼？今天的洞是個爛貨嗎？」,"""What's this? Is today's hole a dud?""",「뭐야? 오늘의 구멍은 꽝인가?」
-,,,,,,
-Record.CloneTask-21,クローン　,「072号、咥えているだけでは男性器からの射精は出来ません。前後運動により刺激を与えなさい」,「072号、咥えているだけでは男性器からの射精は出来ません。前後運動により刺激を与えなさい」,「072號，光含著無法讓男性生殖器射精。請進行前後運動給予刺激。」,"""072, just holding it won't make the organ ejaculate. You need to provide stimulation through movement.""","「072호, 물고만 있으면 남성기로부터 사정은 할 수 없습니다. 전후 운동으로 자극을 주십시오」"
-,,,,,,
-Record.CloneTask-22,072号,「っ、ひょうはいひまひたっ」,「っ、ひょうはいひまひたっ」,「唔，我會做到的。」,"""Undershood.""","「우, 흐으우읍으읏히핫」"
-,Record clone 4,,,,,
-Record.CloneTask-23,,そして072号は頭を前後に振り、戦闘員のチンポに刺激を与え始める,そして072号は頭を前後に振り、戦闘員のチンポに刺激を与え始める,接著072號開始前後擺動頭部，給予戰鬥員的雞巴刺激。,"Then 072 began moving her head back and forth, providing stimulation to the soldier's cock.","그리고 072호는 머리를 앞뒤로 흔들며, 전투원의 자지에 자극을 주기 시작한다"
-,,,,,,
-Record.CloneTask-24,,チュプッ、チュプッ、チュプッ！,チュプッ、チュプッ、チュプッ！,啾噗、啾噗、啾噗！,"Chup, chup, chup!","츄풋, 츄풋, 츄풋!"
-,,,,,,
-Record.CloneTask-25,072号,「むうっ♥、んっ♥！」,「むうっ♥、んっ♥！」,「唔♥、嗯♥！」,"""Muu♥ Nn♥!""","「으읏♥, 응읏♥!」"
-,,,,,,
-Record.CloneTask-26,,(こう…でしょうか……♥？),(こう…でしょうか……♥？),（是……這樣嗎……♥？）,(Like... this...♥?),(이렇게… 입니까……♥?)
-,,,,,,
-Record.CloneTask-27,,チュプッ、チュプッ、チュプッ,チュプッ、チュプッ、チュプッ,啾噗、啾噗、啾噗,"Chup, chup, chup","츄풋, 츄풋, 츄풋"
-,,,,,,
-Record.CloneTask-28,戦闘員,「おいおいなんだこの緩いフェラは？教育足りてねえんじゃねえのか？」,「おいおいなんだこの緩いフェラは？教育足りてねえんじゃねえのか？」,「喂喂，這口交也太鬆了吧？是不是教育不足啊？」,"""Hey, what's with this weak blowjob? Haven't you been properly trained?""",「어이어이 뭐야 이 느슨한 펠라는? 교육 부족 아니야?」
-,,,,,,
-Record.CloneTask-29,072号,「っ、むうっ！？」,「っ、むうっ！？」,「唔、唔！？」,"""Muu?!""","「윽, 으읏!?」"
-,,,,,,
-Record.CloneTask-30,クローン,「072号。もっと真面目にやりなさい」,「072号。もっと真面目にやりなさい」,「072號。請更認真地做。」,"""072, please take this duty seriously.""",「072호. 더 진지하게 하십시오」
-,,,,,,
-Record.CloneTask-31,072号,「っ、もうひわけごらいませんっ！」,「っ、もうひわけごらいませんっ！」,「唔、我會更努力的！」,"""I'm shorry!""","「윽, 죄송합니닷!」"
-,,,,,,
-Record.CloneTask-32,,ジュプッ！ジュプッ！ジュプッ！,ジュプッ！ジュプッ！ジュプッ！,嗙噗！嗙噗！嗙噗！,Jup! Jup! Jup!,쥬풋! 쥬풋! 쥬풋!
-,,,,,,
-Record.CloneTask-33,,072号は更に口をすぼめ戦闘員のチンポを舐っていく,072号は更に口をすぼめ戦闘員のチンポを舐っていく,072號進一步縮緊嘴巴，舔舐戰鬥員的雞巴。,072 pursed her lips more and continued licking the soldier's cock.,072호는 더욱 입을 오므려 전투원의 자지를 핥아간다
-,,,,,,
-Record.CloneTask-34,072号,「んっ♥、んっ♥、んっ♥！」,「んっ♥、んっ♥、んっ♥！」,「嗯♥、嗯♥、嗯♥！」,"""Nn♥ Nn♥ Nn♥!""","「응읏♥, 응읏♥, 응읏♥!」"
-,,,,,,
-Record.CloneTask-35,072号,(っ、クローンとしてっ！このくらいのことは出来なければっ),(っ、クローンとしてっ！このくらいのことは出来なければっ),（唔，身為複製人！這種事一定要能做到！）,(As a clone! I must be able to do at least this much!),"(윽, 클론으로서! 이 정도 일은 할 수 있어야!)"
-,,,,,,
-Record.CloneTask-36,,ジュプッ！ジュプッ！ジュプッ！,ジュプッ！ジュプッ！ジュプッ！,嗙噗！嗙噗！嗙噗！,Jup! Jup! Jup!,쥬풋! 쥬풋! 쥬풋!
-,,,,,,
-Record.CloneTask-37,戦闘員,「お？やっと真面目にやり始めたか？」,「お？やっと真面目にやり始めたか？」,「喔？終於開始認真了嗎？」,"""Oh? Finally getting serious?""",「오? 겨우 진지하게 하기 시작했나?」
-,,,,,,
-Record.CloneTask-38,072号,「んっ♥、んっ♥、んっ♥！」,「んっ♥、んっ♥、んっ♥！」,「嗯♥、嗯♥、嗯♥！」,"""Nn♥ Nn♥ Nn♥!""","「응읏♥, 응읏♥, 응읏♥!」"
-,,,,,,
-Record.CloneTask-39,戦闘員,「まあいい、その頑張りに免じて出してやるっ、オラッ」,「まあいい、その頑張りに免じて出してやるっ、オラッ」,「算了，看在妳這麼努力的份上就射出來吧，看招！」,"""Well, fine. For your effort, I'll finish. Here!""","「뭐 좋아, 그 노력을 생각해서 이제 싸주마, 자!」"
-,Record clone 5,,,,,
-Record.CloneTask-40,,ドピュッ！ドビュルルルッ！,ドピュッ！ドビュルルルッ！,咚噗！咻嚕嚕嚕嚕！,Spurt! Spurrrrt!,도퓻! 도뷰르르릇!
-,,,,,,
-Record.CloneTask-41,072号,「～～～～～～～ッ♥♥！！」,「～～～～～～～ッ♥♥！！」,「～～～～～～～ッ♥♥！！」,"""Mmmmmmph♥♥!!""",「~~~~~~윽♥♥!!」
-,,,,,,
-Record.CloneTask-42,,072号の口内に勢いよく白濁液が注ぎ込まれる,072号の口内に勢いよく白濁液が注ぎ込まれる,白色渾濁的液體猛地灌入072號的口腔內。,White fluid was forcefully shot into 072's mouth.,072호의 입안에 힘차게 백탁액이 쏟아진다
-,,,,,,
-Record.CloneTask-43,072号,「んむっ♥、んっ♥」,「んむっ♥、んっ♥」,「嗯唔♥、嗯♥」,"""Nmm♥ Nn♥""","「으윽♥, 응읏♥」"
-,,,,,,
-Record.CloneTask-44,072号,(っ、これが…精液ですか……っ！),(っ、これが…精液ですか……っ！),（唔，這就是…精液嗎……！）,(This is... semen...!),"(윽, 이것이… 정액입니까……윽!)"
-,,,,,,
-Record.CloneTask-45,戦闘員,「オラッ、しっかり飲めよっ！」,「オラッ、しっかり飲めよっ！」,「喂，好好喝下去！」,"""Come on, swallow it properly!""",「자! 제대로 마셔!」
-,,,,,,
-Record.CloneTask-46,,ゴブッ♥♥、ドププッ♥♥！,ゴブッ♥♥、ドププッ♥♥！,咕噗♥♥、咚噗噗♥♥！,Gulp♥♥ Glup♥♥!,"곱♥♥, 돕풋♥♥!"
-,,,,,,
-Record.CloneTask-47,072号,「……っ！」,「……っ！」,「……唔！」,"""...!""",「……윽!」
-,,,,,,
-Record.CloneTask-48,072号,(っ、凄い量……っ！こんなにっ♥♥),(っ、凄い量……っ！こんなにっ♥♥),（唔，好大的量……！竟然有這麼多♥♥）,(So much...! This much♥♥),"(윽, 굉장한 양……윽! 이렇게나♥♥)"
-,,,,,,
-Record.CloneTask-49,,戦闘員のチンポが何度か脈打った後、残った精液が発射される,戦闘員のチンポが何度か脈打った後、残った精液が発射される,戰鬥員的雞巴跳動了幾下後，剩餘的精液也發射出來。,"After the soldier pulsated several times, the remaining semen was unloaded.""","전투원의 자지가 몇 번 맥박친 후, 남은 정액이 발사된다"
-,Record clone 6,,,,,
-Record.CloneTask-50,072号,「んっ♥、けぷっ……♥♥」,「んっ♥、けぷっ……♥♥」,「嗯♥、咳……♥♥」,"""Nn♥ Burp...♥♥""","「응읏♥, 케풋……♥♥」"
-,,,,,,
-Record.CloneTask-51,戦闘員,「ふう、出した出した…だがまだ未熟なフェラだな、しっかり教育してくれ？」,「ふう、出した出した…だがまだ未熟なフェラだな、しっかり教育してくれ？」,「呼，射完了射完了…但口交技術還很稚嫩啊，要好好教育她們？」,"""Phew, I finished... but that was still an amateur blowjob. Train her properly, will you?""","「후우, 쌌다 쌌어… 하지만 아직 미숙한 펠라네, 제대로 교육해줘?」"
-,,,,,,
-Record.CloneTask-52,クローン,「そうですね。072号はこの後調整室に来なさい。少し定型化改造をする必要があるようですので」,「そうですね。072号はこの後調整室に来なさい。少し定型化改造をする必要があるようですので」,「是。072號，妳之後來調整室一趟。看來需要進行一些制式化改造。」,"""Indeed. 072, come to the adjustment room after this. It seems you need some standardization modifications.""",「그렇군요. 072호는 이 후 조정실로 오십시오. 조금 정형화 개조를 할 필요가 있는 것 같으므로」
-,,,,,,
-Record.CloneTask-53,072号,「っ、……了解しました。」,「っ、……了解しました。」,「唔、……了解。」,"""...Understood.""","「윽, ……알겠습니다.」"
-,,,,,,
-Record.CloneTask-54,,クローンの一員となった072号は拒否することなくそれに従うのだった,クローンの一員となった072号は拒否することなくそれに従うのだった,成為複製人一員的072號沒有任何拒絕地服從了。,"072, who had become a member of the clones, obeyed without refusal.",클론의 일원이 된 072호는 거부하지 않고 그것에 따르는 것이었다
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Record Erena＆Nayuta,注釈,エンドコンテンツ　那由多＆エレナ,エンドコンテンツ　那由多＆エレナ,,,엔드 콘텐츠　나유타＆엘레나
-Record.Erenayuta,,【最強の二人】,【最強の二人】,,[The Strongest Duo],【최강의 두 사람】
-,,,,,,
-Record.Erenayuta-1,,エレナと那由多が財団の手に堕ちてからしばらくの時が流れ―――,エレナと那由多が財団の手に堕ちてからしばらくの時が流れ―――,艾蓮娜和那由多落入財團手中後，過了一段時間―――,Some time passed after Elena and Nayuta fell into the Foundation's hands...,엘레나와 나유타가 재단의 손에 떨어진 후 얼마 지나지 않아―――――
-,暗転,,,,,
-Record.Erenayuta-2,Record E＆N 1,エレナと那由多は公衆トイレの壁に括りつけられていた,エレナと那由多は公衆トイレの壁に括りつけられていた,艾蓮娜和那由多被綁在公共廁所的牆上。,Elena and Nayuta were tied to the wall of a public restroom.,엘레나와 나유타는 공중 화장실 벽에 묶여 있었다
-,,,,,,
-Record.Erenayuta-3,エレナ,「っ、何ですかこれは……」,「っ、何ですかこれは……」,「唔，這是什麼……」,"""What is this...""","「윽, 무엇입니까 이것은……」"
-,,,,,,
-Record.Erenayuta-4,那由多,「これは……大変な状況ですね」,「これは……大変な状況ですね」,「這是……很糟糕的情況呢。」,"""This is... quite a situation.""",「이것은…… 힘든 상황이군요」
-,,,,,,
-Record.Erenayuta-5,エレナ,「それに……何故この女を隣に……！」,「それに……何故この女を隣に……！」,「而且……為什麼偏偏把這個女人放在我旁邊……！」,"""And... why is this woman next to me...!""",「게다가…… 왜 이 여자를 옆에……!」
-,,,,,,
-Record.Erenayuta-6,那由多,「こちらのセリフです。何故真横に配置するのでしょうか」,「こちらのセリフです。何故真横に配置するのでしょうか」,「這是我該說的。為何要將我放在正旁邊呢。」,"""That's my line. Why place us right next to each other?""",「이쪽의 대사입니다. 왜 바로 옆에 배치하는 겁니까」
-,,,,,,
-Record.Erenayuta-7,戦闘員,「ったく、お前らは堕ちてるってのにいつも喧嘩ばっかだな」,「ったく、お前らは堕ちてるってのにいつも喧嘩ばっかだな」,「真是的，妳們都已經墮落了還是整天吵架啊。」,"""Geez, you two are always fighting even after the defeat.""","「정말, 너희들은 타락했는데도 언제나 싸움뿐이네」"
-,,,,,,
-Record.Erenayuta-8,エレナ,「はい。正直不快です。何故このような事を……」,「はい。正直不快です。何故このような事を……」,「是。說實話很不快。為何要做這種事……」,"""Yes. Honestly, this is unpleasant. Why do such a thing...""",「네. 솔직히 불쾌합니다. 왜 이런 짓을……」
-,,,,,,
-Record.Erenayuta-9,那由多,「随分な物言いですね。その無駄なプライドの高さは変わってないのですね」,「随分な物言いですね。その無駄なプライドの高さは変わってないのですね」,「您說話真不客氣呢。那無謂的高傲自尊心還是沒變啊。」,"""Such a way of speaking. That uselessly high pride of yours hasn't changed.""",「상당한 말투군요. 그 쓸데없는 프라이드 높음은 변하지 않았군요」
-,,,,,,
-Record.Erenayuta-10,エレナ,「………言わせておけば」,「………言わせておけば」,「………我讓妳說個沒完」,"""...If you keep talking like that""",「………말하게 놔두면」
-,,,,,,
-Record.Erenayuta-11,戦闘員,「まあまあ落ち着け。今日はそんなお前らのために対決の場を用意してやったってわけだ」,「まあまあ落ち着け。今日はそんなお前らのために対決の場を用意してやったってわけだ」,「好了好了冷靜點。我今天就為了妳們這樣的人準備了一個對決的場地。」,"""Now, now, calm down. Today I've prepared a competition venue for you two.""",「뭐뭐 진정해. 오늘은 그런 너희들을 위해 대결의 장을 마련해줬다는 거지」
-,,,,,,
-Record.Erenayuta-12,那由多,「………どういうことですか？」,「………どういうことですか？」,「………是什麼意思？」,"""...What do you mean?""",「………무슨 소리입니까?」
-,Record E＆N 2,,,,,
-Record.Erenayuta-13,,目の前に何人もの裸の男がぞろぞろと現れる,目の前に何人もの裸の男がぞろぞろと現れる,許多光著身子的男人魚貫而入地出現在她們面前。,Multiple naked men appeared before them one after another.,눈앞에 여러 명의 벌거벗은 남자가 줄줄이 나타난다
-,,,,,,
-Record.Erenayuta-14,エレナ,「……っ、これは！？」,「……っ、これは！？」,「唔、這是！？」,"""...This is...?!""","「……윽, 이것은!?」"
-,,,,,,
-Record.Erenayuta-15,戦闘員,「お前らにはこの公園のトイレで“肉便器”対決をしてもらう」,「お前らにはこの公園のトイレで“肉便器”対決をしてもらう」,「妳們要在這個公園的廁所裡進行「肉便器」對決。」,"""You two will have a 'cum dumpster' competition in this restroom at the park.""",「너희들에게는 이 공원 화장실에서 “육변기” 대결을 하게 할 거다」
-,,,,,,
-Record.Erenayuta-16,,「この部屋は中継されていてお前らを使いたくなった男どもがやってくる」,「この部屋は中継されていてお前らを使いたくなった男どもがやってくる」,「這間房間會進行轉播，想要使用妳們的男人們會跑過來。」,"""This room is being broadcast and men who want to use you will come.""",「이 방은 중계되고 있어서 너희들을 사용하고 싶어진 남자들이 올 거야」
-,,,,,,
-Record.Erenayuta-17,,「まそれで沢山使用…膣内射精してもらった方が勝者というわけだ」,「まそれで沢山使用…膣内射精してもらった方が勝者というわけだ」,「總之就是誰被使用得多……被射精到陰道裡的次數多的一方就是勝者。」,"""Well, whoever gets used more... gets more creampies wins.""",「뭐 그래서 많이 사용… 질내 사정받은 쪽이 승자라는 거지」
-,,,,,,
-Record.Erenayuta-18,エレナ,「………肉便器……くだらないですね」,「………肉便器……くだらないですね」,「………肉便器……真無聊呢。」,"""...Cum dumpster... how ridiculous.""",「………육변기……시답잖군요」
-,,,,,,
-Record.Erenayuta-19,那由多,「いくら私達が堕ちているからといっても……流石に抵抗があります」,「いくら私達が堕ちているからといっても……流石に抵抗があります」,「儘管我們已經墮落了……但終究還是有所抵抗。」,"""Even though we've fallen... I still have trouble doing this.""",「아무리 우리가 타락했다고는 해도…… 역시 저항감이 있습니다」
-,,,,,,
-Record.Erenayuta-20,戦闘員,「ああ、ちなみに勝った方は一階級特進だ。上官になるってわけだな」,「ああ、ちなみに勝った方は一階級特進だ。上官になるってわけだな」,「啊對了，順帶一提贏家會晉升一級。就是變成上官的意思。」,"""Oh, by the way, the winner gets promoted one rank. You'll become a superior officer.""","「아아, 참고로 이긴 쪽은 한 계급 특진이다. 상관이 된다는 거지」"
-,,,,,,
-Record.Erenayuta-21,エレナ＆那由多,「「ッ！！！！！！」」,「「ッ！！！！！！」」,「唔！！！！！！」「唔！！！！！」,"""!!!!!""",「「윽!!!!!!」」
-,,,,,,
-Record.Erenayuta-22,戦闘員,「そういうわけで……まあせいぜい頑張ってくれ」,「そういうわけで……まあせいぜい頑張ってくれ」,「就是這麼回事……那麼就儘管努力吧。」,"""So that's how it is... well, do your best.""",「그런 이유로…… 뭐 힘껏 힘내줘」
-,暗転,,,,,
-Record.Erenayuta-23,Record E＆N 3,ズッブウウウウゥッ！！！！,ズッブウウウウゥッ！！！！,滋！！！！,Thrust!,즈읏부우우우웃!!!!
-,,,,,,
-Record.Erenayuta-24,エレナ＆那由多,「っ、！！！！」,「っ、！！！！」,「唔、！！！！」,"""!!!!""","「윽,!!!!」"
-,,,,,,
-Record.Erenayuta-25,男,「うおっ、これが聖核戦姫のマンコっ…流石の弾力と締め付けだっ！」,「うおっ、これが聖核戦姫のマンコっ…流石の弾力と締め付けだっ！」,「哇靠，這就是聖核戰姫的淫穴…果然彈力和緊緻度不同凡響啊！」,"""Whoa, this is a Holy Core Battlemaiden's... incredible elasticity and tightness!""","「우옷, 이것이 성핵전희의 보지… 역시 탄력과 조임이!」"
-,,,,,,
-Record.Erenayuta-26,エレナ,「ふっ、この程度のチンポ…簡単にヌキとってあげます！」,「ふっ、この程度のチンポ…簡単にヌキとってあげます！」,「哼，這種程度的雞巴…我輕易就能將精液榨乾！」,"""Hmph, a cock of this level... I'll easily finish you!""","「훗, 이 정도 자지… 간단히 빼내 드리겠습니다!」"
-,,,,,,
-Record.Erenayuta-27,那由多,「どちらが早く搾精できるか…勝負ですね……！」,「どちらが早く搾精できるか…勝負ですね……！」,「看看誰能更快榨出精液…是勝負的關鍵呢……！」,"""Let's see who can finish them faster... it's a competition...!""",「어느 쪽이 빨리 착정할 수 있을지… 승부군요……!」
-,Record E＆N 4,,,,,
-Record.Erenayuta-28,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!"
-,,,,,,
-Record.Erenayuta-29,,那由多とエレナは競うように膣を締め付け、射精を促す,那由多とエレナは競うように膣を締め付け、射精を促す,那由多和艾蓮娜互相競爭般地縮緊陰道，催促著射精。,"Nayuta and Elena competed by tightening, encouraging ejaculations.","나유타와 엘레나는 경쟁하듯 질을 조여, 사정을 재촉한다"
-,,,,,,
-Record.Erenayuta-30,エレナ,「っ♥、どうですかっ、AV撮影で鍛えた私の肉厚マンコっ♥♥」,「っ♥、どうですかっ、AV撮影で鍛えた私の肉厚マンコっ♥♥」,「唔♥，怎麼樣，經過AV拍攝鍛鍊的我的豐厚淫穴♥♥」,"""How does it feel? This thick pussy was trained through shooting porn!♥""","「윽♥, 어떻습니까, AV 촬영으로 단련된 저의 두툼한 보지♥♥」"
-,,,,,,
-Record.Erenayuta-31,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!"
-,,,,,,
-Record.Erenayuta-32,男,「うおっ、すげえっ…これが雌牛AV女優エレナちゃんのマンコっ」,「うおっ、すげえっ…これが雌牛AV女優エレナちゃんのマンコっ」,「哇靠，好厲害啊…這就是母牛AV女優艾蓮娜小姐的淫穴」,"""Whoa, amazing... So this is Elena the porn star's pussy...""","「우옷, 굉장해… 이것이 암소 AV 배우 엘레나쨩의 보지」"
-,,,,,,
-Record.Erenayuta-33,エレナ,「はあっ♥、当然ですッ！、」,「はあっ♥、当然ですッ！、」,「哈啊♥，那是當然的！！」,"""Haa♥ Of course!""","「하앗♥, 당연합니다!,」"
-,,,,,,
-Record.Erenayuta-34,那由多,「私こそっ、VIP接待で鍛えたテクニックはどうですかっ♥、数だけ多いヤリマンとは違いますっ♥♥」,「私こそっ、VIP接待で鍛えたテクニックはどうですかっ♥、数だけ多いヤリマンとは違いますっ♥♥」,「我才是，經過VIP接待鍛鍊出來的技術怎麼樣♥，跟只有數量多的蕩婦可不一樣♥♥」,"""My techniques were trained through VIP entertainment, how are they? Different from someone who just has numbers♥♥""","「저야말로, VIP 접대로 단련된 테크닉은 어떻습니까♥, 수만 많은 창녀와는 다릅니다♥♥」"
-,,,,,,
-Record.Erenayuta-35,男,「ぐうっ、このヒダ使いっ、まるでチンポを握られているようだっ！」,「ぐうっ、このヒダ使いっ、まるでチンポを握られているようだっ！」,「嗚，這個褶皺的運用，簡直像是雞巴被握住了一樣！」,"""Guh, it's like my cock is being gripped!""","「크윽, 이 주름 사용법, 마치 자지를 쥐고 있는 것 같아!」"
-,,,,,,
-Record.Erenayuta-36,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!"
-,,,,,,
-Record.Erenayuta-37,エレナ,「んっ♥、早く出してくださいっ、私のマンコにっ！」,「んっ♥、早く出してくださいっ、私のマンコにっ！」,「嗯♥，快點射出來吧，射到我的淫穴裡！」,"""Nn♥ Please finish quickly in my pussy!""","「응읏♥, 빨리 싸주세요, 제 보지에!」"
-,,,,,,
-Record.Erenayuta-38,那由多,「エレナには負けませんっ♥、当然私が勝ちますっ♥」,「エレナには負けませんっ♥、当然私が勝ちますっ♥」,「我不會輸給艾蓮娜的♥，當然是我贏♥」,"""I won't lose to Elena♥ Of course I'll win♥""","「엘레나에게는 지지 않겠습니다♥, 당연히 제가 이깁니다♥」"
-,,,,,,
-Record.Erenayuta-39,男,「ぬっ、締め付けが…ぐおっ、出るっ！」,「ぬっ、締め付けが…ぐおっ、出るっ！」,「唔，這緊縮感…嗚喔，要射了！」,"""Ngh, the tightness... gah, I'm finishing!""","「윽, 조임이… 크오옷, 싼다!」"
-,Record E＆N 5,,,,,
-Record.Erenayuta-40,,ドクッ！、ドクドクッ！,ドクッ！、ドクドクッ！,咚！、咚咚！,Throb! Throb throb!,"도큣!, 도큣도큣!"
-,,,,,,
-Record.Erenayuta-41,,ほぼ同時にエレナと那由多のマンコに勢いよく精液が放たれる,ほぼ同時にエレナと那由多のマンコに勢いよく精液が放たれる,幾乎同時精液猛地噴射到艾蓮娜和那由多的淫穴裡。,"Almost simultaneously, both Elena and Nayuta were filled with hot jizz.",거의 동시에 엘레나와 나유타의 보지에 힘차게 정액이 방출된다
-,,,,,,
-Record.Erenayuta-42,エレナ,「んっ♥、んうっ♥♥！」,「んっ♥、んうっ♥♥！」,「嗯♥、嗯嗚♥♥！」,"""Nn♥ Nuu♥♥!""","「응읏♥, 으읏♥♥!」"
-,,,,,,
-Record.Erenayuta-43,那由多,「っ♥、くうっ♥！」,「っ♥、くうっ♥！」,「唔♥、嗚♥！」,"""♥ Kuu♥!""","「윽♥, 크읏♥!」"
-,Record E＆N 6,,,,,
-Record.Erenayuta-44,男,「ふう、いい感じだったよ那由多ちゃん」,「ふう、いい感じだったよ那由多ちゃん」,「呼，剛才感覺很棒啊那由多小姐。」,"""Phew, that felt good, Nayuta.""","「후우, 좋은 느낌이었어 나유타쨩」"
-,,,,,,
-Record.Erenayuta-45,戦闘員,「あー、これで二人とも1ポイントだな。分かりやすいようにペンで書いといてやる」,「あー、これで二人とも1ポイントだな。分かりやすいようにペンで書いといてやる」,「啊，這樣兩個人都得一分了吧。為了方便區分我就用筆寫上去了。」,"""Ah, that's 1 point for both of you. I'll write it with a pen so it's clear.""","「아-, 이걸로 둘 다 1점씩이군. 알기 쉽게 펜으로 써두지」"
-,Record E＆N 7,,,,,
-Record.Erenayuta-46,エレナ,「んっ♥、なるほど、この感じで搾精し続ければいいんですね…！」,「んっ♥、なるほど、この感じで搾精し続ければいいんですね…！」,「嗯♥，原來如此，就這樣持續榨取精液就好了呢…！」,"""Nn♥ I see, so I just need to continue milking them like this...!""","「응읏♥, 과연, 이런 느낌으로 계속 착정하면 되는군요…!」"
-,,,,,,
-Record.Erenayuta-47,那由多,「ふん♥、要領が分かってしまえばこちらのものですっ。この勝負、私が勝ちますっ！」,「ふん♥、要領が分かってしまえばこちらのものですっ。この勝負、私が勝ちますっ！」,「哼♥，一旦掌握了要領就是我的優勢了。這場比賽，我會贏的！」,"""Hmph♥ Once I understand the method, it's mine. I'll win this competition!""","「흥♥, 요령을 알았으니 이쪽의 것입니다. 이 승부, 제가 이깁니다!」"
-,Record E＆N ８,,,,,
-Record.Erenayuta-48,,そして次の男たちが那由多とエレナに覆いかぶさる,そして次の男たちが那由多とエレナに覆いかぶさる,接著下一批男人覆蓋到那由多和艾蓮娜身上。,Then the next men approached Nayuta and Elena.,그리고 다음 남자들이 나유타와 엘레나에게 덮쳐든다
-,,,,,,
-Record.Erenayuta-49,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!"
-,,,,,,
-Record.Erenayuta-50,エレナ,「勝つのは私ですッ♥、こんな節操のない格好の雌ブタには負けませんっ♥！」,「勝つのは私ですッ♥、こんな節操のない格好の雌ブタには負けませんっ♥！」,「贏的是我♥，我不會輸給這種穿著不檢點的母豬的♥！」,"""I'll win♥ I'm not going to lose to a shameless pig like you♥!""","「이기는 건 저입니다♥, 이런 절제 없는 모습의 암퇘지에게는 지지 않아요♥!」"
-,,,,,,
-Record.Erenayuta-51,那由多,「メス牛ユルマンビッチが私に勝てるとでも？♥勝つのは私ですっ♥♥」,「メス牛ユルマンビッチが私に勝てるとでも？♥勝つのは私ですっ♥♥」,「母牛鬆穴蕩婦竟然敢說能贏我嗎？♥贏的將會是我♥♥」,"""You think a loose pussy like yours can beat me?♥ I'll be the winner♥♥""",「암소 헐렁 보지 년이 나에게 이길 수 있다고?♥ 이기는 건 저입니다♥♥」
-,,,,,,
-Record.Erenayuta-52,戦闘員,「あー、じゃあ明日の朝迎えに来てやるから、それまで頑張ってくれ」,「あー、じゃあ明日の朝迎えに来てやるから、それまで頑張ってくれ」,「好了，那我明天早上來接妳們，妳們就努力吧。」,"""Ah, well, I'll come pick you up tomorrow morning, so do your best until then.""","「아-, 그럼 내일 아침에 데리러 올 테니, 그때까지 힘내라」"
-,,,,,,
-Record.Erenayuta-53,エレナ,「ふっ…望むところですっ♥」,「ふっ…望むところですっ♥」,「哼…正合我意♥」,"""Hmph... Let's find out!""",「훗… 바라는 바입니다♥」
-,,,,,,
-Record.Erenayuta-54,那由多,「この勝負…本気でイカせていただきます！」,「この勝負…本気でイカせていただきます！」,「這場比賽…我會認真讓你們高潮的！」,"""This competition... I'll give it my all!""",「이 승부… 진심으로 가게 해드리겠습니다!」
-,,,,,,
-Record.Erenayuta-55,,そしてエレナと那由多は一晩中搾精肉便器勝負へと臨むのであった,そしてエレナと那由多は一晩中搾精肉便器勝負へと臨むのであった,於是艾蓮娜和那由多開始了一整晚的榨精肉便器比賽。,And so Elena and Nayuta engaged in the public service competition all night long.,그리고 엘레나와 나유타는 밤새도록 착정 육변기 승부에 임하는 것이었다
-,,,,,,
-Record.Erenayuta-56,,―――翌日,―――翌日,―――隔日,The next day,―――다음날
-,暗転,,,,,
-Record.Erenayuta-57,Record E＆N ９,そこには体中に無数の卑猥な落書きをされ、精液にまみれた二人の姿があった,そこには体中に無数の卑猥な落書きをされ、精液にまみれた二人の姿があった,那裡有兩個人，身上被塗滿了無數淫穢的塗鴉，沾滿了精液。,"There were the two of them, covered in countless obscene writings and cum.","거기에는 온몸에 무수한 음란한 낙서가 되고, 정액 범벅이 된 두 사람의 모습이 있었다"
-,,,,,,
-Record.Erenayuta-58,エレナ,「お゛っ♥、……お゛おっ♥…………」,「お゛っ♥、……お゛おっ♥…………」,「喔♥、……喔喔♥…………」,"""Oh♥ ...Ohh♥...""","「오옷 옷♥,  ……오옷 오옷♥…………」"
-,,,,,,
-Record.Erenayuta-59,那由多,「ん゛あっ…♥、お゛っ♥、お゛……」,「ん゛あっ…♥、お゛っ♥、お゛……」,「嗯啊…♥、喔♥、喔……」,"""Nah...♥ Oh♥ Oh...""","「응옷 앗…♥,  오옷 옷♥,  오옷 ……」"
-,,,,,,
-Record.Erenayuta-60,戦闘員,「おはよう二人とも、おーおーこりゃすげえなｗ」,「おはよう二人とも、おーおーこりゃすげえなｗ」,「早上好兩位，喔喔這可真是厲害啊哈」,"""Good morning you two, oh wow, this is amazing.""","「안녕 둘 다, 오-오- 이거 굉장하네ㅋ」"
-,,,,,,
-Record.Erenayuta-61,戦闘員,「体中に精液ぶっかけられまくって…マジの便器じゃねえかｗ」,「体中に精液ぶっかけられまくって…マジの便器じゃねえかｗ」,「全身都被精液噴灑滿了…真的是便器啊哈」,"""Covered in jizz all over... you're real dumpsters.""",「온몸에 정액 범벅이 돼서… 진짜 변기잖아ㅋ」
-,,,,,,
-Record.Erenayuta-62,エレナ,「お゛♥、……わたし♥、の♥、勝ちですっ…♥」,「お゛♥、……わたし♥、の♥、勝ちですっ…♥」,「喔♥、……我♥、贏♥、了……♥」,"""Oh♥ ...I♥ won♥...""","「오옷 ♥, ……나♥, 의♥, 승리입니다…♥」"
-,,,,,,
-Record.Erenayuta-63,那由多,「んっ♥、私こそがっ♥…沢山使ってもらってッ♥♥」,「んっ♥、私こそがっ♥…沢山使ってもらってッ♥♥」,「嗯♥、我才是♥…被更多人使用了♥♥」,"""Nn♥ I'm the one who♥ ...got used more♥♥""","「응읏♥, 저야말로♥… 잔뜩 사용받아서♥♥」"
-,,,,,,
-Record.Erenayuta-64,戦闘員,「何だお前ら？もう限界なのか？もう次の客が来てるぞ」,「何だお前ら？もう限界なのか？もう次の客が来てるぞ」,「妳們怎麼了？已經到極限了嗎？下一批客人來了喔。」,"""What's with you two? At your limit already? The next customers are here.""",「뭐야 너희들? 벌써 한계야? 이제 다음 손님이 오고 있어」
-,Record E＆N １０,,,,,
-Record.Erenayuta-65,エレナ,「っ♥、わ、私を使ってくださいっ！」,「っ♥、わ、私を使ってくださいっ！」,「唔♥、請、請使用我！」,"""♥ P-please use me!""","「윽♥, 저, 저를 사용해주세요!」"
-,,,,,,
-Record.Erenayuta-66,那由多,「いえっ、ここは私をッ♥♥」,「いえっ、ここは私をッ♥♥」,「不，請使用我♥♥」,"""No, use me instead♥♥""","「아니, 여기는 저를♥♥」"
-,,,,,,
-Record.Erenayuta-67,戦闘員,「おーおーまだ元気じゃねえか。流石最強の聖核戦姫だなぁ？」,「おーおーまだ元気じゃねえか。流石最強の聖核戦姫だなぁ？」,「喔、喔喔還挺有精神的嘛。不愧是最強的聖核戰姫啊？」,"""Oh, you're still energetic. As expected of the strongest Holy Core Battlemaidens?""",「오-오- 아직 멀쩡하잖아. 역시 최강의 성핵전희네?」
-,,,,,,
-Record.Erenayuta-68,エレナ,「当たり前ですっ♥、肉便器勝負とて手は抜けませんっ！」,「当たり前ですっ♥、肉便器勝負とて手は抜けませんっ！」,「那是當然的♥、即使是肉便器比賽也不能鬆懈！」,"""Of course♥ I can't hold back even in a dumpster contest!""","「당연합니다♥, 육변기 승부라고 해도 손을 뺄 수는 없습니다!」"
-,,,,,,
-Record.Erenayuta-69,那由多,「はっ♥、最強の肉便器がどんなものか見せてあげますっ♥」,「はっ♥、最強の肉便器がどんなものか見せてあげますっ♥」,「哈♥、讓你們看看最強的肉便器是什麼樣子的♥」,"""Ha♥ I'll show you what the strongest toilet looks like♥""","「핫♥, 최강의 육변기가 어떤 것인지 보여드리겠습니다♥」"
-,Record E＆N １1,,,,,
-Record.Erenayuta-70,,バチュッ、バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾、啪啾！,"Slap, slap, slap, slap!","바츗, 바츗, 바츗, 바츗!"
-,,,,,,
-Record.Erenayuta-71,エレナ,「んっ♥、あっ♥、んんっ♥♥」,「んっ♥、あっ♥、んんっ♥♥」,「嗯♥、啊♥、嗯嗯♥♥」,"""Nn♥ Ah♥ Nnn♥♥""","「응읏♥, 앗♥, 응응읏♥♥」"
-,,,,,,
-Record.Erenayuta-72,那由多,「んあっ♥、お゛っ♥、うんっ♥♥」,「んあっ♥、お゛っ♥、うんっ♥♥」,「嗯啊♥、喔♥、嗯嗯♥♥」,"""Nah♥ Oh♥ Unn♥♥""","「응앗♥, 오옷 옷♥, 응읏♥♥」"
-,,,,,,
-Record.Erenayuta-73,,エレナと那由多は既に何人ものチンポを受け入れており、もはや肉便器であることに全く抵抗はなかった,エレナと那由多は既に何人ものチンポを受け入れており、もはや肉便器であることに全く抵抗はなかった,艾蓮娜和那由多已經接受了許多根雞巴的插入，對於自己是肉便器這一事實已完全沒有抵抗。,"Elena and Nayuta had already accepted countless men and their cocks, and no longer had any resistance to being cum dumpsters.","엘레나와 나유타는 이미 여러 명의 자지를 받아들여, 이제 육변기인 것에 전혀 저항이 없었다"
-,,,,,,
-Record.Erenayuta-74,エレナ,「んっ♥、早く射精しなさいっ♥、このブタ女に負けてられませんっ！」,「んっ♥、早く射精しなさいっ♥、このブタ女に負けてられませんっ！」,「嗯♥，快點射精啊♥，我不能輸給這個母豬女人！ 」,"""Nn♥ Hurry up and come♥ I can't lose to this pig!""","「응읏♥, 빨리 사정하십시오♥, 이 돼지년에게 질 수는 없습니다!」"
-,,,,,,
-Record.Erenayuta-75,那由多,「っ♥、そっちこそっ♥、肉付きがいいだけのメス牛のくせにっ♥、生意気ですっ♥」,「っ♥、そっちこそっ♥、肉付きがいいだけのメス牛のくせにっ♥、生意気ですっ♥」,「唔♥，妳才是♥，區區一隻肉多的母牛，竟敢如此傲慢♥」,"""♥ You're the one♥ Just a fleshy cow♥ How impudent♥""","「윽♥, 그쪽이야말로♥, 살찐 암소 주제에♥, 건방집니다♥」"
-,Record E＆N １２,,,,,
-Record.Erenayuta-76,,ドクッ、ドビュルルルッッ！,ドクッ、ドビュルルルッッ！,咚、咻嚕嚕嚕！,"Throb, spurrrrrt!","도큣, 도뷰르르릇!!"
-,,,,,,
-Record.Erenayuta-77,,何度目かもわからない精液が二人に放たれる,何度目かもわからない精液が二人に放たれる,不知道是第幾次的精液被射向兩人,"Yet another shot hit both of them, having lost count long ago.",몇 번째인지 알 수 없는 정액이 두 사람에게 방출된다
-,,,,,,
-Record.Erenayuta-78,エレナ,「んっ♥、き、来ましたっ♥」,「んっ♥、き、来ましたっ♥」,「嗯♥、來、來了♥」,"""Nn♥ He came♥""","「응읏♥, 키, 왔습니다♥」"
-,,,,,,
-Record.Erenayuta-79,那由多,「っ♥、あ、ありがとうございますぅ♥！」,「っ♥、あ、ありがとうございますぅ♥！」,「唔♥、啊、謝謝您♥！」,"""♥ T-thank you♥!""","「윽♥, 아, 감사합니다앗♥!」"
-,Record E＆N １３,,,,,
-Record.Erenayuta-80,,そしてずるりと那由多からチンポが引き抜かれる,そしてずるりと那由多からチンポが引き抜かれる,接著雞巴從那由多體內緩緩地抽出,Then the man pulled out from Nayuta.,그리고 즈르륵 하고 나유타에게서 자지가 뽑혀 나온다
-,,,,,,
-Record.Erenayuta-81,エレナ,「…何してるんですか、射精が終わったなら早くどいてください！」,「…何してるんですか、射精が終わったなら早くどいてください！」,「…你在做什麼，射精完了就快點離開！」,"""...What are you doing? If you're finished, please move aside quickly!""","「…뭐 하는 겁니까, 사정이 끝났으면 빨리 비켜주세요!」"
-,,,,,,
-Record.Erenayuta-82,男,「いやー、射精したらもよおしてきちゃってね、このままさせてもらうよ」,「いやー、射精したらもよおしてきちゃってね、このままさせてもらうよ」,「哎呀，射完精後有點想上廁所了呢，我就這麼做了。」,"""Well, after finishing I got the urge, so I'm just going to do it.""","「이야-, 사정했더니 마려워져서 말이야, 이대로 싸게 해줘」"
-,,,,,,
-Record.Erenayuta-83,,そう言うと男はエレナの膣内で放尿を始める,そう言うと男はエレナの膣内で放尿を始める,男人說著，開始在艾蓮娜的陰道裡排尿。,"Saying that, the man began urinating inside Elena.",그렇게 말하며 남자는 엘레나의 질 내에서 방뇨를 시작한다
-,Record E＆N １４,,,,,
-Record.Erenayuta-84,,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!"
-,,,,,,
-Record.Erenayuta-85,エレナ,「なっ♥、何してるんですかっ♥！」,「なっ♥、何してるんですかっ♥！」,「唔♥、你在做什麼♥！」,"""What♥ What are you doing♥!""","「뭣♥, 뭐 하는 겁니까♥!」"
-,,,,,,
-Record.Erenayuta-86,那由多,「ふふっ♥、無様ですね…♥」,「ふふっ♥、無様ですね…♥」,「呵呵♥、真是難看呢…♥」,"""Fufu♥ How gross...♥""","「후훗♥, 꼴사납군요…♥」"
-,,,,,,
-Record.Erenayuta-87,エレナ,「するのは勝手ですが…こんなポイントにならないことをっ！早く終わらせてください！」,「するのは勝手ですが…こんなポイントにならないことをっ！早く終わらせてください！」,「要做是你的自由，但是這種不計分的事！快點結束吧！」,"""Do what you want but... this doesn't count for points! Please finish quickly!""",「하는 건 자유지만… 이런 포인트 안 되는 짓을! 빨리 끝내주세요!」
-,,,,,,
-Record.Erenayuta-88,戦闘員,「あー、放尿も1ポイントで良いんじゃねえか？肉便器なんだし」,「あー、放尿も1ポイントで良いんじゃねえか？肉便器なんだし」,「啊，排尿也算一分不就好了嗎？反正是肉便器嘛。」,"""Ah, urination should count as 1 point too? You're dumpsters after all.""","「아-, 방뇨도 1점으로 좋지 않아? 육변기잖아」"
-,,,,,,
-Record.Erenayuta-89,那由多,「なっ！？」,「なっ！？」,「什麼！？」,"""What?!""",「뭣!?」
-,Record E＆N １５,,,,,
-Record.Erenayuta-90,エレナ,「ふふっ、どうやら私の方がレベルの高い肉便器のようですねっ♥」,「ふふっ、どうやら私の方がレベルの高い肉便器のようですねっ♥」,「呵呵、看來我是級別更高的肉便器呢♥」,"""Fufu, it seems I'm the higher level dumpster♥""","「후훗, 아무래도 제가 더 수준 높은 육변기인 것 같군요♥」"
-,,,,,,
-Record.Erenayuta-91,那由多,「なっ、わ、私にもっ♥、私にもおしっこしてくださいっ♥、エレナに負けるわけにはっ♥」,「なっ、わ、私にもっ♥、私にもおしっこしてくださいっ♥、エレナに負けるわけにはっ♥」,「唔、我、我也要♥、請也對我小便♥、我不能輸給艾蓮娜♥」,"""W-wait, m-me too♥ Please urinate on me too♥ I can't let Elena win♥""","「뭣, 저, 저에게도♥, 저에게도 오줌 싸주세요♥, 엘레나에게 질 수는♥」"
-,,,,,,
-Record.Erenayuta-92,男,「あ？しょうがねーなー」,「あ？しょうがねーなー」,「啊？真是沒辦法啊～」,"""Huh? Fine, I guess.""",「아? 어쩔 수 없네-」
-,Record E＆N １６,,,,,
-Record.Erenayuta-93,,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!"
-,,,,,,
-Record.Erenayuta-94,那由多,「ぐっ♥、んんっ♥♥」,「ぐっ♥、んんっ♥♥」,「嗚♥、嗯嗯♥♥」,"""Guh♥ Nnn♥♥""","「크윽♥, 응응읏♥♥」"
-,,,,,,
-Record.Erenayuta-95,,男は那由多の顔へ向けて勢いよく放尿する,男は那由多の顔へ向けて勢いよく放尿する,男人朝著那由多的臉上猛地排尿。,The man forcefully urinated on Nayuta's face.,남자는 나유타의 얼굴을 향해 힘차게 방뇨한다
-,,,,,,
-Record.Erenayuta-96,那由多,「ごぼっ♥、げぶっ♥！」,「ごぼっ♥、げぶっ♥！」,「咕噗♥、咳噗♥！」,"""Cough♥ Agh♥""","「고봇♥, 겝♥!」"
-,Record E＆N １７,,,,,
-Record.Erenayuta-97,男,「ふう、すっきりしたぜ」,「ふう、すっきりしたぜ」,「呼，舒服了。」,"""Phew, that's refreshing.""","「후우, 시원하다」"
-,,,,,,
-Record.Erenayuta-98,那由多,「はあっ、はぁっ♥、これで互角ですね！」,「はあっ、はぁっ♥、これで互角ですね！」,「哈啊、哈啊♥、這樣就打平了呢！」,"""Haa, haa♥ Now we're even!""","「하앗, 하앗♥, 이걸로 동점입니다!」"
-,,,,,,
-Record.Erenayuta-99,エレナ,「なっ…あなたそこまで…！」,「なっ…あなたそこまで…！」,「唔…你竟然到了這種程度…！」,"""What... you would go that far...!""",「뭣… 당신 거기까지…!」
-,,,,,,
-Record.Erenayuta-100,エレナ,「負けてられませんっ、皆様ッ♥、もっと私を使ってくださいっ♥！」,「負けてられませんっ、皆様ッ♥、もっと私を使ってくださいっ♥！」,「我不能輸，各位♥、請多多使用我吧♥！」,"""I can't lose, everyone♥ Please use me more♥!""","「질 수 없습니다! 여러분♥, 더 저를 사용해주세요♥!」"
-,,,,,,
-Record.Erenayuta-101,那由多,「いえっ、私をッ♥、ザーメンでもおしっこでも、沢山ぶっかけてくださいっ♥！」,「いえっ、私をッ♥、ザーメンでもおしっこでも、沢山ぶっかけてくださいっ♥！」,「不，是我♥、精液也好小便也罷，請大量地噴灑在我身上吧♥！」,"""No, use me♥ Please cover me with jizz and piss♥!""","「아니, 저를!♥, 정액이든 오줌이든, 잔뜩 뿌려주세요♥!」"
-,,,,,,
-Record.Erenayuta-102,戦闘員,「ははっ、必死だな。まあ後3日間このままにしておくからせいぜい頑張ってくれ」,「ははっ、必死だな。まあ後3日間このままにしておくからせいぜい頑張ってくれ」,「哈哈，真是拼命啊。好吧我們會讓妳們在這裡待上三天，妳們就盡量努力吧。」,"""Haha, you're desperate. Well, we'll leave you like this for 3 more days, so do your best.""","「하핫, 필사적이네. 뭐 앞으로 3일간 이대로 둘 테니 힘껏 힘내라」"
-,Record E＆N １1,,,,,
-Record.Erenayuta-103,エレナ,「望むところです！どっちが本物の肉便器か見せてあげますっ！」,「望むところです！どっちが本物の肉便器か見せてあげますっ！」,「正合我意！讓你們看看誰才是真正的肉便器！」,"""That's what I want! I'll show you who the real dumpster is!""",「바라는 바입니다! 어느 쪽이 진짜 육변기인지 보여드리죠!」
-,,,,,,
-Record.Erenayuta-104,那由多,「私は絶対に負けませんっ♥！」,「私は絶対に負けませんっ♥！」,「我是絕對不會輸的♥！」,"""I absolutely won't lose♥!""",「저는 절대로 지지 않습니다♥!」
-,暗転,,,,,
-Record.Erenayuta-105,,―――3日後,―――3日後,―――三天後,Three days later,―――3일 후
-,,,,,,
-Record.Erenayuta-106,戦闘員,「さてと、どうなったかな…と、うおっ」,「さてと、どうなったかな…と、うおっ」,「好了，看看怎麼樣了…哇靠。」,"""Now then, let's see how it went... whoa""","「자 그럼, 어떻게 되었을까… , 우옷」"
-,Record E＆N １８,,,,,
-Record.Erenayuta-107,,そこには体中に落書きをされ、体中が精液とコンドームにまみれた二人の姿があった,そこには体中に落書きをされ、体中が精液とコンドームにまみれた二人の姿があった,那裡有兩個人，身上被塗滿了塗鴉，全身都沾滿了精液和保險套。,"There were the two of them, covered in graffiti, jizz, and condoms.","거기에는 온몸에 낙서가 되고, 온몸이 정액과 콘돔 범벅이 된 두 사람의 모습이 있었다"
-,,,,,,
-Record.Erenayuta-108,エレナ,「お゛っ♥…………お゛おっ………♥」,「お゛っ♥…………お゛おっ………♥」,「喔♥…………喔喔………♥」,"""Oh♥...Ohh...♥""",「오옷 옷♥………… 오옷 오옷………♥」
-,,,,,,
-Record.Erenayuta-109,那由多,「ん゛あ♥…………♥、お゛ぉっ♥」,「ん゛あ♥…………♥、お゛ぉっ♥」,「嗯啊♥…………♥、喔喔♥」,"""Nah♥...♥ Ohh♥""","「응옷 앗♥…………♥, 오옷 오옷♥」"
-,,,,,,
-Record.Erenayuta-110,戦闘員,「こりゃひでえなあ…ザーメン臭で息が詰まりそうだ」,「こりゃひでえなあ…ザーメン臭で息が詰まりそうだ」,「這可真是慘不忍睹啊…精液的臭味讓我快窒息了。」,"""This is terrible... the smell of cum is suffocating.""",「이거 심하네… 정액 냄새로 숨이 막힐 것 같아」
-,,,,,,
-Record.Erenayuta-111,戦闘員,「これ今から掃除して回収するのきついっすね～」,「これ今から掃除して回収するのきついっすね～」,「這樣子要清理和回收會很麻煩的吧～」,"""Cleaning this up is going to be tough.",「이거 지금부터 청소하고 회수하는 거 힘들겠네요~」
-,,,,,,
-Record.Erenayuta-112,エレナ,「お゛♥、ご利用なら……ぜひ私を………♥」,「お゛♥、ご利用なら……ぜひ私を………♥」,「喔♥、如果還會用的話……請務必使用我………♥」,"""Oh♥ If you need to use... please use me...♥""","「오옷 ♥, 이용하신다면…… 부디 저를………♥」"
-,,,,,,
-Record.Erenayuta-113,那由多,「ん゛♥あ………ちが、こっちの便器を………っ♥」,「ん゛♥あ………ちが、こっちの便器を………っ♥」,「嗯♥啊………不對，請使用這邊的便器………唔♥」,"""Nn♥ah...no, use this dumpster...♥""","「응옷 ♥아……… 아니, 이쪽 변기를………윽♥」"
-,,,,,,
-Record.Erenayuta-114,戦闘員,「ははっ、こりゃもう本当に心の底から便器って感じだなｗ」,「ははっ、こりゃもう本当に心の底から便器って感じだなｗ」,「哈哈，這簡直是發自內心的便器了啊w」,"""Haha, they really are dumpsters from the bottom of their hearts now.""","「하핫, 이건 뭐 정말 마음속 깊은 곳까지 변기라는 느낌이네ㅋ」"
-,,,,,,
-Record.Erenayuta-115,戦闘員,「しかし勝負とか言ってましたが…どっちが勝ったんです？」,「しかし勝負とか言ってましたが…どっちが勝ったんです？」,「不過剛才說是比賽…到底是誰贏了呢？」,"""But they were talking about a competition... who won?""",「하지만 승부라고 하셨는데… 어느 쪽이 이겼습니까?」
-,,,,,,
-Record.Erenayuta-116,戦闘員,「あ？そんなの知るわけねえだろ、どうでもいい話だ」,「あ？そんなの知るわけねえだろ、どうでもいい話だ」,「啊？誰知道啊，那種事情無關緊要啦。」,"""Huh? How would I know that? It doesn't matter.""","「아? 그런 거 알 리 없잖아, 아무래도 좋은 이야기다」"
-,,,,,,
-Record.Erenayuta-117,戦闘員,「ついでだ、最後にこいつらで用を足してやろう」,「ついでだ、最後にこいつらで用を足してやろう」,「順便的話，最後讓我們用這兩個來解決一下吧。」,"""While we're at it, let's use them one last time.""","「겸사겸사, 마지막으로 이 녀석들로 용변이나 보자」"
-,,,,,,
-Record.Erenayuta-118,戦闘員,「ははっ、いいですね！」,「ははっ、いいですね！」,「哈哈，不錯啊！」,"""Haha, sounds good!""","「하핫, 좋네요!」"
-,,,,,,
-Record.Erenayuta-119,Record E＆N １９,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!"
-,,,,,,
-Record.Erenayuta-120,エレナ,「お゛っ♥、ご利用いただきっ♥、ありがとうございますっ♥」,「お゛っ♥、ご利用いただきっ♥、ありがとうございますっ♥」,「喔♥、感謝您的使用♥」,"""Oh♥ Thank you for using me♥ Thank you♥""","「오옷 옷♥, 이용해주셔서♥, 감사합니다♥」"
-,,,,,,
-Record.Erenayuta-121,那由多,「使っていただきっ♥、感無量ですッ♥」,「使っていただきっ♥、感無量ですッ♥」,「被使用♥、心滿意足了！」,"""Thank you for using me♥ I am forever grateful♥""","「사용해주셔서♥, 감개무량합니다♥」"
-,,,,,,
-Record.Erenayuta-122,,小便をかけられて喜ぶ二人の姿には既に最強の聖核戦姫としての姿は微塵も見ることが出来なかった,小便をかけられて喜ぶ二人の姿には既に最強の聖核戦姫としての姿は微塵も見ることが出来なかった,兩人被小便淋濕後還十分高興的樣子，已經看不到一絲一毫最強聖核戰姫的樣子了。,Not a trace of the strongest Holy Core Battlemaidens could be seen in the two who rejoiced at being peed on.,소변을 맞고 기뻐하는 두 사람의 모습에는 이미 최강의 성핵전희로서의 모습은 조금도 찾아볼 수 없었다
-,Record E＆N １８,,,,,
-Record.Erenayuta-123,エレナ,「え、えへっ♥、私の勝ちですッ♥♥！」,「え、えへっ♥、私の勝ちですッ♥♥！」,「誒、誒嘿♥、我贏了♥♥！」,"""E-ehehe♥ I win♥♥!""","「에, 에헷♥, 저의 승리입니다♥♥!」"
-,,,,,,
-Record.Erenayuta-124,那由多,「いえっ♥、私の勝ちでしたっ♥、私の方が肉便器っ♥！」,「いえっ♥、私の勝ちでしたっ♥、私の方が肉便器っ♥！」,「不對♥、我贏了♥、我比你還要肉便器♥！」,"""No♥ I won♥ I'm the better dumpster!""","「아니요♥, 저의 승리였습니다♥, 제가 더 육변기♥!」"
-,,,,,,
-Record.Erenayuta-125,,その後二人は戦闘員によってゴミ袋に詰められ、アジトへ回収されていくのだった,その後二人は戦闘員によってゴミ袋に詰められ、アジトへ回収されていくのだった,之後兩人被戰鬥員裝進了垃圾袋，回收到了基地。,"Afterwards, the two were packed into garbage bags by the soldiers and taken back to the hideout.","그 후 두 사람은 전투원에 의해 쓰레기 봉투에 담겨, 아지트로 회수되어 가는 것이었다"
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-Record seikaku,注釈,開放条件　【全ての聖核装備を入手】,開放条件　【全ての聖核装備を入手】,,,개방 조건　【모든 성핵 장비 입수】
-Record.SeikakuEquip,,【聖核加工工場】,【聖核加工工場】,,[Holy Core Processing Factory],【성핵 가공 공장】
-,,,,,,
-Record.SeikakuEquip-1,,記録：聖核加工工場にて,記録：聖核加工工場にて,記錄：於聖核加工工廠,Record: At the Holy Core Processing Factory,기록: 성핵 가공 공장에서
-,暗転,,,,,
-Record.SeikakuEquip-2,Record seikaku １,フォーレン財団の地下アジトの一室に、機械音と水音の響く部屋があった,フォーレン財団の地下アジトの一室に、機械音と水音の響く部屋があった,在福倫財團地下基地的一間房間裡，迴盪著機械聲和水聲。,"In a room in the Forren Foundation's underground hideout, there was a room echoing with the sound of machines and water.","폴른 재단의 지하 아지트 한 방에, 기계음과 물소리가 울리는 방이 있었다"
-,,,,,,
-Record.SeikakuEquip-3,,ガチャン！ガチャン！プシュー！,ガチャン！ガチャン！プシュー！,喀鏘！喀鏘！噗咻！,Clank! Clank! Pshoo!,가챤! 가챤! 푸슈ー!
-,,,,,,
-Record.SeikakuEquip-4,,戦いに敗れた聖核戦姫達は、聖核を排出され、聖核はこの工場でオナホ状に加工される,戦いに敗れた聖核戦姫達は、聖核を排出され、聖核はこの工場でオナホ状に加工される,在戰鬥中落敗的聖核戰姫們，體內的聖核被排出，聖核在這個工廠被加工成自慰套的形狀。,The Holy Core Battlemaidens who lost in battle had their Holy Cores extracted and processed into sex toys at this factory.,"싸움에 패배한 성핵전희들은, 성핵을 배출당하고, 성핵은 이 공장에서 오나홀 형태로 가공된다"
-,,,,,,
-Record.SeikakuEquip-5,聖核戦姫,(っ……私どうなって…！？),(っ……私どうなって…！？),（唔……我怎麼會變這樣……！？）,(...What's happening to me...?!),(윽…… 나 어떻게 된 거지…!?)
-,,,,,,
-Record.SeikakuEquip-6,聖核戦姫,(体から抜け落ちて……機械で加工された…！？),(体から抜け落ちて……機械で加工された…！？),（從身體裡被剝離出來……然後被機器加工了……！？）,(Removed from my body... processed by machines...?!),(몸에서 빠져나와서…… 기계로 가공되었어…!?)
-,,,,,,
-Record.SeikakuEquip-7,聖核戦姫,(やだっ！……元に戻して！),,,,
-,,,,,,
-Record.SeikakuEquip-8,,那由多は聖核を排出された後、オナホ状に加工され複数の戦闘員に使用されている,那由多は聖核を排出された後、オナホ状に加工され複数の戦闘員に使用されている,那由多被排出聖核後，被加工成自慰套的形狀，並被多名戰鬥員使用。,"After Nayuta's Holy Core was extracted, it was processed into a sex toy and used by multiple soldiers.","나유타는 성핵을 배출당한 후, 오나홀 형태로 가공되어 여러 전투원에게 사용되고 있다"
-,,,,,,
-Record.SeikakuEquip-9,戦闘員,「ふう、出した出した。コイツたまにビリビリするのがチンポの刺激になるんだよな～」,「ふう、出した出した。コイツたまにビリビリするのがチンポの刺激になるんだよな～」,「呼，射出來了射出來了。這傢伙偶爾會發出電擊，對雞巴的刺激很有用啊～」,"""Phew, finished. This one sometimes gives electric shocks that stimulate my cock nicely.""","「후우, 쌌다 쌌어. 이 녀석 가끔 찌릿찌릿하는 게 자지에 자극이 된단 말이야~」"
-,,,,,,
-Record.SeikakuEquip-10,那由多,(っ、……離しなさいっ……！),(っ、……離しなさいっ……！),（唔，……放開我……！）,(...Let go of me...!),"(윽, …… 놓으십시오……!)"
-,,,,,,
-Record.SeikakuEquip-11,,(今の私に出来ることはかろうじて電撃を放出するので精一杯…),(今の私に出来ることはかろうじて電撃を放出するので精一杯…),（現在的我能做的，僅僅是勉強放出電擊……已經筋疲力盡了……）,(All I can do now is barely emit electric shocks...),(지금 제가 할 수 있는 것은 간신히 전격을 방출하는 것이 고작…)
-,,,,,,
-Record.SeikakuEquip-12,,(っ、無念です…言葉通り手も足も出ません……),(っ、無念です…言葉通り手も足も出ません……),（唔，我不甘心……簡直是手無縛雞之力……）,(How frustrating... I literally have no hands or feet...),"(윽, 무념입니다… 말 그대로 손발도 내밀 수 없습니다……)"
-,,,,,,
-Record.SeikakuEquip-13,,(そして…それが当たり前になっている…っ、オナホの自分を受け入れ始めているっ！？),(そして…それが当たり前になっている…っ、オナホの自分を受け入れ始めているっ！？),（而且……這個已經變成理所當然了……我竟然開始接受自己是個自慰套了！？）,(And... this is becoming normal... I'm starting to accept being a sex toy?!),"(그리고… 그것이 당연하게 되어가고 있어…윽, 오나홀인 자신을 받아들이기 시작하고 있어!?)"
-,,,,,,
-Record.SeikakuEquip-14,,(嫌ですッ♥、オナホになんかなりたくありませんっ♥！),(嫌ですッ♥、オナホになんかなりたくありませんっ♥！),（不要啊♥，我才不要變成自慰套♥！）,(No♥ I don't want to become one!),"(싫습니다♥, 오나홀 따위 되고 싶지 않습니다♥!)"
-,,,,,,
-Record.SeikakuEquip-15,,エレナは身体を溶かされた後加工され、人形となった京にオナホとして使用されていた,エレナは身体を溶かされた後加工され、人形となった京にオナホとして使用されていた,艾蓮娜的身體被溶解後進行加工，被作為人形的京拿來當自慰套使用。,"After Elena's body was dissolved and processed, she was being used as a pussy in Kei, who had become a sex doll.","엘레나는 몸이 녹아내린 후 가공되어, 인형이 된 케이에게 오나홀로서 사용되고 있었다"
-,,,,,,
-Record.SeikakuEquip-16,エレナ,(なっ♥……私今どうなって……！？),(なっ♥……私今どうなって……！？),（什麼♥……我現在變成了什麼樣……！？）,(What♥... What's happening to me...?!),(뭣♥…… 나 지금 어떻게 된 거지……!?)
-,,,,,,
-Record.SeikakuEquip-17,,(それに…この感覚…まさか……京なのですかっ！？),(それに…この感覚…まさか……京なのですかっ！？),（而且這個感覺…難道是……京嗎！？）,(And... this feeling... could it be... Kei?!),(게다가… 이 감각… 설마…… 케이입니까!?)
-,,,,,,
-Record.SeikakuEquip-18,,(んあっ♥、や、やめっ♥、そんなに激しく使わないでくださいっ♥！),(んあっ♥、や、やめっ♥、そんなに激しく使わないでくださいっ♥！),（嗯啊♥、不、不要♥、請不要用得這麼劇烈♥！）,(Nah♥ S-stop♥ Don't be so rough♥!),"(응앗♥, 여, 그만둬♥, 그렇게 격렬하게 사용하지 마세요♥!)"
-,,,,,,
-Record.SeikakuEquip-19,戦闘員,「ははっ、コイツは性欲だけは無尽蔵だからな。オナホの検品にはもってこいだ」,「ははっ、コイツは性欲だけは無尽蔵だからな。オナホの検品にはもってこいだ」,「哈哈，這傢伙的性慾是無窮無盡的。最適合用來檢驗自慰套了。」,"""Haha, this one has endless desires. Perfect for testing equipment.""","「하핫, 이 녀석은 성욕만은 무진장이라서 말이야. 오나홀 검품에는 안성맞춤이야」"
-,,,,,,
-Record.SeikakuEquip-20,エレナ,(んあっ♥、お゛♥、お゛っ♥),(んあっ♥、お゛♥、お゛っ♥),（嗯啊♥、喔♥、喔♥）,(Nah♥ Oh♥ Oh♥),"(응앗♥, 오옷 ♥, 오옷 옷♥)"
-,,,,,,
-Record.SeikakuEquip-21,,(使われるごとにっ♥、私の存在がッ♥、オナホへ同化していくっ！？♥),(使われるごとにっ♥、私の存在がッ♥、オナホへ同化していくっ！？♥),（每被使用一次♥、我的存在就♥、向自慰套同化過去了！？♥）,(Every time I'm used♥ I'm being assimilated into the sex toy?!♥),"(사용될 때마다♥, 나의 존재가♥, 오나홀로 동화되어 가고 있어!?♥)"
-,,,,,,
-Record.SeikakuEquip-22,,(…っ♥、京っ、正気に戻ってくださいっ♥！),(…っ♥、京っ、正気に戻ってくださいっ♥！),（唔♥、京、請恢復理智♥！）,"(...♥ Kei, please come back to your senses♥!)","(…윽♥, 케이, 정신 차리세요♥!)"
-,,,,,,
-Record.SeikakuEquip-23,,(でなければ私達……っ♥),(でなければ私達……っ♥),（不然我們就會……♥）,"(If not, we...)",(그렇지 않으면 우리들……윽♥)
-,,,,,,
-Record.SeikakuEquip-24,,その後、捕らえられた全ての聖核戦姫達はオナホへ加工され、戦闘員や怪人達の愛玩具として使われ続けるのだった,その後、捕らえられた全ての聖核戦姫達はオナホへ加工され、戦闘員や怪人達の愛玩具として使われ続けるのだった,之後，所有被捕獲的聖核戰姫們都被加工成自慰套，並持續作為戰鬥員和怪人們的愛用玩具而被使用。,"After that, all the captured Holy Core Battlemaidens were turned into sex toys and used extensively by the soldiers...","그 후, 붙잡힌 모든 성핵전희들은 오나홀로 가공되어, 전투원이나 괴인들의 애완 장난감으로서 계속 사용되는 것이었다"
+Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English_Steam,Korean_Steam,Simplified Chinese_Steam
+Record nursery,注釈,変身ヒロイン苗床化　高難易度コンテンツ①触手クリア後,変身ヒロイン苗床化　高難易度コンテンツ①触手クリア後,,,변신 히로인 묘상화 고난이도 콘텐츠 ① 촉수 클리어 후,
+Record.Nursery,暗転,【苗床へ堕ちる聖核戦姫】,【苗床へ堕ちる聖核戦姫】,【墮落成苗床的聖核戰姬】,[Holy Core Battlemaidens Who Fall to Become Seedbeds],【묘상으로 타락하는 성핵전희】,【墮落成苗床的聖核戰姬】
+Record.Nursery-1,Record nuesery 1,記録：聖核戦姫育苗研究施設にて,記録：聖核戦姫育苗研究施設にて,記錄：於聖核戰姫育苗研究設施,Record: At the Holy Core Battlemaiden Cultivation Research Facility,기록: 성핵전희 육묘 연구 시설에서,記錄：於聖核戰姫育苗研究設施
+,,,,,,,
+Record.Nursery-2,,財団との戦いに敗北した聖核戦姫達は様々な用途に利用され、強い力を持った者はより強い怪人を産む苗床となった,財団との戦いに敗北した聖核戦姫達は様々な用途に利用され、強い力を持った者はより強い怪人を産む苗床となった,在與財團的戰鬥中失敗的聖核戰姫們被用於各種用途，其中擁有強大力量者則成為了產下更強怪人的苗床。,"The Holy Core Battlemaidens who were defeated in battles against the Foundation were used for various purposes, with those possessing strong power becoming seedbeds to birth even stronger monsters.","재단과의 싸움에 패배한 성핵전희들은 다양한 용도로 이용되었고, 강한 힘을 가진 자는 더욱 강한 괴인을 낳는 묘상이 되었다",在與財團的戰鬥中失敗的聖核戰姫們被用於各種用途，其中擁有強大力量者則成為了產下更強怪人的苗床。
+,,,,,,,
+Record.Nursery-3,,ズルルッ！、ズルッ、グポッ,ズルルッ！、ズルッ、グポッ,滑溜！、滑入、咕噗。,"Squelch! Slurp, glop","즈르릇!, 즈릇, 그폿",滑溜！、滑入、咕噗。
+,,,,,,,
+Record.Nursery-4,聖核戦姫,「ん゛んっ！～～～～～～～～っ！！！！」,「ん゛んっ！～～～～～～～～っ！！！！」,「嗯嗯！～～～～～～～～！！！！」,"""Nnngh! Mmmmmmmph!!!!""",「응옷 응윽!~~~~~~윽!!!!」,「嗯嗯！～～～～～～～～！！！！」
+,,,,,,,
+Record.Nursery-5,,部屋には苗床となった聖核戦姫達の快楽による苦悶の声が小さく響き渡る,部屋には苗床となった聖核戦姫達の快楽による苦悶の声が小さく響き渡る,房間裡迴盪著化為苗床的聖核戰姫們因快感而發出微弱地苦悶聲。,Soft agonized moans of pleasure from the Holy Core Battlemaidens who had become seedbeds echoed throughout the room.,방에는 묘상이 된 성핵전희들의 쾌락에 의한 고통스러운 목소리가 작게 울려 퍼진다,房間裡迴盪著化為苗床的聖核戰姫們因快感而發出微弱地苦悶聲。
+,,,,,,,
+Record.Nursery-6,クローン戦闘員,「苗床S11からS23までの状態を確認、健康状態に大きな変化はありません」,「苗床S11からS23までの状態を確認、健康状態に大きな変化はありません」,「確認苗床S11至S23的狀態，健康狀況沒有太大變化。」,"""Status check confirmed for Seedbeds S11 through S23, no major changes in health.""","「묘상 S11부터 S23까지 상태 확인, 건강 상태에 큰 변화는 없습니다」",「確認苗床S11至S23的狀態，健康狀況沒有太大變化。」
+,,,,,,,
+Record.Nursery-7,,「本日妊娠した触手の数は平均13。そのうち今日は平均7匹を出産済みです」,「本日妊娠した触手の数は平均13。そのうち今日は平均7匹を出産済みです」,「本日懷孕的觸手數量平均為13隻。其中今天已經生下的數量平均為7隻。」,"""Average number of tentacles impregnated today: 13. Of those, an average of 7 have already been birthed today.""",「오늘 임신한 촉수의 수는 평균 13. 그중 오늘은 평균 7마리를 출산 완료했습니다」,「本日懷孕的觸手數量平均為13隻。其中今天已經生下的數量平均為7隻。」
+,,,,,,,
+Record.Nursery-8,,「このままならここの苗床群も2週間後にはクラス3怪人の生産に移行できるでしょう」,「このままならここの苗床群も2週間後にはクラス3怪人の生産に移行できるでしょう」,「照這樣下去，這裡的苗床群兩週後應該就能轉移至生產Class 3的怪人了吧。」,"""At this rate, this seedbed group should be able to transition to Class 3 monster production in two weeks.""",「이 상태라면 이곳 묘상 군도 2주 후에는 클래스 3 괴인 생산으로 이행할 수 있을 것입니다」,「照這樣下去，這裡的苗床群兩週後應該就能轉移至生產Class 3的怪人了吧。」
+,,,,,,,
+Record.Nursery-9,クローン戦闘員,「報告ありがとうございます」,「報告ありがとうございます」,「感謝報告。」,"""Thank you for the report.""",「보고 감사합니다」,「感謝報告。」
+,,,,,,,
+Record.Nursery-10,,「…………しかし」,「…………しかし」,「…………可是」,"""...However""",「…………하지만」,「…………可是」
+,,,,,,,
+Record.Nursery-11,クローン戦闘員,「？どうしましたか？」,「？どうしましたか？」,「？怎麼了嗎？」,"""...? What's wrong?""",「? 무슨 일입니까?」,「？怎麼了嗎？」
+,,,,,,,
+Record.Nursery-12,クローン戦闘員,「いえ、かつては皆名のある聖核戦姫で、私達クローン何体で戦っても勝ち目はありませんでした」,「いえ、かつては皆名のある聖核戦姫で、私達クローン何体で戦っても勝ち目はありませんでした」,「不，她們過去都是赫赫有名的聖核戰姫，是我們這些克隆人無論多少人上前戰鬥都毫無勝算的對象。」,"""No, it's just that they were all once renowned Holy Core Battlemaidens. No matter how many of us clones fought them, we had no chance of winning.""","「아뇨, 예전에는 모두 이름 있는 성핵전희였고, 우리 클론 몇 체로 싸워도 승산이 없었습니다」",「不，她們過去都是赫赫有名的聖核戰姫，是我們這些克隆人無論多少人上前戰鬥都毫無勝算的對象。」
+,,,,,,,
+Record.Nursery-13,,「……………それが今やこの有様です」,「……………それが今やこの有様です」,「……………結果現在卻是這副模樣。」,"""...And now look at them like this.""",「……………그것이 지금은 이 모양입니다」,「……………結果現在卻是這副模樣。」
+,,,,,,,
+Record.Nursery-14,クローン戦闘員,「……ええ、こうなってしまえば聖核戦姫もただの肉袋ですね」,「……ええ、こうなってしまえば聖核戦姫もただの肉袋ですね」,「……是啊，變成這樣的話，聖核戰姫也不過是個肉袋呢。」,"""...Yes, once they become like this, Holy Core Battlemaidens are just meat sacks.""","「……네, 이렇게 되어버리면 성핵전희도 그저 고깃덩어리네요」",「……是啊，變成這樣的話，聖核戰姫也不過是個肉袋呢。」
+,,,,,,,
+Record.Nursery-15,,ズルッ、ズルルッ！,ズルッ、ズルルッ！,滑入、滑入！,"Slurp, squelch!","즈릇, 즈르릇!",滑入、滑入！
+,,,,,,,
+Record.Nursery-16,,突然、部屋全体の触手と肉塊が収縮と弛緩を繰り返し始める,突然、部屋全体の触手と肉塊が収縮と弛緩を繰り返し始める,突然，房間裡所有的觸手與肉塊開始反覆收縮與鬆弛。,"Suddenly, the tentacles and flesh masses throughout the room began repeatedly contracting and relaxing.","갑자기, 방 전체의 촉수와 살덩이가 수축과 이완을 반복하기 시작한다",突然，房間裡所有的觸手與肉塊開始反覆收縮與鬆弛。
+,,,,,,,
+Record.Nursery-17,聖核戦姫,「「「ん゛ん～～～っ！！」」」,「「「ん゛ん～～～っ！！」」」,「「「嗯嗯～～～！！」」」,"""Nnnn!!!""",「「「응옷 응~~~윽!!」」」,「「「嗯嗯～～～！！」」」
+,,,,,,,
+Record.Nursery-18,クローン戦闘員,「おや、苗床の出産が始まりましたね」,「おや、苗床の出産が始まりましたね」,「喔呀，苗床的生產開始了呢」,"""Oh, the seedbeds have started giving birth.""","「어머, 묘상의 출산이 시작되었군요」",「喔呀，苗床的生產開始了呢」
+,,,,,,,
+Record.Nursery-19,,聖核戦姫達は体中を肉塊によって押され、出産を促される,聖核戦姫達は体中を肉塊によって押され、出産を促される,聖核戰姫們的全身被肉塊擠壓，促使著她們生產。,"The Holy Core Battlemaidens' bodies were pushed by the flesh masses, urging them to give birth.","성핵전희들은 온몸을 살덩이에 의해 눌려, 출산을 재촉당한다",聖核戰姫們的全身被肉塊擠壓，促使著她們生產。
+,,,,,,,
+Record.Nursery-20,,ビクンッ、ビクンッ！,ビクンッ、ビクンッ！,抽動！、抽動！,"Twitch, twitch!","비쿤, 비쿤!",抽動！、抽動！
+,,,,,,,
+Record.Nursery-21,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」
+,Record nursery 2,,,,,,
+Record.Nursery-22,,ドバッ！ブルルルッ！ビシャッ♥！,ドバッ！ブルルルッ！ビシャッ♥！,噴湧！噗嚕嚕！啪唰♥！,Gush! Blurrrrp! Splash!♥,도밧! 부르릇! 비샷♥!,噴湧！噗嚕嚕！啪唰♥！
+,,,,,,,
+Record.Nursery-23,聖核戦姫,「「「ん゛んんっっっ～～っ♥♥！！」」」,「「「ん゛んんっっっ～～っ♥♥！！」」」,「「「嗯嗯嗯～～♥♥！！」」」,"""Nnnnnn♥♥!!""",「「「응옷 응응윽~~~윽♥♥!!」」」,「「「嗯嗯嗯～～♥♥！！」」」
+,,,,,,,
+Record.Nursery-24,,至る所の聖核戦姫達の胎内から大小さまざまな触手が飛び出す,至る所の聖核戦姫達の胎内から大小さまざまな触手が飛び出す,大大小小的觸手從各處聖核戰姫們的胎內噴出。,Tentacles of various sizes burst forth from the wombs of Holy Core Battlemaidens everywhere.,곳곳의 성핵전희들의 태내에서 크고 작은 다양한 촉수가 튀어나온다,大大小小的觸手從各處聖核戰姫們的胎內噴出。
+,,,,,,,
+Record.Nursery-25,,グチュッ！ドバッ！ビクンッ！,グチュッ！ドバッ！ビクンッ！,咕啾！噴出！抽動！,Squelch! Gush! Twitch!,구츗! 도밧! 비쿤!,咕啾！噴出！抽動！
+,,,,,,,
+Record.Nursery-26,クローン戦闘員,「触手の出産を確認。今回はなかなか大きなサイズが生まれていますね」,「触手の出産を確認。今回はなかなか大きなサイズが生まれていますね」,「確認到觸手已生產。這次生出了體型相當大的個體呢。」,"""Tentacle births confirmed. Some quite large sizes are being born this time.""",「촉수 출산 확인. 이번에는 제법 큰 사이즈가 태어났군요」,「確認到觸手已生產。這次生出了體型相當大的個體呢。」
+,,,,,,,
+Record.Nursery-27,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」
+,,,,,,,
+Record.Nursery-28,,プシャッ、プシャッ、プシャッ！,プシャッ、プシャッ、プシャッ！,噗咻、噗咻、噗咻！,"Pshhh, pshhh, pshhh!","푸샷, 푸샷, 푸샷!",噗咻、噗咻、噗咻！
+,,,,,,,
+Record.Nursery-29,クローン戦闘員,「ふう、あらかた出産は落ち着きましたかね」,「ふう、あらかた出産は落ち着きましたかね」,「呼，生產大致上都平息下來了吧。」,"""Phew, it seems the birthing has mostly settled down.""","「후우, 대충 출산은 진정되었군요」",「呼，生產大致上都平息下來了吧。」
+,,,,,,,
+Record.Nursery-30,クローン戦闘員,「……ところでこの苗床達は今後どうなるのでしょうか？」,「……ところでこの苗床達は今後どうなるのでしょうか？」,「……話說回來，這些苗床今後會怎麼樣呢？」,"""......By the way, what will happen to these seedbeds going forward?""",「……그런데 이 묘상들은 앞으로 어떻게 되는 걸까요?」,「……話說回來，這些苗床今後會怎麼樣呢？」
+,,,,,,,
+Record.Nursery-31,クローン戦闘員,「ああ、最終的には聖核が触手に完全に同化して生殖器官、この苗床の一部となります」,「ああ、最終的には聖核が触手に完全に同化して生殖器官、この苗床の一部となります」,「啊，最終她們的聖核會與觸手完全同化，成為生殖器官、這個苗床的一部分。」,"""Ah, ultimately their Holy Cores will completely assimilate with the tentacles and become reproductive organs, part of this seedbed.""","「아아, 최종적으로는 성핵이 촉수에 완전히 동화되어 생식 기관, 이 묘상의 일부가 됩니다」",「啊，最終她們的聖核會與觸手完全同化，成為生殖器官、這個苗床的一部分。」
+,,,,,,,
+Record.Nursery-32,クローン戦闘員,「なるほど…しかしここまでくると少し可哀そうですね」,「なるほど…しかしここまでくると少し可哀そうですね」,「原來如此…不過都到這一步了，感覺有點可憐呢。」,"""I see... However, when it goes this far, it's a bit pitiful.""",「과연… 하지만 여기까지 오면 조금 불쌍하군요」,「原來如此…不過都到這一步了，感覺有點可憐呢。」
+,,,,,,,
+Record.Nursery-33,クローン戦闘員,「いえ、実際は苗床達のドーパミン、オキシトシン的幸福度は非常に高いです」,「いえ、実際は苗床達のドーパミン、オキシトシン的幸福度は非常に高いです」,「不，實際上苗床們的多巴胺、催產素所帶來的幸福度非常高。」,"""No, actually the seedbeds' dopamine and oxytocin-based happiness levels are extremely high.""","「아뇨, 실제로는 묘상들의 도파민, 옥시토신적 행복도는 매우 높습니다」",「不，實際上苗床們的多巴胺、催產素所帶來的幸福度非常高。」
+,,,,,,,
+Record.Nursery-34,クローン戦闘員,「生殖器官となる時まで快楽の時間を過ごせるのです。彼女達も幸せでしょう」,「生殖器官となる時まで快楽の時間を過ごせるのです。彼女達も幸せでしょう」,「在成為生殖器官之前，她們都能享受著快感。她們想必也很幸福吧。」,"""They get to spend their time in pleasure until they become reproductive organs. They must be happy too.""",「생식 기관이 될 때까지 쾌락의 시간을 보낼 수 있는 겁니다. 그녀들도 행복하겠죠」,「在成為生殖器官之前，她們都能享受著快感。她們想必也很幸福吧。」
+,,,,,,,
+Record.Nursery-35,クローン戦闘員,「なるほど、安心しました。では本日の観察はこれで終了ということで……」,「なるほど、安心しました。では本日の観察はこれで終了ということで……」,「原來如此，那我就放心了。那麼今天的觀察就到此結束……」,"""I see, that's reassuring. Well then, that concludes today's observation...""","「과연, 안심했습니다. 그럼 오늘의 관찰은 이걸로 종료하는 것으로……」",「原來如此，那我就放心了。那麼今天的觀察就到此結束……」
+,Record nursery 3,,,,,,
+Record.Nursery-36,,苗床部屋から二人のクローン戦闘員が出て行き、部屋は暗闇に包まれる,苗床部屋から二人のクローン戦闘員が出て行き、部屋は暗闇に包まれる,兩名克隆人戰鬥員走出了苗床室，房間被黑暗所包圍。,"The two clone soldiers left the seedbed room, and the room was enveloped in darkness.","묘상 방에서 두 명의 클론 전투원이 나가고, 방은 어둠에 휩싸인다",兩名克隆人戰鬥員走出了苗床室，房間被黑暗所包圍。
+,,,,,,,
+Record.Nursery-37,聖核戦姫,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「ん゛んん～～っ♥♥♥！！！」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」,"""Nnnnn♥♥♥!!!""",「「「응옷 응응~~~윽♥♥♥!!!」」」,「「「嗯嗯嗯～～♥♥♥！！！」」」
+,,,,,,,
+Record.Nursery-38,,出産が終わった聖核戦姫達はすぐに精触手によって種付けが行われる,出産が終わった聖核戦姫達はすぐに精触手によって種付けが行われる,生產結束的聖核戰姫們，立刻被觸手進行播種。,The Holy Core Battlemaidens who had finished giving birth were immediately seeded by tentacles.,출산이 끝난 성핵전희들은 즉시 정촉수에 의해 수정이 이루어진다,生產結束的聖核戰姫們，立刻被觸手進行播種。
+,,,,,,,
+Record.Nursery-39,,ズルルッ、ズチュ、ズルルッ,ズルルッ、ズチュ、ズルルッ,滑溜、噗啾、滑入。,"Squelch, squish, squelch","즈르릇, 즈츗, 즈르릇",滑溜、噗啾、滑入。
+,,,,,,,
+Record.Nursery-40,,聖核戦姫達は暗闇の中出産を繰り返し、全身が同化して完全な苗床になるまで快楽の中に囚われるのだった,聖核戦姫達は暗闇の中出産を繰り返し、全身が同化して完全な苗床になるまで快楽の中に囚われるのだった,聖核戰姫們在黑暗中不斷重複著生產，直到全身同化成完全的苗床為止，永遠囚禁在快感之中。,"The Holy Core Battlemaidens repeatedly gave birth in the darkness, trapped in pleasure until their entire bodies assimilated and became complete seedbeds.","성핵전희들은 어둠 속에서 출산을 반복하고, 온몸이 동화되어 완전한 묘상이 될 때까지 쾌락 속에 갇히는 것이었다",聖核戰姫們在黑暗中不斷重複著生產，直到全身同化成完全的苗床為止，永遠囚禁在快感之中。
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Record Akiho paizuri,注釈,明穂闇堕ち後パイズリ(実装：Chapter2ｰ3クリア後),明穂闇堕ち後パイズリ(実装：Chapter2ｰ3クリア後),,,아키호 타락 후 파이즈리 (실장: Chapter 2-3 클리어 후),
+Record.AkihoPaizuri,,【爆乳怪人明穂の淫靡な日常】,【爆乳怪人明穂の淫靡な日常】,【爆乳怪人明穗的淫靡日常】,[Busty Fiend Akiho's Lewd Life],【폭유 괴인 아키호의 음란한 일상】,【爆乳怪人明穗的淫靡日常】
+Record.AkihoPaizuri-1,,明穂が身も心も完全に堕ち、財団の一員となった日常の一幕,明穂が身も心も完全に堕ち、財団の一員となった日常の一幕,明穗身心完全墮落，成為財團一員的日常一幕。,"A slice of life after Akiho had completely fallen in body and mind, becoming a member of the Foundation.","아키호가 몸과 마음이 완전히 타락하여, 재단의 일원이 된 일상의 한 장면",明穗身心完全墮落，成為財團一員的日常一幕。
+,Record akiho paizuri,,,,,,
+Record.AkihoPaizuri-2,明穂,「ふふっ♥ど～ですか戦闘員さんっ♥爆乳怪人明穂の改造おっぱいっ♥」,「ふふっ♥ど～ですか戦闘員さんっ♥爆乳怪人明穂の改造おっぱいっ♥」,「呵呵♥怎麼樣啊戰鬥員先生♥巨乳怪人明穗的改造胸部♥」,"""Fufu♥ How is it, soldier♥ Do you like my modified breasts♥""",「후훗♥ 어~때요 전투원 씨♥ 폭유 괴인 아키호의 개조 가슴♥」,「呵呵♥怎麼樣啊戰鬥員先生♥巨乳怪人明穗的改造胸部♥」
+,,,,,,,
+Record.AkihoPaizuri-3,,「戦闘員さんの改造デカちんぽも簡単に包めちゃいますっ♥！」,「戦闘員さんの改造デカちんぽも簡単に包めちゃいますっ♥！」,「輕易就能包住戰鬥員先生改造的大雞巴♥！」,"""I can easily wrap around even your modified huge cock, soldier♥""",「전투원 씨의 개조 왕자지도 간단히 감쌀 수 있어요♥!」,「輕易就能包住戰鬥員先生改造的大雞巴♥！」
+,,,,,,,
+Record.AkihoPaizuri-4,戦闘員,「うおっ、すげえ質量と圧迫感だっ！」,「うおっ、すげえ質量と圧迫感だっ！」,「哇靠，好驚人的質量和壓迫感！」,"""Whoa, incredible mass and pressure!""","「우옷, 굉장한 질량과 압박감이다!」",「哇靠，好驚人的質量和壓迫感！」
+,,,,,,,
+Record.AkihoPaizuri-5,明穂,「ふふっ、戦闘員の皆さんに毎日おっぱい調教されてこんなになっちゃいましたぁ♥♥」,「ふふっ、戦闘員の皆さんに毎日おっぱい調教されてこんなになっちゃいましたぁ♥♥」,「呵呵♥，每天被戰鬥員們調教胸部，就變成這樣啦♥♥」,"""Fufu, I became like this from daily breast training by all you soldiers♥♥""","「후훗, 전투원 여러분에게 매일 가슴 조교당해서 이렇게 되어버렸어요♥♥」",「呵呵♥，每天被戰鬥員們調教胸部，就變成這樣啦♥♥」
+,,,,,,,
+Record.AkihoPaizuri-6,,そこにかつての純朴で朗らかな表情はなく、明穂は堕ちた妖艶な笑みを浮かべる,そこにかつての純朴で朗らかな表情はなく、明穂は堕ちた妖艶な笑みを浮かべる,她臉上已沒有過去純樸開朗的神情，明穗露出墮落後妖豔的笑容。,"Gone was her once innocent and cheerful expression, replaced by Akiho's fallen, bewitching smile.","거기에는 예전의 순박하고 명랑한 표정은 없고, 아키호는 타락한 요염한 미소를 띤다",她臉上已沒有過去純樸開朗的神情，明穗露出墮落後妖豔的笑容。
+,,,,,,,
+Record.AkihoPaizuri-7,,「明穂のおっぱい毎日搾ってくれる皆さんのためにっ♥、今日は明穂の爆乳おっぱいでパイズリご奉仕しますっ♥」,「明穂のおっぱい毎日搾ってくれる皆さんのためにっ♥、今日は明穂の爆乳おっぱいでパイズリご奉仕しますっ♥」,「為了每天榨取明穗胸部的各位♥，今天明穗要我的用巨乳來服務大家♥」,"""For everyone who milks my breasts every day♥ Today I'll let you fuck my huge boobs♥""","「아키호 가슴 매일 짜주는 여러분을 위해♥, 오늘은 아키호의 폭유 가슴으로 파이즈리 봉사합니다♥」",「為了每天榨取明穗胸部的各位♥，今天明穗要我的用巨乳來服務大家♥」
+,Record akiho paizuri２,,,,,,
+Record.AkihoPaizuri-8,,そして明穂は巨大な爆乳を体全体を使って動かしてちんぽへの奉仕を始める,そして明穂は巨大な爆乳を体全体を使って動かしてちんぽへの奉仕を始める,接著明穗用整個身體帶動巨大的巨乳，開始服侍眼前的雞巴。,"Then Akiho began servicing the cock, moving her gigantic breasts with her entire body.",그리고 아키호는 거대한 폭유를 온몸을 사용해 움직여 자지에 봉사를 시작한다,接著明穗用整個身體帶動巨大的巨乳，開始服侍眼前的雞巴。
+,,,,,,,
+Record.AkihoPaizuri-9,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥",啪噹噹♥♥、啪噹♥♥、啪噹♥♥
+,,,,,,,
+Record.AkihoPaizuri-10,戦闘員,「ぐっ、デカチチがゴムボールみたいに揺れてすげえ迫力だなっ」,「ぐっ、デカチチがゴムボールみたいに揺れてすげえ迫力だなっ」,「呃，大奶像橡膠球一樣晃動，氣勢好驚人啊」,"""Ugh, those huge tits are bouncing like rubber balls, what incredible impact!""","「크윽, 큰 젖이 고무공처럼 흔들려서 굉장한 박력이네」",「呃，大奶像橡膠球一樣晃動，氣勢好驚人啊」
+,,,,,,,
+Record.AkihoPaizuri-11,明穂,「ふふっ♥♥私はおっぱい怪人ですからっ♥、このくらい簡単ですッ♥」,「ふふっ♥♥私はおっぱい怪人ですからっ♥、このくらい簡単ですッ♥」,「呵呵♥♥我是胸部怪人嘛♥，這種程度很簡單的♥」,"""Fufu♥♥ I'm a breast fiend after all♥ This much is easy♥""","「후훗♥♥ 저는 가슴 괴인이니까요♥, 이 정도는 간단합니다♥」",「呵呵♥♥我是胸部怪人嘛♥，這種程度很簡單的♥」
+,,,,,,,
+Record.AkihoPaizuri-12,,明穂は聖核戦姫の身体能力を全てパイズリに使い、目の前のチンポをしごくことに全神経を集中させる,明穂は聖核戦姫の身体能力を全てパイズリに使い、目の前のチンポをしごくことに全神経を集中させる,明穗將聖核戰姫所有的身體能力都用在乳交上，全神貫注於搓揉眼前的雞巴。,"Akiho used all her Holy Core Battlemaiden physical abilities for the titfuck, concentrating on stroking the cock before her.","아키호는 성핵전희의 신체 능력을 전부 파이즈리에 사용하고, 눈앞의 자지를 흔드는 것에 온 신경을 집중시킨다",明穗將聖核戰姫所有的身體能力都用在乳交上，全神貫注於搓揉眼前的雞巴。
+,,,,,,,
+Record.AkihoPaizuri-13,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥",啪噹噹♥♥、啪噹♥♥、啪噹♥♥
+,,,,,,,
+Record.AkihoPaizuri-14,戦闘員,「っ、しかしノーハンドパイズリとは舐められたもんだなっ！」,「っ、しかしノーハンドパイズリとは舐められたもんだなっ！」,「唔，竟然覺得不用手就乳交，太小看人了吧！」,"""Tch, but a no-hands titfuck? You're looking down on me!""","「윽, 하지만 노핸드 파이즈리라니 얕보였군!」",「唔，竟然覺得不用手就乳交，太小看人了吧！」
+,,,,,,,
+Record.AkihoPaizuri-15,明穂,「んっ♥、んっ♥、そうじゃなくてっ♥明穂のおっぱいっ♥、大きすぎて手で持てないんですよっ♥」,「んっ♥、んっ♥、そうじゃなくてっ♥明穂のおっぱいっ♥、大きすぎて手で持てないんですよっ♥」,「嗯♥、嗯♥、不是啦♥明穗的胸部♥，太大了手抓不住啦♥」,"""Ngh♥ Ngh♥ That's not it♥ My breasts♥ They're too big to hold with my hands♥""","「응읏♥, 응읏♥, 그렇지 않아요♥ 아키호 가슴♥, 너무 커서 손으로 잡을 수가 없어요♥」",「嗯♥、嗯♥、不是啦♥明穗的胸部♥，太大了手抓不住啦♥」
+,,,,,,,
+Record.AkihoPaizuri-16,,「でもっ♥、こんなに大きくしてくれたのは戦闘員の皆様のおかげだからっ♥」,「でもっ♥、こんなに大きくしてくれたのは戦闘員の皆様のおかげだからっ♥」,「可是♥，能長這麼大都多虧了各位戰鬥員♥」,"""But♥ It's thanks to all you soldiers that they got this big♥""","「하지만♥, 이렇게 크게 만들어준 것은 전투원 여러분 덕분이니까♥」",「可是♥，能長這麼大都多虧了各位戰鬥員♥」
+,,,,,,,
+Record.AkihoPaizuri-17,,「っ♥、全力でパイズリしてご奉仕しますっ♥♥！」,「っ♥、全力でパイズリしてご奉仕しますっ♥♥！」,「唔♥，我會全力乳交來服侍各位的♥♥！」,"""♥ I'll give you the titfuck of your life♥♥""","「윽♥, 전력으로 파이즈리해서 봉사하겠습니다♥♥!」",「唔♥，我會全力乳交來服侍各位的♥♥！」
+,,,,,,,
+Record.AkihoPaizuri-18,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥",啪噹噹♥♥、啪噹♥♥、啪噹♥♥
+,,,,,,,
+Record.AkihoPaizuri-19,戦闘員,「ぐうっ！すげえ乳圧でもう出ちまいそうだっ！」,「ぐうっ！すげえ乳圧でもう出ちまいそうだっ！」,「嗚！好強的胸部壓力，快要射出來了！」,"""Guh! The breast pressure is so intense I'm about to come!""",「크으윽! 굉장한 젖압으로 이제 싸버릴 것 같아!」,「嗚！好強的胸部壓力，快要射出來了！」
+,,,,,,,
+Record.AkihoPaizuri-20,明穂,「ふふっ♥、出してくださいっ♥、戦闘員様の改造特濃ザーメンッ♥♥」,「ふふっ♥、出してくださいっ♥、戦闘員様の改造特濃ザーメンッ♥♥」,「呵呵♥，請射出來吧♥，戰鬥員大人改造的特濃精液♥♥」,"""Fufu♥ Please ♥ Your modified super-thick semen, soldier♥♥""","「후훗♥, 싸주세요♥, 전투원 님의 개조 특농 정액♥♥」",「呵呵♥，請射出來吧♥，戰鬥員大人改造的特濃精液♥♥」
+,,,,,,,
+Record.AkihoPaizuri-21,,明穂は身体全体をくねらし、爆乳を激しく震わせて射精を促す,明穂は身体全体をくねらし、爆乳を激しく震わせて射精を促す,明穗扭動全身，猛烈地震動巨乳，催促他射精。,"Akiho writhed her entire body, shaking her huge breasts violently to encourage ejaculation.","아키호는 몸 전체를 꿈틀거리며, 폭유를 격렬하게 흔들어 사정을 재촉한다",明穗扭動全身，猛烈地震動巨乳，催促他射精。
+,,,,,,,
+Record.AkihoPaizuri-22,,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,ダパンッッ♥♥、ダパンッ♥♥、ダパンッ♥♥,啪噹噹♥♥、啪噹♥♥、啪噹♥♥,Boing♥♥ Boing♥♥ Boing♥♥,"다팟♥♥, 다팟♥♥, 다팟♥♥",啪噹噹♥♥、啪噹♥♥、啪噹♥♥
+,,,,,,,
+Record.AkihoPaizuri-23,戦闘員,「っ、ぐうっ、出すぞ！」,「っ、ぐうっ、出すぞ！」,「唔，我要射了！」,"""Tch, guh, I'm coming!""","「윽, 크윽, 싼다!」",「唔，我要射了！」
+,,,,,,,
+Record.AkihoPaizuri-24,明穂,「んっ♥、出してくださいっ♥明穂の顔とおっぱいにぶちまけてっ♥♥！」,「んっ♥、出してくださいっ♥明穂の顔とおっぱいにぶちまけてっ♥♥！」,「嗯♥，請射出來吧♥，噴在明穗的臉上和胸部上♥♥！」,"""Ngh♥ Please com♥ Spray it all over my face and boobs♥♥!""","「응읏♥, 싸주세요♥ 아키호 얼굴과 가슴에 뿌려줘♥♥!」",「嗯♥，請射出來吧♥，噴在明穗的臉上和胸部上♥♥！」
+,,,,,,,
+Record.AkihoPaizuri-25,,そして戦闘員のチンポから明穂の眼前に精液が放たれる,そして戦闘員のチンポから明穂の眼前に精液が放たれる,接著精液從戰鬥員的雞巴噴向明穗的眼前。,Then semen shot out from the soldier's cock right before Akiho's eyes.,그리고 전투원의 자지에서 아키호 눈앞에 정액이 방출된다,接著精液從戰鬥員的雞巴噴向明穗的眼前。
+,Record akiho paizuri３,,,,,,
+Record.AkihoPaizuri-26,,ドプッ、ビュルルルッルッ！,ドプッ、ビュルルルッルッ！,咚噗、咻嚕嚕嚕嚕！,"Splurt, spurrrrt!","도풋, 뷰르르르릇르릇!",咚噗、咻嚕嚕嚕嚕！
+,,,,,,,
+Record.AkihoPaizuri-27,明穂,「あんっ♥、ザーメンきたあっ♥♥！」,「あんっ♥、ザーメンきたあっ♥♥！」,「啊♥，精液來啦♥♥！」,"""Ahn♥ Here comes the semen♥♥!""","「아앙♥, 정액 왔다아♥♥!」",「啊♥，精液來啦♥♥！」
+,,,,,,,
+Record.AkihoPaizuri-28,,「ふふっ♥凄い勢いっ♥、尿道に残った精液もこうやって♥」,「ふふっ♥凄い勢いっ♥、尿道に残った精液もこうやって♥」,「呵呵♥好大的衝力♥，尿道裡剩下的精液也要這樣♥」,"""Fufu♥ Such force♥ And now, the semen left in your urethra too, like this♥""","「후훗♥ 굉장한 기세♥, 요도에 남은 정액도 이렇게♥」",「呵呵♥好大的衝力♥，尿道裡剩下的精液也要這樣♥」
+,,,,,,,
+Record.AkihoPaizuri-29,,明穂は両乳を手で押して圧力を加え、戦闘員を最後まで射精へと促す,明穂は両乳を手で押して圧力を加え、戦闘員を最後まで射精へと促す,明穗用手擠壓兩側的乳房施加壓力，催促戰鬥員射精直到最後。,"Akiho pressed both breasts with her hands to apply pressure, urging the soldier to empty his sack fully.","아키호는 양 젖을 손으로 눌러 압력을 가하고, 전투원을 마지막까지 사정하도록 재촉한다",明穗用手擠壓兩側的乳房施加壓力，催促戰鬥員射精直到最後。
+,,,,,,,
+Record.AkihoPaizuri-30,,「ほらっ♥、精液全部だしてくださいっ♥」,「ほらっ♥、精液全部だしてくださいっ♥」,「快♥，把精液全部射出來吧♥」,"""Come on♥ Let out all your semen♥""","「자♥, 정액 전부 싸주세요♥」",「快♥，把精液全部射出來吧♥」
+,,,,,,,
+Record.AkihoPaizuri-31,戦闘員,「っ、ぐうっ！」,「っ、ぐうっ！」,「唔，嗚！」,"""Ugh, guuh!""","「윽, 크으윽!」",「唔，嗚！」
+,Record akiho paizuri4,,,,,,
+Record.AkihoPaizuri-32,,ビュクッ、ドクッ,ビュクッ、ドクッ,咻、咚。,"Spurt, throb","뷰큣, 도큣",咻、咚。
+,,,,,,,
+Record.AkihoPaizuri-33,明穂,「ふふっ♥、沢山でましたねっ♥♥ごちそうさまでしたっ♥」,「ふふっ♥、沢山でましたねっ♥♥ごちそうさまでしたっ♥」,「呵呵♥，射了很多呢♥♥謝謝款待♥」,"""Fufu♥ So much came out♥♥ Thank you for the treat♥""","「후훗♥, 많이 나왔네요♥♥ 잘 먹었습니다♥」",「呵呵♥，射了很多呢♥♥謝謝款待♥」
+,,,,,,,
+Record.AkihoPaizuri-34,,「じゃあ次は待ってる皆さん……っ♥」,「じゃあ次は待ってる皆さん……っ♥」,「那接下來是在等候的各位……呀♥」,"""Now then, for everyone waiting...♥""",「그럼 다음 기다리는 여러분……♥」,「那接下來是在等候的各位……呀♥」
+,,,,,,,
+Record.AkihoPaizuri-35,,「みんな明穂がザーメン抜いてあげますからっ♥順番に並んでくださいっ♥」,「みんな明穂がザーメン抜いてあげますからっ♥順番に並んでくださいっ♥」,「大家，明穗會幫你們榨出精液的♥請排隊吧♥」,"""Akiho will milk everyone♥ Please line up♥""",「모두 아키호가 정액 빼드릴 테니까♥ 순서대로 줄 서주세요♥」,「大家，明穗會幫你們榨出精液的♥請排隊吧♥」
+,,,,,,,
+Record.AkihoPaizuri-36,戦闘員,「ったく、あれだけ動いてたのにすげえ体力だなっ」,「ったく、あれだけ動いてたのにすげえ体力だなっ」,「真是的，都已經動了那麼久，體力還真驚人啊」,"""Geez, after moving that much, what incredible stamina!""","「정말, 저렇게 움직였는데 굉장한 체력이네」",「真是的，都已經動了那麼久，體力還真驚人啊」
+,,,,,,,
+Record.AkihoPaizuri-37,,「ふふっ♥明穂は聖核戦姫からおっぱい怪人になったのでっ♥！」,「ふふっ♥明穂は聖核戦姫からおっぱい怪人になったのでっ♥！」,「呵呵♥明穗是從聖核戰姫變成胸部怪人的♥！」,"""Fufu♥ I went from Holy Core Battlemaiden to breast fiend♥""",「후훗♥ 아키호는 성핵전희에서 가슴 괴인이 되었으니까♥!」,「呵呵♥明穗是從聖核戰姫變成胸部怪人的♥！」
+,,,,,,,
+Record.AkihoPaizuri-38,,「パイズリには自信がありますからっ♥♥、皆さん精液沢山絞っちゃいますっ♥」,「パイズリには自信がありますからっ♥♥、皆さん精液沢山絞っちゃいますっ♥」,「對乳交很有自信♥♥，會把大家的精液都榨乾的♥」,"""I'm confident in my titfuck♥♥ I'll squeeze out lots of semen from everyone♥""","「파이즈리에는 자신이 있으니까요♥♥, 여러분 정액 잔뜩 짜낼게요♥」",「對乳交很有自信♥♥，會把大家的精液都榨乾的♥」
+,,,,,,,
+Record.AkihoPaizuri-39,,明穂は胸で何人もの戦闘員を果てさせ、事後は戦闘員に母乳を搾り取られるのだった,明穂は胸で何人もの戦闘員を果てさせ、事後は戦闘員に母乳を搾り取られるのだった,明穗用胸部讓好幾位戰鬥員射到高潮，事後胸部裡的母乳則被戰鬥員搾取出來。,"Akiho made many soldiers climax with her breasts, and afterwards the soldiers milked her breast milk.","아키호는 가슴으로 여러 명의 전투원을 절정 시키고, 일이 끝난 후에는 전투원에게 모유를 짜이는 것이었다",明穗用胸部讓好幾位戰鬥員射到高潮，事後胸部裡的母乳則被戰鬥員搾取出來。
+,,,,,,,
+Record Akiho ＆　Rikka,注釈,エンドコンテンツ明穂＆六花,エンドコンテンツ明穂＆六花,,,엔드 콘텐츠 아키호＆릿카,
+Record.Final,,【最後の二人の聖核戦姫】,【最後の二人の聖核戦姫】,【聖核戰姬最後的兩人】,[The Last Two Holy Core Battlemaidens],【마지막 두 명의 성핵전희】,【聖核戰姬最後的兩人】
+Record.Final-1,,聖核戦姫が敗北し、生徒会が完全に制圧してからしばらくして,聖核戦姫が敗北し、レギオンが完全に陥落してからしばらくして,聖核戰姫戰敗，聖核軍團完全淪陷後過了一段時間。,Some time after the Holy Core Battlemaidens were defeated and the Legion completely fell...,"성핵전희가 패배하고, 레기온이 완전히 함락된 후 얼마 지나지 않아",聖核戰姫戰敗，聖核軍團完全淪陷後過了一段時間。
+,背景　街中の横断歩道,,,,,,
+Record.Final-2,戦闘員,「オラオラオラッ！」,「オラオラオラッ！」,「喂！喂！喂！」,"""Ora ora ora!""",「자자자!」,「喂！喂！喂！」
+,,,,,,,
+Record.Final-3,,街中で財団の戦闘員が暴れまわる,街中で財団の戦闘員が暴れまわる,財團的戰鬥員在街上橫行霸道。,Foundation soldiers rampaged through the city.,거리에서 재단의 전투원이 날뛰고 있다,財團的戰鬥員在街上橫行霸道。
+,,,,,,,
+Record.Final-4,戦闘員,「ははっ、もう聖核戦姫はいねえからなっ、好きに暴れさせてもらうぜっ！」,「ははっ、もう聖核戦姫はいねえからなっ、好きに暴れさせてもらうぜっ！」,「哈哈，聖核戰姫已經沒啦，讓我們盡情地搗亂吧！」,"""Haha, there are no more Holy Core Battlemaidens, so we can do whatever we want!""","「하핫, 이제 성핵전희는 없으니까! 마음껏 날뛰게 해주마!」",「哈哈，聖核戰姫已經沒啦，讓我們盡情地搗亂吧！」
+,,,,,,,
+Record.Final-5,,その時戦闘員の前に二人の少女が現れる,その時戦闘員の前に二人の少女が現れる,這時，兩名少女出現在戰鬥員面前。,Two girls appeared before the soldiers.,그때 전투원 앞에 두 명의 소녀가 나타난다,這時，兩名少女出現在戰鬥員面前。
+,,,,,,,
+Record.Final-6,明穂,「フォーレン財団の戦闘員ッ！そこまでよっ！」,「フォーレン財団の戦闘員ッ！そこまでよっ！」,「墮落財團的戰鬥員！到此為止！」,"""Forren Foundation soldiers! That's enough!""",「폴른 재단의 전투원! 거기까지야!」,「墮落財團的戰鬥員！到此為止！」
+,,,,,,,
+Record.Final-7,六花,「街中での破壊行為……私達が許さない！」,「街中での破壊行為……私達が許さない！」,「在街上破壞的行為……我們絕不容許！」,"""Destruction in the city... We won't allow it!""",「거리에서의 파괴 행위…… 우리들이 용서하지 않아!」,「在街上破壞的行為……我們絕不容許！」
+,,,,,,,
+Record.Final-8,戦闘員,「ああ？なんだぁ？聖核戦姫は全員負けて捕らえられたはずだが？」,「ああ？なんだぁ？聖核戦姫は全員負けて捕らえられたはずだが？」,「啊？搞什麼？聖核戰姫應該全都輸了被抓起來才對啊？」,"""Huh? What's this? All the Holy Core Battlemaidens should have been defeated and captured?""",「아아? 뭐야? 성핵전희는 전원 패배해서 잡혔을 텐데?」,「啊？搞什麼？聖核戰姫應該全都輸了被抓起來才對啊？」
+,,,,,,,
+Record.Final-9,明穂,「っ、聖核戦姫は…負けないからっ！」,「っ、聖核戦姫は…負けないからっ！」,「唔，聖核戰姫是…不會輸的！」,"""Holy Core Battlemaidens... don't lose!""","「윽, 성핵전희는… 지지 않으니까!」",「唔，聖核戰姫是…不會輸的！」
+,,,,,,,
+Record.Final-10,六花,「そう……私達は絶対諦めない！」,「そう……私達は絶対諦めない！」,「沒錯……我們絕不放棄！」,"""That's right... We'll never give up!""",「그래…… 우리는 절대 포기하지 않아!」,「沒錯……我們絕不放棄！」
+,,,,,,,
+Record.Final-11,戦闘員,「何を言ってるのか分からねえが…いいぜ、相手してやるよ」,「何を言ってるのか分からねえが…いいぜ、相手してやるよ」,「不知道妳們在說什麼，算了，我就陪妳們玩玩吧。」,"""I don't know what you're talking about... but fine, we'll take you on.""","「무슨 말 하는지 모르겠지만… 좋아, 상대해주지」",「不知道妳們在說什麼，算了，我就陪妳們玩玩吧。」
+,,,,,,,
+Record.Final-12,明穂,「っ、手加減しないからっ！」,「っ、手加減しないからっ！」,「唔，我可不會手下留情！」,"""We won't hold back!""","「윽, 봐주지 않을 거야!」",「唔，我可不會手下留情！」
+,,,,,,,
+Record.Final-13,六花,「ただの戦闘員が聖核戦姫に勝てるわけがない！行くよッ！」,「ただの戦闘員が聖核戦姫に勝てるわけがない！行くよッ！」,「區區戰鬥員怎麼可能贏過聖核戰姫！上！」,"""Mere soldiers could never beat Holy Core Battlemaidens! Let's go!""",「단순한 전투원이 성핵전희에게 이길 수 있을 리 없어! 간다!」,「區區戰鬥員怎麼可能贏過聖核戰姫！上！」
+,,,,,,,
+Record.Final-14,,―――――1分後,―――――1分後,―――――一分鐘後,...One minute later,―――――1분 후,―――――一分鐘後
+,Record akiho＆rikka1,,,,,,
+Record.Final-15,,明穂と六花はあっさりと戦闘員に敗北し、捕らえられていた,明穂と六花はあっさりと戦闘員に敗北し、捕らえられていた,明穗和六花輕易地敗給戰鬥員，被抓了起來。,Akiho and Rikka were easily defeated by the soldiers and captured.,"아키호와 릿카는 간단히 전투원에게 패배하여, 붙잡혀 있었다",明穗和六花輕易地敗給戰鬥員，被抓了起來。
+,,,,,,,
+Record.Final-16,明穂,「ちょ、ちょっと六花！なんでこんな簡単に負けてるのっ！？」,「ちょ、ちょっと六花！なんでこんな簡単に負けてるのっ！？」,「喂、喂六花！為什麼會這麼簡單就輸了！」,"""W-wait, Rikka! Why did we lose so easily?!""","「저, 잠깐 릿카! 왜 이렇게 간단히 지는 거야!?」",「喂、喂六花！為什麼會這麼簡單就輸了！」
+,,,,,,,
+Record.Final-17,六花,「っ、明穂こそっ！ほとんど戦ってないし抵抗してなかった！」,「っ、明穂こそっ！ほとんど戦ってないし抵抗してなかった！」,「唔，明穗妳才是！幾乎沒戰鬥也沒抵抗！」,"""You're the one, Akiho! You barely fought or resisted!""","「윽, 아키호야말로! 거의 싸우지도 않고 저항도 안 했잖아!」",「唔，明穗妳才是！幾乎沒戰鬥也沒抵抗！」
+,,,,,,,
+Record.Final-18,明穂,「そんなこと言ったって…六花早く何とかして！」,「そんなこと言ったって…六花早く何とかして！」,「話是這麼說…六花快想辦法！」,"""Even if you say that... Rikka, hurry and do something!""",「그런 말 해도… 릿카 빨리 어떻게 좀 해봐!」,「話是這麼說…六花快想辦法！」
+,,,,,,,
+Record.Final-19,六花,「何とかって…もうこうなったら私でも……」,「何とかって…もうこうなったら私でも……」,「想辦法…事到如今連我也……」,"""Do something... At this point, even I can't...""",「어떻게든이라니… 이제 이렇게 되면 나라도……」,「想辦法…事到如今連我也……」
+,,,,,,,
+Record.Final-20,戦闘員,「ははっ、何かと思ったらクソ弱いじゃねえか、一体何しに出てきたんだ？」,「ははっ、何かと思ったらクソ弱いじゃねえか、一体何しに出てきたんだ？」,「哈哈，本以為是什麼狠角色，結果這麼弱啊，到底是出來幹什麼的？」,"""Haha, I thought you were something special but you're weak as hell. What did you even come out here for?""","「하핫, 뭔가 했더니 엄청 약하잖아, 대체 뭘 하러 나온 거야?」",「哈哈，本以為是什麼狠角色，結果這麼弱啊，到底是出來幹什麼的？」
+,,,,,,,
+Record.Final-21,明穂,「っ、馬鹿にして……」,「っ、馬鹿にして……」,「唔，竟然把我當成笨蛋……」,"""Don't mock us...""","「윽, 바보 취급하지 마……」",「唔，竟然把我當成笨蛋……」
+,,,,,,,
+Record.Final-22,六花,「っ、聖核戦姫は絶対に諦めないっ！」,「っ、聖核戦姫は絶対に諦めないっ！」,「唔，聖核戰姫是絕對不會放棄的！」,"""Holy Core Battlemaidens never give up!""","「윽, 성핵전희는 절대로 포기하지 않아!」",「唔，聖核戰姫是絕對不會放棄的！」
+,,,,,,,
+Record.Final-23,戦闘員,「それとも……お前らコレが欲しくてノコノコ出てきたんじゃねえか？」,「それとも……お前らコレが欲しくてノコノコ出てきたんじゃねえか？」,「還是說…妳們是想要這個才特地跑出來的？」,"""Or maybe... you came crawling out here because you wanted this?""",「아니면…… 너희들 이게 갖고 싶어서 뽈뽈 나온 거 아니야?」,「還是說…妳們是想要這個才特地跑出來的？」
+,Record akiho＆rikka２,,,,,,
+Record.Final-24,,そう言うと戦闘員はスーツから男根を取り出し、二人に見せつける,そう言うと戦闘員はスーツから男根を取り出し、二人に見せつける,戰鬥員說著，從制服裡掏出陰莖，向兩人展示。,"Saying that, the soldier whipped out his manhood from his suit and showed it to the duo.","그렇게 말하며 전투원은 슈트에서 남근을 꺼내, 두 사람에게 보여준다",戰鬥員說著，從制服裡掏出陰莖，向兩人展示。
+,,,,,,,
+Record.Final-25,明穂,「…………っ♥！！」,「…………っ♥！！」,「…………唔♥！！」,"""......♥!!""",「…………윽♥!!」,「…………唔♥！！」
+,,,,,,,
+Record.Final-26,六花,「……っ♥♥！！！」,「……っ♥♥！！！」,「……唔♥♥！！！」,"""...♥♥!!!""",「……윽♥♥!!!」,「……唔♥♥！！！」
+,,,,,,,
+Record.Final-27,戦闘員,「お？、そんなに見つめやがって、図星みてえだなぁ？」,「お？、そんなに見つめやがって、図星みてえだなぁ？」,「哦？這樣盯著看，看來被我說中了呢？」,"""Oh? Staring at it that much, looks like I hit the mark?""","「오?, 그렇게 쳐다보다니, 정곡을 찔렀나?」",「哦？這樣盯著看，看來被我說中了呢？」
+,,,,,,,
+Record.Final-28,明穂,「っ、六花何とかしてっ♥、じゃないと私達戦闘員の極太チンポハメられちゃう……！」,「っ、六花何とかしてっ♥、じゃないと私達戦闘員の極太チンポハメられちゃう……！」,「唔，六花想辦法啊♥，不然我們就要被戰鬥員的粗大雞巴插進去了……！」,"""Rikka, do something♥ Otherwise we'll get fucked by the soldier's thick cock...!""","「윽, 릿카 어떻게 좀 해봐♥, 안 그러면 우리 전투원의 왕자지에 박혀버렷……!」",「唔，六花想辦法啊♥，不然我們就要被戰鬥員的粗大雞巴插進去了……！」
+,,,,,,,
+Record.Final-29,六花,「それなら明穂も見てないで少しは抵抗してよっ♥期待してるみたいじゃんっ♥」,「それなら明穂も見てないで少しは抵抗してよっ♥期待してるみたいじゃんっ♥」,「那明穗妳也別光看著抵抗一下啊♥看起來妳很期待嘛♥」,"""Then Akiho, stop staring and resist a little♥ You look like you're expecting it♥""",「그렇다면 아키호도 보고만 있지 말고 조금은 저항해♥ 기대하는 것 같잖아♥」,「那明穗妳也別光看著抵抗一下啊♥看起來妳很期待嘛♥」
+,,,,,,,
+Record.Final-30,戦闘員,「ははっ、待ちきれないみたいだなっ、じゃあ期待に応えてやるよっ！」,「ははっ、待ちきれないみたいだなっ、じゃあ期待に応えてやるよっ！」,「哈哈，看來等不及了呢，那就滿足妳們的期待吧！」,"""Haha, looks like you can't wait, so I'll meet your expectations!""","「하핫, 기다릴 수 없는 모양이네, 그럼 기대에 부응해주지!」",「哈哈，看來等不及了呢，那就滿足妳們的期待吧！」
+,,,,,,,
+Record.Final-31,Record akiho＆rikka3,ズボッッ！！,ズボッッ！！,滋！！,Thrust!,즈봇!!,滋！！
+,,,,,,,
+Record.Final-32,明穂＆六花,「「ひあっ♥、チンポきたあッ～～～～ッ♥♥！」」,「「ひあっ♥、チンポきたあッ～～～～ッ♥♥！」」,「呀♥，雞巴來了啊～～～～♥！」,"""Hyaa♥ Here comes the cock♥""","「「히앗♥, 자지 왔다앗~~~~~읏♥♥!」」",「呀♥，雞巴來了啊～～～～♥！」
+,,,,,,,
+Record.Final-33,,チンポが挿入されると同時に明穂と六花から嬌声が上がる,チンポが挿入されると同時に明穂と六花から嬌声が上がる,雞巴插入的同時，明穗和六花發出嬌聲。,Cries of pleasure rose from Akiho and Rikka the moment the cock was inserted.,자지가 삽입됨과 동시에 아키호와 릿카에게서 교성이 터져 나온다,雞巴插入的同時，明穗和六花發出嬌聲。
+,Record akiho＆rikka４,,,,,,
+Record.Final-34,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Final-35,明穂,「お゛っ♥、お゛っ♥、お゛っ♥、戦闘員の極太チンポっ♥、やばいっ♥♥♥！」,「お゛っ♥、お゛っ♥、お゛っ♥、戦闘員の極太チンポっ♥、やばいっ♥♥♥！」,「喔♥，喔♥，喔♥，戰鬥員的粗大雞巴♥，太棒了♥♥♥！」,"""Oh♥ Oh♥ Oh♥ The soldier's thick cock♥ It's too much♥♥♥!""","「오옷 옷♥, 오옷 옷♥, 오옷 옷♥, 전투원의 왕자지♥, 위험해♥♥♥!」",「喔♥，喔♥，喔♥，戰鬥員的粗大雞巴♥，太棒了♥♥♥！」
+,,,,,,,
+Record.Final-36,六花,「おまんこっ、深い所までっ♥、えぐれてるっ♥」,「おまんこっ、深い所までっ♥、えぐれてるっ♥」,「小穴，被插到深處♥，好用力♥」,"""My pussy, so deep♥ It's being gouged out♥""","「보지♥, 깊은 곳까지♥, 파고들어와♥」",「小穴，被插到深處♥，好用力♥」
+,,,,,,,
+Record.Final-37,戦闘員,「やっぱりわざわざオナホになりに来たんじゃねえか！この淫乱女共がっ！」,「やっぱりわざわざオナホになりに来たんじゃねえか！この淫乱女共がっ！」,「果然是特地跑來當自慰套的嘛！這群淫亂女人！」,"""So you did come here just to become sex toys! You sluts!""",「역시 일부러 오나홀 되러 온 거 아니야! 이 음란한 년들이!」,「果然是特地跑來當自慰套的嘛！這群淫亂女人！」
+,,,,,,,
+Record.Final-38,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Final-39,明穂,「んお゛っ♥、ちっ、違うのっ、たとえ勝てなくても立ち向かうのが聖核戦姫なのっ♥♥」,「んお゛っ♥、ちっ、違うのっ、たとえ勝てなくても立ち向かうのが聖核戦姫なのっ♥♥」,「嗯喔♥，才、才不是♥，就算贏不了，也要挺身而出才是聖核戰姫啊♥♥」,"""Noh♥ N-no, that's not it, Holy Core Battlemaidens face challenges even if we can't win♥♥""","「응오옷 옷♥, 다, 달라, 설령 이길 수 없어도 맞서는 것이 성핵전희야♥♥」",「嗯喔♥，才、才不是♥，就算贏不了，也要挺身而出才是聖核戰姫啊♥♥」
+,,,,,,,
+Record.Final-40,六花,「そうっ♥、たとえ即負け即ハメでもっ♥、心はまだ負けてないからっ♥！」,「そうっ♥、たとえ即負け即ハメでもっ♥、心はまだ負けてないからっ♥！」,「沒錯♥，就算立刻輸了立刻被插♥，內心也還沒輸♥！」,"""That's right♥ Even if we instantly lose and get fucked♥ Our hearts haven't lost yet♥!""","「그래♥, 설령 즉시 패배 즉시 박혀도♥, 마음은 아직 지지 않았으니까♥!」",「沒錯♥，就算立刻輸了立刻被插♥，內心也還沒輸♥！」
+,,,,,,,
+Record.Final-41,明穂,「お゛っ♥、お゛っ♥、ん゛っ♥、聖核戦姫をっ♥ナメないでっ♥！」,「お゛っ♥、お゛っ♥、ん゛っ♥、聖核戦姫をっ♥ナメないでっ♥！」,「喔♥，喔♥，嗯♥，別小看聖核戰姫♥！」,"""Oh♥ Oh♥ Ngh♥ Don't underestimate♥ Holy Core Battlemaidens♥!""","「오옷 옷♥, 오옷 웃♥, 응읏♥, 성핵전희를♥ 얕보지 마♥!」",「喔♥，喔♥，嗯♥，別小看聖核戰姫♥！」
+,,,,,,,
+Record.Final-42,六花,「敗北レイプされてもっ♥、最後に勝つのは私達っ♥！」,「敗北レイプされてもっ♥、最後に勝つのは私達っ♥！」,「就算失敗被強姦♥，最後勝利的還是我們♥！」,"""Even if we're violated during defeat♥ We'll win in the end♥!""","「패배 강간당해도♥, 마지막에 이기는 건 우리야♥!」",「就算失敗被強姦♥，最後勝利的還是我們♥！」
+,,,,,,,
+Record.Final-43,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Final-44,戦闘員,「ははっ、雑魚のくせに口先だけはいっちょ前だなっ！」,「ははっ、雑魚のくせに口先だけはいっちょ前だなっ！」,「哈哈，區區雜魚嘴皮子倒是挺厲害的嘛！」,"""Haha, for small fry, you sure talk big!""","「하핫, 잡것 주제에 말만 번지르르하네!」",「哈哈，區區雜魚嘴皮子倒是挺厲害的嘛！」
+,,,,,,,
+Record.Final-45,明穂,「お゛っ♥、お゛うっ♥、んっ♥イクッ♥♥」,「お゛っ♥、お゛うっ♥、んっ♥イクッ♥♥」,「喔♥，喔♥，嗯♥要高潮了♥♥」,"""Oh♥ Ohh♥ Ngh♥ I'm coming♥♥""","「오옷 옷♥, 오옷 웃♥, 응읏♥ 가버렷♥♥」",「喔♥，喔♥，嗯♥要高潮了♥♥」
+,,,,,,,
+Record.Final-46,六花,「お゛っ♥、戦闘員チンポッ、強すぎるっ♥」,「お゛っ♥、戦闘員チンポッ、強すぎるっ♥」,「喔♥，戰鬥員雞巴♥，太強了♥」,"""Oh♥ A soldier's cock... Too strong♥""","「오옷 옷♥, 전투원 자지♥, 너무 강해♥」",「喔♥，戰鬥員雞巴♥，太強了♥」
+,,,,,,,
+Record.Final-47,明穂,「お゛っ♥、六花っ、このままだと私達っ♥おまんこに中出しされちゃうよっ♥」,「お゛っ♥、六花っ、このままだと私達っ♥おまんこに中出しされちゃうよっ♥」,「喔♥，六花♥，這樣下去我們會被中出到小穴裡喔♥」,"""Oh♥ Rikka, at this rate we'll♥ get creampied♥""","「오옷 옷♥, 릿카, 이대로는 우리♥ 보지에 안에 싸게 될 거야♥」",「喔♥，六花♥，這樣下去我們會被中出到小穴裡喔♥」
+,,,,,,,
+Record.Final-48,六花,「んっ♥、わかってるっ♥、でもっ♥、チンポから逃げられないッ♥」,「んっ♥、わかってるっ♥、でもっ♥、チンポから逃げられないッ♥」,「嗯♥，我知道♥，但♥，逃不開雞巴了！」,"""Ngh♥ I know♥ But♥ I can't escape from the cock♥""","「응읏♥, 알고 있어♥, 하지만♥, 자지로부터 도망칠 수 없어♥」",「嗯♥，我知道♥，但♥，逃不開雞巴了！」
+,,,,,,,
+Record.Final-49,,二人の聖核戦姫にはもはや抵抗する気力は残っていなかった,二人の聖核戦姫にはもはや抵抗する気力は残っていなかった,兩位聖核戰姫已沒有抵抗的力氣。,The two Holy Core Battlemaidens no longer had any willpower left to resist.,두 명의 성핵전희에게는 이제 저항할 기력은 남아 있지 않았다,兩位聖核戰姫已沒有抵抗的力氣。
+,,,,,,,
+Record.Final-50,戦闘員,「あ？聖核戦姫は負けねえんじゃなかったのか？」,「あ？聖核戦姫は負けねえんじゃなかったのか？」,「啊？聖核戰姫不是不會輸的嗎？」,"""Huh? I thought Holy Core Battlemaidens never lose?""",「아? 성핵전희는 지지 않는다며?」,「啊？聖核戰姫不是不會輸的嗎？」
+,,,,,,,
+Record.Final-51,,そう言うと戦闘員は更に腰の動きを激しくし、二人をオナホのように使っていく,そう言うと戦闘員は更に腰の動きを激しくし、二人をオナホのように使っていく,戰鬥員說著，腰部的動作更猛烈，將兩人當作自慰套使用。,"Saying that, the soldier moved his hips even more intensely, using the two like sex toys.","그렇게 말하며 전투원은 더욱 허리 움직임을 격렬하게 하여, 두 사람을 오나홀처럼 사용해간다",戰鬥員說著，腰部的動作更猛烈，將兩人當作自慰套使用。
+,,,,,,,
+Record.Final-52,,ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch!,도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Final-53,明穂,「お゛っ♥、お゛っ♥、お゛おっ～～♥♥イクッ♥」,「お゛っ♥、お゛っ♥、お゛おっ～～♥♥イクッ♥」,「喔♥，喔♥，喔喔～～♥♥要高潮了♥」,"""Oh♥ Oh♥ Ohhh♥♥ I'm coming♥""","「오옷 옷♥, 오옷 옷♥, 오옷 오옷~~♥♥ 가버렷♥」",「喔♥，喔♥，喔喔～～♥♥要高潮了♥」
+,,,,,,,
+Record.Final-54,六花,「私達はっ♥、お゛っ♥、絶対負けないっ♥！」,「私達はっ♥、お゛っ♥、絶対負けないっ♥！」,「我們♥，喔♥，絕對不會輸的♥！」,"""We'll♥ Oh♥ Never lose♥!""","「우리는♥, 오옷 옷♥, 절대 지지 않아♥!」",「我們♥，喔♥，絕對不會輸的♥！」
+,,,,,,,
+Record.Final-55,戦闘員,「はっ、そろそろ出してやるっ、これで終わりだっ！」,「はっ、そろそろ出してやるっ、これで終わりだっ！」,「哈，差不多該射了，就到此為止吧！」,"""Ha, I'm gonna cum soon, this is the end!""","「핫, 슬슬 싸주마, 이걸로 끝이다!」",「哈，差不多該射了，就到此為止吧！」
+,,,,,,,
+Record.Final-56,明穂,「お゛っ♥、ま、負けないッ、聖核戦姫はチンポなんかにっ♥」,「お゛っ♥、ま、負けないッ、聖核戦姫はチンポなんかにっ♥」,「喔♥，不、不會輸的，聖核戰姫才不會輸給雞巴♥」,"""Oh♥ W-we won't lose, a cock is not going to defeat us Holy Core Battlemaidens♥""","「오옷 옷♥, 자, 지지 않아, 성핵전희는 자지 따위에♥」",「喔♥，不、不會輸的，聖核戰姫才不會輸給雞巴♥」
+,,,,,,,
+Record.Final-57,六花,「そうっ♥、私達はっ♥、絶対に諦めないのっ♥」,「そうっ♥、私達はっ♥、絶対に諦めないのっ♥」,「沒錯♥，我們♥，絕不放棄的♥」,"""That's right♥ We'll♥ Never give up♥""","「그래♥, 우리는♥, 절대로 포기하지 않아♥」",「沒錯♥，我們♥，絕不放棄的♥」
+,Record akiho＆rikka5,,,,,,
+Record.Final-58,,ビュルルルッルッ！！ドクッ！！,ビュルルルッルッ！！ドクッ！！,咻嚕嚕嚕嚕！！咚！！,Spurrrrrt!! Throb!!,뷰르르르릇르릇!! 도큣!!,咻嚕嚕嚕嚕！！咚！！
+,,,,,,,
+Record.Final-59,明穂,「お゛おっ♥、おまんこにっ♥、出されてるっ♥！！」,「お゛おっ♥、おまんこにっ♥、出されてるっ♥！！」,「喔喔♥，被射到小穴裡了♥！！」,"""Ohh♥ In my pussy♥ He's coming inside me♥""","「오옷 오옷♥, 보지에♥, 싸고 있어♥!!」",「喔喔♥，被射到小穴裡了♥！！」
+,,,,,,,
+Record.Final-60,六花,「お゛ほっ♥、んっ♥、中出しでっ♥、子宮があっ♥♥！」,「お゛ほっ♥、んっ♥、中出しでっ♥、子宮があっ♥♥！」,「喔呵♥，嗯♥，被中出♥，子宮啊♥♥！」,"""Ohho♥ Ngh♥ The creampie♥ My womb♥""","「오옷 홋♥, 응읏♥, 안에 싸서♥, 자궁이앗♥♥!」",「喔呵♥，嗯♥，被中出♥，子宮啊♥♥！」
+,,,,,,,
+Record.Final-61,戦闘員,「おらっ、さっさと負けを認めろオナホ共っ！聖核戦姫はすべからくオナホなんだよっ！」,「おらっ、さっさと負けを認めろオナホ共っ！聖核戦姫はすべからくオナホなんだよっ！」,「喂，快點認輸啊妳們自慰套！所有聖核戰姫都是自慰套啊！」,"""Come on, hurry up and admit defeat, sex toys! All Holy Core Battlemaidens are nothing but sex toys!""","「자!, 빨리 패배를 인정해라 오나홀들아! 성핵전희는 모조리 오나홀이야!」",「喂，快點認輸啊妳們自慰套！所有聖核戰姫都是自慰套啊！」
+,,,,,,,
+Record.Final-62,明穂,「お゛っ♥、まけっ、負けましたっ！、チンポに負けましたっ♥♥♥」,「お゛っ♥、まけっ、負けましたっ！、チンポに負けましたっ♥♥♥」,「喔♥，輸、輸了！輸給雞巴了♥♥♥」,"""Oh♥ we lost, we lost! Your cock won♥♥♥""","「오옷 옷♥, 졌, 졌습니다!, 자지에 졌습니다♥♥♥」",「喔♥，輸、輸了！輸給雞巴了♥♥♥」
+,,,,,,,
+Record.Final-63,六花,「お゛っ♥、私も負けっ♥♥、こんなの勝てるわけないぃっ♥！」,「お゛っ♥、私も負けっ♥♥、こんなの勝てるわけないぃっ♥！」,「喔♥，我也輸了♥♥，這根本贏不了啊♥！」,"""Oh♥ I lost too♥♥ There's no way we could win against this♥!""","「오옷 옷♥, 저도 패배♥♥, 이런 거 이길 리 없어잇♥!」",「喔♥，我也輸了♥♥，這根本贏不了啊♥！」
+,,,,,,,
+Record.Final-64,,ドクッ、ドクッ！,ドクッ、ドクッ！,咚、咚！,"Throb, throb!","도큣, 도큣!",咚、咚！
+,,,,,,,
+Record.Final-65,明穂,「私は聖核戦姫じゃなくてただのメスオナホでしたっ♥♥、もっと射精してくださいっ♥」,「私は聖核戦姫じゃなくてただのメスオナホでしたっ♥♥、もっと射精してくださいっ♥」,「我不是聖核戰姫只是個母自慰套♥♥，請再多射一點♥」,"""I'm not a Holy Core Battlemaiden, just a female sex toy♥♥ Please come more♥""","「저는 성핵전희가 아니라 그냥 암컷 오나홀이었어요♥♥, 더 사정해주세요♥」",「我不是聖核戰姫只是個母自慰套♥♥，請再多射一點♥」
+,,,,,,,
+Record.Final-66,六花,「お゛っ♥、私もっ♥、完全敗北ですっ♥、好きにお使いくださいっ♥♥！」,「お゛っ♥、私もっ♥、完全敗北ですっ♥、好きにお使いくださいっ♥♥！」,「喔♥，我也是♥，徹底失敗了♥，請隨意使用♥♥！」,"""Oh♥ Me too♥ Complete defeat♥ Please use me however you like♥♥!""","「오옷 옷♥, 저도♥, 완전 패배입니다♥, 마음껏 사용해주세요♥♥!」",「喔♥，我也是♥，徹底失敗了♥，請隨意使用♥♥！」
+,Record akiho＆rikka６,,,,,,
+Record.Final-67,戦闘員,「ははっ、簡単に堕ちやがったな、これでいっちょ上がりだ」,「ははっ、簡単に堕ちやがったな、これでいっちょ上がりだ」,「哈哈，這麼簡單就墮落了，這就搞定了。」,"""Haha, you fell so easily, that's a wrap.""","「하핫, 간단히 타락했군, 이걸로 한 건 끝이다」",「哈哈，這麼簡單就墮落了，這就搞定了。」
+,,,,,,,
+Record.Final-68,明穂,「んっ♥、そうですっ♥、負けですっ♥♥♥」,「んっ♥、そうですっ♥、負けですっ♥♥♥」,「嗯♥，對啊♥，輸了♥♥♥」,"""Ngh♥ That's right♥ We lost♥♥♥""","「응읏♥, 그렇습니다♥, 패배입니다♥♥♥」",「嗯♥，對啊♥，輸了♥♥♥」
+,,,,,,,
+Record.Final-69,六花,「私達っ♥♥、一生オナホとしてご奉仕しますっ♥♥」,「私達っ♥♥、一生オナホとしてご奉仕しますっ♥♥」,「我們♥♥，會一輩子作為自慰套服侍的♥♥」,"""We'll♥♥ Serve as sex toys for life♥♥""","「우리들♥♥, 평생 오나홀로서 봉사하겠습니다♥♥」",「我們♥♥，會一輩子作為自慰套服侍的♥♥」
+,,,,,,,
+Record.Final-70,戦闘員,「まあいい、茶番は終わりだ。周りにも聖核戦姫が終わったってことは伝わっただろ」,「まあいい、茶番は終わりだ。周りにも聖核戦姫が終わったってことは伝わっただろ」,「算了，鬧劇結束。周圍的人也知道聖核戰姫完蛋了吧。」,"""Well, whatever, the charade is over. Everyone around should know the Holy Core Battlemaidens are finished.""","「뭐 됐어, 촌극은 끝이다. 주변에도 성핵전희가 끝났다는 건 전해졌겠지」",「算了，鬧劇結束。周圍的人也知道聖核戰姫完蛋了吧。」
+,,,,,,,
+Record.Final-71,戦闘員,「撤収するぞ、アジトに帰ったらまたチンポハメてやる」,「撤収するぞ、アジトに帰ったらまたチンポハメてやる」,「撤退，回到基地再插妳們雞巴。」,"""We're withdrawing. When we get back to the hideout, I'll fuck you again.""","「철수한다, 아지트에 돌아가면 또 자지 박아주지」",「撤退，回到基地再插妳們雞巴。」
+,,,,,,,
+Record.Final-72,明穂＆六花,「「あっ♥、ありがとうございますうっ♥♥♥」」,「「あっ♥、ありがとうございますうっ♥♥♥」」,「啊♥，謝謝您們♥♥♥」,"""Ah♥ Thank you so much♥♥♥""","「「앗♥, 감사합니다아♥♥♥」」",「啊♥，謝謝您們♥♥♥」
+,,,,,,,
+Record.Final-73,,その二人の表情には既戦士としての面影はなく、チンポへの媚びと期待しかない,その二人の表情には既戦士としての面影はなく、チンポへの媚びと期待しかない,兩人臉上已沒有戰士的身影，只有對雞巴的諂媚和期待。,"Their expressions no longer showed any trace of being warriors, only fawning and anticipation for cocks.","그 두 사람의 표정에는 이미 전사로서의 모습은 없고, 자지에 대한 아양과 기대뿐이다",兩人臉上已沒有戰士的身影，只有對雞巴的諂媚和期待。
+,,,,,,,
+Record.Final-74,明穂,「嬉しいですっ♥、もっとチンポ欲しいっ♥♥」,「嬉しいですっ♥、もっとチンポ欲しいっ♥♥」,「好開心♥，還想要更多雞巴♥♥」,"""I'm so happy♥ I want more cock♥♥""","「기뻐요♥, 더 자지 원해요♥♥」",「好開心♥，還想要更多雞巴♥♥」
+,,,,,,,
+Record.Final-75,六花,「負けて良かったっ♥、聖核戦姫やめて良かったっ♥♥」,「負けて良かったっ♥、聖核戦姫やめて良かったっ♥♥」,「輸了真好♥，不當聖核戰姫真好♥♥」,"""I'm glad we lost♥ I'm glad I quit being a Holy Core Battlemaiden♥♥""","「져서 다행이야♥, 성핵전희 그만두길 잘했어♥♥」",「輸了真好♥，不當聖核戰姫真好♥♥」
+,,,,,,,
+Record.Final-76,明穂＆六花,「「私達っ♥♥、皆様のオナホとして頑張りますっ♥♥」」,「「私達っ♥♥、皆様のオナホとして頑張りますっ♥♥」」,「我們♥♥，會努力作為大家的自慰套的♥♥」,"""We'll♥♥ Do our best as everyone's sex toys♥♥""","「「우리들♥♥, 여러분의 오나홀로서 힘내겠습니다♥♥」」",「我們♥♥，會努力作為大家的自慰套的♥♥」
+,,,,,,,
+Record Kei,注釈,エンドコンテンツ　京　,エンドコンテンツ　京　,,,엔드 콘텐츠　케이,
+Record.Kei,,【小悪魔の日常】,【小悪魔の日常】,【小惡魔的日常】,[The Little Devil's Life],【소악마의 일상】,【小惡魔的日常】
+,アジト,,,,,,
+Record.Kei-1,,財団アジトにて,財団アジトにて,財團基地裡,At the Foundation hideout,재단 아지트에서,財團基地裡
+,,,,,,,
+Record.Kei-2,京(闇落ち),「那由多を堕とした怪人……？」,「那由多を堕とした怪人……？」,「成功將那由多墮落的怪人……？」,"""The fiend who corrupted Nayuta...?""",「나유타를 타락시킨 괴인……?」,「成功將那由多墮落的怪人……？」
+,,,,,,,
+Record.Kei-3,,「へえ、あの生徒会長をたった一人で堕とした怪人か…興味深いね」,「へえ、あの総司令をたった一人で堕とした怪人か…興味深いね」,「嘿，竟然是單憑一個人就讓那位總司令墮落的怪人嗎…有意思呢。」,"""Wow, the fiend who corrupted that Commander all by itself... How interesting.""","「헤에, 그 총사령관을 단신으로 타락시킨 괴인인가… 흥미롭네」",「嘿，竟然是單憑一個人就讓那位總司令墮落的怪人嗎…有意思呢。」
+,,,,,,,
+Record.Kei-4,,京は妖艶な笑みを浮かべちょろっと舌を出す,京は妖艶な笑みを浮かべちょろっと舌を出す,京露出妖豔的笑容，輕輕吐出舌頭。,Kei showed a bewitching smile and stuck out her tongue slightly.,케이는 요염한 미소를 띠며 살짝 혀를 내민다,京露出妖豔的笑容，輕輕吐出舌頭。
+,,,,,,,
+Record.Kei-5,京(闇落ち),「ふふっ♥最近戦闘員達のチンポで遊ぶのも飽きて来たんだよね」,「ふふっ♥最近戦闘員達のチンポで遊ぶのも飽きて来たんだよね」,「呵呵♥最近玩戰鬥員們的雞巴也玩膩了呢。」,"""Fufu♥ I've been getting bored playing with the soldiers lately.""",「후훗♥ 요즘 전투원들 자지로 노는 것도 질렸거든」,「呵呵♥最近玩戰鬥員們的雞巴也玩膩了呢。」
+,,,,,,,
+Record.Kei-6,,「どれほどのものか分からないが…私をどれだけ満足させられるかな…？」,「どれほどのものか分からないが…私をどれだけ満足させられるかな…？」,「不知道有多厲害…能讓我滿足到什麼程度呢…？」,"""I don't know how good you are... but I wonder how much you can satisfy me...?""",「어느 정도일지 모르겠지만… 나를 얼마나 만족시킬 수 있을까…?」,「不知道有多厲害…能讓我滿足到什麼程度呢…？」
+,暗転,,,,,,
+,Record Kei 1,,,,,,
+Record.Kei-7,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Kei-8,怪人,「どうした？随分と余裕が無さそうだが？」,「どうした？随分と余裕が無さそうだが？」,「怎麼了？妳看來很沒餘裕啊？」,"""What's wrong? You don't seem so confident anymore?""",「왜 그러나? 상당히 여유가 없어 보이는데?」,「怎麼了？妳看來很沒餘裕啊？」
+,,,,,,,
+Record.Kei-9,京,「お゛っ♥、お゛っ♥、お゛っ♥、お゛おっ♥！？」,「お゛っ♥、お゛っ♥、お゛っ♥、お゛おっ♥！？」,「喔♥、喔♥、喔♥、喔喔♥！？」,"""Oh♥ Oh♥ Oh♥ Ohh♥?!""","「오옷 옷♥, 오옷 옷♥, 오옷 옷♥, 오옷 오옷♥!?」",「喔♥、喔♥、喔♥、喔喔♥！？」
+,,,,,,,
+Record.Kei-10,,京は小柄な体を巨大な怪人に捕まれ、無理やり膣でチンポを扱かれていた,京は小柄な体を巨大な怪人に捕まれ、無理やり膣でチンポを扱かれていた,京嬌小的身體被巨大的怪人抓住，陰道被強行用雞巴塞入。,Kei's small body was grabbed by the giant fiend and forcibly used.,"케이는 작은 몸을 거대한 괴인에게 붙잡혀, 억지로 질로 자지를 흔들리고 있었다",京嬌小的身體被巨大的怪人抓住，陰道被強行用雞巴塞入。
+,,,,,,,
+Record.Kei-11,京,「お゛っ♥、お゛おっ♥、こんなのっ♥♥テクニック以前の問題っ♥♥♥」,「お゛っ♥、お゛おっ♥、こんなのっ♥♥テクニック以前の問題っ♥♥♥」,「喔♥、喔喔♥、這種根本是技術以外的問題♥♥♥」,"""Oh♥ Ohh♥ This is♥♥ Beyond technique♥♥♥""","「오옷 옷♥, 오옷 오옷♥, 이런 건♥♥ 테크닉 이전의 문제♥♥♥」",「喔♥、喔喔♥、這種根本是技術以外的問題♥♥♥」
+,Record Kei 2,,,,,,
+Record.Kei-12,,「チンポデカすぎてっ♥♥♥、逝くッ♥♥♥、ハメ死んじゃうううぅぅッ♥♥♥」,「チンポデカすぎてっ♥♥♥、逝くッ♥♥♥、ハメ死んじゃうううぅぅッ♥♥♥」,「雞巴太大了♥♥♥，要高潮了♥♥♥，會被插死的啊啊啊啊♥♥♥」,"""It's too big♥♥♥ I'm coming♥♥♥ I'm going to die♥♥♥""","「자지 너무 커서♥♥♥, 가버렷♥♥♥, 박혀 죽어버려어어어엇♥♥♥」",「雞巴太大了♥♥♥，要高潮了♥♥♥，會被插死的啊啊啊啊♥♥♥」
+,,,,,,,
+Record.Kei-13,,「きゅうけいっ♥、抜いてッ♥♥、抜いてくださいっ♥♥！！」,「きゅうけいっ♥、抜いてッ♥♥、抜いてくださいっ♥♥！！」,「休息♥、拔出來♥♥、請拔出來♥♥！！」,"""Time for a break♥ Pull out♥♥ Please pull out♥♥!!""","「휴식♥, 빼줘♥♥, 빼주세요♥♥!!」",「休息♥、拔出來♥♥、請拔出來♥♥！！」
+,,,,,,,
+Record.Kei-14,怪人,「そうはいかんな。一回始めた以上最期まで付き合ってもらおう」,「そうはいかんな。一回始めた以上最期まで付き合ってもらおう」,「可不行呢。既然開始了，就陪我到底吧。」,"""I can't do that. Since we've started, you'll accompany me to the end.""",「그럴 수는 없지. 한 번 시작한 이상 마지막까지 함께 해줘야겠어」,「可不行呢。既然開始了，就陪我到底吧。」
+,Record Kei 3,,,,,,
+Record.Kei-15,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Kei-16,京,「お゛っ♥、お゛っ♥、ま、まってくれっ♥♥！！」,「お゛っ♥、お゛っ♥、ま、まってくれっ♥♥！！」,「喔♥、喔♥、等、等等啊♥♥！！」,"""Oh♥ Oh♥ W-wait♥♥!!""","「오옷 옷♥!?, 오옷 홋~~♥♥!?!!」",「喔♥、喔♥、等、等等啊♥♥！！」
+,,,,,,,
+Record.Kei-17,,「これ以上されたらっ♥♥、本当に死んでしまうっ♥♥」,「これ以上されたらっ♥♥、本当に死んでしまうっ♥♥」,「再這樣下去的話♥♥，真的會死掉的♥♥」,"""If you keep going♥♥ I'm really going to die♥♥""","「이 이상 당하면♥♥, 정말 죽어버려♥♥」",「再這樣下去的話♥♥，真的會死掉的♥♥」
+,,,,,,,
+Record.Kei-18,,「調子に乗ったのは悪かったからっ♥♥、ここは一旦っ…！」,「調子に乗ったのは悪かったからっ♥♥、ここは一旦っ…！」,「得意忘形是我不好♥♥，這裡先……！」,"""I was wrong to get cocky♥♥ So let's take a break...!""","「잘난 척한 건 미안했으니까♥♥, 여기서는 일단…!」",「得意忘形是我不好♥♥，這裡先……！」
+,Record kei 2,,,,,,
+Record.Kei-19,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Kei-20,京,「お゛っ♥！？、お゛ほおっ～～～～ッッ♥♥♥！？」,「お゛っ♥！？、お゛ほおっ～～～～ッッ♥♥♥！？」,「喔♥！？、喔齁～～～～♥♥♥！？」,"""Oh♥?! Ohooo♥♥♥?!""","「오옷 옷♥!?, 오옷 홋~~~~♥♥♥!?」",「喔♥！？、喔齁～～～～♥♥♥！？」
+,,,,,,,
+Record.Kei-21,,「へあっ♥♥、お゛っ♥、にゃんでっ♥♥♥」,「へあっ♥♥、お゛っ♥、にゃんでっ♥♥♥」,「嚇♥♥、喔♥、為什麼♥♥♥」,"""Heah♥♥ Oh♥ Whyyy♥♥♥""","「헤앗♥♥, 오옷 옷♥, 냣데♥♥♥」",「嚇♥♥、喔♥、為什麼♥♥♥」
+,,,,,,,
+Record.Kei-22,怪人,「オナホはオナホらしく犯されていろっ！」,「オナホはオナホらしく犯されていろっ！」,「自慰套就該像自慰套一樣被幹啊！」,"""A toy should act like a toy and be used!""",「오나홀은 오나홀답게 박히고 있어라!」,「自慰套就該像自慰套一樣被幹啊！」
+,,,,,,,
+Record.Kei-23,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Kei-24,京,「お゛っ♥、お゛おっ♥、イグッ♥♥、チンポでイクっ♥♥！」,「お゛っ♥、お゛おっ♥、イグッ♥♥、チンポでイクっ♥♥！」,「喔♥、喔喔♥、高潮♥♥、被雞巴搞到高潮♥♥！」,"""Oh♥ Ohh♥ I'm coming♥♥ Coming from being fucked by a cock♥♥!""","「오옷 옷♥, 오옷 오옷♥, 가버렷♥♥, 자지로 가버렷♥♥!」",「喔♥、喔喔♥、高潮♥♥、被雞巴搞到高潮♥♥！」
+,Record kei １,,,,,,
+Record.Kei-25,,「ッ、わかりましたっ♥♥、私は只のオナホでしたッ♥♥、黙って犯されますっ♥♥」,「ッ、わかりましたっ♥♥、私は只のオナホでしたッ♥♥、黙って犯されますっ♥♥」,「唔、我明白了♥♥，我只是個自慰套♥♥，我會默默被幹的♥♥」,"""I understand♥♥ I'm just a toy♥♥ I'll be quiet and take it♥♥""","「윽, 알겠습니다♥♥, 저는 단지 오나홀이었습니다♥♥, 닥치고 박히겠습니다♥♥」",「唔、我明白了♥♥，我只是個自慰套♥♥，我會默默被幹的♥♥」
+,,,,,,,
+Record.Kei-26,,「少しでもおチンポ様の足しになるようにっ♥♥おマンコ締めますのでっ♥♥」,「少しでもおチンポ様の足しになるようにっ♥♥おマンコ締めますのでっ♥♥」,「為了能多少幫上雞巴大人的忙♥♥我會縮緊小穴的♥♥」,"""I'll tighten up to do my job for you♥♥""",「조금이라도 자지 님께 도움이 되도록♥♥ 보지 조일 테니까요♥♥」,「為了能多少幫上雞巴大人的忙♥♥我會縮緊小穴的♥♥」
+,,,,,,,
+Record.Kei-27,,「ケイの雑魚穴存分にお使いくださいっ♥」,「ケイの雑魚穴存分にお使いくださいっ♥」,「請盡情使用京這個雜魚洞吧♥」,"""Please use Kei's weak pussy as much as you want♥""",「케이의 허접 구멍 마음껏 사용해주세요♥」,「請盡情使用京這個雜魚洞吧♥」
+,,,,,,,
+Record.Kei-28,,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,ドチュッ！ドチュッ！ドチュッ！ドチュッ！,咚啾！咚啾！咚啾！咚啾！,Squelch! Squelch! Squelch! Squelch!,도츗! 도츗! 도츗! 도츗!,咚啾！咚啾！咚啾！咚啾！
+,,,,,,,
+Record.Kei-29,怪人,「いい心がけだなっ！そろそろ出してやろう！」,「いい心がけだなっ！そろそろ出してやろう！」,「有這個覺悟不錯！差不多要射給妳了！」,"""Good attitude! I'll finish soon!""",「좋은 마음가짐이군! 슬슬 싸주마!」,「有這個覺悟不錯！差不多要射給妳了！」
+,,,,,,,
+Record.Kei-30,京,「お゛っ♥、あ、ありがとうございますっ♥♥♥！」,「お゛っ♥、あ、ありがとうございますっ♥♥♥！」,「喔♥、啊、謝謝您♥♥♥！」,"""Oh♥ T-thank you♥♥♥!""","「오옷 옷♥, 아, 감사합니다♥♥♥!」",「喔♥、啊、謝謝您♥♥♥！」
+,,,,,,,
+Record.Kei-31,,「不祥オナホっ♥♥、中だし準備万端ですっ♥♥」,「不祥オナホっ♥♥、中だし準備万端ですっ♥♥」,「不肖自慰套♥♥，中出準備完畢了♥♥」,"""This worthless toy♥♥ is ready to receive♥♥""","「불량 오나홀♥♥, 안에 싸기 준비 완료입니다♥♥」",「不肖自慰套♥♥，中出準備完畢了♥♥」
+,,,,,,,
+Record.Kei-32,,「おチンポ様の性液っ♥♥、オナホに沢山流し込んでくださいっ♥♥」,「おチンポ様の性液っ♥♥、オナホに沢山流し込んでくださいっ♥♥」,「雞巴大人的精液♥♥，請大量灌進自慰套裡吧♥♥」,"""Please pour lots of your jizz into this toy♥♥""","「자지님의 정액♥♥, 오나홀에 잔뜩 흘려 넣어주세요♥♥」",「雞巴大人的精液♥♥，請大量灌進自慰套裡吧♥♥」
+,Record Kei 4,,,,,,
+Record.Kei-33,,ドクッ！！ビュルルルッルッッ！ビシュッッ！,ドクッ！！ビュルルルッルッッ！ビシュッッ！,咚！！咻嚕嚕嚕嚕嚕！！噗哧！！,Throb!! Spurrrrrt! Splash!,도큣!! 뷰르르르릇르릇!! 비슛!!,咚！！咻嚕嚕嚕嚕嚕！！噗哧！！
+,,,,,,,
+Record.Kei-34,京,「お゛っ♥、お゛おっ～～～～ッ♥♥♥！？」,「お゛っ♥、お゛おっ～～～～ッ♥♥♥！？」,「喔♥、喔喔～～～～♥♥♥！？」,"""Oh♥ Ohhh♥♥♥?!""","「오옷 옷♥, 오옷 오옷~~~~♥♥♥!?」",「喔♥、喔喔～～～～♥♥♥！？」
+,,,,,,,
+Record.Kei-35,,京の子宮内に大量の性液が流れ込み、入りきらなくなった精液が逆流する,京の子宮内に大量の性液が流れ込み、入りきらなくなった精液が逆流する,大量精液流入京的子宮內，裝不下的精液逆流而出。,"A large amount of semen flowed into Kei's womb, and the excess flowed back out.","케이의 자궁 안에 대량의 정액이 흘러 들어가고, 들어가지 못한 정액이 역류한다",大量精液流入京的子宮內，裝不下的精液逆流而出。
+,,,,,,,
+Record.Kei-36,京,「お゛っ♥♥、お゛おっ♥、お゛ッッッッ♥♥！」,「お゛っ♥♥、お゛おっ♥、お゛ッッッッ♥♥！」,「喔♥♥、喔喔♥、喔喔喔喔喔♥♥！」,"""Oh♥♥ Ohh♥ Ohhh♥♥!""","「오옷 옷♥♥, 오옷 오옷♥, 오옷 옷♥♥!」",「喔♥♥、喔喔♥、喔喔喔喔喔♥♥！」
+,,,,,,,
+Record.Kei-37,,「私の中がっ♥♥、全部精液で満たされてっ♥♥♥」,「私の中がっ♥♥、全部精液で満たされてっ♥♥♥」,「我的裡面♥♥，全被精液填滿了♥♥♥」,"""My insides♥♥ are completely filled♥♥♥""","「내 안이♥♥, 전부 정액으로 채워져서♥♥♥」",「我的裡面♥♥，全被精液填滿了♥♥♥」
+,Record Kei 5,,,,,,
+Record.Kei-38,,ドクンッ！ドクッ！,ドクンッ！ドクッ！,噗通！咚！,Throb! Throb!,도쿤! 도큣!,噗通！咚！
+,,,,,,,
+Record.Kei-39,京,「お゛っ♥、お゛おっ♥……」,「お゛っ♥、お゛おっ♥……」,「喔♥、喔喔♥……」,"""Oh♥ Ohh♥...""","「오옷 옷♥, 오옷 오옷♥……」",「喔♥、喔喔♥……」
+,,,,,,,
+Record.Kei-40,怪人,「ふう、まあオナホとしては及第点だろう」,「ふう、まあオナホとしては及第点だろう」,「呼，作為自慰套來說算是及格吧。」,"""Phew, well, as a toy you get a passing grade.""","「후우, 뭐 오나홀로서는 합격점이겠지」",「呼，作為自慰套來說算是及格吧。」
+,,,,,,,
+Record.Kei-41,京,「はひっ♥♥、射精していただきありがとうございまひたっ♥♥♥」,「はひっ♥♥、射精していただきありがとうございまひたっ♥♥♥」,「哈伊♥♥，非常感謝您射精♥♥♥」,"""Hahi♥♥ Thank you for finishing♥♥♥""","「하힛♥♥, 사정해주셔서 감사합니다앗♥♥♥」",「哈伊♥♥，非常感謝您射精♥♥♥」
+,,,,,,,
+Record.Kei-42,怪人,「まあ噂以上ではなかったがな…また使ってやる」,「まあ噂以上ではなかったがな…また使ってやる」,「雖然沒有傳言中的厲害…我還會再用妳的。」,"""Well, you weren't better than the rumors... I'll use you again.""",「뭐 소문 이상은 아니었지만… 또 써주지」,「雖然沒有傳言中的厲害…我還會再用妳的。」
+,,,,,,,
+Record.Kei-43,京,「お゛っ♥、どうせならっ♥♥、今もう一回使ってくださいっ♥♥」,「お゛っ♥、どうせならっ♥♥、今もう一回使ってくださいっ♥♥」,「喔♥，不如說♥♥，現在再用一次吧♥♥」,"""Oh♥ If that's the case♥♥ Please use me one more time now♥♥""","「오옷 옷♥, 기왕이면♥♥, 지금 한 번 더 써주세요♥♥」",「喔♥，不如說♥♥，現在再用一次吧♥♥」
+,,,,,,,
+Record.Kei-44,京,「オナホはハメられるのが仕事なのでっ♥♥」,「オナホはハメられるのが仕事なのでっ♥♥」,「自慰套的工作就是被插呀♥♥」,"""A toy's job is to be used♥♥""",「오나홀은 박히는 게 일이므로♥♥」,「自慰套的工作就是被插呀♥♥」
+,,,,,,,
+Record.Kei-45,,「……それに……次はもっとうまくやりますから…♥」,「……それに……次はもっとうまくやりますから…♥」,「……而且……下次我會做得更好一點的…♥」,"""...Besides... I'll do better next time...♥""",「……그리고…… 다음엔 더 잘할 테니까…♥」,「……而且……下次我會做得更好一點的…♥」
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Record Clone ,注釈,クローン達　(実装：Chapter3ｰ3クリア後),クローン達　(実装：Chapter3ｰ3クリア後),,,클론들 (실장: Chapter3ｰ3 클리어 후),
+Record.CloneTask,,【クローンの通常業務】,【クローンの通常業務】,【克隆人的日常業務】,[A Clone's Regular Duties],【클론의 통상 업무】,【克隆人的日常業務】
+,,,,,,,
+Record.CloneTask-1,,水無瀬六花がクローンの一員になった日からしばらくして――――,水無瀬六花がクローンの一員になった日からしばらくして――――,水無瀬六花成為克隆人一員後過了一段時間――――,Some time after Rikka Minase became a member of the clones...,미나세 릿카가 클론의 일원이 된 지 얼마 지나지 않아――――,水無瀬六花成為克隆人一員後過了一段時間――――
+,Record clone 1,,,,,,
+Record.CloneTask-2,,072号含む新規ロットのクローン達は穴の開いた壁の前に立たされていた,072号含む新規ロットのクローン達は穴の開いた壁の前に立たされていた,包括072號在內的新一批克隆人們被帶到了一面開了洞的牆壁前。,072 and the other new lot clones were made to stand in front of a wall with holes.,072호를 포함한 신규 로트 클론들은 구멍 뚫린 벽 앞에 서 있었다,包括072號在內的新一批克隆人們被帶到了一面開了洞的牆壁前。
+,,,,,,,
+Record.CloneTask-3,072号,「…………これは？」,「…………これは？」,「…………這是？」,"""......What is this?""",「…………이것은?」,「…………這是？」
+,,,,,,,
+Record.CloneTask-4,クローン,「072号、静かに。これよりクローン戦闘員性奉仕業務を開始します」,「072号、静かに。これよりクローン戦闘員性奉仕業務を開始します」,「072號，安靜。接下來將開始克隆人戰鬥員性服務業務。」,"""072, be quiet. We will now begin clone soldier service duties.""","「072호, 조용히. 지금부터 클론 전투원 성봉사 업무를 개시합니다」",「072號，安靜。接下來將開始克隆人戰鬥員性服務業務。」
+,,,,,,,
+Record.CloneTask-5,クローン,「我々の仕事は戦闘ですが……待機時には戦闘員達の性処理も行います」,「我々の仕事は戦闘ですが……待機時には戦闘員達の性処理も行います」,「我們的工作是戰鬥……但在待命時也要進行戰鬥員們的性處理。」,"""Our job is to fight... but while on standby we also provide services to the soldiers.""",「우리의 일은 전투입니다만…… 대기 시에는 전투원들의 성처리도 합니다」,「我們的工作是戰鬥……但在待命時也要進行戰鬥員們的性處理。」
+,,,,,,,
+Record.CloneTask-6,クローン,「まあ戦闘力は我々の方が高いのですが…我々はクローンですので」,「まあ戦闘力は我々の方が高いのですが…我々はクローンですので」,「雖然我們的戰鬥力更高……但我們是克隆人。」,"""Well, our combat ability is higher... but we are clones, so...""",「뭐 전투력은 우리 쪽이 높습니다만… 우리는 클론이므로」,「雖然我們的戰鬥力更高……但我們是克隆人。」
+,,,,,,,
+Record.CloneTask-7,072号,「……了解しました」,「……了解しました」,「……了解。」,"""...Understood.""",「……알겠습니다」,「……了解。」
+,,,,,,,
+Record.CloneTask-8,,その時、壁の前に戦闘員がやってくる,その時、壁の前に戦闘員がやってくる,這時，一名戰鬥員來到牆壁前。,"At that moment, a soldier came to the wall.","그때, 벽 앞에 전투원이 온다",這時，一名戰鬥員來到牆壁前。
+,,,,,,,
+Record.CloneTask-9,戦闘員,「よーし、今日も頼んだぜクローンちゃん共」,「よーし、今日も頼んだぜクローンちゃん共」,「好，今天也拜託妳們了，克隆人小妞們。」,"""Alright, I'm counting on you today too, clones.""","「좋아, 오늘도 부탁한다 클론쨩들」",「好，今天也拜託妳們了，克隆人小妞們。」
+,Record clone 2,,,,,,
+Record.CloneTask-10,,壁に空いた穴の中に戦闘員のチンポが突っ込まれ、072号の目の前に現れる,壁に空いた穴の中に戦闘員のチンポが突っ込まれ、072号の目の前に現れる,戰鬥員的雞巴塞進牆壁上的洞裡，出現在072號的眼前。,"The soldier inserted his cock through the hole in the wall, appearing before 072.","벽에 뚫린 구멍 안에 전투원의 자지가 쑤셔 박혀, 072호 눈앞에 나타난다",戰鬥員的雞巴塞進牆壁上的洞裡，出現在072號的眼前。
+,,,,,,,
+Record.CloneTask-11,072号,「っ………！」,「っ………！」,「唔………！」,"""...!""",「윽………!」,「唔………！」
+,,,,,,,
+Record.CloneTask-12,クローン,「おや、どうしましたか072号？」,「おや、どうしましたか072号？」,「喔呀，怎麼了072號？」,"""Oh, what's wrong, 072?""","「어머, 왜 그러십니까 072호?」",「喔呀，怎麼了072號？」
+,,,,,,,
+Record.CloneTask-13,072号,「…いえ、なんでもありません」,「…いえ、なんでもありません」,「…不，沒什麼。」,"""...No, it's nothing.""","「…아니요, 아무것도 아닙니다」",「…不，沒什麼。」
+,,,,,,,
+Record.CloneTask-14,クローン,「そうですか、では早速。戦闘員の男性器の咥えなさい」,「そうですか、では早速。戦闘員の男性器の咥えなさい」,「是嗎，那麼立刻開始。含住戰鬥員的男性生殖器。」,"""I see. Then proceed and put the soldier's organ in your mouth.""","「그렇습니까, 그럼 즉시. 전투원의 남성기를 물도록 하십시오」",「是嗎，那麼立刻開始。含住戰鬥員的男性生殖器。」
+,,,,,,,
+Record.CloneTask-15,072号,「っ、………了解しました」,「っ、………了解しました」,「唔、………了解。」,"""...Understood.""","「윽, ………알겠습니다」",「唔、………了解。」
+,Record,,,,,,
+Record.CloneTask-16,,そして072号は目の前に差し出されたチンポを咥える,そして072号は目の前に差し出されたチンポを咥える,接著072號含住了眼前伸出的雞巴。,Then 072 put the cock in front of her in her mouth.,그리고 072호는 눈앞에 내밀어진 자지를 문다,接著072號含住了眼前伸出的雞巴。
+,,,,,,,
+Record.CloneTask-17,,チュポッ,チュポッ,啾波。,Chup,츄폿,啾波。
+,,,,,,,
+Record.CloneTask-18,072号,「んっ……むうっ……」,「んっ……むうっ……」,「嗯……唔……」,"""Nn... Muu...""",「응읏…… 으읏……」,「嗯……唔……」
+,,,,,,,
+Record.CloneTask-19,,(………っ、咥えるのは初めてですが……独特な感触ですね……),(………っ、咥えるのは初めてですが……独特な感触ですね……),（………唔，雖然是第一次含住……但這感覺很特別呢……）,(...This is my first time... it's a unique sensation...),"(………윽, 무는 것은 처음입니다만…… 독특한 감촉이군요……)",（………唔，雖然是第一次含住……但這感覺很特別呢……）
+,,,,,,,
+Record.CloneTask-20,戦闘員,「なんだぁ？今日の穴は外れか？」,「なんだぁ？今日の穴は外れか？」,「搞什麼？今天的洞是個爛貨嗎？」,"""What's this? Is today's hole a dud?""",「뭐야? 오늘의 구멍은 꽝인가?」,「搞什麼？今天的洞是個爛貨嗎？」
+,,,,,,,
+Record.CloneTask-21,クローン　,「072号、咥えているだけでは男性器からの射精は出来ません。前後運動により刺激を与えなさい」,「072号、咥えているだけでは男性器からの射精は出来ません。前後運動により刺激を与えなさい」,「072號，光含著無法讓男性生殖器射精。請進行前後運動給予刺激。」,"""072, just holding it won't make the organ ejaculate. You need to provide stimulation through movement.""","「072호, 물고만 있으면 남성기로부터 사정은 할 수 없습니다. 전후 운동으로 자극을 주십시오」",「072號，光含著無法讓男性生殖器射精。請進行前後運動給予刺激。」
+,,,,,,,
+Record.CloneTask-22,072号,「っ、ひょうはいひまひたっ」,「っ、ひょうはいひまひたっ」,「唔，我會做到的。」,"""Undershood.""","「우, 흐으우읍으읏히핫」",「唔，我會做到的。」
+,Record clone 4,,,,,,
+Record.CloneTask-23,,そして072号は頭を前後に振り、戦闘員のチンポに刺激を与え始める,そして072号は頭を前後に振り、戦闘員のチンポに刺激を与え始める,接著072號開始前後擺動頭部，給予戰鬥員的雞巴刺激。,"Then 072 began moving her head back and forth, providing stimulation to the soldier's cock.","그리고 072호는 머리를 앞뒤로 흔들며, 전투원의 자지에 자극을 주기 시작한다",接著072號開始前後擺動頭部，給予戰鬥員的雞巴刺激。
+,,,,,,,
+Record.CloneTask-24,,チュプッ、チュプッ、チュプッ！,チュプッ、チュプッ、チュプッ！,啾噗、啾噗、啾噗！,"Chup, chup, chup!","츄풋, 츄풋, 츄풋!",啾噗、啾噗、啾噗！
+,,,,,,,
+Record.CloneTask-25,072号,「むうっ♥、んっ♥！」,「むうっ♥、んっ♥！」,「唔♥、嗯♥！」,"""Muu♥ Nn♥!""","「으읏♥, 응읏♥!」",「唔♥、嗯♥！」
+,,,,,,,
+Record.CloneTask-26,,(こう…でしょうか……♥？),(こう…でしょうか……♥？),（是……這樣嗎……♥？）,(Like... this...♥?),(이렇게… 입니까……♥?),（是……這樣嗎……♥？）
+,,,,,,,
+Record.CloneTask-27,,チュプッ、チュプッ、チュプッ,チュプッ、チュプッ、チュプッ,啾噗、啾噗、啾噗,"Chup, chup, chup","츄풋, 츄풋, 츄풋",啾噗、啾噗、啾噗
+,,,,,,,
+Record.CloneTask-28,戦闘員,「おいおいなんだこの緩いフェラは？教育足りてねえんじゃねえのか？」,「おいおいなんだこの緩いフェラは？教育足りてねえんじゃねえのか？」,「喂喂，這口交也太鬆了吧？是不是教育不足啊？」,"""Hey, what's with this weak blowjob? Haven't you been properly trained?""",「어이어이 뭐야 이 느슨한 펠라는? 교육 부족 아니야?」,「喂喂，這口交也太鬆了吧？是不是教育不足啊？」
+,,,,,,,
+Record.CloneTask-29,072号,「っ、むうっ！？」,「っ、むうっ！？」,「唔、唔！？」,"""Muu?!""","「윽, 으읏!?」",「唔、唔！？」
+,,,,,,,
+Record.CloneTask-30,クローン,「072号。もっと真面目にやりなさい」,「072号。もっと真面目にやりなさい」,「072號。請更認真地做。」,"""072, please take this duty seriously.""",「072호. 더 진지하게 하십시오」,「072號。請更認真地做。」
+,,,,,,,
+Record.CloneTask-31,072号,「っ、もうひわけごらいませんっ！」,「っ、もうひわけごらいませんっ！」,「唔、我會更努力的！」,"""I'm shorry!""","「윽, 죄송합니닷!」",「唔、我會更努力的！」
+,,,,,,,
+Record.CloneTask-32,,ジュプッ！ジュプッ！ジュプッ！,ジュプッ！ジュプッ！ジュプッ！,嗙噗！嗙噗！嗙噗！,Jup! Jup! Jup!,쥬풋! 쥬풋! 쥬풋!,嗙噗！嗙噗！嗙噗！
+,,,,,,,
+Record.CloneTask-33,,072号は更に口をすぼめ戦闘員のチンポを舐っていく,072号は更に口をすぼめ戦闘員のチンポを舐っていく,072號進一步縮緊嘴巴，舔舐戰鬥員的雞巴。,072 pursed her lips more and continued licking the soldier's cock.,072호는 더욱 입을 오므려 전투원의 자지를 핥아간다,072號進一步縮緊嘴巴，舔舐戰鬥員的雞巴。
+,,,,,,,
+Record.CloneTask-34,072号,「んっ♥、んっ♥、んっ♥！」,「んっ♥、んっ♥、んっ♥！」,「嗯♥、嗯♥、嗯♥！」,"""Nn♥ Nn♥ Nn♥!""","「응읏♥, 응읏♥, 응읏♥!」",「嗯♥、嗯♥、嗯♥！」
+,,,,,,,
+Record.CloneTask-35,072号,(っ、クローンとしてっ！このくらいのことは出来なければっ),(っ、クローンとしてっ！このくらいのことは出来なければっ),（唔，身為克隆人！這種事一定要能做到！）,(As a clone! I must be able to do at least this much!),"(윽, 클론으로서! 이 정도 일은 할 수 있어야!)",（唔，身為克隆人！這種事一定要能做到！）
+,,,,,,,
+Record.CloneTask-36,,ジュプッ！ジュプッ！ジュプッ！,ジュプッ！ジュプッ！ジュプッ！,嗙噗！嗙噗！嗙噗！,Jup! Jup! Jup!,쥬풋! 쥬풋! 쥬풋!,嗙噗！嗙噗！嗙噗！
+,,,,,,,
+Record.CloneTask-37,戦闘員,「お？やっと真面目にやり始めたか？」,「お？やっと真面目にやり始めたか？」,「喔？終於開始認真了嗎？」,"""Oh? Finally getting serious?""",「오? 겨우 진지하게 하기 시작했나?」,「喔？終於開始認真了嗎？」
+,,,,,,,
+Record.CloneTask-38,072号,「んっ♥、んっ♥、んっ♥！」,「んっ♥、んっ♥、んっ♥！」,「嗯♥、嗯♥、嗯♥！」,"""Nn♥ Nn♥ Nn♥!""","「응읏♥, 응읏♥, 응읏♥!」",「嗯♥、嗯♥、嗯♥！」
+,,,,,,,
+Record.CloneTask-39,戦闘員,「まあいい、その頑張りに免じて出してやるっ、オラッ」,「まあいい、その頑張りに免じて出してやるっ、オラッ」,「算了，看在妳這麼努力的份上就射出來吧，看招！」,"""Well, fine. For your effort, I'll finish. Here!""","「뭐 좋아, 그 노력을 생각해서 이제 싸주마, 자!」",「算了，看在妳這麼努力的份上就射出來吧，看招！」
+,Record clone 5,,,,,,
+Record.CloneTask-40,,ドピュッ！ドビュルルルッ！,ドピュッ！ドビュルルルッ！,咚噗！咻嚕嚕嚕嚕！,Spurt! Spurrrrt!,도퓻! 도뷰르르릇!,咚噗！咻嚕嚕嚕嚕！
+,,,,,,,
+Record.CloneTask-41,072号,「～～～～～～～ッ♥♥！！」,「～～～～～～～ッ♥♥！！」,「～～～～～～～ッ♥♥！！」,"""Mmmmmmph♥♥!!""",「~~~~~~윽♥♥!!」,「～～～～～～～ッ♥♥！！」
+,,,,,,,
+Record.CloneTask-42,,072号の口内に勢いよく白濁液が注ぎ込まれる,072号の口内に勢いよく白濁液が注ぎ込まれる,白色渾濁的液體猛地灌入072號的口腔內。,White fluid was forcefully shot into 072's mouth.,072호의 입안에 힘차게 백탁액이 쏟아진다,白色渾濁的液體猛地灌入072號的口腔內。
+,,,,,,,
+Record.CloneTask-43,072号,「んむっ♥、んっ♥」,「んむっ♥、んっ♥」,「嗯唔♥、嗯♥」,"""Nmm♥ Nn♥""","「으윽♥, 응읏♥」",「嗯唔♥、嗯♥」
+,,,,,,,
+Record.CloneTask-44,072号,(っ、これが…精液ですか……っ！),(っ、これが…精液ですか……っ！),（唔，這就是…精液嗎……！）,(This is... semen...!),"(윽, 이것이… 정액입니까……윽!)",（唔，這就是…精液嗎……！）
+,,,,,,,
+Record.CloneTask-45,戦闘員,「オラッ、しっかり飲めよっ！」,「オラッ、しっかり飲めよっ！」,「喂，好好喝下去！」,"""Come on, swallow it properly!""",「자! 제대로 마셔!」,「喂，好好喝下去！」
+,,,,,,,
+Record.CloneTask-46,,ゴブッ♥♥、ドププッ♥♥！,ゴブッ♥♥、ドププッ♥♥！,咕噗♥♥、咚噗噗♥♥！,Gulp♥♥ Glup♥♥!,"곱♥♥, 돕풋♥♥!",咕噗♥♥、咚噗噗♥♥！
+,,,,,,,
+Record.CloneTask-47,072号,「……っ！」,「……っ！」,「……唔！」,"""...!""",「……윽!」,「……唔！」
+,,,,,,,
+Record.CloneTask-48,072号,(っ、凄い量……っ！こんなにっ♥♥),(っ、凄い量……っ！こんなにっ♥♥),（唔，好大的量……！竟然有這麼多♥♥）,(So much...! This much♥♥),"(윽, 굉장한 양……윽! 이렇게나♥♥)",（唔，好大的量……！竟然有這麼多♥♥）
+,,,,,,,
+Record.CloneTask-49,,戦闘員のチンポが何度か脈打った後、残った精液が発射される,戦闘員のチンポが何度か脈打った後、残った精液が発射される,戰鬥員的雞巴跳動了幾下後，剩餘的精液也發射出來。,"After the soldier pulsated several times, the remaining semen was unloaded.""","전투원의 자지가 몇 번 맥박친 후, 남은 정액이 발사된다",戰鬥員的雞巴跳動了幾下後，剩餘的精液也發射出來。
+,Record clone 6,,,,,,
+Record.CloneTask-50,072号,「んっ♥、けぷっ……♥♥」,「んっ♥、けぷっ……♥♥」,「嗯♥、咳……♥♥」,"""Nn♥ Burp...♥♥""","「응읏♥, 케풋……♥♥」",「嗯♥、咳……♥♥」
+,,,,,,,
+Record.CloneTask-51,戦闘員,「ふう、出した出した…だがまだ未熟なフェラだな、しっかり教育してくれ？」,「ふう、出した出した…だがまだ未熟なフェラだな、しっかり教育してくれ？」,「呼，射完了射完了…但口交技術還很稚嫩啊，要好好教育她們？」,"""Phew, I finished... but that was still an amateur blowjob. Train her properly, will you?""","「후우, 쌌다 쌌어… 하지만 아직 미숙한 펠라네, 제대로 교육해줘?」",「呼，射完了射完了…但口交技術還很稚嫩啊，要好好教育她們？」
+,,,,,,,
+Record.CloneTask-52,クローン,「そうですね。072号はこの後調整室に来なさい。少し定型化改造をする必要があるようですので」,「そうですね。072号はこの後調整室に来なさい。少し定型化改造をする必要があるようですので」,「是。072號，妳之後來調整室一趟。看來需要進行一些制式化改造。」,"""Indeed. 072, come to the adjustment room after this. It seems you need some standardization modifications.""",「그렇군요. 072호는 이 후 조정실로 오십시오. 조금 정형화 개조를 할 필요가 있는 것 같으므로」,「是。072號，妳之後來調整室一趟。看來需要進行一些制式化改造。」
+,,,,,,,
+Record.CloneTask-53,072号,「っ、……了解しました。」,「っ、……了解しました。」,「唔、……了解。」,"""...Understood.""","「윽, ……알겠습니다.」",「唔、……了解。」
+,,,,,,,
+Record.CloneTask-54,,クローンの一員となった072号は拒否することなくそれに従うのだった,クローンの一員となった072号は拒否することなくそれに従うのだった,成為克隆人一員的072號沒有任何拒絕地服從了。,"072, who had become a member of the clones, obeyed without refusal.",클론의 일원이 된 072호는 거부하지 않고 그것에 따르는 것이었다,成為克隆人一員的072號沒有任何拒絕地服從了。
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Record Erena＆Nayuta,注釈,エンドコンテンツ　那由多＆エレナ,エンドコンテンツ　那由多＆エレナ,,,엔드 콘텐츠　나유타＆엘레나,
+Record.Erenayuta,,【最強の二人】,【最強の二人】,【最強的兩人】,[The Strongest Duo],【최강의 두 사람】,【最強的兩人】
+,,,,,,,
+Record.Erenayuta-1,,エレナと那由多が財団の手に堕ちてからしばらくの時が流れ―――,エレナと那由多が財団の手に堕ちてからしばらくの時が流れ―――,艾蓮娜和那由多落入財團手中後，過了一段時間―――,Some time passed after Elena and Nayuta fell into the Foundation's hands...,엘레나와 나유타가 재단의 손에 떨어진 후 얼마 지나지 않아―――――,艾蓮娜和那由多落入財團手中後，過了一段時間―――
+,暗転,,,,,,
+Record.Erenayuta-2,Record E＆N 1,エレナと那由多は公衆トイレの壁に括りつけられていた,エレナと那由多は公衆トイレの壁に括りつけられていた,艾蓮娜和那由多被綁在公共廁所的牆上。,Elena and Nayuta were tied to the wall of a public restroom.,엘레나와 나유타는 공중 화장실 벽에 묶여 있었다,艾蓮娜和那由多被綁在公共廁所的牆上。
+,,,,,,,
+Record.Erenayuta-3,エレナ,「っ、何ですかこれは……」,「っ、何ですかこれは……」,「唔，這是什麼……」,"""What is this...""","「윽, 무엇입니까 이것은……」",「唔，這是什麼……」
+,,,,,,,
+Record.Erenayuta-4,那由多,「これは……大変な状況ですね」,「これは……大変な状況ですね」,「這是……很糟糕的情況呢。」,"""This is... quite a situation.""",「이것은…… 힘든 상황이군요」,「這是……很糟糕的情況呢。」
+,,,,,,,
+Record.Erenayuta-5,エレナ,「それに……何故この女を隣に……！」,「それに……何故この女を隣に……！」,「而且……為什麼偏偏把這個女人放在我旁邊……！」,"""And... why is this woman next to me...!""",「게다가…… 왜 이 여자를 옆에……!」,「而且……為什麼偏偏把這個女人放在我旁邊……！」
+,,,,,,,
+Record.Erenayuta-6,那由多,「こちらのセリフです。何故真横に配置するのでしょうか」,「こちらのセリフです。何故真横に配置するのでしょうか」,「這是我該說的。為何要將我放在正旁邊呢。」,"""That's my line. Why place us right next to each other?""",「이쪽의 대사입니다. 왜 바로 옆에 배치하는 겁니까」,「這是我該說的。為何要將我放在正旁邊呢。」
+,,,,,,,
+Record.Erenayuta-7,戦闘員,「ったく、お前らは堕ちてるってのにいつも喧嘩ばっかだな」,「ったく、お前らは堕ちてるってのにいつも喧嘩ばっかだな」,「真是的，妳們都已經墮落了還是整天吵架啊。」,"""Geez, you two are always fighting even after the defeat.""","「정말, 너희들은 타락했는데도 언제나 싸움뿐이네」",「真是的，妳們都已經墮落了還是整天吵架啊。」
+,,,,,,,
+Record.Erenayuta-8,エレナ,「はい。正直不快です。何故このような事を……」,「はい。正直不快です。何故このような事を……」,「是。說實話很不快。為何要做這種事……」,"""Yes. Honestly, this is unpleasant. Why do such a thing...""",「네. 솔직히 불쾌합니다. 왜 이런 짓을……」,「是。說實話很不快。為何要做這種事……」
+,,,,,,,
+Record.Erenayuta-9,那由多,「随分な物言いですね。その無駄なプライドの高さは変わってないのですね」,「随分な物言いですね。その無駄なプライドの高さは変わってないのですね」,「您說話真不客氣呢。那無謂的高傲自尊心還是沒變啊。」,"""Such a way of speaking. That uselessly high pride of yours hasn't changed.""",「상당한 말투군요. 그 쓸데없는 프라이드 높음은 변하지 않았군요」,「您說話真不客氣呢。那無謂的高傲自尊心還是沒變啊。」
+,,,,,,,
+Record.Erenayuta-10,エレナ,「………言わせておけば」,「………言わせておけば」,「………我讓妳說個沒完」,"""...If you keep talking like that""",「………말하게 놔두면」,「………我讓妳說個沒完」
+,,,,,,,
+Record.Erenayuta-11,戦闘員,「まあまあ落ち着け。今日はそんなお前らのために対決の場を用意してやったってわけだ」,「まあまあ落ち着け。今日はそんなお前らのために対決の場を用意してやったってわけだ」,「好了好了冷靜點。我今天就為了妳們特別準備了一個對決的場地。」,"""Now, now, calm down. Today I've prepared a competition venue for you two.""",「뭐뭐 진정해. 오늘은 그런 너희들을 위해 대결의 장을 마련해줬다는 거지」,「好了好了冷靜點。我今天就為了妳們特別準備了一個對決的場地。」
+,,,,,,,
+Record.Erenayuta-12,那由多,「………どういうことですか？」,「………どういうことですか？」,「………是什麼意思？」,"""...What do you mean?""",「………무슨 소리입니까?」,「………是什麼意思？」
+,Record E＆N 2,,,,,,
+Record.Erenayuta-13,,目の前に何人もの裸の男がぞろぞろと現れる,目の前に何人もの裸の男がぞろぞろと現れる,許多光著身子的男人魚貫而入地出現在她們面前。,Multiple naked men appeared before them one after another.,눈앞에 여러 명의 벌거벗은 남자가 줄줄이 나타난다,許多光著身子的男人魚貫而入地出現在她們面前。
+,,,,,,,
+Record.Erenayuta-14,エレナ,「……っ、これは！？」,「……っ、これは！？」,「唔、這是！？」,"""...This is...?!""","「……윽, 이것은!?」",「唔、這是！？」
+,,,,,,,
+Record.Erenayuta-15,戦闘員,「お前らにはこの公園のトイレで“肉便器”対決をしてもらう」,「お前らにはこの公園のトイレで“肉便器”対決をしてもらう」,「妳們要在這個公園的廁所裡進行『肉便器』對決。」,"""You two will have a 'cum dumpster' competition in this restroom at the park.""",「너희들에게는 이 공원 화장실에서 “육변기” 대결을 하게 할 거다」,「妳們要在這個公園的廁所裡進行『肉便器』對決。」
+,,,,,,,
+Record.Erenayuta-16,,「この部屋は中継されていてお前らを使いたくなった男どもがやってくる」,「この部屋は中継されていてお前らを使いたくなった男どもがやってくる」,「這間房間會進行轉播，想要使用妳們的男人們會跑過來。」,"""This room is being broadcast and men who want to use you will come.""",「이 방은 중계되고 있어서 너희들을 사용하고 싶어진 남자들이 올 거야」,「這間房間會進行轉播，想要使用妳們的男人們會跑過來。」
+,,,,,,,
+Record.Erenayuta-17,,「まそれで沢山使用…膣内射精してもらった方が勝者というわけだ」,「まそれで沢山使用…膣内射精してもらった方が勝者というわけだ」,「總之就是誰被使用得多……被射精到陰道裡的次數多的一方就是勝者。」,"""Well, whoever gets used more... gets more creampies wins.""",「뭐 그래서 많이 사용… 질내 사정받은 쪽이 승자라는 거지」,「總之就是誰被使用得多……被射精到陰道裡的次數多的一方就是勝者。」
+,,,,,,,
+Record.Erenayuta-18,エレナ,「………肉便器……くだらないですね」,「………肉便器……くだらないですね」,「………肉便器……真無聊呢。」,"""...Cum dumpster... how ridiculous.""",「………육변기……시답잖군요」,「………肉便器……真無聊呢。」
+,,,,,,,
+Record.Erenayuta-19,那由多,「いくら私達が堕ちているからといっても……流石に抵抗があります」,「いくら私達が堕ちているからといっても……流石に抵抗があります」,「儘管我們已經墮落了……但終究還是有所抵抗。」,"""Even though we've fallen... I still have trouble doing this.""",「아무리 우리가 타락했다고는 해도…… 역시 저항감이 있습니다」,「儘管我們已經墮落了……但終究還是有所抵抗。」
+,,,,,,,
+Record.Erenayuta-20,戦闘員,「ああ、ちなみに勝った方は一階級特進だ。上官になるってわけだな」,「ああ、ちなみに勝った方は一階級特進だ。上官になるってわけだな」,「啊對了，順帶一提贏家會晉升一級。就是變成上官的意思。」,"""Oh, by the way, the winner gets promoted one rank. You'll become a superior officer.""","「아아, 참고로 이긴 쪽은 한 계급 특진이다. 상관이 된다는 거지」",「啊對了，順帶一提贏家會晉升一級。就是變成上官的意思。」
+,,,,,,,
+Record.Erenayuta-21,エレナ＆那由多,「「ッ！！！！！！」」,「「ッ！！！！！！」」,「唔！！！！！！」「唔！！！！！」,"""!!!!!""",「「윽!!!!!!」」,「唔！！！！！！」「唔！！！！！」
+,,,,,,,
+Record.Erenayuta-22,戦闘員,「そういうわけで……まあせいぜい頑張ってくれ」,「そういうわけで……まあせいぜい頑張ってくれ」,「就是這麼回事……那麼就儘管努力吧。」,"""So that's how it is... well, do your best.""",「그런 이유로…… 뭐 힘껏 힘내줘」,「就是這麼回事……那麼就儘管努力吧。」
+,暗転,,,,,,
+Record.Erenayuta-23,Record E＆N 3,ズッブウウウウゥッ！！！！,ズッブウウウウゥッ！！！！,滋！！！！,Thrust!,즈읏부우우우웃!!!!,滋！！！！
+,,,,,,,
+Record.Erenayuta-24,エレナ＆那由多,「っ、！！！！」,「っ、！！！！」,「唔、！！！！」,"""!!!!""","「윽,!!!!」",「唔、！！！！」
+,,,,,,,
+Record.Erenayuta-25,男,「うおっ、これが聖核戦姫のマンコっ…流石の弾力と締め付けだっ！」,「うおっ、これが聖核戦姫のマンコっ…流石の弾力と締め付けだっ！」,「哇靠，這就是聖核戰姫的淫穴…果然彈力和緊緻度不同凡響啊！」,"""Whoa, this is a Holy Core Battlemaiden's... incredible elasticity and tightness!""","「우옷, 이것이 성핵전희의 보지… 역시 탄력과 조임이!」",「哇靠，這就是聖核戰姫的淫穴…果然彈力和緊緻度不同凡響啊！」
+,,,,,,,
+Record.Erenayuta-26,エレナ,「ふっ、この程度のチンポ…簡単にヌキとってあげます！」,「ふっ、この程度のチンポ…簡単にヌキとってあげます！」,「哼，這種程度的雞巴…我輕易就能將精液榨乾！」,"""Hmph, a cock of this level... I'll easily finish you!""","「훗, 이 정도 자지… 간단히 빼내 드리겠습니다!」",「哼，這種程度的雞巴…我輕易就能將精液榨乾！」
+,,,,,,,
+Record.Erenayuta-27,那由多,「どちらが早く搾精できるか…勝負ですね……！」,「どちらが早く搾精できるか…勝負ですね……！」,「看看誰能更快榨出精液…是勝負的關鍵呢……！」,"""Let's see who can finish them faster... it's a competition...!""",「어느 쪽이 빨리 착정할 수 있을지… 승부군요……!」,「看看誰能更快榨出精液…是勝負的關鍵呢……！」
+,Record E＆N 4,,,,,,
+Record.Erenayuta-28,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!",啪啾、啪啾、啪啾！
+,,,,,,,
+Record.Erenayuta-29,,那由多とエレナは競うように膣を締め付け、射精を促す,那由多とエレナは競うように膣を締め付け、射精を促す,那由多和艾蓮娜互相競爭般地縮緊陰道，催促著射精。,"Nayuta and Elena competed by tightening, encouraging ejaculations.","나유타와 엘레나는 경쟁하듯 질을 조여, 사정을 재촉한다",那由多和艾蓮娜互相競爭般地縮緊陰道，催促著射精。
+,,,,,,,
+Record.Erenayuta-30,エレナ,「っ♥、どうですかっ、AV撮影で鍛えた私の肉厚マンコっ♥♥」,「っ♥、どうですかっ、AV撮影で鍛えた私の肉厚マンコっ♥♥」,「唔♥，怎麼樣，經過AV拍攝鍛鍊的我的豐厚淫穴♥♥」,"""How does it feel? This thick pussy was trained through shooting porn!♥""","「윽♥, 어떻습니까, AV 촬영으로 단련된 저의 두툼한 보지♥♥」",「唔♥，怎麼樣，經過AV拍攝鍛鍊的我的豐厚淫穴♥♥」
+,,,,,,,
+Record.Erenayuta-31,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!",啪啾、啪啾、啪啾！
+,,,,,,,
+Record.Erenayuta-32,男,「うおっ、すげえっ…これが雌牛AV女優エレナちゃんのマンコっ」,「うおっ、すげえっ…これが雌牛AV女優エレナちゃんのマンコっ」,「哇靠，好厲害啊…這就是母牛AV女優艾蓮娜小姐的淫穴」,"""Whoa, amazing... So this is Elena the porn star's pussy...""","「우옷, 굉장해… 이것이 암소 AV 배우 엘레나쨩의 보지」",「哇靠，好厲害啊…這就是母牛AV女優艾蓮娜小姐的淫穴」
+,,,,,,,
+Record.Erenayuta-33,エレナ,「はあっ♥、当然ですッ！、」,「はあっ♥、当然ですッ！、」,「哈啊♥，那是當然的！！」,"""Haa♥ Of course!""","「하앗♥, 당연합니다!,」",「哈啊♥，那是當然的！！」
+,,,,,,,
+Record.Erenayuta-34,那由多,「私こそっ、VIP接待で鍛えたテクニックはどうですかっ♥、数だけ多いヤリマンとは違いますっ♥♥」,「私こそっ、VIP接待で鍛えたテクニックはどうですかっ♥、数だけ多いヤリマンとは違いますっ♥♥」,「我才是，經過VIP接待鍛鍊出來的技術怎麼樣♥，跟只有數量多的蕩婦可不一樣♥♥」,"""My techniques were trained through VIP entertainment, how are they? Different from someone who just has numbers♥♥""","「저야말로, VIP 접대로 단련된 테크닉은 어떻습니까♥, 수만 많은 창녀와는 다릅니다♥♥」",「我才是，經過VIP接待鍛鍊出來的技術怎麼樣♥，跟只有數量多的蕩婦可不一樣♥♥」
+,,,,,,,
+Record.Erenayuta-35,男,「ぐうっ、このヒダ使いっ、まるでチンポを握られているようだっ！」,「ぐうっ、このヒダ使いっ、まるでチンポを握られているようだっ！」,「嗚，這個褶皺的運用，簡直像是雞巴被握住了一樣！」,"""Guh, it's like my cock is being gripped!""","「크윽, 이 주름 사용법, 마치 자지를 쥐고 있는 것 같아!」",「嗚，這個褶皺的運用，簡直像是雞巴被握住了一樣！」
+,,,,,,,
+Record.Erenayuta-36,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!",啪啾、啪啾、啪啾！
+,,,,,,,
+Record.Erenayuta-37,エレナ,「んっ♥、早く出してくださいっ、私のマンコにっ！」,「んっ♥、早く出してくださいっ、私のマンコにっ！」,「嗯♥，快點射出來吧，射到我的淫穴裡！」,"""Nn♥ Please finish quickly in my pussy!""","「응읏♥, 빨리 싸주세요, 제 보지에!」",「嗯♥，快點射出來吧，射到我的淫穴裡！」
+,,,,,,,
+Record.Erenayuta-38,那由多,「エレナには負けませんっ♥、当然私が勝ちますっ♥」,「エレナには負けませんっ♥、当然私が勝ちますっ♥」,「我不會輸給艾蓮娜的♥，當然是我贏♥」,"""I won't lose to Elena♥ Of course I'll win♥""","「엘레나에게는 지지 않겠습니다♥, 당연히 제가 이깁니다♥」",「我不會輸給艾蓮娜的♥，當然是我贏♥」
+,,,,,,,
+Record.Erenayuta-39,男,「ぬっ、締め付けが…ぐおっ、出るっ！」,「ぬっ、締め付けが…ぐおっ、出るっ！」,「唔，這緊縮感…嗚喔，要射了！」,"""Ngh, the tightness... gah, I'm finishing!""","「윽, 조임이… 크오옷, 싼다!」",「唔，這緊縮感…嗚喔，要射了！」
+,Record E＆N 5,,,,,,
+Record.Erenayuta-40,,ドクッ！、ドクドクッ！,ドクッ！、ドクドクッ！,咚！、咚咚！,Throb! Throb throb!,"도큣!, 도큣도큣!",咚！、咚咚！
+,,,,,,,
+Record.Erenayuta-41,,ほぼ同時にエレナと那由多のマンコに勢いよく精液が放たれる,ほぼ同時にエレナと那由多のマンコに勢いよく精液が放たれる,幾乎同時精液猛地噴射到艾蓮娜和那由多的淫穴裡。,"Almost simultaneously, both Elena and Nayuta were filled with hot jizz.",거의 동시에 엘레나와 나유타의 보지에 힘차게 정액이 방출된다,幾乎同時精液猛地噴射到艾蓮娜和那由多的淫穴裡。
+,,,,,,,
+Record.Erenayuta-42,エレナ,「んっ♥、んうっ♥♥！」,「んっ♥、んうっ♥♥！」,「嗯♥、嗯嗚♥♥！」,"""Nn♥ Nuu♥♥!""","「응읏♥, 으읏♥♥!」",「嗯♥、嗯嗚♥♥！」
+,,,,,,,
+Record.Erenayuta-43,那由多,「っ♥、くうっ♥！」,「っ♥、くうっ♥！」,「唔♥、嗚♥！」,"""♥ Kuu♥!""","「윽♥, 크읏♥!」",「唔♥、嗚♥！」
+,Record E＆N 6,,,,,,
+Record.Erenayuta-44,男,「ふう、いい感じだったよ那由多ちゃん」,「ふう、いい感じだったよ那由多ちゃん」,「呼，剛才感覺很棒啊那由多小姐。」,"""Phew, that felt good, Nayuta.""","「후우, 좋은 느낌이었어 나유타쨩」",「呼，剛才感覺很棒啊那由多小姐。」
+,,,,,,,
+Record.Erenayuta-45,戦闘員,「あー、これで二人とも1ポイントだな。分かりやすいようにペンで書いといてやる」,「あー、これで二人とも1ポイントだな。分かりやすいようにペンで書いといてやる」,「啊，這樣兩個人都得一分了吧。為了方便區分我就用筆寫上去了。」,"""Ah, that's 1 point for both of you. I'll write it with a pen so it's clear.""","「아-, 이걸로 둘 다 1점씩이군. 알기 쉽게 펜으로 써두지」",「啊，這樣兩個人都得一分了吧。為了方便區分我就用筆寫上去了。」
+,Record E＆N 7,,,,,,
+Record.Erenayuta-46,エレナ,「んっ♥、なるほど、この感じで搾精し続ければいいんですね…！」,「んっ♥、なるほど、この感じで搾精し続ければいいんですね…！」,「嗯♥，原來如此，就這樣持續榨取精液就好了呢…！」,"""Nn♥ I see, so I just need to continue milking them like this...!""","「응읏♥, 과연, 이런 느낌으로 계속 착정하면 되는군요…!」",「嗯♥，原來如此，就這樣持續榨取精液就好了呢…！」
+,,,,,,,
+Record.Erenayuta-47,那由多,「ふん♥、要領が分かってしまえばこちらのものですっ。この勝負、私が勝ちますっ！」,「ふん♥、要領が分かってしまえばこちらのものですっ。この勝負、私が勝ちますっ！」,「哼♥，一旦掌握了要領就是我的優勢了。這場比賽，我會贏的！」,"""Hmph♥ Once I understand the method, it's mine. I'll win this competition!""","「흥♥, 요령을 알았으니 이쪽의 것입니다. 이 승부, 제가 이깁니다!」",「哼♥，一旦掌握了要領就是我的優勢了。這場比賽，我會贏的！」
+,Record E＆N ８,,,,,,
+Record.Erenayuta-48,,そして次の男たちが那由多とエレナに覆いかぶさる,そして次の男たちが那由多とエレナに覆いかぶさる,接著下一批男人覆蓋到那由多和艾蓮娜身上。,Then the next men approached Nayuta and Elena.,그리고 다음 남자들이 나유타와 엘레나에게 덮쳐든다,接著下一批男人覆蓋到那由多和艾蓮娜身上。
+,,,,,,,
+Record.Erenayuta-49,,バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾！,"Slap, slap, slap!","바츗, 바츗, 바츗!",啪啾、啪啾、啪啾！
+,,,,,,,
+Record.Erenayuta-50,エレナ,「勝つのは私ですッ♥、こんな節操のない格好の雌ブタには負けませんっ♥！」,「勝つのは私ですッ♥、こんな節操のない格好の雌ブタには負けませんっ♥！」,「贏的是我♥，我不會輸給這種穿著不檢點的母豬的♥！」,"""I'll win♥ I'm not going to lose to a shameless pig like you♥!""","「이기는 건 저입니다♥, 이런 절제 없는 모습의 암퇘지에게는 지지 않아요♥!」",「贏的是我♥，我不會輸給這種穿著不檢點的母豬的♥！」
+,,,,,,,
+Record.Erenayuta-51,那由多,「メス牛ユルマンビッチが私に勝てるとでも？♥勝つのは私ですっ♥♥」,「メス牛ユルマンビッチが私に勝てるとでも？♥勝つのは私ですっ♥♥」,「母牛鬆穴蕩婦竟然敢說能贏我嗎？♥贏的將會是我♥♥」,"""You think a loose pussy like yours can beat me?♥ I'll be the winner♥♥""",「암소 헐렁 보지 년이 나에게 이길 수 있다고?♥ 이기는 건 저입니다♥♥」,「母牛鬆穴蕩婦竟然敢說能贏我嗎？♥贏的將會是我♥♥」
+,,,,,,,
+Record.Erenayuta-52,戦闘員,「あー、じゃあ明日の朝迎えに来てやるから、それまで頑張ってくれ」,「あー、じゃあ明日の朝迎えに来てやるから、それまで頑張ってくれ」,「好了，那我明天早上來接妳們，妳們就努力吧。」,"""Ah, well, I'll come pick you up tomorrow morning, so do your best until then.""","「아-, 그럼 내일 아침에 데리러 올 테니, 그때까지 힘내라」",「好了，那我明天早上來接妳們，妳們就努力吧。」
+,,,,,,,
+Record.Erenayuta-53,エレナ,「ふっ…望むところですっ♥」,「ふっ…望むところですっ♥」,「哼…正合我意♥」,"""Hmph... Let's find out!""",「훗… 바라는 바입니다♥」,「哼…正合我意♥」
+,,,,,,,
+Record.Erenayuta-54,那由多,「この勝負…本気でイカせていただきます！」,「この勝負…本気でイカせていただきます！」,「這場比賽…我會認真讓你們高潮的！」,"""This competition... I'll give it my all!""",「이 승부… 진심으로 가게 해드리겠습니다!」,「這場比賽…我會認真讓你們高潮的！」
+,,,,,,,
+Record.Erenayuta-55,,そしてエレナと那由多は一晩中搾精肉便器勝負へと臨むのであった,そしてエレナと那由多は一晩中搾精肉便器勝負へと臨むのであった,於是艾蓮娜和那由多開始了一整晚的榨精肉便器比賽。,And so Elena and Nayuta engaged in the public service competition all night long.,그리고 엘레나와 나유타는 밤새도록 착정 육변기 승부에 임하는 것이었다,於是艾蓮娜和那由多開始了一整晚的榨精肉便器比賽。
+,,,,,,,
+Record.Erenayuta-56,,―――翌日,―――翌日,―――隔日,The next day,―――다음날,―――隔日
+,暗転,,,,,,
+Record.Erenayuta-57,Record E＆N ９,そこには体中に無数の卑猥な落書きをされ、精液にまみれた二人の姿があった,そこには体中に無数の卑猥な落書きをされ、精液にまみれた二人の姿があった,那裡有兩個人，身上被塗滿了無數淫穢的塗鴉，沾滿了精液。,"There were the two of them, covered in countless obscene writings and cum.","거기에는 온몸에 무수한 음란한 낙서가 되고, 정액 범벅이 된 두 사람의 모습이 있었다",那裡有兩個人，身上被塗滿了無數淫穢的塗鴉，沾滿了精液。
+,,,,,,,
+Record.Erenayuta-58,エレナ,「お゛っ♥、……お゛おっ♥…………」,「お゛っ♥、……お゛おっ♥…………」,「喔♥、……喔喔♥…………」,"""Oh♥ ...Ohh♥...""","「오옷 옷♥,  ……오옷 오옷♥…………」",「喔♥、……喔喔♥…………」
+,,,,,,,
+Record.Erenayuta-59,那由多,「ん゛あっ…♥、お゛っ♥、お゛……」,「ん゛あっ…♥、お゛っ♥、お゛……」,「嗯啊…♥、喔♥、喔……」,"""Nah...♥ Oh♥ Oh...""","「응옷 앗…♥,  오옷 옷♥,  오옷 ……」",「嗯啊…♥、喔♥、喔……」
+,,,,,,,
+Record.Erenayuta-60,戦闘員,「おはよう二人とも、おーおーこりゃすげえなｗ」,「おはよう二人とも、おーおーこりゃすげえなｗ」,「早上好兩位，喔喔這可真是厲害啊哈」,"""Good morning you two, oh wow, this is amazing.""","「안녕 둘 다, 오-오- 이거 굉장하네ㅋ」",「早上好兩位，喔喔這可真是厲害啊哈」
+,,,,,,,
+Record.Erenayuta-61,戦闘員,「体中に精液ぶっかけられまくって…マジの便器じゃねえかｗ」,「体中に精液ぶっかけられまくって…マジの便器じゃねえかｗ」,「全身都被精液噴灑滿了…真的是便器啊哈」,"""Covered in jizz all over... you're real dumpsters.""",「온몸에 정액 범벅이 돼서… 진짜 변기잖아ㅋ」,「全身都被精液噴灑滿了…真的是便器啊哈」
+,,,,,,,
+Record.Erenayuta-62,エレナ,「お゛♥、……わたし♥、の♥、勝ちですっ…♥」,「お゛♥、……わたし♥、の♥、勝ちですっ…♥」,「喔♥、……我♥、贏♥、了……♥」,"""Oh♥ ...I♥ won♥...""","「오옷 ♥, ……나♥, 의♥, 승리입니다…♥」",「喔♥、……我♥、贏♥、了……♥」
+,,,,,,,
+Record.Erenayuta-63,那由多,「んっ♥、私こそがっ♥…沢山使ってもらってッ♥♥」,「んっ♥、私こそがっ♥…沢山使ってもらってッ♥♥」,「嗯♥、我才是♥…被更多人使用了♥♥」,"""Nn♥ I'm the one who♥ ...got used more♥♥""","「응읏♥, 저야말로♥… 잔뜩 사용받아서♥♥」",「嗯♥、我才是♥…被更多人使用了♥♥」
+,,,,,,,
+Record.Erenayuta-64,戦闘員,「何だお前ら？もう限界なのか？もう次の客が来てるぞ」,「何だお前ら？もう限界なのか？もう次の客が来てるぞ」,「妳們怎麼了？已經到極限了嗎？下一批客人來了喔。」,"""What's with you two? At your limit already? The next customers are here.""",「뭐야 너희들? 벌써 한계야? 이제 다음 손님이 오고 있어」,「妳們怎麼了？已經到極限了嗎？下一批客人來了喔。」
+,Record E＆N １０,,,,,,
+Record.Erenayuta-65,エレナ,「っ♥、わ、私を使ってくださいっ！」,「っ♥、わ、私を使ってくださいっ！」,「唔♥、請、請使用我！」,"""♥ P-please use me!""","「윽♥, 저, 저를 사용해주세요!」",「唔♥、請、請使用我！」
+,,,,,,,
+Record.Erenayuta-66,那由多,「いえっ、ここは私をッ♥♥」,「いえっ、ここは私をッ♥♥」,「不，請使用我♥♥」,"""No, use me instead♥♥""","「아니, 여기는 저를♥♥」",「不，請使用我♥♥」
+,,,,,,,
+Record.Erenayuta-67,戦闘員,「おーおーまだ元気じゃねえか。流石最強の聖核戦姫だなぁ？」,「おーおーまだ元気じゃねえか。流石最強の聖核戦姫だなぁ？」,「喔、喔喔還挺有精神的嘛。不愧是最強的聖核戰姫啊？」,"""Oh, you're still energetic. As expected of the strongest Holy Core Battlemaidens?""",「오-오- 아직 멀쩡하잖아. 역시 최강의 성핵전희네?」,「喔、喔喔還挺有精神的嘛。不愧是最強的聖核戰姫啊？」
+,,,,,,,
+Record.Erenayuta-68,エレナ,「当たり前ですっ♥、肉便器勝負とて手は抜けませんっ！」,「当たり前ですっ♥、肉便器勝負とて手は抜けませんっ！」,「那是當然的♥、即使是肉便器比賽也不能鬆懈！」,"""Of course♥ I can't hold back even in a dumpster contest!""","「당연합니다♥, 육변기 승부라고 해도 손을 뺄 수는 없습니다!」",「那是當然的♥、即使是肉便器比賽也不能鬆懈！」
+,,,,,,,
+Record.Erenayuta-69,那由多,「はっ♥、最強の肉便器がどんなものか見せてあげますっ♥」,「はっ♥、最強の肉便器がどんなものか見せてあげますっ♥」,「哈♥、讓你們看看最強的肉便器是什麼樣子的♥」,"""Ha♥ I'll show you what the strongest toilet looks like♥""","「핫♥, 최강의 육변기가 어떤 것인지 보여드리겠습니다♥」",「哈♥、讓你們看看最強的肉便器是什麼樣子的♥」
+,Record E＆N １1,,,,,,
+Record.Erenayuta-70,,バチュッ、バチュッ、バチュッ、バチュッ！,バチュッ、バチュッ、バチュッ、バチュッ！,啪啾、啪啾、啪啾、啪啾！,"Slap, slap, slap, slap!","바츗, 바츗, 바츗, 바츗!",啪啾、啪啾、啪啾、啪啾！
+,,,,,,,
+Record.Erenayuta-71,エレナ,「んっ♥、あっ♥、んんっ♥♥」,「んっ♥、あっ♥、んんっ♥♥」,「嗯♥、啊♥、嗯嗯♥♥」,"""Nn♥ Ah♥ Nnn♥♥""","「응읏♥, 앗♥, 응응읏♥♥」",「嗯♥、啊♥、嗯嗯♥♥」
+,,,,,,,
+Record.Erenayuta-72,那由多,「んあっ♥、お゛っ♥、うんっ♥♥」,「んあっ♥、お゛っ♥、うんっ♥♥」,「嗯啊♥、喔♥、嗯嗯♥♥」,"""Nah♥ Oh♥ Unn♥♥""","「응앗♥, 오옷 옷♥, 응읏♥♥」",「嗯啊♥、喔♥、嗯嗯♥♥」
+,,,,,,,
+Record.Erenayuta-73,,エレナと那由多は既に何人ものチンポを受け入れており、もはや肉便器であることに全く抵抗はなかった,エレナと那由多は既に何人ものチンポを受け入れており、もはや肉便器であることに全く抵抗はなかった,艾蓮娜和那由多已經接受了許多根雞巴的插入，對於自己是肉便器這一事實已完全沒有抵抗。,"Elena and Nayuta had already accepted countless men and their cocks, and no longer had any resistance to being cum dumpsters.","엘레나와 나유타는 이미 여러 명의 자지를 받아들여, 이제 육변기인 것에 전혀 저항이 없었다",艾蓮娜和那由多已經接受了許多根雞巴的插入，對於自己是肉便器這一事實已完全沒有抵抗。
+,,,,,,,
+Record.Erenayuta-74,エレナ,「んっ♥、早く射精しなさいっ♥、このブタ女に負けてられませんっ！」,「んっ♥、早く射精しなさいっ♥、このブタ女に負けてられませんっ！」,「嗯♥，快點射精啊♥，我不能輸給這個母豬女人！ 」,"""Nn♥ Hurry up and come♥ I can't lose to this pig!""","「응읏♥, 빨리 사정하십시오♥, 이 돼지년에게 질 수는 없습니다!」",「嗯♥，快點射精啊♥，我不能輸給這個母豬女人！ 」
+,,,,,,,
+Record.Erenayuta-75,那由多,「っ♥、そっちこそっ♥、肉付きがいいだけのメス牛のくせにっ♥、生意気ですっ♥」,「っ♥、そっちこそっ♥、肉付きがいいだけのメス牛のくせにっ♥、生意気ですっ♥」,「唔♥，妳才是♥，區區一隻肉多的母牛，竟敢如此傲慢♥」,"""♥ You're the one♥ Just a fleshy cow♥ How impudent♥""","「윽♥, 그쪽이야말로♥, 살찐 암소 주제에♥, 건방집니다♥」",「唔♥，妳才是♥，區區一隻肉多的母牛，竟敢如此傲慢♥」
+,Record E＆N １２,,,,,,
+Record.Erenayuta-76,,ドクッ、ドビュルルルッッ！,ドクッ、ドビュルルルッッ！,咚、咻嚕嚕嚕！,"Throb, spurrrrrt!","도큣, 도뷰르르릇!!",咚、咻嚕嚕嚕！
+,,,,,,,
+Record.Erenayuta-77,,何度目かもわからない精液が二人に放たれる,何度目かもわからない精液が二人に放たれる,不知道是第幾次的精液被射向兩人,"Yet another shot hit both of them, having lost count long ago.",몇 번째인지 알 수 없는 정액이 두 사람에게 방출된다,不知道是第幾次的精液被射向兩人
+,,,,,,,
+Record.Erenayuta-78,エレナ,「んっ♥、き、来ましたっ♥」,「んっ♥、き、来ましたっ♥」,「嗯♥、來、來了♥」,"""Nn♥ He came♥""","「응읏♥, 키, 왔습니다♥」",「嗯♥、來、來了♥」
+,,,,,,,
+Record.Erenayuta-79,那由多,「っ♥、あ、ありがとうございますぅ♥！」,「っ♥、あ、ありがとうございますぅ♥！」,「唔♥、啊、謝謝您♥！」,"""♥ T-thank you♥!""","「윽♥, 아, 감사합니다앗♥!」",「唔♥、啊、謝謝您♥！」
+,Record E＆N １３,,,,,,
+Record.Erenayuta-80,,そしてずるりと那由多からチンポが引き抜かれる,そしてずるりと那由多からチンポが引き抜かれる,接著雞巴從那由多體內緩緩地抽出,Then the man pulled out from Nayuta.,그리고 즈르륵 하고 나유타에게서 자지가 뽑혀 나온다,接著雞巴從那由多體內緩緩地抽出
+,,,,,,,
+Record.Erenayuta-81,エレナ,「…何してるんですか、射精が終わったなら早くどいてください！」,「…何してるんですか、射精が終わったなら早くどいてください！」,「…你在做什麼，射精完了就快點離開！」,"""...What are you doing? If you're finished, please move aside quickly!""","「…뭐 하는 겁니까, 사정이 끝났으면 빨리 비켜주세요!」",「…你在做什麼，射精完了就快點離開！」
+,,,,,,,
+Record.Erenayuta-82,男,「いやー、射精したらもよおしてきちゃってね、このままさせてもらうよ」,「いやー、射精したらもよおしてきちゃってね、このままさせてもらうよ」,「哎呀，射完精後有點想上廁所了呢，那我就這麼做了。」,"""Well, after finishing I got the urge, so I'm just going to do it.""","「이야-, 사정했더니 마려워져서 말이야, 이대로 싸게 해줘」",「哎呀，射完精後有點想上廁所了呢，那我就這麼做了。」
+,,,,,,,
+Record.Erenayuta-83,,そう言うと男はエレナの膣内で放尿を始める,そう言うと男はエレナの膣内で放尿を始める,男人說著，開始在艾蓮娜的陰道裡排尿。,"Saying that, the man began urinating inside Elena.",그렇게 말하며 남자는 엘레나의 질 내에서 방뇨를 시작한다,男人說著，開始在艾蓮娜的陰道裡排尿。
+,Record E＆N １４,,,,,,
+Record.Erenayuta-84,,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!",嘩、嘩啦啦！
+,,,,,,,
+Record.Erenayuta-85,エレナ,「なっ♥、何してるんですかっ♥！」,「なっ♥、何してるんですかっ♥！」,「唔♥、你在做什麼♥！」,"""What♥ What are you doing♥!""","「뭣♥, 뭐 하는 겁니까♥!」",「唔♥、你在做什麼♥！」
+,,,,,,,
+Record.Erenayuta-86,那由多,「ふふっ♥、無様ですね…♥」,「ふふっ♥、無様ですね…♥」,「呵呵♥、真是難看呢…♥」,"""Fufu♥ How gross...♥""","「후훗♥, 꼴사납군요…♥」",「呵呵♥、真是難看呢…♥」
+,,,,,,,
+Record.Erenayuta-87,エレナ,「するのは勝手ですが…こんなポイントにならないことをっ！早く終わらせてください！」,「するのは勝手ですが…こんなポイントにならないことをっ！早く終わらせてください！」,「要做是你的自由，但是這種不計分的事！快點結束吧！」,"""Do what you want but... this doesn't count for points! Please finish quickly!""",「하는 건 자유지만… 이런 포인트 안 되는 짓을! 빨리 끝내주세요!」,「要做是你的自由，但是這種不計分的事！快點結束吧！」
+,,,,,,,
+Record.Erenayuta-88,戦闘員,「あー、放尿も1ポイントで良いんじゃねえか？肉便器なんだし」,「あー、放尿も1ポイントで良いんじゃねえか？肉便器なんだし」,「啊，排尿也算一分不就好了嗎？反正是肉便器嘛。」,"""Ah, urination should count as 1 point too? You're dumpsters after all.""","「아-, 방뇨도 1점으로 좋지 않아? 육변기잖아」",「啊，排尿也算一分不就好了嗎？反正是肉便器嘛。」
+,,,,,,,
+Record.Erenayuta-89,那由多,「なっ！？」,「なっ！？」,「什麼！？」,"""What?!""",「뭣!?」,「什麼！？」
+,Record E＆N １５,,,,,,
+Record.Erenayuta-90,エレナ,「ふふっ、どうやら私の方がレベルの高い肉便器のようですねっ♥」,「ふふっ、どうやら私の方がレベルの高い肉便器のようですねっ♥」,「呵呵、看來我是級別更高的肉便器呢♥」,"""Fufu, it seems I'm the higher level dumpster♥""","「후훗, 아무래도 제가 더 수준 높은 육변기인 것 같군요♥」",「呵呵、看來我是級別更高的肉便器呢♥」
+,,,,,,,
+Record.Erenayuta-91,那由多,「なっ、わ、私にもっ♥、私にもおしっこしてくださいっ♥、エレナに負けるわけにはっ♥」,「なっ、わ、私にもっ♥、私にもおしっこしてくださいっ♥、エレナに負けるわけにはっ♥」,「唔、我、我也要♥、請也對我小便♥、我不能輸給艾蓮娜♥」,"""W-wait, m-me too♥ Please urinate on me too♥ I can't let Elena win♥""","「뭣, 저, 저에게도♥, 저에게도 오줌 싸주세요♥, 엘레나에게 질 수는♥」",「唔、我、我也要♥、請也對我小便♥、我不能輸給艾蓮娜♥」
+,,,,,,,
+Record.Erenayuta-92,男,「あ？しょうがねーなー」,「あ？しょうがねーなー」,「啊？真是沒辦法啊～」,"""Huh? Fine, I guess.""",「아? 어쩔 수 없네-」,「啊？真是沒辦法啊～」
+,Record E＆N １６,,,,,,
+Record.Erenayuta-93,,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!",嘩、嘩啦啦！
+,,,,,,,
+Record.Erenayuta-94,那由多,「ぐっ♥、んんっ♥♥」,「ぐっ♥、んんっ♥♥」,「嗚♥、嗯嗯♥♥」,"""Guh♥ Nnn♥♥""","「크윽♥, 응응읏♥♥」",「嗚♥、嗯嗯♥♥」
+,,,,,,,
+Record.Erenayuta-95,,男は那由多の顔へ向けて勢いよく放尿する,男は那由多の顔へ向けて勢いよく放尿する,男人朝著那由多的臉上猛地排尿。,The man forcefully urinated on Nayuta's face.,남자는 나유타의 얼굴을 향해 힘차게 방뇨한다,男人朝著那由多的臉上猛地排尿。
+,,,,,,,
+Record.Erenayuta-96,那由多,「ごぼっ♥、げぶっ♥！」,「ごぼっ♥、げぶっ♥！」,「咕噗♥、咳噗♥！」,"""Cough♥ Agh♥""","「고봇♥, 겝♥!」",「咕噗♥、咳噗♥！」
+,Record E＆N １７,,,,,,
+Record.Erenayuta-97,男,「ふう、すっきりしたぜ」,「ふう、すっきりしたぜ」,「呼，舒服了。」,"""Phew, that's refreshing.""","「후우, 시원하다」",「呼，舒服了。」
+,,,,,,,
+Record.Erenayuta-98,那由多,「はあっ、はぁっ♥、これで互角ですね！」,「はあっ、はぁっ♥、これで互角ですね！」,「哈啊、哈啊♥、這樣就打平了呢！」,"""Haa, haa♥ Now we're even!""","「하앗, 하앗♥, 이걸로 동점입니다!」",「哈啊、哈啊♥、這樣就打平了呢！」
+,,,,,,,
+Record.Erenayuta-99,エレナ,「なっ…あなたそこまで…！」,「なっ…あなたそこまで…！」,「唔…妳竟然做到這種程度…！」,"""What... you would go that far...!""",「뭣… 당신 거기까지…!」,「唔…妳竟然做到這種程度…！」
+,,,,,,,
+Record.Erenayuta-100,エレナ,「負けてられませんっ、皆様ッ♥、もっと私を使ってくださいっ♥！」,「負けてられませんっ、皆様ッ♥、もっと私を使ってくださいっ♥！」,「我不能輸，各位♥、請多多使用我吧♥！」,"""I can't lose, everyone♥ Please use me more♥!""","「질 수 없습니다! 여러분♥, 더 저를 사용해주세요♥!」",「我不能輸，各位♥、請多多使用我吧♥！」
+,,,,,,,
+Record.Erenayuta-101,那由多,「いえっ、私をッ♥、ザーメンでもおしっこでも、沢山ぶっかけてくださいっ♥！」,「いえっ、私をッ♥、ザーメンでもおしっこでも、沢山ぶっかけてくださいっ♥！」,「不，是我♥、精液也好小便也罷，請大量地噴灑在我身上吧♥！」,"""No, use me♥ Please cover me with jizz and piss♥!""","「아니, 저를!♥, 정액이든 오줌이든, 잔뜩 뿌려주세요♥!」",「不，是我♥、精液也好小便也罷，請大量地噴灑在我身上吧♥！」
+,,,,,,,
+Record.Erenayuta-102,戦闘員,「ははっ、必死だな。まあ後3日間このままにしておくからせいぜい頑張ってくれ」,「ははっ、必死だな。まあ後3日間このままにしておくからせいぜい頑張ってくれ」,「哈哈，真是拼命啊。好吧我們會讓妳們在這裡待上三天，妳們就盡量努力吧。」,"""Haha, you're desperate. Well, we'll leave you like this for 3 more days, so do your best.""","「하핫, 필사적이네. 뭐 앞으로 3일간 이대로 둘 테니 힘껏 힘내라」",「哈哈，真是拼命啊。好吧我們會讓妳們在這裡待上三天，妳們就盡量努力吧。」
+,Record E＆N １1,,,,,,
+Record.Erenayuta-103,エレナ,「望むところです！どっちが本物の肉便器か見せてあげますっ！」,「望むところです！どっちが本物の肉便器か見せてあげますっ！」,「正合我意！讓你們看看誰才是真正的肉便器！」,"""That's what I want! I'll show you who the real dumpster is!""",「바라는 바입니다! 어느 쪽이 진짜 육변기인지 보여드리죠!」,「正合我意！讓你們看看誰才是真正的肉便器！」
+,,,,,,,
+Record.Erenayuta-104,那由多,「私は絶対に負けませんっ♥！」,「私は絶対に負けませんっ♥！」,「我是絕對不會輸的♥！」,"""I absolutely won't lose♥!""",「저는 절대로 지지 않습니다♥!」,「我是絕對不會輸的♥！」
+,暗転,,,,,,
+Record.Erenayuta-105,,―――3日後,―――3日後,―――三天後,Three days later,―――3일 후,―――三天後
+,,,,,,,
+Record.Erenayuta-106,戦闘員,「さてと、どうなったかな…と、うおっ」,「さてと、どうなったかな…と、うおっ」,「好了，看看怎麼樣了…哇靠。」,"""Now then, let's see how it went... whoa""","「자 그럼, 어떻게 되었을까… , 우옷」",「好了，看看怎麼樣了…哇靠。」
+,Record E＆N １８,,,,,,
+Record.Erenayuta-107,,そこには体中に落書きをされ、体中が精液とコンドームにまみれた二人の姿があった,そこには体中に落書きをされ、体中が精液とコンドームにまみれた二人の姿があった,那裡有兩個人，身上被塗滿了塗鴉，全身都沾滿了精液和保險套。,"There were the two of them, covered in graffiti, jizz, and condoms.","거기에는 온몸에 낙서가 되고, 온몸이 정액과 콘돔 범벅이 된 두 사람의 모습이 있었다",那裡有兩個人，身上被塗滿了塗鴉，全身都沾滿了精液和保險套。
+,,,,,,,
+Record.Erenayuta-108,エレナ,「お゛っ♥…………お゛おっ………♥」,「お゛っ♥…………お゛おっ………♥」,「喔♥…………喔喔………♥」,"""Oh♥...Ohh...♥""",「오옷 옷♥………… 오옷 오옷………♥」,「喔♥…………喔喔………♥」
+,,,,,,,
+Record.Erenayuta-109,那由多,「ん゛あ♥…………♥、お゛ぉっ♥」,「ん゛あ♥…………♥、お゛ぉっ♥」,「嗯啊♥…………♥、喔喔♥」,"""Nah♥...♥ Ohh♥""","「응옷 앗♥…………♥, 오옷 오옷♥」",「嗯啊♥…………♥、喔喔♥」
+,,,,,,,
+Record.Erenayuta-110,戦闘員,「こりゃひでえなあ…ザーメン臭で息が詰まりそうだ」,「こりゃひでえなあ…ザーメン臭で息が詰まりそうだ」,「這可真是慘不忍睹啊…精液的臭味讓我快窒息了。」,"""This is terrible... the smell of cum is suffocating.""",「이거 심하네… 정액 냄새로 숨이 막힐 것 같아」,「這可真是慘不忍睹啊…精液的臭味讓我快窒息了。」
+,,,,,,,
+Record.Erenayuta-111,戦闘員,「これ今から掃除して回収するのきついっすね～」,「これ今から掃除して回収するのきついっすね～」,「這樣子要清理和回收會很麻煩的吧～」,"""Cleaning this up is going to be tough.",「이거 지금부터 청소하고 회수하는 거 힘들겠네요~」,「這樣子要清理和回收會很麻煩的吧～」
+,,,,,,,
+Record.Erenayuta-112,エレナ,「お゛♥、ご利用なら……ぜひ私を………♥」,「お゛♥、ご利用なら……ぜひ私を………♥」,「喔♥、如果還會用的話……請務必使用我………♥」,"""Oh♥ If you need to use... please use me...♥""","「오옷 ♥, 이용하신다면…… 부디 저를………♥」",「喔♥、如果還會用的話……請務必使用我………♥」
+,,,,,,,
+Record.Erenayuta-113,那由多,「ん゛♥あ………ちが、こっちの便器を………っ♥」,「ん゛♥あ………ちが、こっちの便器を………っ♥」,「嗯♥啊………不對，請使用這邊的便器………唔♥」,"""Nn♥ah...no, use this dumpster...♥""","「응옷 ♥아……… 아니, 이쪽 변기를………윽♥」",「嗯♥啊………不對，請使用這邊的便器………唔♥」
+,,,,,,,
+Record.Erenayuta-114,戦闘員,「ははっ、こりゃもう本当に心の底から便器って感じだなｗ」,「ははっ、こりゃもう本当に心の底から便器って感じだなｗ」,「哈哈，這簡直是發自內心的便器了啊w」,"""Haha, they really are dumpsters from the bottom of their hearts now.""","「하핫, 이건 뭐 정말 마음속 깊은 곳까지 변기라는 느낌이네ㅋ」",「哈哈，這簡直是發自內心的便器了啊w」
+,,,,,,,
+Record.Erenayuta-115,戦闘員,「しかし勝負とか言ってましたが…どっちが勝ったんです？」,「しかし勝負とか言ってましたが…どっちが勝ったんです？」,「不過剛才說是比賽…到底是誰贏了呢？」,"""But they were talking about a competition... who won?""",「하지만 승부라고 하셨는데… 어느 쪽이 이겼습니까?」,「不過剛才說是比賽…到底是誰贏了呢？」
+,,,,,,,
+Record.Erenayuta-116,戦闘員,「あ？そんなの知るわけねえだろ、どうでもいい話だ」,「あ？そんなの知るわけねえだろ、どうでもいい話だ」,「啊？誰知道啊，那種事情無關緊要啦。」,"""Huh? How would I know that? It doesn't matter.""","「아? 그런 거 알 리 없잖아, 아무래도 좋은 이야기다」",「啊？誰知道啊，那種事情無關緊要啦。」
+,,,,,,,
+Record.Erenayuta-117,戦闘員,「ついでだ、最後にこいつらで用を足してやろう」,「ついでだ、最後にこいつらで用を足してやろう」,「順便的話，最後讓我們用這兩個來解決一下吧。」,"""While we're at it, let's use them one last time.""","「겸사겸사, 마지막으로 이 녀석들로 용변이나 보자」",「順便的話，最後讓我們用這兩個來解決一下吧。」
+,,,,,,,
+Record.Erenayuta-118,戦闘員,「ははっ、いいですね！」,「ははっ、いいですね！」,「哈哈，不錯啊！」,"""Haha, sounds good!""","「하핫, 좋네요!」",「哈哈，不錯啊！」
+,,,,,,,
+Record.Erenayuta-119,Record E＆N １９,ジョボッ、ジョボボボッ！,ジョボッ、ジョボボボッ！,嘩、嘩啦啦！,"Splash, splash splash!","조봇, 조보보봇!",嘩、嘩啦啦！
+,,,,,,,
+Record.Erenayuta-120,エレナ,「お゛っ♥、ご利用いただきっ♥、ありがとうございますっ♥」,「お゛っ♥、ご利用いただきっ♥、ありがとうございますっ♥」,「喔♥、感謝您的使用♥」,"""Oh♥ Thank you for using me♥ Thank you♥""","「오옷 옷♥, 이용해주셔서♥, 감사합니다♥」",「喔♥、感謝您的使用♥」
+,,,,,,,
+Record.Erenayuta-121,那由多,「使っていただきっ♥、感無量ですッ♥」,「使っていただきっ♥、感無量ですッ♥」,「被使用♥、心滿意足了！」,"""Thank you for using me♥ I am forever grateful♥""","「사용해주셔서♥, 감개무량합니다♥」",「被使用♥、心滿意足了！」
+,,,,,,,
+Record.Erenayuta-122,,小便をかけられて喜ぶ二人の姿には既に最強の聖核戦姫としての姿は微塵も見ることが出来なかった,小便をかけられて喜ぶ二人の姿には既に最強の聖核戦姫としての姿は微塵も見ることが出来なかった,兩人被小便淋濕後還十分高興的樣子，已經看不到一絲一毫最強聖核戰姫的樣子了。,Not a trace of the strongest Holy Core Battlemaidens could be seen in the two who rejoiced at being peed on.,소변을 맞고 기뻐하는 두 사람의 모습에는 이미 최강의 성핵전희로서의 모습은 조금도 찾아볼 수 없었다,兩人被小便淋濕後還十分高興的樣子，已經看不到一絲一毫最強聖核戰姫的樣子了。
+,Record E＆N １８,,,,,,
+Record.Erenayuta-123,エレナ,「え、えへっ♥、私の勝ちですッ♥♥！」,「え、えへっ♥、私の勝ちですッ♥♥！」,「欸、欸嘿♥、我贏了♥♥！」,"""E-ehehe♥ I win♥♥!""","「에, 에헷♥, 저의 승리입니다♥♥!」",「欸、欸嘿♥、我贏了♥♥！」
+,,,,,,,
+Record.Erenayuta-124,那由多,「いえっ♥、私の勝ちでしたっ♥、私の方が肉便器っ♥！」,「いえっ♥、私の勝ちでしたっ♥、私の方が肉便器っ♥！」,「不對♥、我贏了♥、我比妳還要肉便器♥！」,"""No♥ I won♥ I'm the better dumpster!""","「아니요♥, 저의 승리였습니다♥, 제가 더 육변기♥!」",「不對♥、我贏了♥、我比妳還要肉便器♥！」
+,,,,,,,
+Record.Erenayuta-125,,その後二人は戦闘員によってゴミ袋に詰められ、アジトへ回収されていくのだった,その後二人は戦闘員によってゴミ袋に詰められ、アジトへ回収されていくのだった,之後兩人被戰鬥員裝進了垃圾袋，回收到了基地。,"Afterwards, the two were packed into garbage bags by the soldiers and taken back to the hideout.","그 후 두 사람은 전투원에 의해 쓰레기 봉투에 담겨, 아지트로 회수되어 가는 것이었다",之後兩人被戰鬥員裝進了垃圾袋，回收到了基地。
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Record seikaku,注釈,開放条件　【全ての聖核装備を入手】,開放条件　【全ての聖核装備を入手】,,,개방 조건　【모든 성핵 장비 입수】,
+Record.SeikakuEquip,,【聖核加工工場】,【聖核加工工場】,【聖核加工工廠】,[Holy Core Processing Factory],【성핵 가공 공장】,【聖核加工工廠】
+,,,,,,,
+Record.SeikakuEquip-1,,記録：聖核加工工場にて,記録：聖核加工工場にて,記錄：於聖核加工工廠,Record: At the Holy Core Processing Factory,기록: 성핵 가공 공장에서,記錄：於聖核加工工廠
+,暗転,,,,,,
+Record.SeikakuEquip-2,Record seikaku １,フォーレン財団の地下アジトの一室に、機械音と水音の響く部屋があった,フォーレン財団の地下アジトの一室に、機械音と水音の響く部屋があった,在墮落財團地下基地的一間房間裡，迴盪著機械聲和水聲。,"In a room in the Forren Foundation's underground hideout, there was a room echoing with the sound of machines and water.","폴른 재단의 지하 아지트 한 방에, 기계음과 물소리가 울리는 방이 있었다",在墮落財團地下基地的一間房間裡，迴盪著機械聲和水聲。
+,,,,,,,
+Record.SeikakuEquip-3,,ガチャン！ガチャン！プシュー！,ガチャン！ガチャン！プシュー！,喀鏘！喀鏘！噗咻！,Clank! Clank! Pshoo!,가챤! 가챤! 푸슈ー!,喀鏘！喀鏘！噗咻！
+,,,,,,,
+Record.SeikakuEquip-4,,戦いに敗れた聖核戦姫達は、聖核を排出され、聖核はこの工場でオナホ状に加工される,戦いに敗れた聖核戦姫達は、聖核を排出され、聖核はこの工場でオナホ状に加工される,在戰鬥中落敗的聖核戰姫們，體內的聖核被排出，聖核在這個工廠被加工成自慰套的形狀。,The Holy Core Battlemaidens who lost in battle had their Holy Cores extracted and processed into sex toys at this factory.,"싸움에 패배한 성핵전희들은, 성핵을 배출당하고, 성핵은 이 공장에서 오나홀 형태로 가공된다",在戰鬥中落敗的聖核戰姫們，體內的聖核被排出，聖核在這個工廠被加工成自慰套的形狀。
+,,,,,,,
+Record.SeikakuEquip-5,聖核戦姫,(っ……私どうなって…！？),(っ……私どうなって…！？),（唔……我怎麼會變這樣……！？）,(...What's happening to me...?!),(윽…… 나 어떻게 된 거지…!?),（唔……我怎麼會變這樣……！？）
+,,,,,,,
+Record.SeikakuEquip-6,聖核戦姫,(体から抜け落ちて……機械で加工された…！？),(体から抜け落ちて……機械で加工された…！？),（從身體裡被剝離出來……然後被機器加工了……！？）,(Removed from my body... processed by machines...?!),(몸에서 빠져나와서…… 기계로 가공되었어…!?),（從身體裡被剝離出來……然後被機器加工了……！？）
+,,,,,,,
+Record.SeikakuEquip-7,聖核戦姫,(やだっ！……元に戻して！),,,,,
+,,,,,,,
+Record.SeikakuEquip-8,,那由多は聖核を排出された後、オナホ状に加工され複数の戦闘員に使用されている,那由多は聖核を排出された後、オナホ状に加工され複数の戦闘員に使用されている,那由多被排出聖核後，被加工成自慰套的形狀，並被多名戰鬥員使用。,"After Nayuta's Holy Core was extracted, it was processed into a sex toy and used by multiple soldiers.","나유타는 성핵을 배출당한 후, 오나홀 형태로 가공되어 여러 전투원에게 사용되고 있다",那由多被排出聖核後，被加工成自慰套的形狀，並被多名戰鬥員使用。
+,,,,,,,
+Record.SeikakuEquip-9,戦闘員,「ふう、出した出した。コイツたまにビリビリするのがチンポの刺激になるんだよな～」,「ふう、出した出した。コイツたまにビリビリするのがチンポの刺激になるんだよな～」,「呼，射出來了射出來了。這傢伙偶爾會發出電擊，對雞巴的刺激很有用啊～」,"""Phew, finished. This one sometimes gives electric shocks that stimulate my cock nicely.""","「후우, 쌌다 쌌어. 이 녀석 가끔 찌릿찌릿하는 게 자지에 자극이 된단 말이야~」",「呼，射出來了射出來了。這傢伙偶爾會發出電擊，對雞巴的刺激很有用啊～」
+,,,,,,,
+Record.SeikakuEquip-10,那由多,(っ、……離しなさいっ……！),(っ、……離しなさいっ……！),（唔，……放開我……！）,(...Let go of me...!),"(윽, …… 놓으십시오……!)",（唔，……放開我……！）
+,,,,,,,
+Record.SeikakuEquip-11,,(今の私に出来ることはかろうじて電撃を放出するので精一杯…),(今の私に出来ることはかろうじて電撃を放出するので精一杯…),（現在的我能做的，僅僅是勉強放出電擊……已經筋疲力盡了……）,(All I can do now is barely emit electric shocks...),(지금 제가 할 수 있는 것은 간신히 전격을 방출하는 것이 고작…),（現在的我能做的，僅僅是勉強放出電擊……已經筋疲力盡了……）
+,,,,,,,
+Record.SeikakuEquip-12,,(っ、無念です…言葉通り手も足も出ません……),(っ、無念です…言葉通り手も足も出ません……),（唔，我不甘心……簡直是手無縛雞之力……）,(How frustrating... I literally have no hands or feet...),"(윽, 무념입니다… 말 그대로 손발도 내밀 수 없습니다……)",（唔，我不甘心……簡直是手無縛雞之力……）
+,,,,,,,
+Record.SeikakuEquip-13,,(そして…それが当たり前になっている…っ、オナホの自分を受け入れ始めているっ！？),(そして…それが当たり前になっている…っ、オナホの自分を受け入れ始めているっ！？),（而且……這個已經變成理所當然了……我竟然開始接受自己是個自慰套了！？）,(And... this is becoming normal... I'm starting to accept being a sex toy?!),"(그리고… 그것이 당연하게 되어가고 있어…윽, 오나홀인 자신을 받아들이기 시작하고 있어!?)",（而且……這個已經變成理所當然了……我竟然開始接受自己是個自慰套了！？）
+,,,,,,,
+Record.SeikakuEquip-14,,(嫌ですッ♥、オナホになんかなりたくありませんっ♥！),(嫌ですッ♥、オナホになんかなりたくありませんっ♥！),（不要啊♥，我才不要變成自慰套♥！）,(No♥ I don't want to become one!),"(싫습니다♥, 오나홀 따위 되고 싶지 않습니다♥!)",（不要啊♥，我才不要變成自慰套♥！）
+,,,,,,,
+Record.SeikakuEquip-15,,エレナは身体を溶かされた後加工され、人形となった京にオナホとして使用されていた,エレナは身体を溶かされた後加工され、人形となった京にオナホとして使用されていた,艾蓮娜的身體被溶解後進行加工，被作為人形的京拿來當自慰套使用。,"After Elena's body was dissolved and processed, she was being used as a pussy in Kei, who had become a sex doll.","엘레나는 몸이 녹아내린 후 가공되어, 인형이 된 케이에게 오나홀로서 사용되고 있었다",艾蓮娜的身體被溶解後進行加工，被作為人形的京拿來當自慰套使用。
+,,,,,,,
+Record.SeikakuEquip-16,エレナ,(なっ♥……私今どうなって……！？),(なっ♥……私今どうなって……！？),（什麼♥……我現在變成了什麼樣……！？）,(What♥... What's happening to me...?!),(뭣♥…… 나 지금 어떻게 된 거지……!?),（什麼♥……我現在變成了什麼樣……！？）
+,,,,,,,
+Record.SeikakuEquip-17,,(それに…この感覚…まさか……京なのですかっ！？),(それに…この感覚…まさか……京なのですかっ！？),（而且這個感覺…難道是……京嗎！？）,(And... this feeling... could it be... Kei?!),(게다가… 이 감각… 설마…… 케이입니까!?),（而且這個感覺…難道是……京嗎！？）
+,,,,,,,
+Record.SeikakuEquip-18,,(んあっ♥、や、やめっ♥、そんなに激しく使わないでくださいっ♥！),(んあっ♥、や、やめっ♥、そんなに激しく使わないでくださいっ♥！),（嗯啊♥、不、不要♥、請不要用得這麼劇烈♥！）,(Nah♥ S-stop♥ Don't be so rough♥!),"(응앗♥, 여, 그만둬♥, 그렇게 격렬하게 사용하지 마세요♥!)",（嗯啊♥、不、不要♥、請不要用得這麼劇烈♥！）
+,,,,,,,
+Record.SeikakuEquip-19,戦闘員,「ははっ、コイツは性欲だけは無尽蔵だからな。オナホの検品にはもってこいだ」,「ははっ、コイツは性欲だけは無尽蔵だからな。オナホの検品にはもってこいだ」,「哈哈，這傢伙的性慾是無窮無盡的。最適合用來檢驗自慰套了。」,"""Haha, this one has endless desires. Perfect for testing equipment.""","「하핫, 이 녀석은 성욕만은 무진장이라서 말이야. 오나홀 검품에는 안성맞춤이야」",「哈哈，這傢伙的性慾是無窮無盡的。最適合用來檢驗自慰套了。」
+,,,,,,,
+Record.SeikakuEquip-20,エレナ,(んあっ♥、お゛♥、お゛っ♥),(んあっ♥、お゛♥、お゛っ♥),（嗯啊♥、喔♥、喔♥）,(Nah♥ Oh♥ Oh♥),"(응앗♥, 오옷 ♥, 오옷 옷♥)",（嗯啊♥、喔♥、喔♥）
+,,,,,,,
+Record.SeikakuEquip-21,,(使われるごとにっ♥、私の存在がッ♥、オナホへ同化していくっ！？♥),(使われるごとにっ♥、私の存在がッ♥、オナホへ同化していくっ！？♥),（每被使用一次♥、我的存在就♥、向自慰套同化過去了！？♥）,(Every time I'm used♥ I'm being assimilated into the sex toy?!♥),"(사용될 때마다♥, 나의 존재가♥, 오나홀로 동화되어 가고 있어!?♥)",（每被使用一次♥、我的存在就♥、向自慰套同化過去了！？♥）
+,,,,,,,
+Record.SeikakuEquip-22,,(…っ♥、京っ、正気に戻ってくださいっ♥！),(…っ♥、京っ、正気に戻ってくださいっ♥！),（唔♥、京、請恢復理智♥！）,"(...♥ Kei, please come back to your senses♥!)","(…윽♥, 케이, 정신 차리세요♥!)",（唔♥、京、請恢復理智♥！）
+,,,,,,,
+Record.SeikakuEquip-23,,(でなければ私達……っ♥),(でなければ私達……っ♥),（不然我們就會……♥）,"(If not, we...)",(그렇지 않으면 우리들……윽♥),（不然我們就會……♥）
+,,,,,,,
+Record.SeikakuEquip-24,,その後、捕らえられた全ての聖核戦姫達はオナホへ加工され、戦闘員や怪人達の愛玩具として使われ続けるのだった,その後、捕らえられた全ての聖核戦姫達はオナホへ加工され、戦闘員や怪人達の愛玩具として使われ続けるのだった,之後，所有被捕獲的聖核戰姫們都被加工成自慰套，並持續作為戰鬥員和怪人們的愛用玩具而被使用。,"After that, all the captured Holy Core Battlemaidens were turned into sex toys and used extensively by the soldiers...","그 후, 붙잡힌 모든 성핵전희들은 오나홀로 가공되어, 전투원이나 괴인들의 애완 장난감으로서 계속 사용되는 것이었다",之後，所有被捕獲的聖核戰姫們都被加工成自慰套，並持續作為戰鬥員和怪人們的愛用玩具而被使用。

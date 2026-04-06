@@ -22,19 +22,19 @@ System.Dark,闇落ち,Corrupt,惡墮,恶堕,闇落ち,Corrupt,惡墮,恶堕,타�
 System.CoreResearch,聖核研究進度,Core Research,聖核研究進度,圣核研究进度,聖核研究進度,Core Research,聖核研究進度,圣核研究进度,성핵 연구 진척도
 System.PickTraining,調教方法を選択：,Pick your training:,選擇調教方法：,选择调教方法：,調教方法を選択：,Pick your training:,選擇調教方法：,选择调教方法：,조교 방법 선택:
 System.HornyTraining,淫乱調教,Horniness,淫亂調教,淫乱调教,淫乱調教,Horniness,淫亂調教,淫乱调教,음란 조교
-System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教,洗脳調教,Brainwash,洗腦調教,洗脑调教,세뇌 조교
+System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教,教育調教,Re-education,教育調教,教育调教,교육 조교
 System.HolyCoreTraining,聖核研究,Seikaku Research,聖核研究,圣核研究,聖核研究,Seikaku Research,聖核研究,圣核研究,성핵 연구
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,연구 포인트 소모:
 System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,調教結束,调教结束,조교 완료
-System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,돌아가기
+System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,調教結束後開放,调教结束后开放,조교 완료 시 해금
 System.Back,戻る,Back,退出,退出,戻る,Back,退出,退出,확정
 System.Confirm,確定,Confirm,確定,确定,確定,Confirm,確定,确定,설정
 System.OptionPanel,設定,Option,設定,设定,設定,Option,設定,设定,공격력:
-System.Attack,攻撃力：,ATK: ,攻撃力：,攻撃力：,攻撃力：,ATK: ,攻撃力：,攻撃力：,LV:
+System.Attack,攻撃力：,ATK: ,攻撃力：,攻撃力：,攻撃力：,ATK: ,攻擊力：,攻撃力：,LV:
 System.Level,LV：,LV: ,LV：,LV：,LV：,LV: ,LV：,LV：,체력:
 System.HP,体力：,HP: ,HP：,HP：,体力：,HP: ,HP：,HP：,SP:
 System.MP,SP：,SP: ,SP：,SP：,SP：,SP: ,SP：,SP：,방어력:
-System.Defense,防御力：,DEF: ,防御：,防御：,防御力：,DEF: ,防御：,防御：,민첩성:
+System.Defense,防御力：,DEF: ,防御：,防御：,防御力：,DEF: ,防禦：,防御：,민첩성:
 System.Speed,素早さ：,SPD: ,敏捷：,敏捷：,素早さ：,SPD: ,敏捷：,敏捷：,특수기:
 System.Skill,特殊技：,Skill: ,技能：,技能：,特殊技：,Skill: ,技能：,技能：,장비
 System.Equipment,装備,Equipment,装備,装备,装備,Equipment,装備,装备,자료
@@ -49,16 +49,16 @@ System.Regenerate,回復,Regenerate,回復,回复,回復,Regenerate,回復,回�
 System.RegenerateCost,回復コスト,Cost,所需資金,所需资金,回復コスト,Cost,所需資金,所需资金,인벤토리
 System.Inventory,インベントリ,Inventory,物品欄,物品栏,インベントリ,Inventory,物品欄,物品栏,SP 소모:
 System.SPCost,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,효과 대상:
-System.EffectTarget,効果対象：,Target: ,効果対象：,効果対象：,効果対象：,Target: ,効果対象：,効果対象：,적 단일
-System.EffectEnemy,敵単体,Single,敵単体,敌単体,敵単体,Single,敵単体,敌単体,적 (복수)
-System.EffectEnemyAoE,敵(複数),AoE,敵(複数),敌(复数),敵(複数),AoE,敵(複数),敌(复数),사용자
+System.EffectTarget,効果対象：,Target: ,効果対象：,効果対象：,効果対象：,Target: ,效果對象：,効果対象：,적 단일
+System.EffectEnemy,敵単体,Single,敵単体,敌単体,敵単体,Single,對單體敵人,敌単体,적 (복수)
+System.EffectEnemyAoE,敵(複数),AoE,敵(複数),敌(复数),敵(複数),AoE,全體敵人,敌(复数),사용자
 System.EffectSelf,使用者,Self,使用者,使用者,使用者,Self,使用者,使用者,아군 전체
-System.EffectSelfAoE,味方全体,Teammate (AoE),隊友全体,队友全体,味方全体,Teammate (AoE),隊友全体,队友全体,아군
+System.EffectSelfAoE,味方全体,Teammate (AoE),隊友全体,队友全体,味方全体,Teammate (AoE),隊友全體,队友全体,아군
 System.EffectTeam,味方,Teammate,隊友,队友,味方,Teammate,隊友,队友,종류
 System.AbilityType,種類,Category,種類,种类,種類,Category,種類,种类,공격
-System.AbilityAttack,攻撃,Attack,攻撃,攻撃,攻撃,Attack,攻撃,攻撃,회복
+System.AbilityAttack,攻撃,Attack,攻撃,攻撃,攻撃,Attack,攻擊,攻撃,회복
 System.AbilityHeal,回復,Heal,回復,回复,回復,Heal,回復,回复,상태
-System.AbilityBuff,状態,Buff,状態,状态,状態,Buff,状態,状态,특수
+System.AbilityBuff,状態,Buff,状態,状态,状態,Buff,狀態,状态,특수
 System.AbilitySpecial,特殊,Special,特殊,特殊,特殊,Special,特殊,特殊,턴
 System.Turn,ターン,Turn,回合,回合,ターン,Turn,回合,回合,없음
 System.None,なし,None,無,无,なし,None,無,无,차지
@@ -78,8 +78,8 @@ System.NewAbility,特殊技習得！,New ability learned!,獲取新技能！,获
 System.EquipmentType,品質,Quality,品質,品质,品質,Quality,品質,品质,품질
 System.EquipmentNormal,普通,Normal,普通,普通,普通,Normal,普通,普通,보통
 System.EquipmentRare,逸品,Rare,逸品,逸品,逸品,Rare,逸品,逸品,일품
-System.EquipmentHoly,聖核装備,Seikaku Equipment,聖核装備,圣核装备,聖核装備,Seikaku Equipment,聖核装備,圣核装备,성핵 장비
-System.ReturnToTitle,タイトルメニューに戻る,Return to title,回到主菜單,回到主菜单,タイトルメニューに戻る,Return to title,回到主菜單,回到主菜单,타이틀 메뉴로 돌아가기
+System.EquipmentHoly,聖核装備,Seikaku Equipment,聖核装備,圣核装备,聖核装備,Seikaku Equipment,聖核裝備,圣核装备,성핵 장비
+System.ReturnToTitle,タイトルメニューに戻る,Return to title,回到主菜單,回到主菜单,タイトルメニューに戻る,Return to title,回到主選單,回到主菜单,타이틀 메뉴로 돌아가기
 System.Retry,リトライ,Retry,重試,重试,リトライ,Retry,重試,重试,재시도
 System.Understood,了解,Understood,了解,了解,了解,Understood,了解,了解,확인
 System.PanelUnavailable,"未開放
@@ -89,16 +89,16 @@ Go capture a Seikaku-princess!","未開放
 请去抓捕圣核戦姫","未開放
 聖核戦姫を捕獲せよ","Not available
 Go capture a Seikaku-princess!","未開放
-請去抓捕聖核戦姫","未开放
+請去抓捕聖核戰姬","未开放
 请去抓捕圣核戦姫","미개방
 성핵전희를 포획하라"
 System.RewardItem,アイテム獲得,Item reward,獲得物品,获得物品,アイテム獲得,Item reward,獲得物品,获得物品,아이템 획득
 System.Reward,成果報酬,Reward,報酬,报酬,成果報酬,Reward,報酬,报酬,성과 보수
 System.Receive,受取,Accept,接受,接受,受取,Accept,接受,接受,수령
-System.Heroin,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫,성핵전희
+System.Heroin,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫,聖核戦姫,Seikaku-princess,聖核戰姬,圣核戦姫,성핵전희
 System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！,{s} 포획 완료!
-System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,조교 화면이 업데이트되었습니다
-System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,로그
+System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,"""{0}"" has been relegated to ""{1}.""",「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,조교 화면이 업데이트되었습니다
+System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,調教画面がアップデートされました,Training panel have been updated.,調教畫面的內容更新了。,调教画面的内容更新了。,로그
 System.NovelLog,ログ,Log,記錄,记录,ログ,Log,記錄,记录,자동 시작・정지
 System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),스킵
 System.NovelSkip,スキップ,Skip,跳過,跳过,スキップ,Skip,跳過,跳过,UI 숨기기
@@ -115,8 +115,8 @@ Equip item at Character Building Panel.","獲得裝備: {s}！
 可以到角色育成画面装备到角色上。","{s}, 획득했습니다!
 캐릭터 육성 화면에서 아이템을 장비할 수 있습니다."
 System.Storage,収納庫,Storage,收納庫,收纳库,収納庫,Storage,收納庫,收纳库,수납고
-Systeｍ.Requirement,解放条件:,Requirement: ,解放条件:,解放条件:,解放条件:,Requirement: ,解放条件:,解放条件:,개방 조건:
-System.HornyTrained,淫乱調教完了,Horniness Training,淫乱調教完成,淫乱调教完成,淫乱調教完了,Horniness Training,淫乱調教完成,淫乱调教完成,음란 조교 완료
+Systeｍ.Requirement,解放条件:,Requirement: ,解放条件:,解放条件:,解放条件:,Requirement: ,解放條件:,解放条件:,개방 조건:
+System.HornyTrained,淫乱調教完了,Horniness Training,淫乱調教完成,淫乱调教完成,淫乱調教完了,Horniness Training,淫亂調教完成,淫乱调教完成,음란 조교 완료
 System.NewAbilityTraining,{s}が新しい特殊技を覚えました。,{s} learnt new special ability.,{s}學到新特殊技能了。,{s}学到新特殊技能了。,{s}が新しい特殊技を覚えました。,{s} learnt new special ability.,{s}學到新特殊技能了。,{s}学到新特殊技能了。,"{s}, 새로운 특수기를 익혔습니다."
 System.NewRecord,"オペレーションの間にアジトである起き事が発生しました
 今記録を見ますか？","During the operation, some event happened in the hideout.
@@ -124,27 +124,27 @@ Check the record now?","行動中基地裡發生了一點事情。
 現在觀看記錄嗎？","行动中基地里发生了一点事情。
 现在观看记录吗？","オペレーションの間にアジトである起き事が発生しました
 今記録を見ますか？","During the operation, some event happened in the hideout.
-Check the record now?","行動中基地裡發生了一點事情。
+Check the record now?","行動期間基地裡發生了一點事情。
 現在觀看記錄嗎？","行动中基地里发生了一点事情。
 现在观看记录吗？","오퍼레이션 중에 아지트에서 어떤 일이 발생했습니다
 지금 기록을 보시겠습니까?"
 System.CheckRecordNow,今見る,Yes,現在觀看,现在观看,今見る,Yes,現在觀看,现在观看,지금 본다
-System.CheckRecordLater,後にする,Later,等下才看,等下才看,後にする,Later,等下才看,等下才看,추후 확인
+System.CheckRecordLater,後にする,Later,等下才看,等下才看,後にする,Later,稍後觀看,等下才看,추후 확인
 System.RecordTutorial,画面左側の「{s}」ボタンで記録を確認できます。,You can check records at [{s}] button.,您可以在左側的「{s}」查看記錄。,您可以在左侧的「{s}」查看记录。,画面左側の「{s}」ボタンで記録を確認できます。,You can check records at [{s}] button.,您可以在左側的「{s}」查看記錄。,您可以在左侧的「{s}」查看记录。,화면 왼쪽의 「{s}」 버튼으로 기록을 확인할 수 있습니다.
-System.EndCredit,終わり,,結束,结束,終わり,,結束,结束,끝
+System.EndCredit,終わり,,結束,结束,終わり,End,結束,结束,끝
 System.BackToTitle,"タイトル画面に戻りますか？
 セーブしていないデータが消えます。","Back to title scene?
 Unsaved data will be gone forever.",回到主菜單,回到主菜单,"タイトル画面に戻りますか？
 セーブしていないデータが消えます。","Back to title scene?
-Unsaved data will be gone forever.",回到主菜單,回到主菜单,"타이틀 화면으로 돌아가시겠습니까?
+Unsaved data will be gone forever.",回到主選單,回到主菜单,"타이틀 화면으로 돌아가시겠습니까?
 저장하지 않은 데이터가 사라집니다."
 Memory,回想,Memory,回想,回想,回想,Memory,回想,回想,회상
 Memory.Akiho_1,明穂 - 痴漢,Akiho - Chikan,明穂 - 痴漢,明穂 - 痴汉,明穂 - 痴漢,Akiho - Chikan,明穂 - 痴漢,明穂 - 痴汉,아키호 - 치한
-Memory.Akiho_2,明穂 - 敗北,Akiho - Defeat,明穂 - 敗北,明穂 - 败北,明穂 - 敗北,Akiho - Defeat,明穂 - 敗北,明穂 - 败北,아키호 - 패배
-Memory.Rikka_1,立花 - 身体検査,Rikka - Body check,立花 - 身体検査,立花 - 身体検查,立花 - 身体検査,Rikka - Body check,立花 - 身体検査,立花 - 身体検查,릿카 - 신체검사
+Memory.Akiho_2,明穂 - 敗北,Akiho - Defeat,明穂 - 敗北,明穂 - 败北,明穂 - 敗北,Akiho - Defeat,明穂 - 失敗,明穂 - 败北,아키호 - 패배
+Memory.Rikka_1,立花 - 身体検査,Rikka - Body check,立花 - 身体検査,立花 - 身体検查,立花 - 身体検査,Rikka - Body check,立花 - 身體檢查,立花 - 身体検查,릿카 - 신체검사
 Memory.Erena_1,エレナ - オナニー,Erena - Masturbation,艾蓮娜 - 自慰,艾莲娜 - 自慰,エレナ - オナニー,Erena - Masturbation,艾蓮娜 - 自慰,艾莲娜 - 自慰,엘레나 - 자위
-Memory.Erena_2,エレナ - 性奉仕 I,Erena - Sex service I,艾蓮娜 - 性奉仕 I,艾莲娜 - 性奉仕 I,エレナ - 性奉仕 I,Erena - Sex service I,艾蓮娜 - 性奉仕 I,艾莲娜 - 性奉仕 I,엘레나 - 성봉사 I
-Memory.Erena_3,エレナ - 性奉仕 II,Erena - Sex service II,艾蓮娜 - 性奉仕 II,艾莲娜 - 性奉仕 II,エレナ - 性奉仕 II,Erena - Sex service II,艾蓮娜 - 性奉仕 II,艾莲娜 - 性奉仕 II,엘레나 - 성봉사 II
+Memory.Erena_2,エレナ - 性奉仕 I,Erena - Sex service I,艾蓮娜 - 性奉仕 I,艾莲娜 - 性奉仕 I,エレナ - 性奉仕 I,Erena - Sex service I,艾蓮娜 - 性侍奉 I,艾莲娜 - 性侍奉 I,엘레나 - 성봉사 I
+Memory.Erena_3,エレナ - 性奉仕 II,Erena - Sex service II,艾蓮娜 - 性奉仕 II,艾莲娜 - 性奉仕 II,エレナ - 性奉仕 II,Erena - Sex service II,艾蓮娜 - 性侍奉 II,艾莲娜 - 性侍奉 II,엘레나 - 성봉사 II
 Memory.Kei_1,京 - ハッキング,Kei - Hacking,京 - 黑客,京 - 黑客,京 - ハッキング,Kei - Hacking,京 - 黑客,京 - 黑客,케이 - 해킹
 Memory.Kei_2,京 - 捕獲,Kei - Captured,京 - 捕獲,京 - 捕获,京 - 捕獲,Kei - Captured,京 - 捕獲,京 - 捕获,케이 - 포획
 Memory.Nayuta_1,那由多 - 捕獲,Nayuta - Captured,那由多 - 捕獲,那由多 - 捕获,那由多 - 捕獲,Nayuta - Captured,那由多 - 捕獲,那由多 - 捕获,나유타 - 포획
@@ -170,9 +170,9 @@ Memory.ErenaCore_1,エレナ - 聖核研究 I,Erena - Seikaku Research I,艾蓮�
 Memory.ErenaCore_2,エレナ - 聖核研究 II,Erena - Seikaku Research II,艾蓮娜 - 聖核研究 II,艾莲娜 - 圣核研究 II,エレナ - 聖核研究 II,Erena - Seikaku Research II,艾蓮娜 - 聖核研究 II,艾莲娜 - 圣核研究 II,엘레나 - 성핵 연구 II
 Memory.ErenaHorny_1,エレナ - AVデビュー I,Erena - Porn Star Debut I,艾蓮娜 - AV出道 I,艾莲娜 - AV出道 I,エレナ - AVデビュー I,Erena - Porn Star Debut I,艾蓮娜 - AV出道 I,艾莲娜 - AV出道 I,엘레나 - AV 데뷔 I
 Memory.ErenaHorny_2,エレナ - AVデビュー II,Erena - Porn Star Debut II,艾蓮娜 - AV出道 II,艾莲娜 - AV出道 II,エレナ - AVデビュー II,Erena - Porn Star Debut II,艾蓮娜 - AV出道 II,艾莲娜 - AV出道 II,엘레나 - AV 데뷔 II
-Memory.KeiBrainWash_1,京 - 洗脳調教 I,Kei - Brainwash Sex I,京 - 洗腦調教 I,京 - 洗脑调教 I,京 - 洗脳調教 I,Kei - Brainwash Sex I,京 - 洗腦調教 I,京 - 洗脑调教 I,케이 - 세뇌 조교 I
-Memory.KeiBrainWash_2,京 - 洗脳調教 II,Kei - Brainwash Sex II,京 - 洗腦調教 II,京 - 洗脑调教 II,京 - 洗脳調教 II,Kei - Brainwash Sex II,京 - 洗腦調教 II,京 - 洗脑调教 II,케이 - 세뇌 조교 II
-Memory.KeiBrainWash_3,京 - 洗脳調教 III,Kei - Brainwash Sex III,京 - 洗腦調教 III,京 - 洗脑调教 III,京 - 洗脳調教 III,Kei - Brainwash Sex III,京 - 洗腦調教 III,京 - 洗脑调教 III,케이 - 세뇌 조교 III
+Memory.KeiBrainWash_1,京 - 洗脳調教 I,Kei - Brainwash Sex I,京 - 洗腦調教 I,京 - 洗脑调教 I,京 - 教育調教 I,Kei - Re-education Sex I,京 - 教育調教 I,京 - 教育调教 I,케이 - 교육 조교 I
+Memory.KeiBrainWash_2,京 - 洗脳調教 II,Kei - Brainwash Sex II,京 - 洗腦調教 II,京 - 洗脑调教 II,京 - 教育調教 II,Kei - Re-education Sex II,京 - 教育調教 II,京 - 教育调教 II,케이 - 교육 조교 II
+Memory.KeiBrainWash_3,京 - 洗脳調教 III,Kei - Brainwash Sex III,京 - 洗腦調教 III,京 - 洗脑调教 III,京 - 教育調教 III,Kei - Re-education Sex III,京 - 教育調教 III,京 - 教育调教 III,케이 - 교육 조교 III
 Memory.KeiCore_1,京 - 聖核研究 I,Kei - Seikaku Research I,京 - 聖核研究 I,京 - 圣核研究 I,京 - 聖核研究 I,Kei - Seikaku Research I,京 - 聖核研究 I,京 - 圣核研究 I,케이 - 성핵 연구 I
 Memory.KeiCore_2,京 - 聖核研究 II,Kei - Seikaku Research II,京 - 聖核研究 II,京 - 圣核研究 II,京 - 聖核研究 II,Kei - Seikaku Research II,京 - 聖核研究 II,京 - 圣核研究 II,케이 - 성핵 연구 II
 Memory.KeiHorny_1,京 - エロ配信 I,Kei - Livestream I,京 - 成人直播 I,京 - 成人直播 I,京 - エロ配信 I,Kei - Livestream I,京 - 成人直播 I,京 - 成人直播 I,케이 - 에로 방송 I
@@ -190,7 +190,7 @@ Memory.Nursery,変身ヒロイン苗床化,Seedbed of Magical Girls,變身女主
 Memory.Final,最後の二人の聖核戦姫,The Last Two Seikaku Princess,最後的聖核戰姬,最后的圣核战姬,最後の二人の聖核戦姫,The Last Two Seikaku Princess,最後的聖核戰姬,最后的圣核战姬,마지막 2명의 성핵전희
 Memory.Kei,小悪魔の日常,A Succubus' Day,小惡魔的日常,小恶魔的日常,小悪魔の日常,A Succubus' Day,小惡魔的日常,小恶魔的日常,소악마의 일상
 Memory.Erenayuta,最強の二人,The Strongest Duo,最強的兩人,最强的两人,最強の二人,The Strongest Duo,最強的兩人,最强的两人,최강의 두 사람
-Memory.SeikakuEquip,聖核加工工場,Seikaku Factory,聖核加工厂,圣核加工厂,聖核加工工場,Seikaku Factory,聖核加工厂,圣核加工厂,성핵 가공 공장
+Memory.SeikakuEquip,聖核加工工場,Seikaku Factory,聖核加工厂,圣核加工厂,聖核加工工場,Seikaku Factory,聖核加工工廠,圣核加工厂,성핵 가공 공장
 Memory.Prologue,プロローグ,Prologue,序章,序章,プロローグ,Prologue,序章,序章,서장
 Memory.DLC1-1,最後の作戦,Final Operation,最後的作戰,最后的作战,最後の作戦,Final Operation,最後的作戰,最后的作战,최후의 작전
 Memory.DLC1-2,潜入成功,Infiltration Successful,潛入成功,潜入成功,潜入成功,Infiltration Successful,潛入成功,潜入成功,잠입 성공
@@ -198,7 +198,7 @@ Memory.DLC1-3,旧識,Old Acquaintances,舊識,旧识,旧識,Old Acquaintances,�
 Memory.DaiyaCapture,ダイヤモンド捕獲,Diamond Captured,捕獲黛雅,捕获黛雅,ダイヤモンド捕獲,Daiya Captured,捕獲黛雅,捕获黛雅,다이아 포획
 Memory.DLC2-1,秘密兵器,Secret Weapon,秘密兵器,秘密兵器,秘密兵器,Secret Weapon,秘密兵器,秘密兵器,비밀 병기
 Memory.DLC2-2,京の計画,Kei's Plan,京的計畫,京的计划,京の計画,Kei's Plan,京的計畫,京的计划,쿄의 계획
-Memory.DLC2-3,反乱,Rebellion,反亂,反乱,反乱,Rebellion,反亂,反乱,반란
+Memory.DLC2-3,反乱,Rebellion,反亂,反乱,反乱,Rebellion,叛變,反乱,반란
 Memory.DaiyaBrainWash_1,ダイヤモンド - 財団の犬 I,Diamond - The Foundation's Dog I,黛雅 - 財團的狗 I,黛雅 - 财团的狗 I,ダイヤモンド - 財団の犬 I,Diamond - The Foundation's Dog I,黛雅 - 財團的狗 I,黛雅 - 财团的狗 I,다이아몬드 - 재단의 개 I
 Memory.DaiyaBrainWash_2,ダイヤモンド - 財団の犬 II,Diamond - The Foundation's Dog II,黛雅 - 財團的狗 II,黛雅 - 财团的狗 II,ダイヤモンド - 財団の犬 II,Diamond - The Foundation's Dog II,黛雅 - 財團的狗 II,黛雅 - 财团的狗 II,다이아몬드 - 재단의 개 II
 Memory.DaiyaBrainWash_3,ダイヤモンド - 財団の犬 III,Diamond - The Foundation's Dog III,黛雅 - 財團的狗 III,黛雅 - 财团的狗 III,ダイヤモンド - 財団の犬 III,Diamond - The Foundation's Dog III,黛雅 - 財團的狗 III,黛雅 - 财团的狗 III,다이아몬드 - 재단의 개 III
@@ -221,9 +221,9 @@ System.EndGameContent,高難易度コンテンツ,Endgame\nContent,番外篇劇�
 System.DLCContent,追加コンテンツ,Extra\nContent,追加內容,追加内容,追加コンテンツ,Extra\nContent,追加內容,追加内容,추가 콘텐츠
 System.SideMission,資源調達クエスト,Resource Gathering,其他任務,其他任务,資源調達クエスト,Resource Gathering,其他任務,其他任务,자원 조달 퀘스트
 System.QuestList,クエスト一覧,Operation List,任務一覧,任务一覧,クエスト一覧,Operation List,任務一覧,任务一覧,퀘스트 목록
-System.FoodQuest,[食料調達],[Food Gather],[食料調達],[食料调达],[食料調達],[Food Gather],[食料調達],[食料调达],[식량 조달]
-System.BankQuest,[銀行強盗],[Bank Robe],[銀行強盗],[银行强盗],[銀行強盗],[Bank Robe],[銀行強盗],[银行强盗],[은행 강도]
-System.ResearchQuest,[戦闘研究],[Battle Research],[戦闘研究],[戦闘研究],[戦闘研究],[Battle Research],[戦闘研究],[戦闘研究],[전투 연구]
+System.FoodQuest,[食料調達],[Food Gather],[食料調達],[食料调达],[食料調達],[Food Gather],[食物調理],[食料调达],[식량 조달]
+System.BankQuest,[銀行強盗],[Bank Robe],[銀行強盗],[银行强盗],[銀行強盗],[Bank Robe],[銀行強盜],[银行强盗],[은행 강도]
+System.ResearchQuest,[戦闘研究],[Battle Research],[戦闘研究],[戦闘研究],[戦闘研究],[Battle Research],[戰鬥研究],[戦闘研究],[전투 연구]
 System.RewardQuest,報酬,Reward,報酬,报酬,報酬,Reward,報酬,报酬,보상
 System.AlertLevel,警戒度,Security Level,警戒度,警戒度,警戒度,Security Level,警戒度,警戒度,경계도
 System.Star,★,★,★,★,★,★,★,★,★
@@ -231,32 +231,32 @@ System.NotEnoughItemSlot,インベントリ不足,Not enough inventory slot.,物
 Names,名詞/名称,名詞/名称,名詞/名称,名词/名称,名詞/名称,名詞/名称,名詞/名称,名词/名称,명사/명칭
 Name.Akiho,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂,사사야 아키호
 Name.Rikka,水無瀬 六花,Minase Rikka,水無瀬 六花,水无瀬 六花,水無瀬 六花,Minase Rikka,水無瀬 六花,水无瀬 六花,미나세 릿카
-Name.Kei,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,네코미야 케이
+Name.Kei,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,猫宮 京,Nekomiya Kei,貓宮 京,猫宫 京,네코미야 케이
 Name.Erena,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,세이토 엘레나
 Name.Nayuta,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多,야쿠모 나유타
 Name.Diamond,ダイヤモンド,Diamond,黛雅,黛雅,ダイヤモンド,Diamond,黛雅,黛雅,다이아몬드
 Name.Hisui,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠,사이온지 히스이
-Name.No5,005号,No.005,005号,005号,005号,No.005,005号,005号,005호
-Name.No23,023号,No.023,023号,023号,023号,No.023,023号,023号,023호
-Name.Battler,戦闘員,Combatant,戦闘員,戦闘员,戦闘員,Combatant,戦闘員,戦闘员,전투원
-Name.Tentacle,触手怪人,TentacleMan,触手怪人,触手怪人,触手怪人,TentacleMan,触手怪人,触手怪人,촉수 괴인
-Name.Clone,005号,No.005,005号,005号,005号,No.005,005号,005号,005호
+Name.No5,005号,No.005,005号,005号,005号,No.005,005號,005号,005호
+Name.No23,023号,No.023,023号,023号,023号,No.023,023號,023号,023호
+Name.Battler,戦闘員,Combatant,戦闘員,戦闘员,戦闘員,Combatant,戰鬥員,戦闘员,전투원
+Name.Tentacle,触手怪人,TentacleMan,触手怪人,触手怪人,触手怪人,TentacleMan,觸手怪人,触手怪人,촉수 괴인
+Name.Clone,005号,No.005,005号,005号,005号,No.005,005號,005号,005호
 Name.RikkaDisguise,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？,미나세 릿카?
 Name.Drone,パトロールドローン,Patrol Drone,巡邏無人機,巡逻无人机,パトロールドローン,Patrol Drone,巡邏無人機,巡逻无人机,순찰 드론
 Name.GoldDrone,進化型ドローン,Improved Drone,進化型無人機,进化型无人机,進化型ドローン,Improved Drone,進化型無人機,进化型无人机,진화형 드론
-Name.DarkDrone,攻撃特化型ドローン,Attacker Drone,攻撃特化型無人機,攻撃特化型无人机,攻撃特化型ドローン,Attacker Drone,攻撃特化型無人機,攻撃特化型无人机,공격 특화형 드론
+Name.DarkDrone,攻撃特化型ドローン,Attacker Drone,攻撃特化型無人機,攻撃特化型无人机,攻撃特化型ドローン,Attacker Drone,攻擊特化型無人機,攻撃特化型无人机,공격 특화형 드론
 Name.Android,警備ドロイド,Patrol Android,警備機器人,警备机器人,警備ドロイド,Patrol Android,警備機器人,警备机器人,경비 드로이드
 Name.GoldAndroid,進化型ドロイド,Improved Android,進化型機器人,进化型机器人,進化型ドロイド,Improved Android,進化型機器人,进化型机器人,진화형 드로이드
-Name.DarkAndroid,攻撃特化型ドロイド,Attacker Android,攻撃特化型機器人,攻撃特化型机器人,攻撃特化型ドロイド,Attacker Android,攻撃特化型機器人,攻撃特化型机器人,공격 특화형 드로이드
-Name.Tank,四脚タンク,Quad Leg Tank,四脚坦克,四脚坦克,四脚タンク,Quad Leg Tank,四脚坦克,四脚坦克,사각 탱크
-Name.DarkTank,軍用歩行型タンク,Military Tank,軍用歩行型坦克,军用歩行型坦克,軍用歩行型タンク,Military Tank,軍用歩行型坦克,军用歩行型坦克,군용 보행형 탱크
+Name.DarkAndroid,攻撃特化型ドロイド,Attacker Android,攻撃特化型機器人,攻撃特化型机器人,攻撃特化型ドロイド,Attacker Android,攻擊特化型機器人,攻撃特化型机器人,공격 특화형 드로이드
+Name.Tank,四脚タンク,Quad Leg Tank,四脚坦克,四脚坦克,四脚タンク,Quad Leg Tank,四腳坦克,四脚坦克,사각 탱크
+Name.DarkTank,軍用歩行型タンク,Military Tank,軍用歩行型坦克,军用歩行型坦克,軍用歩行型タンク,Military Tank,軍用步行型坦克,军用歩行型坦克,군용 보행형 탱크
 Name.PrivateDrone,私兵ドローン,Private Drone,私兵無人機,私兵无人机,私兵ドローン,Private Drone,私兵無人機,私兵无人机,"촉수 괴인, 전투원"
 Name.PrivateAndroid,私兵ドロイド,Private Droid,私兵機器人,私兵机器人,私兵ドロイド,Private Droid,私兵機器人,私兵机器人,남자
 Name.RogueTank,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克,이사장
-Name.Battler+Tentacle,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,촉수 괴인 (인간형)
+Name.Battler+Tentacle,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,触手怪人、戦闘員,"Combatant, TentacleMan",觸手怪人、戰鬥員,触手怪人、戦闘员,촉수 괴인 (인간형)
 Name.Man,男,Man,男,男,男,Man,男,男,감독
 Name.Chairman,理事長,Chairman,理事長,理事长,理事長,Chairman,理事長,理事长,여학생
-Name.Tentacle_Human,触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态),触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态),성핵전희
+Name.Tentacle_Human,触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态),触手怪人(人間体),Tentacle (HumanForm),觸手怪人(人類形態),触手怪人(人类形态),성핵전희
 Name.Director,監督,Director,監督,监督,監督,Director,監督,监督,역무원
 Name.FemaleStudent,女生徒,Female Student,女學生,女学生,女隊員,Female Worker,女隊員,女队员,사회자
 Name.SeikakuSenki,聖核戦姫,Seikaku Princess,聖核戰姬,圣核战姬,聖核戦姫,Seikaku Princess,聖核戰姬,圣核战姬,관객
@@ -277,42 +277,42 @@ Name.Researcher,研究員,Researcher,研究員,研究员,研究員,Researcher,�
 Name.Slime,スライム,Slime,史萊姆,史莱姆,スライム,Slime,史萊姆,史莱姆,촉수 괴수
 Name.Rikka_Core,立花？？,Rikka??,立花？？,立花？？,立花？？,Rikka??,立花？？,立花？？,072호＆다른 클론
 Name.AkihoRikka,明穂＆六花,Akiho&Rikka,明穂＆立花,明穂＆立花,明穂＆六花,Akiho&Rikka,明穂＆立花,明穂＆立花,005호 (통신)
-Name.Tentacle_Monster,触手怪獣,Tentacle Monster,触手怪獣,触手怪獣,触手怪獣,Tentacle Monster,触手怪獣,触手怪獣,엘레나＆나유타
-Name.Clones,072号＆他のクローン,No.072 and others,072号＆其他克隆體,072号＆其他克隆体,072号＆他のクローン,No.072 and others,072号＆其他克隆體,072号＆其他克隆体,클론 전투원
-Name.No5_Call,005号(通信),No.005 (Call),005号(通信),005号(通信),005号(通信),No.005 (Call),005号(通信),005号(通信),전투원 (통신)
+Name.Tentacle_Monster,触手怪獣,Tentacle Monster,触手怪獣,触手怪獣,触手怪獣,Tentacle Monster,觸手怪獸,触手怪獣,엘레나＆나유타
+Name.Clones,072号＆他のクローン,No.072 and others,072号＆其他克隆體,072号＆其他克隆体,072号＆他のクローン,No.072 and others,072號＆其他克隆體,072号＆其他克隆体,클론 전투원
+Name.No5_Call,005号(通信),No.005 (Call),005号(通信),005号(通信),005号(通信),No.005 (Call),005號(通信),005号(通信),전투원 (통신)
 Name.ErenaNayuta,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多,네코미야 케이 (통신)
 Name.CloneBattler,クローン戦闘員,Clone,克隆,克隆,クローン戦闘員,Clone,克隆,克隆,클론 (통신)
-Name.Battler_Call,戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信),戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信),사사야 아키호
-Name.Kei_Call,猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信),猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信),072호
+Name.Battler_Call,戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信),戦闘員(通信),Combatant (Call),戰鬥員(通信),戦闘员(通信),사사야 아키호
+Name.Kei_Call,猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信),猫宮京(通信),Nekomiya Kei (Call),貓宮京(通信),猫宫京(通信),072호
 Name.Clone_Call,クローン(通信),Clone(Call),克隆(通信),克隆(通信),クローン(通信),Clone(Call),克隆(通信),克隆(通信),네코미야 케이
 Name.Akiho_Corrupted,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂,笹谷 明穂,Sasaya Akiho,笹谷 明穂,笹谷 明穂,세이토 엘레나
-Name.Rikka_Corrupted,072号,No.072,072号,072号,072号,No.072,072号,072号,야쿠모 나유타
-Name.Kei_Corrupted,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,다이아쨩
+Name.Rikka_Corrupted,072号,No.072,072号,072号,072号,No.072,072號,072号,야쿠모 나유타
+Name.Kei_Corrupted,猫宮 京,Nekomiya Kei,猫宮 京,猫宫 京,猫宮 京,Nekomiya Kei,貓宮 京,猫宫 京,다이아쨩
 Name.Erena_Corrupted,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,K22호
 Name.Nayuta_Corrupted,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多,八雲 那由多,Yakumo Nayuta,八雲 那由多,八云 那由多,여성 전투원
 Name.Diamond_Corrupted,ダイヤ,Diamond,黛雅,黛雅,ダイヤ,Diamond,黛雅,黛雅,하급 전투원
-Name.Kei_Battler,K22号,K22,K22,K22,K22号,K22,K22,K22,H46호
-Name.Woman_Battler,女戦闘員,Woman Combatant,女戰斗員,女战斗员,女戦闘員,Woman Combatant,女戰斗員,女战斗员,K46호
-Name.Noob_Battler,下級戦闘員,Low Rank Combatant,低級戰斗員,低级战斗员,下級戦闘員,Low Rank Combatant,低級戰斗員,低级战斗员,K47호
-Name.Hisui_Battler,H46号,H46,K47,K47,H46号,H46,K47,K47,K46호&K47호
-Name.Hisui_Battler2,K46号,K46,K46,K46,K46号,K46,K46,K46,세이토 그룹 경비원
-Name.K47,K47号,K47,K47,K47,K47号,K47,K47,K47,XXX
-Name.K46&47,K46号&K47号,"K46, K47",K46和K47,K46和K47,K46号&K47号,"K46, K47",K46和K47,K46和K47,망보는 남자
+Name.Kei_Battler,K22号,K22,K22,K22,K22号,K22,K22號,K22,H46호
+Name.Woman_Battler,女戦闘員,Woman Combatant,女戰斗員,女战斗员,女戦闘員,Woman Combatant,女戰鬥員,女战斗员,K46호
+Name.Noob_Battler,下級戦闘員,Low Rank Combatant,低級戰斗員,低级战斗员,下級戦闘員,Low Rank Combatant,低級戰鬥員,低级战斗员,K47호
+Name.Hisui_Battler,H46号,H46,K47,K47,H46号,H46,H46號,K47,K46호&K47호
+Name.Hisui_Battler2,K46号,K46,K46,K46,K46号,K46,K46號,K46,세이토 그룹 경비원
+Name.K47,K47号,K47,K47,K47,K47号,K47,K47號,K47,XXX
+Name.K46&47,K46号&K47号,"K46, K47",K46和K47,K46和K47,K46号&K47号,"K46, K47",K46號和K47號,K46和K47,망보는 남자
 Name.Security,清藤グループ警備員,Seidō Group Guard,清藤集團的保安,清藤集团的保安,清藤グループ警備員,Seidō Group Guard,清藤集團的保安,清藤集团的保安,
 Name.Unknown,XXX,XXX,XXX,XXX,XXX,XXX,XXX,XXX,
 Name.Watchman,見張り役の男,Lookout Man,看守的男人,看守的男人,見張り役の男,Lookout Man,看守的男人,看守的男人,
 Mood,心情,Mood,心情,心情,心情,Mood,心情,心情,심정
 Mood.Rebel,反抗的,Rebel,反抗,反抗,反抗的,Rebel,反抗,反抗,반항
 Mood.Pleasure,享楽,Pleasure,享樂,享乐,享楽,Pleasure,享樂,享乐,향락
-Mood.Despair,絶望,Despair,絶望,绝望,絶望,Despair,絶望,绝望,절망
+Mood.Despair,絶望,Despair,絶望,绝望,絶望,Despair,絕望,绝望,절망
 Mood.Submissive,従順,Submissive,順從,顺从,従順,Submissive,順從,顺从,순종
 Mood.Resist,忍耐,Resist,忍耐,忍耐,忍耐,Resist,忍耐,忍耐,인내
-Mood.Contempt,軽蔑,Contempt,軽蔑,軽蔑,軽蔑,Contempt,軽蔑,軽蔑,경멸
+Mood.Contempt,軽蔑,Contempt,軽蔑,軽蔑,軽蔑,Contempt,輕蔑,軽蔑,경멸
 Mood.Deprave,堕落,Deprave,堕落,堕落,堕落,Deprave,堕落,堕落,타락
 Mood.Angry,憤怒,Angry,憤怒,愤怒,憤怒,Angry,憤怒,愤怒,분노
 Mood.Expect,期待,Expecting,期待,期待,期待,Expecting,期待,期待,기대
-Mood.Disgust,嫌悪,Disgust,嫌悪,嫌悪,嫌悪,Disgust,嫌悪,嫌悪,혐오
-Mood.Loyal,忠実,Loyal,忠実,忠実,忠実,Loyal,忠実,忠実,충실
+Mood.Disgust,嫌悪,Disgust,嫌悪,嫌悪,嫌悪,Disgust,嫌棄,嫌悪,혐오
+Mood.Loyal,忠実,Loyal,忠実,忠実,忠実,Loyal,忠實,忠実,충실
 OptionSetting,オプション設定,Option,オプション設定,オプション设定,オプション設定,Option,オプション設定,オプション设定,옵션 설정
 Option.BGM,BGM音量,BGM Volume,背景音量,背景音量,BGM音量,BGM Volume,背景音量,背景音量,BGM 음량
 Option.SE,効果音音量,SE Volume,音效音量,音效音量,効果音音量,SE Volume,音效音量,音效音量,효과음 음량
@@ -322,11 +322,11 @@ Option.AutoSpeed,オート速度,Auto Spd,自動播放速度,自动播放速度,
 Option.Apply,適用,Apply,適用,适用,適用,Apply,適用,适用,적용
 Option.Default,デフォルト,Default,預設值,预设值,デフォルト,Default,預設值,预设值,기본
 Option.Second,秒,Sec,秒,秒,秒,Sec,秒,秒,초
-Option.WindowMode,画面設定,Window Mode,画面設定,画面设定,画面設定,Window Mode,画面設定,画面设定,화면설정
-Option.FullScreen,フルスクリーン,Fullscreen,全屏,全屏,フルスクリーン,Fullscreen,全屏,全屏,풀스크린
-Option.WindowedScreen,ウィンドウモード,Windowed Screen,窗口模式,窗口模式,ウィンドウモード,Windowed Screen,窗口模式,窗口模式,윈도모드
+Option.WindowMode,画面設定,Window Mode,画面設定,画面设定,画面設定,Window Mode,畫面設定,画面设定,화면설정
+Option.FullScreen,フルスクリーン,Fullscreen,全屏,全屏,フルスクリーン,Fullscreen,全螢幕,全屏,풀스크린
+Option.WindowedScreen,ウィンドウモード,Windowed Screen,窗口模式,窗口模式,ウィンドウモード,Windowed Screen,視窗模式,窗口模式,윈도모드
 BattleScene,戦闘シーン,Battle Scene,戦闘シーン,戦闘シーン,戦闘シーン,Battle Scene,戦闘シーン,戦闘シーン,전투 장면
-Battle.Attack,攻撃,Attack,攻撃,攻撃,攻撃,Attack,攻撃,攻撃,공격
+Battle.Attack,攻撃,Attack,攻撃,攻撃,攻撃,Attack,攻擊,攻撃,공격
 Battle.Skill,特殊技,Skill,技能,技能,特殊技,Skill,技能,技能,특수
 Battle.Item,道具,Item,道具,道具,道具,Item,道具,道具,도구
 Battle.Idle,待機,Idle,待機,待机,待機,Idle,待機,待机,대기
@@ -337,11 +337,11 @@ Battle.ActionOrder,行動順序,Order,行動順序,行动顺序,行動順序,Ord
 Battle.Cancel,右クリックで取り消し,Right click to cancel action,右鍵取消行動,右键取消行动,右クリックで取り消し,Right click to cancel action,右鍵取消行動,右键取消行动,우클릭으로 취소
 Battle.Start,任務開始,Operation Start,任務開始,任务开始,任務開始,Operation Start,任務開始,任务开始,임무 시작
 Battle.Victory,任務クリア,Operation Success,任務完成,任务完成,任務クリア,Operation Success,任務完成,任务完成,임무 클리어
-Battle.Defeat,敗北,Defeat,敗北,败北,敗北,Defeat,敗北,败北,패배
+Battle.Defeat,敗北,Defeat,敗北,败北,敗北,Defeat,失敗,败北,패배
 Battle.SkipTutorial,スキップ,Skip,跳過,跳过,スキップ,Skip,跳過,跳过,스킵
 Battle.EscapeConfirm,撤退しますか？,Sure to escape?,確定要撤退嗎？,确定要撤退吗？,撤退しますか？,Sure to escape?,確定要撤退嗎？,确定要撤退吗？,후퇴하시겠습니까?
 Battle.Escape,撤退,Run,撤退,撤退,撤退,Run,撤退,撤退,후퇴
-Battle.CannotAttack,普通攻撃を行えない,Can not attack,不能普通攻撃,不能普通攻撃,普通攻撃を行えない,Can not attack,不能普通攻撃,不能普通攻撃,일반 공격 불가능
+Battle.CannotAttack,普通攻撃を行えない,Can not attack,不能普通攻撃,不能普通攻撃,普通攻撃を行えない,Can not attack,不能普通攻擊,不能普通攻撃,일반 공격 불가능
 Battle.OnCooldown,チャージ中 ({0}ターン),On cooldown ({0}turn),冷卻中 ({0}回合),冷却中 ({0}回合),チャージ中 ({0}ターン),On cooldown ({0}turn),冷卻中 ({0}回合),冷却中 ({0}回合),차지 중 ({0}턴)
 Battle.NotEnoughSP,SP不足 ({0}),Not enough SP ({0}),SP不足 ({0}),SP不足 ({0}),SP不足 ({0}),Not enough SP ({0}),SP不足 ({0}),SP不足 ({0}),SP 부족 ({0})
 Battle.AbilityDisabled,使用不可,Disabled,不能使用,不能使用,使用不可,Disabled,不能使用,不能使用,사용 불가
@@ -350,22 +350,22 @@ ON",AutoBattling,自動戰鬥,自动战斗,"オートバトル
 ON",AutoBattling,自動戰鬥,自动战斗,"자동 전투
 ON"
 Buff,状態,Buff,状態,状态,状態,Buff,状態,状态,상태
-Buff.Stun,行動不能,Stunned,行動不能,行动不能,行動不能,Stunned,行動不能,行动不能,행동 불능
+Buff.Stun,行動不能,Stunned,行動不能,行动不能,行動不能,Stunned,無法行動,无法行动,행동 불능
 Buff.Hurt,継続ダメージ,Hurt,持續傷害,持续伤害,継続ダメージ,Hurt,持續傷害,持续伤害,지속 데미지
 Buff.Heal,継続回復,Heal,持續恢復,持续恢复,継続回復,Heal,持續恢復,持续恢复,지속 회복
-Buff.Shield_up,防御力上昇,DEF UP,防御力上升,防御力上升,防御力上昇,DEF UP,防御力上升,防御力上升,방어력 상승
-Buff.Shield_down,防御力下降,DEF DOWN,防御力下降,防御力下降,防御力下降,DEF DOWN,防御力下降,防御力下降,방어력 하강
+Buff.Shield_up,防御力上昇,DEF UP,防御力上升,防御力上升,防御力上昇,DEF UP,防禦力上升,防御力上升,방어력 상승
+Buff.Shield_down,防御力下降,DEF DOWN,防御力下降,防御力下降,防御力下降,DEF DOWN,防禦力下降,防御力下降,방어력 하강
 Buff.Attack_up,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升,공격력 상승
 Buff.Attack_down,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降,공격력 하강
 Buff.Speed_up,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升,민첩성 상승
 Buff.Speed_down,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降,민첩성 하강
-Buff.ContinuousAction,連続行動,Continuous Action,連続行動,连続行动,連続行動,Continuous Action,連続行動,连続行动,연속 행동
+Buff.ContinuousAction,連続行動,Continuous Action,連続行動,连続行动,連続行動,Continuous Action,連續行動,连続行动,연속 행동
 Buff.Repel,反撃,Return damage,反擊,反撃,反撃,Return damage,反擊,反撃,반격
 Buff.Disarm,無力化,Disarm,無力化,无力化,無力化,Disarm,無力化,无力化,무력화
 Buff.Horny,発情,Estrus,發情,发情,発情,Estrus,發情,发情,
 Equipment,アイテム名とその説明文,Items,アイテム名とその説明文,アイテム名とその说明文,アイテム名とその説明文,Items,アイテム名とその説明文,アイテム名とその说明文,아이템명과 그 설명문
-Equipment.NiceT-Shirt,気持ち良いTシャツ,Comfortable T-Shirt,穿起來很舒服的T衫,穿起来很舒服的T衫,気持ち良いTシャツ,Comfortable T-Shirt,穿起來很舒服的T衫,穿起来很舒服的T衫,기분 좋은 티셔츠
-Equipment.NiceT-Shirt_Info,気持ちよすぎるTシャツ、すごく動きやすい。,"A T-shirt that's too comfortable, extremely easy to move around in.",舒服過頭了，很方便行動。,舒服过头了，很方便行动。,気持ちよすぎるTシャツ、すごく動きやすい。,"A T-shirt that's too comfortable, extremely easy to move around in.",舒服過頭了，很方便行動。,舒服过头了，很方便行动。,"너무 기분 좋은 티셔츠, 굉장히 움직이기 편하다."
+Equipment.NiceT-Shirt,気持ち良いTシャツ,Comfortable T-Shirt,穿起來很舒服的T衫,穿起来很舒服的T衫,気持ち良いTシャツ,Comfortable T-Shirt,穿起來很舒服的T恤,穿起来很舒服的T衫,기분 좋은 티셔츠
+Equipment.NiceT-Shirt_Info,気持ちよすぎるTシャツ、すごく動きやすい。,"A T-shirt that's too comfortable, extremely easy to move around in.",舒服過頭了，很方便行動。,舒服过头了，很方便行动。,気持ちよすぎるTシャツ、すごく動きやすい。,"A T-shirt that's too comfortable, extremely easy to move around in.",這件T恤穿著非常舒適，方便行動。,舒服过头了，很方便行动。,"너무 기분 좋은 티셔츠, 굉장히 움직이기 편하다."
 Equipment.Helmet,スマートヘッドギア,Smart Headgear,智能頭盔,智能头盔,スマートヘッドギア,Smart Headgear,智能頭盔,智能头盔,스마트 헤드기어
 Equipment.Helmet_Info,"頭部の守りだけでなく、情報のリアルタイム表示も可能な最新型ヘルメット。
 かの過酷な戦場「クォンタム戦役」での生存率を確実に向上させてきたアイテム。","A cutting-edge helmet that not only protects the head but also provides real-time information display.
@@ -373,16 +373,16 @@ Proven to significantly increase survival rates in the harsh battlefield known a
 再那個有名的「原子戦役」裡被證實有助於提升生存率的物品。","不只能够用来保护头部，这是个能够随时显示战场情报的头盔。
 再那个有名的「原子戦役」里被证实有助于提升生存率的物品。","頭部の守りだけでなく、情報のリアルタイム表示も可能な最新型ヘルメット。
 かの過酷な戦場「クォンタム戦役」での生存率を確実に向上させてきたアイテム。","A cutting-edge helmet that not only protects the head but also provides real-time information display.
-Proven to significantly increase survival rates in the harsh battlefield known as the 'Quantum War.'","不只能夠用來保護頭部，這是個能夠隨時顯示戰場情報的頭盔。
-再那個有名的「原子戦役」裡被證實有助於提升生存率的物品。","不只能够用来保护头部，这是个能够随时显示战场情报的头盔。
+Proven to significantly increase survival rates in the harsh battlefield known as the 'Quantum War.'","能夠用來保護頭部，是個能夠隨時顯示戰場情報的頭盔。
+再那個有名的「原子戰役」裡被證實有助於提升生存率的物品。","不只能够用来保护头部，这是个能够随时显示战场情报的头盔。
 再那个有名的「原子戦役」里被证实有助于提升生存率的物品。","머리 보호뿐만 아니라, 정보의 실시간 표시도 가능한 최신형 헬멧.
 그 혹독한 전장 「퀀텀 전역」에서의 생존율을 확실히 향상시켜 온 아이템."
 Equipment.Collar,忠誠の首輪,Collar of Loyalty,忠誠的項圈,忠诚的项圈,忠誠の首輪,Collar of Loyalty,忠誠的項圈,忠诚的项圈,충성의 목걸이
-Equipment.Collar_Info,組織への忠誠の証明として着用する首輪。,A collar worn as proof of loyalty to the organization.,代表對組織的忠誠的證明而佩戴的項圈。,代表对组织的忠诚的证明而佩戴的项圈。,組織への忠誠の証明として着用する首輪。,A collar worn as proof of loyalty to the organization.,代表對組織的忠誠的證明而佩戴的項圈。,代表对组织的忠诚的证明而佩戴的项圈。,조직에 대한 충성의 증명으로서 착용하는 목걸이.
+Equipment.Collar_Info,組織への忠誠の証明として着用する首輪。,A collar worn as proof of loyalty to the organization.,代表對組織的忠誠的證明而佩戴的項圈。,代表对组织的忠诚的证明而佩戴的项圈。,組織への忠誠の証明として着用する首輪。,A collar worn as proof of loyalty to the organization.,象徵對組織忠誠度的項圈。,代表对组织的忠诚的证明而佩戴的项圈。,조직에 대한 충성의 증명으로서 착용하는 목걸이.
 Equipment.Stick,鉄パイプ,Iron Pipe,鐵製排水管,铁制排水管,鉄パイプ,Iron Pipe,鐵製排水管,铁制排水管,쇠 파이프
 Equipment.Sitck_Info,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,길가에서 우연히 좋은 막대기를 만나면 본능적으로 줍고 싶은 것이 남자다. 이름하여 나이스 스틱.
-Equipment.Umbrella,高強度繊維傘,High-Strength Fiber Umbrella,高強度繊維傘,高强度繊维伞,高強度繊維傘,High-Strength Fiber Umbrella,高強度繊維傘,高强度繊维伞,고강도 섬유 우산
-Equipment.Umbrella_Info,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製的雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製的雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,"최신 나노 기술을 구사한 일본제 우산. 공격과 방어의 양면성을 가지며, 그야말로 무기로서의 예술품."
+Equipment.Umbrella,高強度繊維傘,High-Strength Fiber Umbrella,高強度繊維傘,高强度繊维伞,高強度繊維傘,High-Strength Fiber Umbrella,高強度纖維傘,高强度繊维伞,고강도 섬유 우산
+Equipment.Umbrella_Info,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製的雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,"최신 나노 기술을 구사한 일본제 우산. 공격과 방어의 양면성을 가지며, 그야말로 무기로서의 예술품."
 Equipment.Stungun,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,쇼크웨이브・펄서
 Equipment.Stungun_Info,"都市伝説として語り継がれるスタンガン、名が囁かれるだけで、敵対者を感電させてしまうという噂が立つ。
 敵を行動不能にする特殊技を使えるようになる。","A stun gun passed down as an urban legend; rumors say its mere whisper is enough to shock opponents.
@@ -402,7 +402,7 @@ They can transform and increase attack power, but are extremely heavy, raising p
 因为是可以变形的钢铁所以可以用来提升攻击力，但是非常重所以科学家们正在烦恼怎么提高实用性。","新しく発明された「雷鋼」で作った手袋。
 変形可能で攻撃力が向上しますが、非常に重く、実用性が課題となっている。","Gloves crafted from newly invented 'Thundersteel.'
 They can transform and increase attack power, but are extremely heavy, raising practical usage issues.","用最新材料技術的結晶「雷鋼」做出來的手套。
-因為是可以變形的鋼鐵所以可以用來提升攻擊力，但是非常重所以科學家們正在煩惱怎麼提高實用性。","用最新材料技术的结晶「雷钢」做出来的手套。
+因為是可以變形的鋼鐵所以可以提升攻擊力，但是非常重所以科學家們正在煩惱怎麼提高實用性。","用最新材料技术的结晶「雷钢」做出来的手套。
 因为是可以变形的钢铁所以可以用来提升攻击力，但是非常重所以科学家们正在烦恼怎么提高实用性。","새롭게 발명된 「뇌강」으로 만든 장갑.
 변형 가능하며 공격력이 향상되지만, 매우 무거워 실용성이 과제가 되고 있다."
 Equipment.StolenUndie,聖核戦姫から盗んだパンティ,Panties Stolen from Holy Core Valkyrie,聖核戰姬的內褲,圣核战姬的内裤,聖核戦姫から盗んだパンティ,Panties Stolen from Holy Core Valkyrie,聖核戰姬的內褲,圣核战姬的内裤,성핵전희에게서 훔친 팬티
@@ -412,7 +412,7 @@ The wearer recovers a small amount of SP each turn.","穿上之後會被迷之�
 裝備者每局會回復少量SP。","穿上之后会被迷之光辉围绕、治愈疲劳的心灵。
 装备者每局会回复少量SP。","身につけた者には、神秘の輝きが満ち、疲れた心と体を癒す力を持っている。
 装備者は毎ターンSPを少量回復する。","Those who wear these panties are filled with a mysterious glow, healing both mind and body.
-The wearer recovers a small amount of SP each turn.","穿上之後會被迷之光輝圍繞、治愈疲勞的心靈。
+The wearer recovers a small amount of SP each turn.","穿上之後會被謎之光輝圍繞、治癒疲勞的心靈。
 裝備者每局會回復少量SP。","穿上之后会被迷之光辉围绕、治愈疲劳的心灵。
 装备者每局会回复少量SP。","몸에 지닌 자에게는, 신비의 광채가 가득하며, 지친 마음과 몸을 치유하는 힘을 가지고 있다.
 장비자는 매 턴 SP를 소량 회복한다."
@@ -423,59 +423,59 @@ The wearer recovers SP and HP while waiting.","單單是觸碰就會感覺自己
 裝備者在待機回合時會回復SP和HP。","单单是触碰就会感觉自己被空气围绕一般，非常的软。
 装备者在待机回合时会回复SP和HP。","触れると心地よい柔らかさが広がり、まるで空気そのものが抱擁しているよう。
 装備者は待機時にＳＰとＨＰも回復される。","When touched, it spreads a pleasant softness, like being embraced by air itself.
-The wearer recovers SP and HP while waiting.","單單是觸碰就會感覺自己被空氣圍繞一般，非常的軟。
+The wearer recovers SP and HP while waiting.","光是觸碰就會感覺自己被柔軟包圍一般，非常的軟。
 裝備者在待機回合時會回復SP和HP。","单单是触碰就会感觉自己被空气围绕一般，非常的软。
 装备者在待机回合时会回复SP和HP。","닿으면 기분 좋은 부드러움이 퍼져, 마치 공기 자체가 포옹하는 듯하다.
 장비자는 대기 시 SP와 HP도 회복된다."
 Equipment.Shoes,スプリントシューズ,Sprint Shoes,迅步鞋,迅步鞋,スプリントシューズ,Sprint Shoes,迅步鞋,迅步鞋,스프린트 슈즈
-Equipment.Shoes_Info,ただの運動靴、しかし企業が何年もかけたその科学の粋は侮れない。,"Just regular sports shoes, but don't underestimate the culmination of corporate science behind their development over many years.",只是單純的運動鞋、但是不能小看企業花了那麼多年研究出來的技術結晶。,只是单纯的运动鞋、但是不能小看企业花了那么多年研究出来的技术结晶。,ただの運動靴、しかし企業が何年もかけたその科学の粋は侮れない。,"Just regular sports shoes, but don't underestimate the culmination of corporate science behind their development over many years.",只是單純的運動鞋、但是不能小看企業花了那麼多年研究出來的技術結晶。,只是单纯的运动鞋、但是不能小看企业花了那么多年研究出来的技术结晶。,"단순한 운동화지만, 기업이 몇 년이나 들인 그 과학의 정수는 얕볼 수 없다."
+Equipment.Shoes_Info,ただの運動靴、しかし企業が何年もかけたその科学の粋は侮れない。,"Just regular sports shoes, but don't underestimate the culmination of corporate science behind their development over many years.",只是單純的運動鞋、但是不能小看企業花了那麼多年研究出來的技術結晶。,只是单纯的运动鞋、但是不能小看企业花了那么多年研究出来的技术结晶。,ただの運動靴、しかし企業が何年もかけたその科学の粋は侮れない。,"Just regular sports shoes, but don't underestimate the culmination of corporate science behind their development over many years.",只是單純的運動鞋，但是不能小看企業花了那麼多年研究出來的技術結晶。,只是单纯的运动鞋、但是不能小看企业花了那么多年研究出来的技术结晶。,"단순한 운동화지만, 기업이 몇 년이나 들인 그 과학의 정수는 얕볼 수 없다."
 Equipment.Akiho,明穂の聖核,Akiho's Holy Core,明穂的聖核,明穂的圣核,明穂の聖核,Akiho's Holy Core,明穂的聖核,明穂的圣核,아키호의 성핵
 Equipment.Akiho_Info,装備者は毎ターンHPとSPを回復する。,The wearer recovers HP and SP each turn.,裝備者在每回合會回復HP和SP。,装备者在每回合会回复HP和SP。,装備者は毎ターンHPとSPを回復する。,The wearer recovers HP and SP each turn.,裝備者在每回合會回復HP和SP。,装备者在每回合会回复HP和SP。,장비자는 매 턴 HP와 SP를 회복한다.
 Equipment.Rikka,立花の聖核,Tachibana's Holy Core,立花的聖核,立花的圣核,立花の聖核,Tachibana's Holy Core,立花的聖核,立花的圣核,릿카의 성핵
-Equipment.Rikka_Info,ダメージ受けた時に自動的に反撃する。,Automatically counterattacks when taking damage.,裝備者在收到攻擊時會自動反擊。,装备者在收到攻击时会自动反击。,ダメージ受けた時に自動的に反撃する。,Automatically counterattacks when taking damage.,裝備者在收到攻擊時會自動反擊。,装备者在收到攻击时会自动反击。,데미지를 입었을 때 자동적으로 반격한다.
+Equipment.Rikka_Info,ダメージ受けた時に自動的に反撃する。,Automatically counterattacks when taking damage.,裝備者在收到攻擊時會自動反擊。,装备者在收到攻击时会自动反击。,ダメージ受けた時に自動的に反撃する。,Automatically counterattacks when taking damage.,裝備者在受到攻擊時會自動反擊。,装备者在收到攻击时会自动反击。,데미지를 입었을 때 자동적으로 반격한다.
 Equipment.Erena,エレナの聖核,Erena's Holy Core,艾蓮娜的聖核,艾莲娜的圣核,エレナの聖核,Erena's Holy Core,艾蓮娜的聖核,艾莲娜的圣核,엘레나의 성핵
-Equipment.Erena_Info,攻撃でたまに敵を行動不能にする。,Occasionally incapacitates enemies when attacking.,裝備者的攻擊目標有幾率會陷入昏迷。,装备者的攻击目标有几率会陷入昏迷。,攻撃でたまに敵を行動不能にする。,Occasionally incapacitates enemies when attacking.,裝備者的攻擊目標有幾率會陷入昏迷。,装备者的攻击目标有几率会陷入昏迷。,공격으로 가끔 적을 행동 불능으로 만든다.
+Equipment.Erena_Info,攻撃でたまに敵を行動不能にする。,Occasionally incapacitates enemies when attacking.,裝備者的攻擊目標有幾率會陷入昏迷。,装备者的攻击目标有几率会陷入昏迷。,攻撃でたまに敵を行動不能にする。,Occasionally incapacitates enemies when attacking.,裝備者的攻擊目標有機率會陷入昏迷。,装备者的攻击目标有几率会陷入昏迷。,공격으로 가끔 적을 행동 불능으로 만든다.
 Equipment.Kei,京の聖核,Kei's Holy Core,京的聖核,京的圣核,京の聖核,Kei's Holy Core,京的聖核,京的圣核,케이의 성핵
-Equipment.Kei_Info,装備者以外のパーティーメンバーが全員15点攻撃力増加。,All party members except the wearer gain +15 attack power.,装備者以外的隊友全員增加15點攻擊力。,装备者以外的队友全员增加15点攻击力。,装備者以外のパーティーメンバーが全員15点攻撃力増加。,All party members except the wearer gain +15 attack power.,装備者以外的隊友全員增加15點攻擊力。,装备者以外的队友全员增加15点攻击力。,장비자 이외의 파티 멤버 전원이 15점 공격력 증가.
+Equipment.Kei_Info,装備者以外のパーティーメンバーが全員15点攻撃力増加。,All party members except the wearer gain +15 attack power.,装備者以外的隊友全員增加15點攻擊力。,装备者以外的队友全员增加15点攻击力。,装備者以外のパーティーメンバーが全員15点攻撃力増加。,All party members except the wearer gain +15 attack power.,裝備者以外的隊友全員增加15點攻擊力。,装备者以外的队友全员增加15点攻击力。,장비자 이외의 파티 멤버 전원이 15점 공격력 증가.
 Equipment.Nayuta,那由多の聖核,Nayuta's Holy Core,那由多的聖核,那由多的圣核,那由多の聖核,Nayuta's Holy Core,那由多的聖核,那由多的圣核,나유타의 성핵
-Equipment.Nayuta_Info,装備者は毎ターン攻撃力を5~15点増加する。,The wearer gains +5~15 attack power each turn.,装備者的攻撃力在每回合增加5~15点。,装备者的攻撃力在每回合增加5~15点。,装備者は毎ターン攻撃力を5~15点増加する。,The wearer gains +5~15 attack power each turn.,装備者的攻撃力在每回合增加5~15点。,装备者的攻撃力在每回合增加5~15点。,장비자는 매 턴 공격력을 5~15점 증가한다.
+Equipment.Nayuta_Info,装備者は毎ターン攻撃力を5~15点増加する。,The wearer gains +5~15 attack power each turn.,装備者的攻撃力在每回合增加5~15点。,装备者的攻撃力在每回合增加5~15点。,装備者は毎ターン攻撃力を5~15点増加する。,The wearer gains +5~15 attack power each turn.,裝備者的攻擊力在每回合增加5~15點。,装备者的攻撃力在每回合增加5~15点。,장비자는 매 턴 공격력을 5~15점 증가한다.
 Equipment.Diamond,ダイヤモンドの聖核,Diamond's Holy Core,黛雅的聖核,黛雅的圣核,ダイヤモンドの聖核,Diamond's Holy Core,黛雅的聖核,黛雅的圣核,다이아몬드의 성핵
-Equipment.Diamond_Info,行動不能になる時35%のHPで一回復活する。,"When incapacitated, revives once with 35% HP.",在行動不能時，將以35%的HP復活一次。,在行动不能时，将以35%的HP复活一次。,行動不能になる時35%のHPで一回復活する。,"When incapacitated, revives once with 35% HP.",在行動不能時，將以35%的HP復活一次。,在行动不能时，将以35%的HP复活一次。,전투 불능이 될 때 HP 35%로 1회 부활한다
+Equipment.Diamond_Info,行動不能になる時35%のHPで一回復活する。,"When incapacitated, revives once with 35% HP.",在行動不能時，將以35%的HP復活一次。,在行动不能时，将以35%的HP复活一次。,行動不能になる時35%のHPで一回復活する。,"When incapacitated, revives once with 35% HP.",在無法行動時，將以35%的HP復活一次。,在无法行动时，将以35%的HP复活一次。,전투 불능이 될 때 HP 35%로 1회 부활한다
 Equipment.Hisui,ヒスイの聖核,Hisui's Holy Core,翡翠的聖核,翡翠的圣核,ヒスイの聖核,Hisui's Holy Core,翡翠的聖核,翡翠的圣核,비취의 성핵
 Equipment.Hisui_Info,装備者が必ずバトルの最初に行動する。,The wearer always acts first in battle.,裝備者必定在戰鬥開始時先行動。,装备者必定在战斗开始时先行动。,装備者が必ずバトルの最初に行動する。,The wearer always acts first in battle.,裝備者必定在戰鬥開始時先行動。,装备者必定在战斗开始时先行动。,장착자는 반드시 전투 시작 시 가장 먼저 행동한다
 Items,アイテム名とその説明文,アイテム名とその説明文,アイテム名とその説明文,アイテム名とその说明文,アイテム名とその説明文,アイテム名とその説明文,アイテム名とその説明文,アイテム名とその说明文,아이템명과 그 설명문
 Item.Croissant,クロワッサン,Croissant,可頌,可颂,クロワッサン,Croissant,可頌,可颂,크루아상
-Item.Croissant_Info,エレガントな味覚を楽しむための特別な軽食。,A special snack to enjoy an elegant taste.,能夠隨時體驗優雅的味道的方便輕食。,能够随时体验优雅的味道的方便轻食。,エレガントな味覚を楽しむための特別な軽食。,A special snack to enjoy an elegant taste.,能夠隨時體驗優雅的味道的方便輕食。,能够随时体验优雅的味道的方便轻食。,엘레강스한 미각을 즐기기 위한 특별한 간식.
-Item.Bread,食パン,Bread,白麵包,白面包,食パン,Bread,白麵包,白面包,식빵
-Item.Bread_Info,一切の準備が必要なく、どこでも手軽に摂取できるため、忙しい人々に力強い支えを提供している。,"Requires no preparation and can be easily consumed anywhere, providing strong support for busy individuals.",完全不需要準備隨時都可以補充體力的食物。這麼多年來一直支撐著忙碌的人們的生活。,完全不需要准备随时都可以补充体力的食物。这么多年来一直支撑著忙碌的人们的生活。,一切の準備が必要なく、どこでも手軽に摂取できるため、忙しい人々に力強い支えを提供している。,"Requires no preparation and can be easily consumed anywhere, providing strong support for busy individuals.",完全不需要準備隨時都可以補充體力的食物。這麼多年來一直支撐著忙碌的人們的生活。,完全不需要准备随时都可以补充体力的食物。这么多年来一直支撑著忙碌的人们的生活。,"일절 준비가 필요 없고, 어디서든 간편하게 섭취할 수 있어, 바쁜 사람들에게 강력한 버팀목을 제공하고 있다."
-Item.Melonpan,メロンパン,Melon Bread,哈密瓜面包,哈密瓜面包,メロンパン,Melon Bread,哈密瓜面包,哈密瓜面包,멜론빵
+Item.Croissant_Info,エレガントな味覚を楽しむための特別な軽食。,A special snack to enjoy an elegant taste.,能夠隨時體驗優雅的味道的方便輕食。,能够随时体验优雅的味道的方便轻食。,エレガントな味覚を楽しむための特別な軽食。,A special snack to enjoy an elegant taste.,享受優雅味蕾體驗的方便輕食。,能够随时体验优雅的味道的方便轻食。,엘레강스한 미각을 즐기기 위한 특별한 간식.
+Item.Bread,食パン,Bread,白麵包,白面包,食パン,Bread,吐司,白面包,식빵
+Item.Bread_Info,一切の準備が必要なく、どこでも手軽に摂取できるため、忙しい人々に力強い支えを提供している。,"Requires no preparation and can be easily consumed anywhere, providing strong support for busy individuals.",完全不需要準備隨時都可以補充體力的食物。這麼多年來一直支撐著忙碌的人們的生活。,完全不需要准备随时都可以补充体力的食物。这么多年来一直支撑著忙碌的人们的生活。,一切の準備が必要なく、どこでも手軽に摂取できるため、忙しい人々に力強い支えを提供している。,"Requires no preparation and can be easily consumed anywhere, providing strong support for busy individuals.",完全不需要準備，隨時都可以補充體力的食物。這麼多年來一直支撐著忙碌的人們的生活。,完全不需要准备随时都可以补充体力的食物。这么多年来一直支撑著忙碌的人们的生活。,"일절 준비가 필요 없고, 어디서든 간편하게 섭취할 수 있어, 바쁜 사람들에게 강력한 버팀목을 제공하고 있다."
+Item.Melonpan,メロンパン,Melon Bread,哈密瓜面包,哈密瓜面包,メロンパン,Melon Bread,哈密瓜麵包,哈密瓜面包,멜론빵
 Item.Melonpan_Info,甘さとふんわりとした食感が特徴の美味しい軽食。,Nice to eat,有點甜甜的麵包。,有点甜甜的面包。,甘さとふんわりとした食感が特徴の美味しい軽食。,Nice to eat,有點甜甜的麵包。,有点甜甜的面包。,단맛과 폭신한 식감이 특징인 맛있는 간식.
-Item.Pancake,パンケーキ,,鬆餅,松饼,パンケーキ,,鬆餅,松饼,팬케이크
-Item.Pancake_Info,人気のある朝食料理。,,在年輕人間特別有人氣的早餐。,在年轻人间特别有人气的早餐。,人気のある朝食料理。,,在年輕人間特別有人氣的早餐。,在年轻人间特别有人气的早餐。,인기 있는 아침 식사 요리.
-Item.Baguette,バゲット,,法國面包,法国面包,バゲット,,法國面包,法国面包,바게트
-Item.Baguette_Info,棒状の形をしているパン。,,棒状的麵包。,棒状的面包。,棒状の形をしているパン。,,棒状的麵包。,棒状的面包。,막대기 모양을 한 빵.
-Item.Hotdog,ホットドッグ,,熱狗,热狗,ホットドッグ,,熱狗,热狗,핫도그
-Item.Hotdog_Info,ソーセージを長いバンに挟んだファーストフード。,,ソーセージを長いバンに挟んだファーストフード。,ソーセージを长いバンに挟んだファーストフード。,ソーセージを長いバンに挟んだファーストフード。,,ソーセージを長いバンに挟んだファーストフード。,ソーセージを长いバンに挟んだファーストフード。,소시지를 긴 빵에 끼운 패스트푸드.
-Item.Spegetti,スパゲッティ,,スパゲッティ,スパゲッティ,スパゲッティ,,スパゲッティ,スパゲッティ,스파게티
+Item.Pancake,パンケーキ,,鬆餅,松饼,パンケーキ,Pancake,鬆餅,松饼,팬케이크
+Item.Pancake_Info,人気のある朝食料理。,,在年輕人間特別有人氣的早餐。,在年轻人间特别有人气的早餐。,人気のある朝食料理。,A popular breakfast dish loved by many.,在年輕人間特別有人氣的早餐。,在年轻人间特别有人气的早餐。,인기 있는 아침 식사 요리.
+Item.Baguette,バゲット,,法國面包,法国面包,バゲット,Baguette,法國麵包,法国面包,바게트
+Item.Baguette_Info,棒状の形をしているパン。,,棒状的麵包。,棒状的面包。,棒状の形をしているパン。,"A long, stick-shaped piece of bread.",棒狀造型麵包。,棒状的面包。,막대기 모양을 한 빵.
+Item.Hotdog,ホットドッグ,,熱狗,热狗,ホットドッグ,Hot dog,熱狗堡,热狗,핫도그
+Item.Hotdog_Info,ソーセージを長いバンに挟んだファーストフード。,,ソーセージを長いバンに挟んだファーストフード。,ソーセージを长いバンに挟んだファーストフード。,ソーセージを長いバンに挟んだファーストフード。,A classic fast food consisting of a sausage in a long bun.,將熱狗香腸夾入長型軟法的經典速食。,将热狗香肠夹入长型软法的经典速食。,소시지를 긴 빵에 끼운 패스트푸드.
+Item.Spegetti,スパゲッティ,,スパゲッティ,スパゲッティ,スパゲッティ,Spagetti,義大利麵,意大利面,스파게티
 Item.Spegetti_Info,,,,,,,,,
-Item.Omelette,オムライス,,オムライス,オムライス,オムライス,,オムライス,オムライス,오므라이스
+Item.Omelette,オムライス,,オムライス,オムライス,オムライス,Omelet rice,蛋包飯,蛋包饭,오므라이스
 Item.Omelette_Info,,,,,,,,,
-Item.SteakSet,ステーキ定食,Steak,ステーキ定食,ステーキ定食,ステーキ定食,Steak,ステーキ定食,ステーキ定食,스테이크 정식
-Item.SteakSet_Info,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,ジューシーなステーキ肉と付け合わせを组み合わせた、満足感のある食事セット。,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,ジューシーなステーキ肉と付け合わせを组み合わせた、満足感のある食事セット。,"육즙 가득한 스테이크 고기와 곁들임 요리를 조합한, 만족감 있는 식사 세트."
-Item.Sandwich,サンドイッチ,,サンドイッチ,サンドイッチ,サンドイッチ,,サンドイッチ,サンドイッチ,샌드위치
+Item.SteakSet,ステーキ定食,Steak,ステーキ定食,ステーキ定食,ステーキ定食,Steak,牛排定食,牛排定食,스테이크 정식
+Item.SteakSet_Info,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,ジューシーなステーキ肉と付け合わせを组み合わせた、満足感のある食事セット。,ジューシーなステーキ肉と付け合わせを組み合わせた、満足感のある食事セット。,A satisfying meal featuring a juicy steak served with assorted sides.,鮮美多汁的牛排搭配精緻配菜，極具飽足感的超值套餐。,鲜美多汁的牛排搭配精致配菜，极具饱足感的超值套餐。,"육즙 가득한 스테이크 고기와 곁들임 요리를 조합한, 만족감 있는 식사 세트."
+Item.Sandwich,サンドイッチ,,サンドイッチ,サンドイッチ,サンドイッチ,,三明治,三文治,샌드위치
 Item.Sandwich_Info,,,,,,,,,
-Item.Coffee,コーヒー,,コーヒー,コーヒー,コーヒー,,コーヒー,コーヒー,커피
+Item.Coffee,コーヒー,,コーヒー,コーヒー,コーヒー,Coffee,咖啡,咖啡,커피
 Item.Coffee_Info,,,,,,,,,
-Item.Tea,紅茶,,紅茶,红茶,紅茶,,紅茶,红茶,홍차
+Item.Tea,紅茶,,紅茶,红茶,紅茶,Black Tea,紅茶,红茶,홍차
 Item.Tea_Info,,,,,,,,,
-Item.Cola,コーラ,,コーラ,コーラ,コーラ,,コーラ,コーラ,콜라
+Item.Cola,コーラ,,コーラ,コーラ,コーラ,Coke,可樂,可乐,콜라
 Item.Cola_Info,,,,,,,,,
-Item.Parfait,パフェ,,パフェ,パフェ,パフェ,,パフェ,パフェ,파르페
+Item.Parfait,パフェ,,パフェ,パフェ,パフェ,Sundae,聖代,圣代,파르페
 Item.Parfait_Info,,,,,,,,,
-Item.M24,柄付手榴弾,Stick Grenade,柄式手榴弾,柄式手榴弾,柄付手榴弾,Stick Grenade,柄式手榴弾,柄式手榴弾,막대 수류탄
+Item.M24,柄付手榴弾,Stick Grenade,柄式手榴弾,柄式手榴弾,柄付手榴弾,Stick Grenade,柄式手榴彈,柄式手榴弾,막대 수류탄
 Item.M24_Info,手投げ弾を投げてダメージを与える。,Throw this hand grenade to inflict damage.,向敵人投擲以造成傷害。,向敌人投掷以造成伤害。,手投げ弾を投げてダメージを与える。,Throw this hand grenade to inflict damage.,向敵人投擲以造成傷害。,向敌人投掷以造成伤害。,수류탄을 던져 데미지를 준다.
 Item.FirstAid,救急箱,First Aid Kit,救急箱,救急箱,救急箱,First Aid Kit,救急箱,救急箱,구급상자
-Item.FirstAid_Info,効果が不安定だが、緊急時には仕方ない。,"Its effectiveness is inconsistent, but in an emergency, there's no choice.",效果有點不穩定，但是緊急事沒辦法想那麼多。,效果有点不稳定，但是紧急事没办法想那么多。,効果が不安定だが、緊急時には仕方ない。,"Its effectiveness is inconsistent, but in an emergency, there's no choice.",效果有點不穩定，但是緊急事沒辦法想那麼多。,效果有点不稳定，但是紧急事没办法想那么多。,"효과가 불안정하지만, 긴급 시에는 어쩔 수 없다."
+Item.FirstAid_Info,効果が不安定だが、緊急時には仕方ない。,"Its effectiveness is inconsistent, but in an emergency, there's no choice.",效果有點不穩定，但是緊急事沒辦法想那麼多。,效果有点不稳定，但是紧急事没办法想那么多。,効果が不安定だが、緊急時には仕方ない。,"Its effectiveness is inconsistent, but in an emergency, there's no choice.",效果有點不穩定，但在緊急關頭也別無他法。,效果有点不稳定，但是紧急事没办法想那么多。,"효과가 불안정하지만, 긴급 시에는 어쩔 수 없다."
 Ability,特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその说明文 (背景色でキャラを分ける),特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその説明文 (背景色でキャラを分ける),特殊技名とその说明文 (背景色でキャラを分ける),특수기명과 그 설명문 (배경색으로 캐릭터 구분)
 Ability.DeepBreath,緊急回復,Emergency Heal,緊急回復,紧急回复,緊急回復,Emergency Heal,緊急回復,紧急回复,긴급 회복
 Ability.DeepBreath_Info,"自身のHPを回復
@@ -495,13 +495,13 @@ User becomes unable to act for 1 turn afterward.","對敵人單體造成普通�
 使用者會陷入行動不能1回合。","对敌人单体造成普通攻撃的2.5倍伤害。
 使用者会陷入行动不能1回合。","敵１体に普通攻撃の2.5倍ダメージを与える。
 使用者がその後の1ターン行動不能になる","Deals 2.5x normal attack damage to a single enemy.
-User becomes unable to act for 1 turn afterward.","對敵人單體造成普通攻撃的2.5倍傷害。
-使用者會陷入行動不能1回合。","对敌人单体造成普通攻撃的2.5倍伤害。
+User becomes unable to act for 1 turn afterward.","對敵人單體造成普通攻擊的2.5倍傷害。
+使用者會無法行動1回合。","对敌人单体造成普通攻撃的2.5倍伤害。
 使用者会陷入行动不能1回合。","적 １체에게 일반 공격의 2.5배 데미지를 준다.
 사용자가 그 후 1턴 행동 불능이 된다"
 Ability.Tackle,共倒れ,Mutual Collapse,同歸於盡,同归于尽,共倒れ,Mutual Collapse,同歸於盡,同归于尽,동귀어진
-Ability.Tackle_Info,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起行動不能1回合。,与一名敌人一起行动不能1回合。,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起行動不能1回合。,与一名敌人一起行动不能1回合。,적 １체와 함께 1턴 행동 불능이 된다
-Ability.SuckingTentacle,吸収触手,Absorbing Tentacles,触手吸收,触手吸收,吸収触手,Absorbing Tentacles,触手吸收,触手吸收,흡수 촉수
+Ability.Tackle_Info,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起行動不能1回合。,与一名敌人一起行动不能1回合。,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起無法行動1回合。,与一名敌人一起行动不能1回合。,적 １체와 함께 1턴 행동 불능이 된다
+Ability.SuckingTentacle,吸収触手,Absorbing Tentacles,触手吸收,触手吸收,吸収触手,Absorbing Tentacles,觸手吸收,触手吸收,흡수 촉수
 Ability.SuckingTentacle_Info,"相手のSPを半分吸収する
 
 女性相手ならHPも吸収する","Absorbs half of the target’s SP.
@@ -519,9 +519,9 @@ If the target is female, also absorbs HP.","吸收一名敵人一半的SP
 如果目标是女性连HP也一起吸","상대의 SP를 절반 흡수한다
 
 여성 상대라면 HP도 흡수한다"
-Ability.TentacleService,触手サービス,Tentacle Service,触手服務,触手服务,触手サービス,Tentacle Service,触手服務,触手服务,촉수 서비스
+Ability.TentacleService,触手サービス,Tentacle Service,触手服務,触手服务,触手サービス,Tentacle Service,觸手服務,触手服务,촉수 서비스
 Ability.TentacleService_Info,SPを全部味方に分け与える。(女性相手のみ有効),Distributes all your SP to allies. (Only effective on female allies),將自己的SP全部轉給一名隊友 (只對女性對象有效),将自己的SP全部转给一名队友 (只对女性对象有效),SPを全部味方に分け与える。(女性相手のみ有効),Distributes all your SP to allies. (Only effective on female allies),將自己的SP全部轉給一名隊友 (只對女性對象有效),将自己的SP全部转给一名队友 (只对女性对象有效),SP를 전부 아군에게 나누어 준다. (여성 상대에게만 유효)
-Ability.Capture,媚薬ガス,Aphrodisiac Gas,媚薬噴霧,媚薬喷雾,媚薬ガス,Aphrodisiac Gas,媚薬噴霧,媚薬喷雾,미약 가스
+Ability.Capture,媚薬ガス,Aphrodisiac Gas,媚薬噴霧,媚薬喷雾,媚薬ガス,Aphrodisiac Gas,媚藥噴霧,媚薬喷雾,미약 가스
 Ability.Capture_Info,"敵１体の攻撃力・スピードを一時25%ダウン
 
 女性相手なら防御力と攻撃力をダウンさせる","Reduces a single enemy's attack and speed by 25% temporarily.
@@ -532,19 +532,18 @@ If the target is female, also reduces their defense.","讓一名敵人的攻撃�
 如果对象是女性的话攻击力与防御力也一起下降","敵１体の攻撃力・スピードを一時25%ダウン
 
 女性相手なら防御力と攻撃力をダウンさせる","Reduces a single enemy's attack and speed by 25% temporarily.
-If the target is female, also reduces their defense.","讓一名敵人的攻撃力和速度暫時下降25%
-
-如果對象是女性的話攻擊力與防御力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
+If the target is female, also reduces their defense.","讓一名敵人的攻擊力和速度暫時下降25%
+如果對象是女性的話攻擊力與防禦力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
 
 如果对象是女性的话攻击力与防御力也一起下降","적 １체의 공격력・속도를 일시적으로 25% 다운
 
 여성 상대라면 방어력과 공격력을 다운시킨다"
 Ability.SelfRepair,自己修復,Self-Repair,自我修復,自我修复,自己修復,Self-Repair,自我修復,自我修复,자가 수복
-Ability.SelfRepair_Info,35% HP 回復,Restores 35% HP.,回復 35% HP ,回复 35% HP ,35% HP 回復,Restores 35% HP.,回復 35% HP ,回复 35% HP ,35% HP 회복
+Ability.SelfRepair_Info,35% HP 回復,Restores 35% HP.,回復 35% HP ,回复 35% HP ,35% HP 回復,Restores 35% HP.,回復 35% HP,回复 35% HP ,35% HP 회복
 Ability.SelfEnchant,自己改造,Self-Mod,自我改造,自我改造,自己改造,Self-Mod,自我改造,自我改造,자가 개조
 Ability.SelfEnchant_Info,ランダムのバフを獲得する,Grants a random buff.,獲得隨機的BUFF,获得随机的BUFF,ランダムのバフを獲得する,Grants a random buff.,獲得隨機的BUFF,获得随机的BUFF,랜덤 버프를 획득한다
 Ability.Booster,ブースト,Boost,超頻,超频,ブースト,Boost,超頻,超频,부스트
-Ability.Booster_Info,攻撃力 15% アップ,Increases attack by 15%.,攻撃力 增加 15% ,攻撃力 增加 15% ,攻撃力 15% アップ,Increases attack by 15%.,攻撃力 增加 15% ,攻撃力 增加 15% ,공격력 15% 업
+Ability.Booster_Info,攻撃力 15% アップ,Increases attack by 15%.,攻撃力 增加 15% ,攻撃力 增加 15% ,攻撃力 15% アップ,Increases attack by 15%.,攻擊力 增加 15%,攻撃力 增加 15% ,공격력 15% 업
 Ability.HealAttack,エナジーレーザー,Energy Laser,能量攻擊,能量攻击,エナジーレーザー,Energy Laser,能量攻擊,能量攻击,에너지 레이저
 Ability.HealAttack_Info,相手に30ダメージを与える,Inflicts 30 damage on the target.,對一名敵人造成30點傷害,对一名敌人造成30点伤害,相手に30ダメージを与える,Inflicts 30 damage on the target.,對一名敵人造成30點傷害,对一名敌人造成30点伤害,상대에게 30 데미지를 준다
 Ability.GreatRegen,ヒーリング,Healing,回復,回复,ヒーリング,Healing,回復,回复,힐링
@@ -566,14 +565,14 @@ After use, Milk Supply and Milk Supply Overdrive become unusable for the current
 明穂以外の味方全員が全回復する。
 使用後 ミルク補給 と ミルク補給オバードライブ が今回のバトルで使用不可となる。","Excessively milks oneself and distributes it to all allies.
 Fully restores HP and SP of all allies except Akiho.
-After use, Milk Supply and Milk Supply Overdrive become unusable for the current battle.","過度的榨取人奶來分給隊友全員。
-明穂以外的隊友全員狀態全回復。
+After use, Milk Supply and Milk Supply Overdrive become unusable for the current battle.","過度榨取人奶來分給隊友全員。
+明穂以外的隊友全隊回復全狀態。
 使用後 特濃人奶 和 人奶補給 將不能使用","过度的榨取人奶来分给队友全员。
 明穂以外的队友全员状态全回复。
 使用后 特浓人奶 和 人奶补给 将不能使用","과도하게 밀크를 짜서 아군 전원에게 나눈다.
 아키호 이외의 아군 전원이 완전 회복한다.
 사용 후 밀크 보급과 밀크 보급 오버드라이브가 이번 배틀에서 사용 불가 상태가 된다."
-Ability.Overdrive,オーバードライブ,Overdrive,超速档,超速档,オーバードライブ,Overdrive,超速档,超速档,오버드라이브
+Ability.Overdrive,オーバードライブ,Overdrive,超速档,超速档,オーバードライブ,Overdrive,超速檔,超速档,오버드라이브
 Ability.Overdrive_Info,"３ターン連続行動することができる。
 その後３ターン行動不能となる。","Act continuously for 3 turns.
 Unable to act for 3 turns afterward.","可以連續行動三次。
@@ -581,17 +580,17 @@ Unable to act for 3 turns afterward.","可以連續行動三次。
 但是使用后将会陷入行动不能状态3回合。","３ターン連続行動することができる。
 その後３ターン行動不能となる。","Act continuously for 3 turns.
 Unable to act for 3 turns afterward.","可以連續行動三次。
-但是使用後將會陷入行動不能狀態3回合。","可以连续行动三次。
-但是使用后将会陷入行动不能状态3回合。","３턴 연속 행동할 수 있다.
+但是使用後將會無法行動狀態3回合。","可以连续行动三次。
+但是使用后将会陷入无法行动状态3回合。","３턴 연속 행동할 수 있다.
 그 후 ３턴 행동 불능이 된다."
 Ability.QuickAttack,連撃,Combo Attack,連擊,连击,連撃,Combo Attack,連擊,连击,연격
 Ability.QuickAttack_Info,ランダム攻撃x3,Randomly attacks 3 times.,隨機攻擊敵人x3,随机攻击敌人x3,ランダム攻撃x3,Randomly attacks 3 times.,隨機攻擊敵人x3,随机攻击敌人x3,랜덤 공격x3
 Ability.Fist,正拳突き,Straight Punch,正拳,正拳,正拳突き,Straight Punch,正拳,正拳,정권 찌르기
 Ability.Fist_Info,ターンを消耗せずに敵単体を攻撃する。,Attack a single enemy without consuming your turn.,不消耗回合來攻擊一個敵人。,不消耗回合来攻击一个敌人。,ターンを消耗せずに敵単体を攻撃する。,Attack a single enemy without consuming your turn.,不消耗回合來攻擊一個敵人。,不消耗回合来攻击一个敌人。,턴을 소모하지 않고 적 단체를 공격한다.
 Ability.Repel,反撃の意思,Intent to Counterattack,反擊的意志,反击的意志,反撃の意思,Intent to Counterattack,反擊的意志,反击的意志,반격의 의지
-Ability.Repel_Info,一定時間内、攻撃されるたびに自身の防御力の割合に基づく反射ダメージを与える,"Reflects damage based on your defense whenever you're attacked, for a limited duration.",在一定時間內被攻擊時會反彈傷害。(反彈傷害依照自身的防御力計算),在一定时间内被攻击时会反弹伤害。(反弹伤害依照自身的防御力计算),一定時間内、攻撃されるたびに自身の防御力の割合に基づく反射ダメージを与える,"Reflects damage based on your defense whenever you're attacked, for a limited duration.",在一定時間內被攻擊時會反彈傷害。(反彈傷害依照自身的防御力計算),在一定时间内被攻击时会反弹伤害。(反弹伤害依照自身的防御力计算),"일정 시간 내, 공격받을 때마다 자신의 방어력 비율에 기반한 반사 데미지를 준다"
+Ability.Repel_Info,一定時間内、攻撃されるたびに自身の防御力の割合に基づく反射ダメージを与える,"Reflects damage based on your defense whenever you're attacked, for a limited duration.",在一定時間內被攻擊時會反彈傷害。(反彈傷害依照自身的防御力計算),在一定时间内被攻击时会反弹伤害。(反弹伤害依照自身的防御力计算),一定時間内、攻撃されるたびに自身の防御力の割合に基づく反射ダメージを与える,"Reflects damage based on your defense whenever you're attacked, for a limited duration.",在一定時間內被攻擊時會反彈傷害。(反彈傷害依照自身的防禦力計算),在一定时间内被攻击时会反弹伤害。(反弹伤害依照自身的防御力计算),"일정 시간 내, 공격받을 때마다 자신의 방어력 비율에 기반한 반사 데미지를 준다"
 Ability.GuardUp,不動のオーラ,Immovable Aura,堅定的光環,坚定的光环,不動のオーラ,Immovable Aura,堅定的光環,坚定的光环,부동의 오라
-Ability.GuardUp_Info,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防御力增加99點,2回合内防御力增加99点,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防御力增加99點,2回合内防御力增加99点,2 턴간 방어력 99 업
+Ability.GuardUp_Info,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防御力增加99點,2回合内防御力增加99点,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防禦力增加99點,2回合内防御力增加99点,2 턴간 방어력 99 업
 Ability.GuardianAngel,不滅の加護,Immortal Protection,不滅的加護,不灭的加护,不滅の加護,Immortal Protection,不滅的加護,不灭的加护,불멸의 가호
 Ability.GuardianAngel_Info,１ターンの間味方全員が受けるダメージを無効にする。,Negates all damage received by allies for 1 turn.,本回合內隊友所受到的傷害全部無效。,本回合内队友所受到的伤害全部无效。,１ターンの間味方全員が受けるダメージを無効にする。,Negates all damage received by allies for 1 turn.,本回合內隊友所受到的傷害全部無效。,本回合内队友所受到的伤害全部无效。,１턴 동안 아군 전원이 받는 데미지를 무효로 한다.
 Ability.Hacking,ハッキング,Hacking,駭客攻擊,骇客攻击,ハッキング,Hacking,駭客攻擊,骇客攻击,해킹
@@ -616,7 +615,7 @@ Ability.SuicideAttack_Info,"ハッキングした傀儡を自爆攻撃を行わ�
 造成的傷害為該傀儡的剩餘HP。","命令傀儡进行自爆攻击。
 造成的伤害为该傀儡的剩余HP。","해킹한 꼭두각시에게 자폭 공격을 시킨다.
 꼭두각시의 남은 HP가 데미지가 된다."
-Ability.Suicide,自爆攻撃,Self-Destruct Attack,自爆攻撃,自爆攻撃,自爆攻撃,Self-Destruct Attack,自爆攻撃,自爆攻撃,자폭 공격
+Ability.Suicide,自爆攻撃,Self-Destruct Attack,自爆攻撃,自爆攻撃,自爆攻撃,Self-Destruct Attack,自爆攻擊,自爆攻撃,자폭 공격
 Ability.Suicide_Info,"自爆攻撃を行う。
 残りHPがダメージとする。","Performs a self-destruct attack.
 Deals damage equal to remaining HP.","進行自爆攻擊。
@@ -628,7 +627,7 @@ Deals damage equal to remaining HP.","進行自爆攻擊。
 造成的伤害为自身剩余的HP。","자폭 공격을 한다.
 남은 HP가 데미지가 된다."
 Ability.Reprogram,リファクタリング,Refactoring,代碼優化,代码优化,リファクタリング,Refactoring,代碼優化,代码优化,리팩토링
-Ability.Reprogram_Info,ターゲットのプログラムを再作成し、攻撃力と防御を上昇させる。(機械類の目標のみ有効),"Rewrites the target’s program, increasing its attack and defense. (Only effective on mechanical targets)",對該對象的代碼進行優化，提高攻擊力與防御力。（只對機械類目標有效）,对该对象的代码进行优化，提高攻击力与防御力。（只对机械类目标有效）,ターゲットのプログラムを再作成し、攻撃力と防御を上昇させる。(機械類の目標のみ有効),"Rewrites the target’s program, increasing its attack and defense. (Only effective on mechanical targets)",對該對象的代碼進行優化，提高攻擊力與防御力。（只對機械類目標有效）,对该对象的代码进行优化，提高攻击力与防御力。（只对机械类目标有效）,"타겟의 프로그램을 재작성하여, 공격력과 방어를 상승시킨다. (기계류 목표에게만 유효)"
+Ability.Reprogram_Info,ターゲットのプログラムを再作成し、攻撃力と防御を上昇させる。(機械類の目標のみ有効),"Rewrites the target’s program, increasing its attack and defense. (Only effective on mechanical targets)",對該對象的代碼進行優化，提高攻擊力與防御力。（只對機械類目標有效）,对该对象的代码进行优化，提高攻击力与防御力。（只对机械类目标有效）,ターゲットのプログラムを再作成し、攻撃力と防御を上昇させる。(機械類の目標のみ有効),"Rewrites the target’s program, increasing its attack and defense. (Only effective on mechanical targets)",對該對象的代碼進行優化，提高攻擊力與防禦力。（只對機械類目標有效）,对该对象的代码进行优化，提高攻击力与防御力。（只对机械类目标有效）,"타겟의 프로그램을 재작성하여, 공격력과 방어를 상승시킨다. (기계류 목표에게만 유효)"
 Ability.EffeciencyBoost,システム修復,System Restore,系統修復,系统修复,システム修復,System Restore,系統修復,系统修复,시스템 수복
 Ability.EffeciencyBoost_Info,ターゲットのプログラムを最適化し、HPを回復させ、すぐに次の行動をとることができるようにする。(機械類の目標のみ有効),"Optimizes the target’s program, recovering its HP and immediately allowing it another action. (Only effective on mechanical targets)",對該對象的代碼進行優化、回復該對象的HP、並讓其能夠即刻進行下一回合的行動。(只對機械類敵人有效),对该对象的代码进行优化、回复该对象的HP、并让其能够即刻进行下一回合的行动。(只对机械类敌人有效),ターゲットのプログラムを最適化し、HPを回復させ、すぐに次の行動をとることができるようにする。(機械類の目標のみ有効),"Optimizes the target’s program, recovering its HP and immediately allowing it another action. (Only effective on mechanical targets)",對該對象的代碼進行優化、回復該對象的HP、並讓其能夠即刻進行下一回合的行動。(只對機械類敵人有效),对该对象的代码进行优化、回复该对象的HP、并让其能够即刻进行下一回合的行动。(只对机械类敌人有效),"타겟의 프로그램을 최적화하여, HP를 회복시키고, 즉시 다음 행동을 취할 수 있도록 한다. (기계류 목표에게만 유효)"
 Ability.DroneSupport,火力支援,Fire Support,火力支援,火力支援,火力支援,Fire Support,火力支援,火力支援,화력 지원
@@ -693,13 +692,13 @@ Absorbs the damage dealt to restore your HP.","對一名敵人造成大量傷害
 吸收造成的傷害來回復自身HP。","对一名敌人造成大量伤害，使用者的HP越少伤害越高。
 吸收造成的伤害来回复自身HP。","적 １체에게 대량의 데미지를 준다. HP가 적을수록 데미지가 높아진다.
 준 데미지를 흡수하여 HP를 회복한다."
-Ability.Stungun_Info,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入行動不能狀態。,使敌人麻痺一回合，陷入行动不能状态。,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入行動不能狀態。,使敌人麻痺一回合，陷入行动不能状态。,스턴건으로 타겟을 1턴 행동 불능으로 만든다.
+Ability.Stungun_Info,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入行動不能狀態。,使敌人麻痺一回合，陷入行动不能状态。,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入無法行動狀態。,使敌人麻痺一回合，陷入无法行动状态。,스턴건으로 타겟을 1턴 행동 불능으로 만든다.
 Ability.DivineShield,エナジーシールド,Energy Shield,能量盾,能量盾,エナジーシールド,Energy Shield,能量盾,能量盾,에너지 실드
-Ability.DivineShield_Info,次に受けたダメージを無効にする,Negates the next instance of damage received.,將下一次受到的傷害無效化,将下一次受到的伤害无效化,次に受けたダメージを無効にする,Negates the next instance of damage received.,將下一次受到的傷害無效化,将下一次受到的伤害无效化,다음에 받은 데미지를 무효로 한다
+Ability.DivineShield_Info,次に受けたダメージを無効にする,Negates the next instance of damage received.,將下一次受到的傷害無效化,将下一次受到的伤害无效化,次に受けたダメージを無効にする,Negates the next instance of damage received.,將下一次受到的傷害無效化。,将下一次受到的伤害无效化,다음에 받은 데미지를 무효로 한다
 Ability.DivineRapier,ディバインキャリバー,Divine Caliber,能量光劍,能量光剑,ディバインキャリバー,Divine Caliber,能量光劍,能量光剑,디바인 캘리버
-Ability.DivineRapier_Info,敵単体を攻撃し、防御力を極端まで低下させてそして無力化する。,"Attacks a single enemy, drastically lowering its defense and disabling it.",對一名敵人造成傷害，並同時將對方的防御力降低至一個極端。,对一名敌人造成伤害，并同时将对方的防御力降低至一个极端。,敵単体を攻撃し、防御力を極端まで低下させてそして無力化する。,"Attacks a single enemy, drastically lowering its defense and disabling it.",對一名敵人造成傷害，並同時將對方的防御力降低至一個極端。,对一名敌人造成伤害，并同时将对方的防御力降低至一个极端。,"적 단체를 공격하여, 방어력을 극한까지 저하시키고 무력화."
+Ability.DivineRapier_Info,敵単体を攻撃し、防御力を極端まで低下させてそして無力化する。,"Attacks a single enemy, drastically lowering its defense and disabling it.",對一名敵人造成傷害，並同時將對方的防御力降低至一個極端。,对一名敌人造成伤害，并同时将对方的防御力降低至一个极端。,敵単体を攻撃し、防御力を極端まで低下させてそして無力化する。,"Attacks a single enemy, drastically lowering its defense and disabling it.",對一名敵人造成傷害，並同時將對方的防禦力降低至一個極端。,对一名敌人造成伤害，并同时将对方的防御力降低至一个极端。,"적 단체를 공격하여, 방어력을 극한까지 저하시키고 무력화."
 Ability.StunShield,トラップシールド,Trap Shield,陷阱盾,陷阱盾,トラップシールド,Trap Shield,陷阱盾,陷阱盾,트랩 실드
-Ability.StunShield_Info,次にエレナを攻撃するものは一時行動不能になる。,The next attacker on Erena is temporarily incapacitated.,下一個攻擊艾蓮娜的敵人將會暫時陷入行動不能狀態。,下一个攻击艾莲娜的敌人将会暂时陷入行动不能状态。,次にエレナを攻撃するものは一時行動不能になる。,The next attacker on Erena is temporarily incapacitated.,下一個攻擊艾蓮娜的敵人將會暫時陷入行動不能狀態。,下一个攻击艾莲娜的敌人将会暂时陷入行动不能状态。,다음에 엘레나를 공격하는 자는 일시적으로 행동 불능이 된다.
+Ability.StunShield_Info,次にエレナを攻撃するものは一時行動不能になる。,The next attacker on Erena is temporarily incapacitated.,下一個攻擊艾蓮娜的敵人將會暫時陷入行動不能狀態。,下一个攻击艾莲娜的敌人将会暂时陷入行动不能状态。,次にエレナを攻撃するものは一時行動不能になる。,The next attacker on Erena is temporarily incapacitated.,下一個攻擊艾蓮娜的敵人將會暫時陷入無法行動的狀態。,下一个攻击艾莲娜的敌人将会暂时陷入行动不能状态。,다음에 엘레나를 공격하는 자는 일시적으로 행동 불능이 된다.
 Ability.SitDown,お座り,Sit,坐下,坐下,お座り,Sit,坐下,坐下,앉아
 Ability.SitDown_Info,ダイヤちゃんは犬としてよく躾されている。ご主人様のコマンドに応じて座ることができる。,Diamond is well-trained as a dog and obediently sits on command.,黛雅經常接受良好的訓練，能夠根據主人的指令坐下。,黛雅经常接受良好的训练，能够根据主人的指令坐下。,ダイヤちゃんは犬としてよく躾されている。ご主人様のコマンドに応じて座ることができる。,Diamond is well-trained as a dog and obediently sits on command.,黛雅經常接受良好的訓練，能夠根據主人的指令坐下。,黛雅经常接受良好的训练，能够根据主人的指令坐下。,다이아쨩은 개로서 잘 훈련되어 있다. 주인님의 명령에 따라 앉을 수 있다.
 Ability.Bite,噛みつく,Bite,咬,咬,噛みつく,Bite,咬,咬,물어뜯기
@@ -717,9 +716,9 @@ Incapacitate a single enemy for 2 turns.",黛雅的技能。使單個敵人暈�
 HomeCharacter,ホーム台詞,ホーム台詞,ホーム台詞,ホーム台词,ホーム台詞,ホーム台詞,ホーム台詞,ホーム台词,홈 대사
 HomeChar.No5_1-1,「こんにちは、何かご用はありますか？」,"「Hello, how can I help you?」",「您好，找我有什麼事嗎？」,「您好，找我有什么事吗？」,「こんにちは、何かご用はありますか？」,"「Hello, how can I help you?」",「您好，找我有什麼事嗎？」,「您好，找我有什么事吗？」,"「안녕하세요, 무슨 용무이신가요?」"
 HomeChar.No5_1-2,「ドクター、貴方の活躍を期待しています。」,"「Docter, we look forward to seeing you in action.」",「博士，我很期待你的活躍。」,「博士，我很期待你的活跃。」,「ドクター、貴方の活躍を期待しています。」,"「Docter, we look forward to seeing you in action.」",「博士，我很期待你的活躍。」,「博士，我很期待你的活跃。」,"「닥터, 당신의 활약을 기대하고 있습니다.」"
-HomeChar.No5_1-3,「準備は万全です。いつでも出撃できます。」,「All set. We're ready to action.」,「已經準備就緒，隨時可以出撃。」,「已经准备就绪，随时可以出撃。」,「準備は万全です。いつでも出撃できます。」,「All set. We're ready to action.」,「已經準備就緒，隨時可以出撃。」,「已经准备就绪，随时可以出撃。」,「준비는 완료되었습니다. 언제든 출격할 수 있습니다.」
-HomeChar.No5_1-4,「状況は非常に悪いです。聖核戦姫を何とかしないと...」,「The situation is very bad. We have to do something about the Seikaku Princess...」,「財團的情況非常糟糕。必須對聖核戦姫做點什麼...」,「财团的情况非常糟糕。必须对圣核戦姫做点什么...」,「状況は非常に悪いです。聖核戦姫を何とかしないと...」,「The situation is very bad. We have to do something about the Seikaku Princess...」,「財團的情況非常糟糕。必須對聖核戦姫做點什麼...」,「财团的情况非常糟糕。必须对圣核戦姫做点什么...」,「상황은 매우 나쁩니다. 성핵전희를 어떻게든 하지 않으면...」
-HomeChar.No5_2-3,「オリジナルの研究開発は順調ですか？」,「How's the research of my 'original' doing?」,「對'本體'的研究還順利嗎？」,「对'本体'的研究还顺利吗？」,「オリジナルの研究開発は順調ですか？」,「How's the research of my 'original' doing?」,「對'本體'的研究還順利嗎？」,「对'本体'的研究还顺利吗？」,「오리지널의 연구 개발은 순조롭습니까?」
+HomeChar.No5_1-3,「準備は万全です。いつでも出撃できます。」,「All set. We're ready to action.」,「已經準備就緒，隨時可以出撃。」,「已经准备就绪，随时可以出撃。」,「準備は万全です。いつでも出撃できます。」,「All set. We're ready to action.」,「已經準備就緒，隨時可以出擊。」,「已经准备就绪，随时可以出撃。」,「준비는 완료되었습니다. 언제든 출격할 수 있습니다.」
+HomeChar.No5_1-4,「状況は非常に悪いです。聖核戦姫を何とかしないと...」,「The situation is very bad. We have to do something about the Seikaku Princess...」,「財團的情況非常糟糕。必須對聖核戦姫做點什麼...」,「财团的情况非常糟糕。必须对圣核戦姫做点什么...」,「状況は非常に悪いです。聖核戦姫を何とかしないと...」,「The situation is very bad. We have to do something about the Seikaku Princess...」,「財團的情況非常糟糕。必須對聖核戰姬做點什麼...」,「财团的情况非常糟糕。必须对圣核戦姫做点什么...」,「상황은 매우 나쁩니다. 성핵전희를 어떻게든 하지 않으면...」
+HomeChar.No5_2-3,「オリジナルの研究開発は順調ですか？」,「How's the research of my 'original' doing?」,「對'本體'的研究還順利嗎？」,「对'本体'的研究还顺利吗？」,「オリジナルの研究開発は順調ですか？」,「How's the research of my 'original' doing?」,「對『本體』的研究還順利嗎？」,「对'本体'的研究还顺利吗？」,「오리지널의 연구 개발은 순조롭습니까?」
 HomeChar.Akiho_2-1,「なんですか？おっぱい搾ってくれるんですか？」,「What is it? Are you going to squeeze my tits?」,「怎麼了？要幫我榨奶了嗎...？」,「怎么了？要帮我榨奶了吗...？」,「なんですか？おっぱい搾ってくれるんですか？」,「What is it? Are you going to squeeze my tits?」,「怎麼了？要幫我榨奶了嗎...？」,「怎么了？要帮我榨奶了吗...？」,「뭐예요? 젖 짜주게요?」
 HomeChar.Akiho_2-2,「どうせなら六花も一緒に…」,「Hope Rikka is here with me…」,「都這樣了還不如六花也一起來…」,「都这样了还不如六花也一起来…」,「どうせなら六花も一緒に…」,「Hope Rikka is here with me…」,「都這樣了還不如六花也一起來…」,「都这样了还不如六花也一起来…」,「이왕이면 릿카도 같이…」
 HomeChar.Akiho_2-3,「おっぱいが張って来ちゃった…搾ってもらわなきゃ」,「My tits are getting so tight... I need to have them squeezed」,「胸部開始漲起來了... 得讓人幫我榨一下了」,「胸部开始涨起来了... 得让人帮我榨一下了」,「おっぱいが張って来ちゃった…搾ってもらわなきゃ」,「My tits are getting so tight... I need to have them squeezed」,「胸部開始漲起來了... 得讓人幫我榨一下了」,「胸部开始涨起来了... 得让人帮我榨一下了」,「젖이 불어버렸어… 짜줘야 해」
@@ -730,9 +729,9 @@ HomeChar.No72_3-3,「何かご命令ですか？」,「Any order?」,「有什�
 HomeChar.No72_3-4,「私に感情はプログラムされていません。他のクローンと同様です」,「I am not programmed with emotions. I am like any other clone.」,「我並沒有被植入情感這項功能。就像其他克隆人一樣。」,「我并没有被植入情感这项功能。就像其他克隆人一样。」,「私に感情はプログラムされていません。他のクローンと同様です」,「I am not programmed with emotions. I am like any other clone.」,「我並沒有被植入情感這項功能。就像其他克隆人一樣。」,「我并没有被植入情感这项功能。就像其他克隆人一样。」,「제게 감정은 프로그램되어 있지 않습니다. 다른 클론과 마찬가지입니다」
 HomeChar.Erena_5-1,「愚かな私ですが、存分にお使いください」,"「I am a fool, but use me to your heart's content」",「雖然是這樣愚笨的我，但是請主人盡情利用。」,「虽然是这样愚笨的我，但是请主人尽情利用。」,「愚かな私ですが、存分にお使いください」,"「I am a fool, but use me to your heart's content」",「雖然是這樣愚笨的我，但是請主人盡情利用。」,「虽然是这样愚笨的我，但是请主人尽情利用。」,"「어리석은 저입니다만, 마음껏 써 주십시오」"
 HomeChar.Erena_5-2,「聖核戦姫に聖月生徒会…今はただの殲滅対象に過ぎません」,"「The Seikaku Princess, and the Student Council behind them... now they are merely targets for annihilation.」",「聖核戰姬和聖月學生會…現在對我來說只不過是殲滅對象」,「圣核战姬和圣月学生会…现在对我来说只不过是歼灭对象」,「聖核戦姫に対怪人特殊防衛組織…今はただの殲滅対象に過ぎません」,"「The Seikaku Princess, and the association behind them... now they are merely targets for annihilation.」",「聖核戰姬和聖月學生會…現在對我來說只不過是殲滅對象」,「圣核战姬和圣月学生会…现在对我来说只不过是歼灭对象」,「성핵전희에 성월학생회… 지금은 그저 섬멸 대상에 지나지 않습니다」
-HomeChar.Erena_5-3,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到主人的侍奉時間了」,「是时候到主人的侍奉时间了」,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到主人的侍奉時間了」,「是时候到主人的侍奉时间了」,「슬슬 주인님께 봉사할 시간입니다」
+HomeChar.Erena_5-3,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到主人的侍奉時間了」,「是时候到主人的侍奉时间了」,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到侍奉主人的時間了」,「是时候到主人的侍奉时间了」,「슬슬 주인님께 봉사할 시간입니다」
 HomeChar.Erena_5-4,「那由多…？その話はちょっと…」,「Nayuta…? I wouldn't like to talk about that now…」,「那由多…？這個話題有點…」,「那由多…？这个话题有点…」,「那由多…？その話はちょっと…」,「Nayuta…? I wouldn't like to talk about that now…」,「那由多…？這個話題有點…」,「那由多…？这个话题有点…」,「나유타…? 그 이야기는 좀…」
-HomeChar.Kei_5-1,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活？」,「好闲啊…有没有什么快乐的活？」,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活？」,「好闲啊…有没有什么快乐的活？」,「심심하네… 뭔가 재밌는 일 없어?」
+HomeChar.Kei_5-1,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活？」,「好闲啊…有没有什么快乐的活？」,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活動？」,「好闲啊…有没有什么快乐的活？」,「심심하네… 뭔가 재밌는 일 없어?」
 HomeChar.Kei_5-2,「なんか用？実験なら付き合うよ」,「What's up? I'd like to be part of your experiment」,「有什麼事嗎？實驗的話我隨時奉陪喔」,「有什么事吗？实验的话我随时奉陪喔」,「なんか用？実験なら付き合うよ」,「What's up? I'd like to be part of your experiment」,「有什麼事嗎？實驗的話我隨時奉陪喔」,「有什么事吗？实验的话我随时奉陪喔」,「무슨 일이야? 실험이라면 어울려줄게」
 HomeChar.Kei_5-3,「…ちょっと精液欲しくなってきたかも」,「…I think I might be craving for semen」,「…有點想要精液了」,「…有点想要精液了」,「…ちょっと精液欲しくなってきたかも」,「…I think I might be craving for semen」,「…有點想要精液了」,「…有点想要精液了」,「…좀 정액이 땡기기 시작했을지도」
 HomeChar.Kei_5-4,「聖核戦姫狩りに行ってこようかな」,「I'm feeling like to hunt the Seikaku Princess」,「去狩獵一下聖核戰姬好了」,「去狩猎一下圣核战姬好了」,「聖核戦姫狩りに行ってこようかな」,「I'm feeling like to hunt the Seikaku Princess」,「去狩獵一下聖核戰姬好了」,「去狩猎一下圣核战姬好了」,「성핵전희 사냥하러 가볼까」
@@ -743,7 +742,7 @@ HomeChar.Kei_DLC_1-1,「逃げ出した二人はどこにいるのかな？」,�
 HomeChar.Kei_DLC_1-2,「戦闘員化の研究は順調だよ。」,「Research on combatant conversion is going smoothly.」,「戰鬥員化的研究進展很順利唷。」,「战斗员化的研究进展很顺利唷。」,「戦闘員化の研究は順調だよ。」,「Research on combatant conversion is going smoothly.」,「戰鬥員化的研究進展很順利唷。」,「战斗员化的研究进展很顺利唷。」,「전투원화 연구는 순조로워.」
 HomeChar.Kei_DLC_1-3,「どうやらエレナの所が大変なことになっているみたいだね？」,"「Looks like things have gotten complicated at Erena's place, huh?」",「看來艾蓮娜那邊情況好像很不得了？」,「看来艾莲娜那边情况好像很不得了？」,「どうやらエレナの所が大変なことになっているみたいだね？」,"「Looks like things have gotten complicated at Erena's place, huh?」",「看來艾蓮娜那邊情況好像很不得了？」,「看来艾莲娜那边情况好像很不得了？」,"「키, 키ーーー엣! 무슨 용무이십니까……?」"
 HomeChar.Kei_DLC_1-4,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Holy Core Valkyrie, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Holy Core Valkyrie, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,(……어딘가에 쓸만한 정보는……?)
-HomeChar.Kei_DLC_1-5,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻小咖聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻小咖聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「키잇ーーーーーー!」
+HomeChar.Kei_DLC_1-5,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻小咖聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻沒用的聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「키잇ーーーーーー!」
 HomeChar.Kei_DLC_1-6,「作戦は計画通り…さ、とっとと終わらせちゃおう。」,「The operation's going according to plan... Let's finish this quickly.」,「作戰進行非常順利...來吧，趕快結束吧。」,「作战进行非常顺利...来吧，赶快结束吧。」,「作戦は計画通り…さ、とっとと終わらせちゃおう。」,「The operation's going according to plan... Let's finish this quickly.」,「作戰進行非常順利...來吧，趕快結束吧。」,「作战进行非常顺利...来吧，赶快结束吧。」,「키이ーーー잇! 재단에 충성을 바칩니다!」
 HomeChar.Hisui_DLC_1-1,「き、キィーーーーッ！何かご用でしょうか……？」,「S-Screeeech! Did you need something...?」,「啊、啊啊啊啊！有什麼事嗎……？」,「啊、啊啊啊啊！有什么事吗……？」,「き、キィーーーーッ！何かご用でしょうか……？」,「S-Screeeech! Did you need something...?」,「啊、啊啊啊啊！有什麼事嗎……？」,「啊、啊啊啊啊！有什么事吗……？」,「키잇ーーーーーー!」
 HomeChar.Hisui_DLC_1-2,(……どこかに使えそうな情報は……？),(...Is there any useful information around here...?),(……有沒有什麼看起來可以利用的情報……？),(……有没有什么看起来可以利用的情报……？),(……どこかに使えそうな情報は……？),(...Is there any useful information around here...?),(……有沒有什麼看起來可以利用的情報……？),(……有没有什么看起来可以利用的情报……？),"「키, 키ーーー잇!(언젠가 반드시 이 조직을 장악해주겠어…)!!」"
@@ -756,13 +755,13 @@ HomeChar.Daiya_DLC_1-2,「へっ、へっ、へっ、えへへぇ…♥」,"「H
 HomeChar.Daiya_DLC_1-3,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「저는 주인님께 길들여진 충견입니다…♥」
 HomeChar.Daiya_DLC_1-4,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」,「캥♥… 훈련 시간인가요…? 이 못난 개에게 잔뜩 벌을 내려주세요…♥」
 WorldScene,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词,월드 화면 대사
-World.Chapter2-3,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「這次的作戰需要〈笹谷 明穗〉的參與。調教那邊，請儘快推進。」,,「이번 작전에는 “사사야 아키호”가 필요합니다. 서둘러 조교를 진행합시다.」
-World.Chapter3-3,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花的調教進展怎麼樣？快點讓她徹底墮落吧！」,,「릿카의 조교는 진행되고 있습니까? 빨리 타락시켜 주십시오!」
-World.Chapter5-3,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多是個強敵……若能把〈清藤艾蓮娜〉納入戰力就好了……」,,「야쿠모 나유타는 강적입니다. “세이토 엘레나”를 전력으로 삼을 수 있다면 좋겠습니다만…」
-World.Chapter6-1,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」,「드디어 우리가 세계를 정복할 때입니다. 전력은 만전으로 해둡시다」
-World.DLC-2,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「탈주자 수색에 인력을 투입할 여유가 없습니다. 출동 인원은 2명이 한계입니다。」
-World.DLC-8,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「먼저 다이아쨩을 훈련시켜 볼까?」
-World.DLC-8-2,このステージでは「猫宮 京」を出動させることができません。,,在這個關卡中無法派遣猫宮 京。,在这个关卡中无法派遣猫宫 京。,このステージでは「猫宮 京」を出動させることができません。,,在這個關卡中無法派遣猫宮 京。,在这个关卡中无法派遣猫宫 京。,이 스테이지에서는 「네코미야 쿄」를 출전시킬 수 없습니다.
+World.Chapter2-3,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで调教のほうを进みましょう。」,「今回の作戦には“笹谷 明穂”が必要です。急いで調教のほうを進みましょう。」,"""We need 'Sasaya Akiho' for this mission. Let's hurry up and proceed with the training.""",「這次的作戰需要〈笹谷 明穗〉的參與。調教那邊，請儘快推進。」,「这次的作战需要〈笹谷 明穗〉的参与。调教那边，请尽快推进。」,「이번 작전에는 “사사야 아키호”가 필요합니다. 서둘러 조교를 진행합시다.」
+World.Chapter3-3,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「How is Rikka's training going? Just take her down already!」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,「六花の调教は进んでますか？とっとと堕としちゃってください！」,「六花の調教は進んでますか？とっとと堕としちゃってください！」,"""How is Rikka's training going? Just take her down already!""",「六花的調教進展怎麼樣？快點讓她徹底墮落吧！」,「六花的调教进展怎么样？快点让她彻底堕落吧！」,「릿카의 조교는 진행되고 있습니까? 빨리 타락시켜 주십시오!」
+World.Chapter5-3,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"「Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""」",「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八云那由多は强敌です。“清藤エレナ”を戦力に出来ればいいのですが…」,「八雲那由多は強敵です。“清藤エレナ”を戦力に出来ればいいのですが…」,"""Yakumo Nayuta is a formidable opponent. I hope we can make use of Seidō Erena here...""",「八雲那由多是個強敵……若能把〈清藤艾蓮娜〉納入戰力就好了……」,「八云那由多是个强敌……若能把〈清藤艾莲娜〉纳入战力就好了……」,「야쿠모 나유타는 강적입니다. “세이토 엘레나”를 전력으로 삼을 수 있다면 좋겠습니다만…」
+World.Chapter6-1,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,,「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」,「ついに我々が世界を征服する時です。戦力は万全にしておきましょう」,"""The time has finally come for us to conquer the world. Ensure our forces are at peak readiness.""",「我們終於要征服世界了。讓我們確保戰力充足再出征吧。」,「我们终于要征服世界了。让我们确保战力充足再出征吧。」,「드디어 우리가 세계를 정복할 때입니다. 전력은 만전으로 해둡시다」
+World.DLC-2,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,"""We cannot spare any more personnel to search for the escapees. The deployment limit is two people.""",「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「탈주자 수색에 인력을 투입할 여유가 없습니다. 출동 인원은 2명이 한계입니다。」
+World.DLC-8,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「先にダイヤちゃんを躾けちゃおうか。」,"""Shall we start disciplining Daiya first?""",「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「먼저 다이아쨩을 훈련시켜 볼까?」
+World.DLC-8-2,このステージでは「猫宮 京」を出動させることができません。,,在這個關卡中無法派遣猫宮 京。,在这个关卡中无法派遣猫宫 京。,このステージでは「猫宮 京」を出動させることができません。,"""Nekomiya Kei"" cannot be deployed for this stage.",在這個關卡中無法派遣貓宮 京。,在这个关卡中无法派遣猫宫 京。,이 스테이지에서는 「네코미야 쿄」를 출전시킬 수 없습니다.
 BattleLog,戦闘ログ,Battlelog,戦闘ログ,戦闘ログ,戦闘ログ,Battlelog,戦闘ログ,戦闘ログ,전투 로그
 BattleLog.Attack,{0}　の攻撃！,{0}'s attack!,{0}　的攻擊！,{0}　的攻击！,{0}　の攻撃！,{0}'s attack!,{0}　的攻擊！,{0}　的攻击！,{0}의 공격!
 BattleLog.Damage,{0}　に　{1}　のダメージを与えた！,Deals {1} damage to {0}!,向　{0}　造成　{1}　點傷害！,向　{0}　造成　{1}　点伤害！,{0}　に　{1}　のダメージを与えた！,Deals {1} damage to {0}!,向　{0}　造成　{1}　點傷害！,向　{0}　造成　{1}　点伤害！,{0}에게 {1}의 데미지를 주었다!
@@ -782,9 +781,9 @@ BattleLog.HurtUpdate,{0}　の怪我が痛む！　{1}　のダメージを受�
 BattleLog.HurtEnd,{0}　の怪我が治った。,{0} injuries were healed.,{0}　的傷口治愈了。,{0}　的伤口治愈了。,{0}　の怪我が治った。,{0} injuries were healed.,{0}　的傷口治愈了。,{0}　的伤口治愈了。,{0}의 부상이 나았다.
 BattleLog.HealStart,{0}　は継続的にHPを回復される。,{0} is continuously restored HP.,{0}　將持續回復HP。,{0}　将持续回复HP。,{0}　は継続的にHPを回復される。,{0} is continuously restored HP.,{0}　將持續回復HP。,{0}　将持续回复HP。,"{0}, 지속적으로 HP를 회복한다."
 BattleLog.HealUpdate,{0}　の HP {1} 回復した。,{0} HP {1} recovered.,{0}　回復了 {1} 點HP。,{0}　回复了 {1} 点HP。,{0}　の HP {1} 回復した。,{0} HP {1} recovered.,{0}　回復了 {1} 點HP。,{0}　回复了 {1} 点HP。,{0}의 HP {1} 회복했다.
-BattleLog.ShieldUpStart,{0}　の防御が固くなった。,{0} defenses have hardened.,{0}　的防御力提升了。,{0}　的防御力提升了。,{0}　の防御が固くなった。,{0} defenses have hardened.,{0}　的防御力提升了。,{0}　的防御力提升了。,{0}의 방어가 단단해졌다.
-BattleLog.ShieldDownStart,{0}　の防御が弱くなった。,{0} defense weakened.,{0}　的防御變弱了。,{0}　的防御变弱了。,{0}　の防御が弱くなった。,{0} defense weakened.,{0}　的防御變弱了。,{0}　的防御变弱了。,{0}의 방어가 약해졌다.
-BattleLog.AttackUpStart,{0}　の攻撃力が {1} 上がった！,{0}'s attack power was increased by {1}!,{0}　的攻撃力提升了 {1} 點！,{0}　的攻撃力提升了 {1} 点！,{0}　の攻撃力が {1} 上がった！,{0}'s attack power was increased by {1}!,{0}　的攻撃力提升了 {1} 點！,{0}　的攻撃力提升了 {1} 点！,{0}의 공격력이 {1} 올랐다!
+BattleLog.ShieldUpStart,{0}　の防御が固くなった。,{0} defenses have hardened.,{0}　的防御力提升了。,{0}　的防御力提升了。,{0}　の防御が固くなった。,{0} defenses have hardened.,{0}　的防禦力提升了。,{0}　的防御力提升了。,{0}의 방어가 단단해졌다.
+BattleLog.ShieldDownStart,{0}　の防御が弱くなった。,{0} defense weakened.,{0}　的防御變弱了。,{0}　的防御变弱了。,{0}　の防御が弱くなった。,{0} defense weakened.,{0}　的防禦變弱了。,{0}　的防御变弱了。,{0}의 방어가 약해졌다.
+BattleLog.AttackUpStart,{0}　の攻撃力が {1} 上がった！,{0}'s attack power was increased by {1}!,{0}　的攻撃力提升了 {1} 點！,{0}　的攻撃力提升了 {1} 点！,{0}　の攻撃力が {1} 上がった！,{0}'s attack power was increased by {1}!,{0}　的攻擊力提升了 {1} 點！,{0}　的攻撃力提升了 {1} 点！,{0}의 공격력이 {1} 올랐다!
 BattleLog.AttackDownStart,{0}　の攻撃力が {1} 下がった！,{0}'s attack power was reduced by {1}!,{0}　的攻擊力下降了 {1} 點！,{0}　的攻击力下降了 {1} 点！,{0}　の攻撃力が {1} 下がった！,{0}'s attack power was reduced by {1}!,{0}　的攻擊力下降了 {1} 點！,{0}　的攻击力下降了 {1} 点！,{0}의 공격력이 {1} 내려갔다!
 BattleLog.SpeedUpStart,{0}　の動きが {1} 速くなった。,{0} moved {1} faster.,{0}　的速度加快了 {1} 點。,{0}　的速度加快了 {1} 点。,{0}　の動きが {1} 速くなった。,{0} moved {1} faster.,{0}　的速度加快了 {1} 點。,{0}　的速度加快了 {1} 点。,{0}의 움직임이 {1} 빨라졌다.
 BattleLog.SpeedDownStart,{0}　の動きが {1} 鈍くなった。,{0} movement {1} slowed down.,{0}　的速度變慢了 {1} 點。,{0}　的速度变慢了 {1} 点。,{0}　の動きが {1} 鈍くなった。,{0} movement {1} slowed down.,{0}　的速度變慢了 {1} 點。,{0}　的速度变慢了 {1} 点。,{0}의 움직임이 {1} 둔해졌다.
@@ -794,10 +793,10 @@ BattleLog.Stungun,{0}　から {1} を放つ！,{0} to {1}!,{0}　射出 {1}！,
 BattleLog.AbilityExecute,{0}　からの {1}！,{1} from {0},{0}　的 {1}！,{0}　的 {1}！,{0}　からの {1}！,{1} from {0},{0}　的 {1}！,{0}　的 {1}！,"{0}, {1} 실행."
 BattleLog.AbilityExecuteSelf,{0}　が{1}する。,{0} does {1}.,{0}　進行{1}。,{0}　进行{1}。,{0}　が{1}する。,{0} does {1}.,{0}　進行{1}。,{0}　进行{1}。,"{0}, 촉수를 {1}에게 뻗는다<cspace=-0.18em>ーー</cspace>!"
 BattleLog.Tentacle,{0}　が触手を {1} に伸ばす<cspace=-0.18em>ーー</cspace>！,{0} extends its tentacles to {1} <cspace=-0.18em>ーー</cspace>!,{0}　將觸手伸向 {1} <cspace=-0.18em>ーー</cspace>！,{0}　将触手伸向 {1} <cspace=-0.18em>ーー</cspace>！,{0}　が触手を {1} に伸ばす<cspace=-0.18em>ーー</cspace>！,{0} extends its tentacles to {1} <cspace=-0.18em>ーー</cspace>!,{0}　將觸手伸向 {1} <cspace=-0.18em>ーー</cspace>！,{0}　将触手伸向 {1} <cspace=-0.18em>ーー</cspace>！,효과는 없었다.
-BattleLog.NoEffect,効果はなかった。,There was no effect.,効果はなかった。,効果はなかった。,効果はなかった。,There was no effect.,効果はなかった。,効果はなかった。,"SP {0}, {1}에게 나누어 주었다!"
+BattleLog.NoEffect,効果はなかった。,There was no effect.,効果はなかった。,効果はなかった。,効果はなかった。,There was no effect.,沒有效果。,効果はなかった。,"SP {0}, {1}에게 나누어 주었다!"
 BattleLog.GiveSP,SP {0} を {1} に分け与えた！,SP {0} was shared with {1}!,將SP {0} 點分給 {1} 了！,将SP {0} 点分给 {1} 了！,SP {0} を {1} に分け与えた！,SP {0} was shared with {1}!,將SP {0} 點分給 {1} 了！,将SP {0} 点分给 {1} 了！,{0}의 SP {1} 흡수했다!
-BattleLog.SPDrain,{0}　のSP {1} 吸収した！ ,{0}’s SP {1} was absorbed!,吸收了　{0}　的SP {1} 點！ ,吸收了　{0}　的SP {1} 点！ ,{0}　のSP {1} 吸収した！ ,{0}’s SP {1} was absorbed!,吸收了　{0}　的SP {1} 點！ ,吸收了　{0}　的SP {1} 点！ ,{0}의 HP {1} 흡수했다!
-BattleLog.HPDrain,{0}　のHP {1} 吸収した！,{0}'s HP {1} was absorbed!,吸收了　{0}　的HP {1} 點！ ,吸收了　{0}　的HP {1} 点！ ,{0}　のHP {1} 吸収した！,{0}'s HP {1} was absorbed!,吸收了　{0}　的HP {1} 點！ ,吸收了　{0}　的HP {1} 点！ ,"{0}, 재기 불능이 되었다."
+BattleLog.SPDrain,{0}　のSP {1} 吸収した！ ,{0}’s SP {1} was absorbed!,吸收了　{0}　的SP {1} 點！ ,吸收了　{0}　的SP {1} 点！ ,{0}　のSP {1} 吸収した！ ,{0}’s SP {1} was absorbed!,吸收了　{0}　的SP {1} 點！,吸收了　{0}　的SP {1} 点！ ,{0}의 HP {1} 흡수했다!
+BattleLog.HPDrain,{0}　のHP {1} 吸収した！,{0}'s HP {1} was absorbed!,吸收了　{0}　的HP {1} 點！ ,吸收了　{0}　的HP {1} 点！ ,{0}　のHP {1} 吸収した！,{0}'s HP {1} was absorbed!,吸收了　{0}　的HP {1} 點！,吸收了　{0}　的HP {1} 点！ ,"{0}, 재기 불능이 되었다."
 BattleLog.Retire,{0}　が再起不能となった。,{0} is defeated.,{0}　倒下了。,{0}　倒下了。,{0}　が再起不能となった。,{0} is defeated.,{0}　倒下了。,{0}　倒下了。,"{0}, 재기 불능이 되었다."
 BattleLog.Defeat,{0}　が再起不能となった。,{0} is defeated.,{0}　倒下了。,{0}　倒下了。,{0}　が再起不能となった。,{0} is defeated.,{0}　倒下了。,{0}　倒下了。,"{0}, 해킹을 시도한다! 성공 확률은 {1}"
 BattleLog.Hacking,{0}　がハッキングを挑む！成功確率は {1},{0} challenges the hack! Chance of success {1},{0}　嘗試駭入該敵人！成功率為 {1},{0}　尝试骇入该敌人！成功率为 {1},{0}　がハッキングを挑む！成功確率は {1},{0} challenges the hack! Chance of success {1},{0}　嘗試駭入該敵人！成功率為 {1},{0}　尝试骇入该敌人！成功率为 {1},"성공했다! {0}, 꼭두각시가 되었다."
@@ -806,14 +805,14 @@ BattleLog.Hacking_Fail,ハッキングが失敗した。,The hack failed.,失敗
 BattleLog.Hacking_End,{0}　のシステム故障が直った。,{0} system failure was fixed.,{0}　的系統故障被修好了。,{0}　的系统故障被修好了。,{0}　のシステム故障が直った。,{0} system failure was fixed.,{0}　的系統故障被修好了。,{0}　的系统故障被修好了。,"{0}! {1}, 지금부터 {2}회 연속 행동한다."
 BattleLog.Overdrive,{0}！ {1} がこれから{2}回連続行動する。,{0} {1} will now act {2} times in succession.,{0}！ {1} 現在開始可以連續行動{2}回合。,{0}！ {1} 现在开始可以连续行动{2}回合。,{0}！ {1} がこれから{2}回連続行動する。,{0} {1} will now act {2} times in succession.,{0}！ {1} 現在開始可以連續行動{2}回合。,{0}！ {1} 现在开始可以连续行动{2}回合。,또 {0}의 턴!
 BattleLog.ContinueTurn,また{0}のターン！,Another {0} turn!,還是{0}的回合！,还是{0}的回合！,また{0}のターン！,Another {0} turn!,還是{0}的回合！,还是{0}的回合！,아군 전원을 완전 회복했다!
-BattleLog.TeamHeal,仲間全員を全回復した！,All of his friends were restored to full health!,隊友全員滿狀態回復了！,队友全员满状态回复了！,仲間全員を全回復した！,All of his friends were restored to full health!,隊友全員滿狀態回復了！,队友全员满状态回复了！,{0}의 {1}!
+BattleLog.TeamHeal,仲間全員を全回復した！,All of his friends were restored to full health!,隊友全員滿狀態回復了！,队友全员满状态回复了！,仲間全員を全回復した！,All of his friends were restored to full health!,隊友全員回復滿狀態了！,队友全员满状态回复了！,{0}의 {1}!
 BattleLog.Usage,{0}　の　{1}！,{1} of {0},{0}　的　{1}！,{0}　的　{1}！,{0}　の　{1}！,{1} of {0},{0}　的　{1}！,{0}　的　{1}！,{0}의 방어력이 {1} 점 내려갔다.
-BattleLog.ShieldDownValue,{0}　の防御力が {1} 点下げた。,{0}'s defense was lowered by {1} point.,{0}　的防御力下降了 {1} 點。,{0}　的防御力下降了 {1} 点。,{0}　の防御力が {1} 点下げた。,{0}'s defense was lowered by {1} point.,{0}　的防御力下降了 {1} 點。,{0}　的防御力下降了 {1} 点。,다음 데미지를 완전 방어한다!
-BattleLog.DivineShield,次のダメージを完全防御する！,Complete protection against the following damage!,下次受到的傷害將會完全防禦掉！,下次受到的伤害将会完全防御掉！,次のダメージを完全防御する！,Complete protection against the following damage!,下次受到的傷害將會完全防禦掉！,下次受到的伤害将会完全防御掉！,다음에 {0} 공격하는 자가 반발되어 잠시 행동 불능이 된다
-BattleLog.StunShield,次に{0}を攻撃する者が反発されてしばらく行動不能となる,The next person to attack {0} will be repulsed and become incapable of action for a while.,下一個向{0}攻擊的對手將會陷入行動不能狀態。,下一个向{0}攻击的对手将会陷入行动不能状态。,次に{0}を攻撃する者が反発されてしばらく行動不能となる,The next person to attack {0} will be repulsed and become incapable of action for a while.,下一個向{0}攻擊的對手將會陷入行動不能狀態。,下一个向{0}攻击的对手将会陷入行动不能状态。,{0}의 반격! {1} 데미지를 되돌려주었다
+BattleLog.ShieldDownValue,{0}　の防御力が {1} 点下げた。,{0}'s defense was lowered by {1} point.,{0}　的防御力下降了 {1} 點。,{0}　的防御力下降了 {1} 点。,{0}　の防御力が {1} 点下げた。,{0}'s defense was lowered by {1} point.,{0}　的防禦力下降了 {1} 點。,{0}　的防御力下降了 {1} 点。,다음 데미지를 완전 방어한다!
+BattleLog.DivineShield,次のダメージを完全防御する！,Complete protection against the following damage!,下次受到的傷害將會完全防禦掉！,下次受到的伤害将会完全防御掉！,次のダメージを完全防御する！,Complete protection against the following damage!,下一次受到的傷害無效。,下次受到的伤害将会完全防御掉！,다음에 {0} 공격하는 자가 반발되어 잠시 행동 불능이 된다
+BattleLog.StunShield,次に{0}を攻撃する者が反発されてしばらく行動不能となる,The next person to attack {0} will be repulsed and become incapable of action for a while.,下一個向{0}攻擊的對手將會陷入行動不能狀態。,下一个向{0}攻击的对手将会陷入行动不能状态。,次に{0}を攻撃する者が反発されてしばらく行動不能となる,The next person to attack {0} will be repulsed and become incapable of action for a while.,下一個向{0}攻擊的對手將會變成無法行動的狀態。,下一个向{0}攻击的对手将会陷入行动不能状态。,{0}의 반격! {1} 데미지를 되돌려주었다
 BatteLog.Repel,{0}　の反撃！ {1} ダメージを跳ね返った,{0} counterattack! {1} bouncing back from the damage!,{0}　的反擊！ 造成了 {1} 點傷害。,{0}　的反击！ 造成了 {1} 点伤害。,{0}　の反撃！ {1} ダメージを跳ね返った,{0} counterattack! {1} bouncing back from the damage!,{0}　的反擊！ 造成了 {1} 點傷害。,{0}　的反击！ 造成了 {1} 点伤害。,"{0}, 자폭한다! {1}의 데미지를 주었다!"
 BattleLog.Suicide,{0}　が自爆する！{1} のダメージを与えた！,{0} self-destructs! {1} damage!,{0}　進行自爆攻擊！造成了 {1} 點傷害！,{0}　进行自爆攻击！造成了 {1} 点伤害！,{0}　が自爆する！{1} のダメージを与えた！,{0} self-destructs! {1} damage!,{0}　進行自爆攻擊！造成了 {1} 點傷害！,{0}　进行自爆攻击！造成了 {1} 点伤害！,{0}의 공격력이 {1}점 증가. 방어력 {2}점 증가.
-BattleLog.Reprogram,{0}　の攻撃力が{1}点増加。防御力{2}点増加。,{0} attack power increased by {1} points. Defense increased by {2} points.,{0}　的攻擊力增加了{1}點。防御力增加了{2}點。,{0}　的攻击力增加了{1}点。防御力增加了{2}点。,{0}　の攻撃力が{1}点増加。防御力{2}点増加。,{0} attack power increased by {1} points. Defense increased by {2} points.,{0}　的攻擊力增加了{1}點。防御力增加了{2}點。,{0}　的攻击力增加了{1}点。防御力增加了{2}点。,"뇌신지상의 대가! {0}, {1} 데미지를 받았다."
+BattleLog.Reprogram,{0}　の攻撃力が{1}点増加。防御力{2}点増加。,{0} attack power increased by {1} points. Defense increased by {2} points.,{0}　的攻擊力增加了{1}點。防御力增加了{2}點。,{0}　的攻击力增加了{1}点。防御力增加了{2}点。,{0}　の攻撃力が{1}点増加。防御力{2}点増加。,{0} attack power increased by {1} points. Defense increased by {2} points.,{0}　的攻擊力增加了{1}點。防禦力增加了{2}點。,{0}　的攻击力增加了{1}点。防御力增加了{2}点。,"뇌신지상의 대가! {0}, {1} 데미지를 받았다."
 BattleLog.PowerMode,雷神之相の代償！{0}が{1}ダメージを受けた。,The price of the thunder god no phase! {0} took {1} damage.,雷神之相的代價！{0}受到了{1}點傷害。,雷神之相的代价！{0}受到了{1}点伤害。,雷神之相の代償！{0}が{1}ダメージを受けた。,The price of the thunder god no phase! {0} took {1} damage.,雷神之相的代價！{0}受到了{1}點傷害。,雷神之相的代价！{0}受到了{1}点伤害。,공격을 차지한다 ーー {0} 데미지를 모았다 ({1}스택)
 BattleLog.ChargeAttack,攻撃をチャージする ーー {0}ダメージをたくわえた ({1}スタック),Charge Attack - {0} Damage Stacks ({1} Stacks),進行攻擊蓄力 ーー 疊了{0}層攻擊力 ({1}スタック),进行攻击蓄力 ーー 叠了{0}层攻击力 ({1}スタック),攻撃をチャージする ーー {0}ダメージをたくわえた ({1}スタック),Charge Attack - {0} Damage Stacks ({1} Stacks),進行攻擊蓄力 ーー 疊了{0}層攻擊力 ({1}スタック),进行攻击蓄力 ーー 叠了{0}层攻击力 ({1}スタック),[{0}] {1}의 공격력이 {2} 올랐다!
 BattleLog.NayutaEquip,[{0}] {1}　の攻撃力が {2} 上がった！,[{0}] {1}'s attack power was increased by {2}!,[{0}] {1}　的攻擊力上升了 {2} 點！,[{0}] {1}　的攻击力上升了 {2} 点！,[{0}] {1}　の攻撃力が {2} 上がった！,[{0}] {1}'s attack power was increased by {2}!,[{0}] {1}　的攻擊力上升了 {2} 點！,[{0}] {1}　的攻击力上升了 {2} 点！,"{0}, {1}에게 호출되었다."
@@ -830,7 +829,7 @@ You can only play up to the middle of the game.","由於這是體驗版
 一部分的系统功能被限制住了。
 只能玩到游戏的一部分。","本ソフトウェアは体験版になります。
 ゲームの途中までしか遊べません。","This software is a trial version.
-You can only play up to the middle of the game.","由於這是體驗版
+You can only play up to the middle of the game.","由於目前是體驗版。
 一部分的系統功能被限制住了。
 只能玩到遊戲的一部分。","由于这是体验版
 只能玩到游戏的一部分。","본 소프트웨어는 체험판입니다.
@@ -860,7 +859,7 @@ From now on, our strong and proud transformed heroines will be defeated, trained
 Full character voices will be implemented in the official version.
 
 Please let us know what you liked about the trial version, what you didn't, and any suggestions for improving the full version!","感謝您遊玩體驗版！
-從這邊開始，強大而且高傲的變身女主們將會被逐一打敗，捕獲，調教和墮落成組織的忠僕。
+從這邊開始，強大而且高傲的變身女主們將會被逐一被打敗，捕獲，調教和墮落成組織的忠僕。
 
 如果對遊戲有任何建議，歡迎到Discord和作者溝通！","感谢您游玩体验版！
 从这边开始，强大而且高傲的变身女主们将会被逐一打败，捕获，调教和堕落成组织的忠仆。
