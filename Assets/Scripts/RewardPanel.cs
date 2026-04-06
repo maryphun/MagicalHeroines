@@ -180,26 +180,51 @@ public class RewardPanel : MonoBehaviour
                 newHeroin.sprite = heroinSprite[0];
                 s = "<color=#FFC0CB>" + LocalizationManager.Localize("Name.Akiho") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_AKIHO");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             case 6: // 立花
                 newHeroin.sprite = heroinSprite[1];
                 s = "<color=#ADD8E6>" + LocalizationManager.Localize("Name.Rikka") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_RIKKA");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             case 9: // エレナ
                 newHeroin.sprite = heroinSprite[2];
                 s = "<color=#F1E5AC>" + LocalizationManager.Localize("Name.Erena") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_ERENA");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             case 13: // 京 (京の捕獲は5-1)
                 newHeroin.sprite = heroinSprite[3];
                 s = "<color=#ADD8E6>" + LocalizationManager.Localize("Name.Kei") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_KEI");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             case 15: // 那由多
                 newHeroin.sprite = heroinSprite[4];
                 s = "<color=#8b0000>" + LocalizationManager.Localize("Name.Nayuta") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_NAYUTA");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             default:
                 return false;
@@ -226,6 +251,11 @@ public class RewardPanel : MonoBehaviour
                 newHeroin.sprite = heroinSprite[5];
                 s = "<color=#D4BEE4>" + LocalizationManager.Localize("Name.Diamond") + "</color>";
                 newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                if (SteamManager.Initialized)
+                {
+                    Steamworks.SteamUserStats.SetAchievement("C_DAIYA");
+                    Steamworks.SteamUserStats.StoreStats();
+                }
                 return true;
             case 8: // ヒスイと京
                 if (!isGetHisui)
@@ -233,6 +263,11 @@ public class RewardPanel : MonoBehaviour
                     newHeroin.sprite = heroinSprite[6];
                     s = "<color=#C9E9D2>" + LocalizationManager.Localize("Name.Hisui") + "</color>";
                     newHeroinText.text = LocalizationManager.Localize("System.Trapped").Replace("{s}", s);
+                    if (SteamManager.Initialized)
+                    {
+                        Steamworks.SteamUserStats.SetAchievement("C_HISUI");
+                        Steamworks.SteamUserStats.StoreStats();
+                    }
                     isGetHisui = true;
                     isHeroinDisplayed = false;
                 }
@@ -242,6 +277,11 @@ public class RewardPanel : MonoBehaviour
                     s = "<color=#C9E9D2>" + LocalizationManager.Localize("Name.Kei_Battler") + "</color>";
                     newHeroinText.text = System.String.Format(LocalizationManager.Localize("System.KeiDowngrade"), LocalizationManager.Localize("Name.Kei_Corrupted"), s);
                     newHeroinText.rectTransform.localPosition = new Vector3(newHeroinText.rectTransform.localPosition.x, newHeroinText.rectTransform.localPosition.y + 20.0f, newHeroinText.rectTransform.localPosition.z);
+                    if (SteamManager.Initialized)
+                    {
+                        Steamworks.SteamUserStats.SetAchievement("C_REBEL");
+                        Steamworks.SteamUserStats.StoreStats();
+                    }
                     isGetKei = true;
                     isGetHisui = true;
                 }

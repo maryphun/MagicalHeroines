@@ -181,6 +181,15 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
     {
         playerData.currentStage += value;
         PlayerPrefsManager.UpdateCurrentProgress(playerData.currentStage);
+
+        if (SteamManager.Initialized)
+        {
+            if (IsGameEnded())
+            {
+                Steamworks.SteamUserStats.SetAchievement("C_ENDGAME");
+                Steamworks.SteamUserStats.StoreStats();
+            }
+        }
     }
 
     /// <summary>

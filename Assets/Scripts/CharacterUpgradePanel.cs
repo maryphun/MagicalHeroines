@@ -160,6 +160,31 @@ public class CharacterUpgradePanel : MonoBehaviour
         // エフェクト
         characterSprite.DOGradientColor(upgradeGradient, upgradeAnimationTime);
         ShakeManager.Instance.ShakeObject(characterSprite.GetComponent<RectTransform>(), upgradeAnimationTime, 2);
+
+        // STEAM ACHIEVEMENT
+        if (SteamManager.Initialized)
+        {
+            if (data[index].current_level == 10)
+            {
+                switch (currentCharacter.characterData.characterID)
+                {
+                    case 0: // Battler
+                        Steamworks.SteamUserStats.SetAchievement("C_BATTLER_LV10");
+                        Steamworks.SteamUserStats.StoreStats();
+                        break;
+                    case 1: // Tentacle
+                        Steamworks.SteamUserStats.SetAchievement("C_TENTACLE_LV10");
+                        Steamworks.SteamUserStats.StoreStats();
+                        break;
+                    case 2: // Clone
+                        Steamworks.SteamUserStats.SetAchievement("C_CLONE_LV10");
+                        Steamworks.SteamUserStats.StoreStats();
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
     }
 
     public int CharacterIDToIndex(int characterID)
