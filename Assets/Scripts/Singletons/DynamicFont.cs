@@ -65,6 +65,11 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
         TMP_Text[] allTexts = GameObject.FindObjectsOfType<TMP_Text>(true); // true includes inactive
         foreach (var text in allTexts)
         {
+            if (text.TryGetComponent<TMP_ConstantFont>(out TMP_ConstantFont constant))
+            {
+                continue;
+            }
+
             if (text.TryGetComponent<TMP_DynamicFont>(out TMP_DynamicFont tmp))
             {
                 text.font = GetCurrentFont(tmp.IsDialogue());

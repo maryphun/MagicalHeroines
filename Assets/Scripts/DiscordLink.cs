@@ -7,6 +7,13 @@ public class DiscordLink : MonoBehaviour
     [Header("Setting")]
     [SerializeField] private string discordInvitationLink;
 
+    public void Start()
+    {
+#if STEAM
+        Destroy(gameObject);
+#endif
+    }
+
     public void OnClickDiscordButton()
     {
         Application.OpenURL(discordInvitationLink);

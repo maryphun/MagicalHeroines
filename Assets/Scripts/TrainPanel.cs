@@ -213,7 +213,7 @@ public class TrainPanel : MonoBehaviour
     public void UpdateCharacterData()
     {
         // 名前
-        characterName.text = characters[currentIndex].localizedName;
+        characterName.text = LocalizationManager.Localize(characters[currentIndex].characterData.nameID);
 
         // 条件を満たしている「心情」
         var characterStatus = characters[currentIndex].GetCurrentStatus();

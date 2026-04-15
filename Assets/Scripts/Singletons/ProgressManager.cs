@@ -213,6 +213,12 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
     /// </summary>
     public List<Character> GetAllCharacter(bool originalReference = false, bool includeDLCCharacters = false)
     {
+        // localize character name again
+        foreach (Character character in PlayerData.characters)
+        {
+            character.localizedName = LocalizationManager.Localize(character.characterData.nameID);
+        }
+
         if (originalReference)
         {
             if (includeDLCCharacters)
