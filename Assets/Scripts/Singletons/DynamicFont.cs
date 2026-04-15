@@ -67,6 +67,7 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
         {
             if (text.TryGetComponent<TMP_ConstantFont>(out TMP_ConstantFont constant))
             {
+                Debug.Log(text.gameObject.name + " is constant. skip this interation.");
                 continue;
             }
 
