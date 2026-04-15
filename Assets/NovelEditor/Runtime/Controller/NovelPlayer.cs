@@ -756,6 +756,18 @@ namespace NovelEditor
             }
         }
 
+
+        /// <summary>
+        /// 今のセリフを最初から再生
+        /// </summary>
+        public void Replay()
+        {
+            if (!IsDisplay) return;
+
+            _textCTS.Cancel();
+            SetNextParagraph(_nowParagraph.index);
+        }
+
         /// <summary>
         /// 選択肢を設定する
         /// </summary>

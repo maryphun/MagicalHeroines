@@ -296,6 +296,8 @@ public class OptionPanel : MonoBehaviour
             AudioManager.Instance.PlaySFX("SystemButton");
             DynamicFont.Instance.UpdateAllFontsInScene();
 
+            FindFirstObjectByType<NovelPlayer>().Replay();
+
             if (SceneManager.GetActiveScene().name == "Title")
             {
                 // reset Title
