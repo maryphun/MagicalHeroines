@@ -6,6 +6,7 @@ using DG.Tweening;
 using NovelEditor;
 using TMPro;
 using Assets.SimpleLocalization.Scripts;
+using UnityEngine.SceneManagement;
 
 public enum SystemLanguage
 {
@@ -294,6 +295,12 @@ public class OptionPanel : MonoBehaviour
             ProgressManager.Instance.RelocalizeCharactersName();
             AudioManager.Instance.PlaySFX("SystemButton");
             DynamicFont.Instance.UpdateAllFontsInScene();
+
+            if (SceneManager.GetActiveScene().name == "Title")
+            {
+                // reset Title
+                FindFirstObjectByType<TitleLogoLocalizer>().Init();
+            }
         }
 
         // SE çƒê∂
