@@ -2,7 +2,7 @@ Key,Comment,Japanese,English,Traditional Chinese,Simplified Chinese,Japanese_Ste
 Tutorial,注釈,,,,,,,,,
 ,できるだけ短く！必要な情報だけ！,,,,,,,,,
 Dialog.Tutorial-1-1,背景：ワールド画面,―――ここは巨大都市ネオトーカイシティ。,―――This is the Neotokai City.,―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。,―――ここは巨大都市ネオトーカイシティ。,"—Neo Tokai City, a megalopolis.",―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。,―――이곳은 거대 도시 네오토카이 시티.
-Dialog.Tutorial-1-2,,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,A city where skycrapers reached for the heavens while conspiracies and desires brewed in the shadows.,光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,"화려한 빌딩이 솟아 있는 한편, 그늘에서는 사람들의 음모와 욕망이 소용돌이치는 도시다"
+Dialog.Tutorial-1-2,,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,A city where skycrapers reached for the heavens while conspiracies and desires brewed in the shadows.,光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏着许多阴谋和人们的欲望。,"화려한 빌딩이 솟아 있는 한편, 그늘에서는 사람들의 음모와 욕망이 소용돌이치는 도시다"
 Dialog.Tutorial-1-3,背景：廃墟,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,"In the midst of the brightness of the building, there was a figure advancing through the dark underground ruins.",在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,A silhouette walked across dark underground ruins below the shiny buildings.,在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行。,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行,"그런 빌딩의 빛을 등지고, 어두운 지하 폐허를 나아가는 그림자가 있었다"
 ,,,,,,,,,,
 Dialog.Tutorial-1-4,【???】,「―――ようこそいらっしゃいました。」,「―――Welcome.」,「―――歡飲光臨。」,「―――欢饮光临。」,「―――ようこそいらっしゃいました。」,"""—Welcome.""",「―――歡迎光臨。」,「―――欢饮光临。」,「―――어서 오십시오.」
@@ -10,16 +10,16 @@ Dialog.Tutorial-1-4,【???】,「―――ようこそいらっしゃいまし�
 Dialog.Tutorial-1-5,,目の前に突然目をバイザーのようなもので覆った女が音もなく現れる,A woman suddenly appears in front of you with her eyes covered by a visor― she barely make any sound.,一個女人突然無聲無息的出現在你眼前，他的眼睛被一個類似面罩的東西遮住了,一个女人突然无声无息的出现在你眼前，他的眼睛被一个类似面罩的东西遮住了,目の前に突然目をバイザーのようなもので覆った女が音もなく現れる,A woman with something covering her eyes suddenly appeared without a sound.,一個女人突然無聲無息的出現在你眼前，她的眼睛被一個類似面罩的東西遮住了。,一个女人突然无声无息的出现在你眼前，他的眼睛被一个类似面罩的东西遮住了,눈앞에 갑자기 바이저 같은 것으로 눈을 가린 여자가 소리 없이 나타난다
 ,,,,,,,,,,
 Dialog.Tutorial-1-6,【005号】,「これから貴方の補佐と警護を担当します、秘密結社【フォーレン財団】所属、クローン戦闘員005号です。5号とお呼びください。」,"「I am the clone fighter 005 of the secret society ""Forren Foundation"", please call me 005.」",「我是現在開始擔任您的助理兼保安的、秘密結社【福倫財團】所屬、克隆戰斗員005號。請稱呼我為5號。」,「我是现在开始担任您的助理兼保安的、秘密结社【福伦财团】所属、克隆战斗员005号。请称呼我为5号。」,「これから貴方の補佐と警護を担当します、秘密結社【フォーレン財団】所属、クローン戦闘員005号です。5号とお呼びください。」,"""I am Clone Soldier 005 from the Forren Foundation, a secret organization. I will be your adviser and bodyguard from now on. Please call me 005.""",「我從現在開始擔任您的助理兼保安的、秘密結社【墮落財團】所屬、克隆戰鬥員005號。請稱呼我為5號。」,「我是现在开始担任您的助理兼保安的、秘密结社【福伦财团】所属、克隆战斗员005号。请称呼我为5号。」,"「지금부터 당신의 보좌와 경호를 담당합니다, 비밀결사 【폴른 재단】 소속, 클론 전투원 005호입니다. 5호라고 불러주십시오.」"
-Dialog.Tutorial-1-7,,「――貴方の事はなんとお呼びすればいいでしょうか？」,「What should I call you?」,「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――貴方の事はなんとお呼びすればいいでしょうか？」,"""How should I address you?""",「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――귀하를 어떻게 호칭하면 되겠습니까?」
+Dialog.Tutorial-1-7,,「――貴方の事はなんとお呼びすればいいでしょうか？」,「What should I call you?」,「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――貴方の事はなんとお呼びすればいいでしょうか？」,"""How should I address you?""",「請問該怎麼稱呼您？」,「请问该怎幺称呼您？」,「――귀하를 어떻게 호칭하면 되겠습니까?」
 ,,,,,,,,,,
 Choice.Tutorial-1-7(1),【選択肢】SEL1,「…」,「...」,「…」,「…」,「…」,"""...""",「…」,「…」,「…」
 Choice.Tutorial-1-7(2),【選択肢】SEL2,「好きに呼んでもらって構わない。」,「Whatever you want.」,「隨便你。」,「随便你。」,「好きに呼んでもらって構わない。」,"""Whatever you want.""",「隨便妳。」,「随便你。」,「마음대로 불러도 상관없다.」
 ,,,,,,,,,,
-Dialog.Tutorial-1-8,【005号】,「では“ドクター”と呼ばせていただきます。」,"「Well, I will call you 'Doctor.'」",「那麼，請容我稱呼您為”博士”。」,「那么，请容我称呼您为”博士”。」,「では“ドクター”と呼ばせていただきます。」,"""I shall call you 'Doc.'""",「那麼，請容我稱呼您為『博士』。」,「那么，请容我称呼您为”博士”。」,「그럼 “닥터”라고 부르겠습니다.」
+Dialog.Tutorial-1-8,【005号】,「では“ドクター”と呼ばせていただきます。」,"「Well, I will call you 'Doctor.'」",「那麼，請容我稱呼您為”博士”。」,「那么，请容我称呼您为”博士”。」,「では“ドクター”と呼ばせていただきます。」,"""I shall call you 'Doc.'""",「那麼，請容我稱呼您為『博士』。」,「那幺，请容我称呼您为”博士”。」,「그럼 “닥터”라고 부르겠습니다.」
 ,,,,,,,,,,
-Dialog.Tutorial-1-9,,「―――それでは早速私達の支部のアジトに案内します。」,「―――Let me take you to our branch's hideout.」,「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」,「―――それでは早速私達の支部のアジトに案内します。」,"""Let us hurry to our branch hideout.""",「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」,「―――그럼 바로 저희 지부의 아지트로 안내하겠습니다.」
+Dialog.Tutorial-1-9,,「―――それでは早速私達の支部のアジトに案内します。」,「―――Let me take you to our branch's hideout.」,「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」,「―――それでは早速私達の支部のアジトに案内します。」,"""Let us hurry to our branch hideout.""",「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那幺请让我带您去财团的隐蔽点。」,「―――그럼 바로 저희 지부의 아지트로 안내하겠습니다.」
 ,,,,,,,,,,
-Dialog.Tutorial-1-10,,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, the silhouette followed 005 through a series of complex passages.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,"어둠 속, 더욱 복잡한 길을 지나 5호의 등을 따라간다"
+Dialog.Tutorial-1-10,,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, the silhouette followed 005 through a series of complex passages.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿着5号的身影在复杂的道路中穿梭。,"어둠 속, 더욱 복잡한 길을 지나 5호의 등을 따라간다"
 ,,,,,,,,,,
 ,背景：ホーム,,,,,,,,,
 Dialog.Tutorial-1-11,【005号】,「―――ここが我々フォーレン財団のアジトです。」,"「―――This is where we, the Forren Foundation, live.」",「―――這裡就是我們福倫財團的據點。」,「―――这里就是我们福伦财团的据点。」,「―――ここが我々フォーレン財団のアジトです。」,"""This is Forren Foundation's hideout.""",「―――這裡就是我們墮落財團的據點。」,「―――这里就是我们福伦财团的据点。」,「―――여기가 저희 폴른 재단의 아지트입니다.」
@@ -38,7 +38,7 @@ Dialog.Tutorial-1-15,,モニターに一つの映像が映し出される,An ima
 ,,,,,,,,,,
 Dialog.Tutorial-2-1,【005号】,「これは先日発生した私達の部隊の戦闘の様子です。」,「This is a picture of a battle that occurred the other day.」,「這是之前發生的戰鬥的記錄影像。」,「这是之前发生的战斗的记录影像。」,「これは先日発生した私達の部隊の戦闘の様子です。」,"""This is a battle that our soldiers partook in a few days ago.""",「這是之前發生的戰鬥的記錄影像。」,「这是之前发生的战斗的记录影像。」,「이것은 얼마 전 발생한 저희 부대의 전투 모습입니다.」
 ,,,,,,,,,,
-Dialog.Tutorial-2-2,【触手怪人】【戦闘員】,「「クソッ　敵は小娘二人だ！お前たち何をやっている！」」,"「Damn it, aren’t the enemy just two little girls!? What the hell are you guys doing!」",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什么？」」,「「クソッ　敵は聖核戦姫二人だ！お前たち何をやっている！」」,"""'There are just two Holy Core Battlemaidens! What are you doing?'""",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什么？」」,"「「크윽, 적은 성핵전희 두 명이다! 너희들 뭘 하고 있는 거냐!」」"
+Dialog.Tutorial-2-2,【触手怪人】【戦闘員】,「「クソッ　敵は小娘二人だ！お前たち何をやっている！」」,"「Damn it, aren’t the enemy just two little girls!? What the hell are you guys doing!」",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什么？」」,「「クソッ　敵は聖核戦姫二人だ！お前たち何をやっている！」」,"""'There are just two Holy Core Battlemaidens! What are you doing?'""",「「可惡，敵人不就是兩個姑娘嗎！你們到底在幹什麼？」」,「「可恶，敌人不就是两个姑娘吗！你们到底在干什幺？」」,"「「크윽, 적은 성핵전희 두 명이다! 너희들 뭘 하고 있는 거냐!」」"
 ,,,,,,,,,,
 Dialog.Tutorial-2-3,【???(明穂)】,「ほらほら～！そんなんじゃ私達には勝てないよっ！」,「Hey! You can never beat us just like that!」,「喂喂喂～！這樣下去的話是贏不了我們的喲！」,「喂喂喂～！这样下去的话是赢不了我们的哟！」,「ほらほら～！そんなんじゃ私達には勝てないよっ！」,"""You can't beat us like that!""",「喂喂喂～！這樣下去的話是贏不了我們的喲！」,「喂喂喂～！这样下去的话是赢不了我们的哟！」,「자자~! 그래선 우리한테 못 이겨!」
 ,,,,,,,,,,
@@ -62,12 +62,12 @@ Dialog.Tutorial-3-8,,特殊技はレベルアップなどで習得できます�
 Dialog.Tutorial-3-9,,「アイテム」はキャラのターンを消費して使用できます。,[Item] can be used by consuming a character's turn,「物品」消費角色的回合來使用物品。,「物品」消费角色的回合来使用物品。,「アイテム」はキャラのターンを消費して使用できます。,"""Items"": Use an item during the character's turn.",「物品」消費角色的回合來使用物品。,「物品」消费角色的回合来使用物品。,「도구」는 캐릭터의 턴을 소비하여 사용할 수 있습니다.
 Dialog.Tutorial-3-10,,「待機」でSPを回復できます。,SP can be recovered by [Idle],「待機」能夠回復SP。,「待机」能够回复SP。,「待機」でSPを回復できます。,"""Pass"": Restores SP.",「待機」能夠回復SP。,「待机」能够回复SP。,「대기」로 SP를 회복할 수 있습니다.
 Dialog.Tutorial-3-11,,ショートカットキーはそれぞれ「Ｚ」「Ｘ」「Ｃ」「Ｖ」となります。,"The shortcut key for each command are [Z], [X], [C] and [V]",指令的快捷鍵是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,指令的快捷键是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,ショートカットキーはそれぞれ「Ｚ」「Ｘ」「Ｃ」「Ｖ」となります。,"The shortcut keys are Z, X, C, and V, respectively.",指令的快捷鍵是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,指令的快捷键是「Ｚ」「Ｘ」「Ｃ」和「Ｖ」。,단축키는 각각 「Ｚ」 「Ｘ」 「Ｃ」 「Ｖ」입니다.
-Dialog.Tutorial-3-12,,では、実際に戦ってみましょう。,"Now, let's actually fight",那麼實際戰鬥看看吧！,那么实际战斗看看吧！,では、実際に戦ってみましょう。,Now let's return to combat.,那麼實際戰鬥看看吧！,那么实际战斗看看吧！,"그럼, 실제로 싸워봅시다."
+Dialog.Tutorial-3-12,,では、実際に戦ってみましょう。,"Now, let's actually fight",那麼實際戰鬥看看吧！,那么实际战斗看看吧！,では、実際に戦ってみましょう。,Now let's return to combat.,那麼實際戰鬥看看吧！,那幺实际战斗看看吧！,"그럼, 실제로 싸워봅시다."
 ,,【戦闘終了】,【戦闘終了】,【戦闘終了】,【戦闘终了】,【戦闘終了】,[Combat Ends],【戰鬥結束】,【戦闘终了】,【전투 종료】
 ,,,,,,,,,,
 Dialog.Tutorial-4-1,【触手怪人】【戦闘員】,「「「ぐはっ」」」,「「Gah!」」,「「「咕哈！！」」」,「「「咕哈！！」」」,「「「ぐはっ」」」,"""Ughhh!""",「「「咕哈！！」」」,「「「咕哈！！」」」,「「「크헉」」」
 ,,,,,,,,,,
-Dialog.Tutorial-4-2,【明穂】,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"「Oh, is that it? You were so bossy... it's a bit of a shame.」",「嗯、這就完了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那么有气势的说…有点失望耶」,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"""Over already? You were so full of it... What a shame.""",「嗯、這就結束了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那么有气势的说…有点失望耶」,"「어라, 벌써 끝? 그렇게 기세등등하더니… 좀 아쉽네」"
+Dialog.Tutorial-4-2,【明穂】,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"「Oh, is that it? You were so bossy... it's a bit of a shame.」",「嗯、這就完了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那么有气势的说…有点失望耶」,「あれ、もう終わり？あんなに威勢良かったのに…ちょっと残念」,"""Over already? You were so full of it... What a shame.""",「嗯、這就結束了嗎？明明剛才還那麼有氣勢的說…有點失望耶」,「嗯、这就完了吗？明明刚才还那幺有气势的说…有点失望耶」,"「어라, 벌써 끝? 그렇게 기세등등하더니… 좀 아쉽네」"
 ,,,,,,,,,,
 Dialog.Tutorial-4-3,【六花】,「最近出てくる怪人もどんどん弱くなってるし…もうわかったでしょ？あなた達じゃ私達には勝てない。そろそろ諦めた方がいい」,「The monsters that have been coming out lately are getting weaker and weaker... you should've figured that out already. You can't beat us. It's time to give up.」,「最近出現的怪人越來越弱了…你們已經明白了吧？你們是打不贏我們的。是時候放棄了吧」,「最近出现的怪人越来越弱了…你们已经明白了吧？你们是打不赢我们的。是时候放弃了吧」,「最近出てくる怪人もどんどん弱くなってるし…もうわかったでしょ？あなた達じゃ私達には勝てない。そろそろ諦めた方がいい」,"""The recent monsters were getting weaker too. You know what that means, right? You can't beat us, so just give up already.""",「最近出現的怪人越來越弱了…你們應該明白了吧？你們是打不贏我們的。是時候放棄吧」,「最近出现的怪人越来越弱了…你们已经明白了吧？你们是打不赢我们的。是时候放弃了吧」,「최근에 등장하는 괴인들도 점점 약해지고 있고… 이제 알았지? 당신들로는 우리에게 이길 수 없어. 슬슬 포기하는 게 좋아」
 ,,,,,,,,,,
@@ -87,7 +87,7 @@ Dialog.Tutorial-4-10,005号,「ドクターへの本部からの指令は彼女�
 ,,,,,,,,,,
 Dialog.Tutorial-4-10(1),,「……面白い」,「...... interesting.」,「……有趣」,「……有趣」,「……面白い」,"""...Intriguing.""",「……有趣」,「……有趣」,「……흥미롭군.」
 ,,,,,,,,,,
-Dialog.Tutorial-4-11,【005号】,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,「I am glad to hear that you are willing to help our organization. Now let's study the monster...」,「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那么现在就开始怪人的研―――」,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,"""...It's important that you can help us. As for the monster research...""",「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那么现在就开始怪人的研―――」,「…조직에 힘이 되어 주시는 듯하여서 다행입니다. 그럼 괴인 연구를―――」
+Dialog.Tutorial-4-11,【005号】,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,「I am glad to hear that you are willing to help our organization. Now let's study the monster...」,「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那么现在就开始怪人的研―――」,「…組織の力になっていただける様で何よりです。それでは怪人の研究を―――」,"""...It's important that you can help us. As for the monster research...""",「…感謝您願意為組織出一份力。那麼現在就開始怪人的研―――」,「…感谢您愿意为组织出一份力。那幺现在就开始怪人的研―――」,「…조직에 힘이 되어 주시는 듯하여서 다행입니다. 그럼 괴인 연구를―――」
 ,,,,,,,,,,
 Dialog.Tutorial-4-11(1),,「私の作った怪人達を容易に倒す力―――。非常に興味深い」,「The power to easily defeat the monsters I created... Very interesting.」,「能輕易把我發明的怪人打倒的能力―――。我很有興趣」,「能轻易把我发明的怪人打倒的能力―――。我很有兴趣」,「私の作った怪人達を容易に倒す力―――。非常に興味深い」,"""The power to defeat the monsters I created... Most interesting.""",「能輕易把我發明的怪人打倒的能力―――。我很有興趣」,「能轻易把我发明的怪人打倒的能力―――。我很有兴趣」,「내가 만든 괴인들을 쉽게 쓰러뜨리는 힘―――. 매우 흥미롭다.」
 ,,,,,,,,,,
@@ -97,7 +97,7 @@ Dialog.Tutorial-4-12(1),,「怪人の研究は止めだ。聖核戦姫を捕獲�
 ,,,,,,,,,,
 Dialog.Tutorial-4-13,005号,「……承知しました。上にはそのように伝えておきます。」,"「...... Yes, sir. I will let our superiors know that.」",「……了解。我會向上面如實傳達的。」,「……了解。我会向上面如实传达的。」,「……承知しました。上にはそのように伝えておきます。」,"""Noted, I will let the top know about this.""",「……了解。我會向上面如實傳達的。」,「……了解。我会向上面如实传达的。」,「……알겠습니다. 위에는 그렇게 전달해 두겠습니다.」
 ,,,,,,,,,,
-Dialog.Tutorial-4-14,,「それではドクター、貴方の活躍を期待しています。」,"「Well then, Doctor, we're looking forward to seeing you in action.」",「那麼博士，期待您的表現。」,「那么博士，期待您的表现。」,「それではドクター、貴方の活躍を期待しています。」,"""We're expecting great things from you, doc.""",「那麼博士，期待您的表現。」,「那么博士，期待您的表现。」,"「그럼 닥터, 당신의 활약을 기대하고 있겠습니다.」"
+Dialog.Tutorial-4-14,,「それではドクター、貴方の活躍を期待しています。」,"「Well then, Doctor, we're looking forward to seeing you in action.」",「那麼博士，期待您的表現。」,「那么博士，期待您的表现。」,「それではドクター、貴方の活躍を期待しています。」,"""We're expecting great things from you, doc.""",「那麼博士，期待您的表現。」,「那幺博士，期待您的表现。」,"「그럼 닥터, 당신의 활약을 기대하고 있겠습니다.」"
 ,,,,,,,,,,
 ホームシーンUI初回説明,注釈,,,,,,,,,
 Tutorial.FormationPanel-1,,{0}は出征前の準備を行うところです。,{0} is where the preparations are made before operation.,{0}是做出征前的準備的地方。,{0}是做出征前的准备的地方。,{0}は出征前の準備を行うところです。,{0} is where you make preparations before a campaign.,{0}是做出征前的準備的地方。,{0}是做出征前的准备的地方。,"{0}, 여기는 출정 전 준비를 하는 곳입니다."

@@ -31,7 +31,7 @@ public class DynamicFont : SingletonMonoBehaviour<DynamicFont>
         japaneseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/JP/rounded-l-mplus-1c-heavy SDF");
         englishDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/JP/rounded-l-mplus-1c-heavy SDF");
         tchineseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/TC/NotoSansTC-VariableFont_wght SDF Dialogue");
-        schineseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/SC/NotoSansSC-VariableFont_wght SDF");
+        schineseDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/SC/NotoSansSC-VariableFont_wght SDF Dialogue");
         koreanDialogueFont = Resources.Load<TMP_FontAsset>("Fonts & Materials/KR/NotoSansKR-Regular SDF Dialogue");
 
         initiated = true;
