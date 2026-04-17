@@ -6506,19 +6506,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1201443499}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f71072fb1c0474f48b8c6ef676f4da8d, type: 3}
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _DontDestroyOnLoad: 1
-  japaneseFont: {fileID: 0}
-  englishFont: {fileID: 0}
-  tchineseFont: {fileID: 0}
-  schineseFont: {fileID: 0}
-  japaneseDialogueFont: {fileID: 0}
-  englishDialogueFont: {fileID: 0}
-  tchineseDialogueFont: {fileID: 0}
-  schineseDialogueFont: {fileID: 0}
-  initiated: 0
+  isDialogue: 0
 --- !u!1 &1203547176
 GameObject:
   m_ObjectHideFlags: 0
