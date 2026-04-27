@@ -495,6 +495,7 @@ public class Battle : MonoBehaviour
         }
         else
         {
+            Debug.Log("Enable action panel");
             actionPanel.SetEnablePanel(true);
         }
     }
@@ -786,8 +787,11 @@ public class Battle : MonoBehaviour
     {
         isAutoBattling = !isAutoBattling;
 
+        autoBattleButton.interactable = false;
+
         if (isAutoBattling)
         {
+            // start auto battle
             autoBattleIcon.DOColor(CustomColor.autobattle(), 0.15f);
             autoBattleText.gameObject.SetActive(true);
 
@@ -808,6 +812,7 @@ public class Battle : MonoBehaviour
         }
         else
         {
+            // stop auto battle
             autoBattleIcon.DOColor(Color.white, 0.15f);
             autoBattleText.gameObject.SetActive(false);
 
@@ -817,8 +822,19 @@ public class Battle : MonoBehaviour
             {
                 isPlayerAIRunning = false;
                 StopCoroutine(playerAI);
+                
+                if (!GetCurrentBattler().isEnemy)
+                {
+                    actionPanel.SetEnablePanel(true);
+                }
             }
         }
+
+        // 0.5sec cd
+        DOVirtual.DelayedCall(0.1f, () =>
+        {
+            autoBattleButton.interactable = true;
+        });
     }
 
     /// <summary>

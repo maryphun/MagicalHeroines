@@ -40,6 +40,7 @@ public class OptionPanel : MonoBehaviour
     [SerializeField] private Toggle JPToggle, ENToggle, SCNToggle, TCNToggle, KRToggle;
     [SerializeField] private TMP_Dropdown resolutionOption;
     [SerializeField] private Button backButton;
+    [SerializeField] private GameObject languageSettings;
 
     public static float defaultBGMVolume = 0.2f;
     public static float defaultSEVolume = 0.45f;
@@ -113,6 +114,9 @@ public class OptionPanel : MonoBehaviour
         ChangeVoiceVolume();
         TextSpeedVolume();
         AutoSpeedVolume();
+
+        // Language setting on title scene only
+        languageSettings.SetActive(SceneManager.GetActiveScene().name == "Title");
 
         isOpen = true;
     }

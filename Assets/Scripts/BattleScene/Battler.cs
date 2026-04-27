@@ -294,6 +294,7 @@ public class Battler : MonoBehaviour
         graphic.sprite = animations.idle;
         name_UI.text = "Lv" + currentLevel + " <size=20>" + character_name;
         name_UI.color = character_color;
+        name_UI.font = DynamicFont.Instance.GetFont();
         UpdateHPBar();
         isAlive = current_hp > 0;   // Å‰‚©‚çƒŠƒ^ƒCƒAó‘Ô‚Ì‚à‚ ‚è‚©‚à‚µ‚ê‚È‚¢
         isTargettable = true;

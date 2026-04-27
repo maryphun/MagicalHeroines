@@ -5196,7 +5196,7 @@ MonoBehaviour:
   rightCharacterSprite:
   - {fileID: 21300000, guid: e2613a5f6fbb7224d9192447961d4ea1, type: 3}
   - {fileID: 21300000, guid: b58f5d34db9fa414284a2425b08ffb76, type: 3}
-  - {fileID: 21300000, guid: f5d79f9e54d41bf4090d1ec465a2d431, type: 3}
+  - {fileID: 21300000, guid: 0ca6a3f1b297c2b4899b9da783f96f7d, type: 3}
   - {fileID: 21300000, guid: afc3371661d5d754888d7f9ac70b576c, type: 3}
   - {fileID: 21300000, guid: b0bd88528c734ad43b03fbe01fc8629e, type: 3}
   - {fileID: 21300000, guid: 96cec752d585acc47938fece02b05121, type: 3}

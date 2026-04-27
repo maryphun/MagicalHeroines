@@ -5,6 +5,7 @@ using TMPro;
 using Assets.SimpleLocalization.Scripts;
 
 [RequireComponent(typeof(TMP_Text))]
+[DisallowMultipleComponent]
 public class TMP_DynamicFont : MonoBehaviour
 {
     [Header("References")]

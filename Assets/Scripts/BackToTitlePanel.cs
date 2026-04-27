@@ -8,6 +8,7 @@ public class BackToTitlePanel : MonoBehaviour
     [Header("References")]
     [SerializeField] private CanvasGroup canvasGroup;
     [SerializeField] private HomeSceneUI homesceneUI;
+    [SerializeField] private ButtonPAnel buttonPanel;
 
     public void OpenPanel()
     {
@@ -17,6 +18,8 @@ public class BackToTitlePanel : MonoBehaviour
         canvasGroup.DOFade(1.0f, 1.0f);
         canvasGroup.interactable = true;
         canvasGroup.blocksRaycasts = true;
+
+        buttonPanel.SetEnabled(false);
     }
 
     public void ClosePanel()
@@ -27,6 +30,8 @@ public class BackToTitlePanel : MonoBehaviour
         canvasGroup.DOFade(0.0f, 1.0f);
         canvasGroup.interactable = false;
         canvasGroup.blocksRaycasts = false;
+
+        buttonPanel.SetEnabled(true);
     }
 
     public void BackToTitle()

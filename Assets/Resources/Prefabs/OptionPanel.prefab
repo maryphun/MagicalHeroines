@@ -3991,6 +3991,7 @@ MonoBehaviour:
   KRToggle: {fileID: 6044028101081139303}
   resolutionOption: {fileID: 1159460630179455495}
   backButton: {fileID: 4264223312218049372}
+  languageSettings: {fileID: 1386366683116405585}
 --- !u!1 &4833292273642228618
 GameObject:
   m_ObjectHideFlags: 0
