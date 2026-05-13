@@ -15,7 +15,7 @@ public class CreditRoll : MonoBehaviour
 
     [Header("References")]
     [SerializeField] private Button backButton;
-    [SerializeField] private RectTransform roll;
+    [SerializeField] private ScrollRect roll;
     [SerializeField] private TMP_Text buttonText;
 
     [Header("Debug")]
@@ -27,7 +27,7 @@ public class CreditRoll : MonoBehaviour
         AlphaFadeManager.Instance.FadeIn(0);
         backButton.gameObject.SetActive(false);
         isShowButton = false;
-        roll.DOAnchorPosY(1020.0f, rollTime).SetEase(Ease.Linear);
+        roll.DOVerticalNormalizedPos(0.0f, rollTime, false).SetEase(Ease.Linear);
 
         var sequence = DOTween.Sequence();
         sequence.AppendInterval(rollTime + 2.0f)

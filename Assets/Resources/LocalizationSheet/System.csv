@@ -1,11 +1,11 @@
 Key,Japanese,English,Traditional Chinese,Simplified Chinese,Japanese_Steam,English_Steam,Traditional Chinese_Steam,Simplified Chinese_Steam,Korean_Steam
 TitleScene,タイトル画面,TitleScene,タイトル画面,タイトル画面,タイトル画面,TitleScene,タイトル畫面,タイトル画面,타이틀 화면
-System.NewGame,New Game,New Game,New Game,New Game,New Game,New Game,New Game,New Game,게임시작
-System.Load,Load,Load,Load,Load,Load,Load,Load,Load,이어하기
-System.Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,갤러리룸
-System.Option,Option,Option,Option,Option,Option,Option,Option,Option,옵션설정
-System.Credit,Credit,Credit,Credit,Credit,Credit,Credit,Credit,Credit,스태프롤
-System.Exit,Exit,Exit,Exit,Exit,Exit,Exit,Exit,Exit,게임종료
+System.NewGame,New Game,New Game,New Game,New Game,New Game,New Game,New Game,New Game,New Game
+System.Load,Load,Load,Load,Load,Load,Load,Load,Load,Load
+System.Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery,Gallery
+System.Option,Option,Option,Option,Option,Option,Option,Option,Option,Option
+System.Credit,Credit,Credit,Credit,Credit,Credit,Credit,Credit,Credit,Credit
+System.Exit,Exit,Exit,Exit,Exit,Exit,Exit,Exit,Exit,Exit
 HomeScene,ホーム画面,HomeScene,ホーム画面,ホーム画面,ホーム画面,HomeScene,ホーム畫面,ホーム画面,홈 화면
 System.Memory,回想,Memory,回想,回想,回想,Memory,回想,回想,회상
 System.SwitchCharacter,画面キャラ変更,Change Character,更換角色,更换角色,画面キャラ変更,Change Character,更換角色,更换角色,캐릭터 변경
@@ -889,3 +889,227 @@ DLCStage-5,ダイヤ,Diamond,黛雅,黛雅,ダイヤ,Diamond,黛雅,黛雅,다�
 DLCStage-6,秘密兵器,Secret Weapon,秘密武器,秘密武器,秘密兵器,Secret Weapon,秘密武器,秘密武器,비밀 병기
 DLCStage-7,京の計画,Kei's Plan,京的計畫,京的计划,京の計画,Kei's Plan,京的計畫,京的计划,쿄의 계획
 DLCStage-8,反乱,Revolution,叛變,叛变,反乱,Revolution,叛變,叛变,반란
+Credit Roll,,,,,,,,,
+CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
+西瓜すいか <size=35>(笹谷明穂)</size>
+
+砂糖しお <size=35>(水無瀬六花)</size>
+
+梅原亜衣 <size=35>(清藤エレナ)</size>
+
+海音ミヅチ <size=35>(猫宮 京)</size>
+
+藤村莉央 <size=35>(八雲那由多)</size>
+
+来夢ふらん <size=35>(西園寺ヒスイ)</size>
+
+篠守ゆきこ <size=35>(アナスタシア・ペトロ・ダイヤモンド)</size>","<size=35>Characters' Voice</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(Sasaya Akiho)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(Minase Rikka)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(Seidō Erena)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(Nekomiya Kei)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(Yakumo Nayuta)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(Saionji Hisui)</size>
+
+<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水無瀬 六花)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(清藤 艾蓮娜)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(猫宮 京)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(八雲 那由多)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西園寺 翡翠)</size>
+
+<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水无瀬 六花)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(清藤 艾莲娜)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(猫宫 京)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(八云 那由多)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西园寺 翡翠)</size>
+
+<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(黛雅)</size>","<size=35>キャラクターボイス</size>
+西瓜すいか <size=35>(笹谷明穂)</size>
+
+砂糖しお <size=35>(水無瀬六花)</size>
+
+梅原亜衣 <size=35>(清藤エレナ)</size>
+
+海音ミヅチ <size=35>(猫宮 京)</size>
+
+藤村莉央 <size=35>(八雲那由多)</size>
+
+来夢ふらん <size=35>(西園寺ヒスイ)</size>
+
+手塚りょうこ <size=35>(アナスタシア・ペトロ・ダイヤモンド)</size>","<size=35>Characters' Voice</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(Sasaya Akiho)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(Minase Rikka)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(Seidō Erena)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(Nekomiya Kei)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(Yakumo Nayuta)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(Saionji Hisui)</size>
+
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水無瀬 六花)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(清藤 艾蓮娜)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(猫宮 京)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(八雲 那由多)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西園寺 翡翠)</size>
+
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水无瀬 六花)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(清藤 艾莲娜)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(猫宫 京)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(八云 那由多)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西园寺 翡翠)</size>
+
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>캐릭터 보이스</size>
+<font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(사사야 아키호)</size>
+
+<font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(미나세 릿카)</size>
+
+<font=""JP/ipaexg SDF"">梅原亜衣</font> <size=35>(세이토 엘레나)</size>
+
+<font=""JP/ipaexg SDF"">海音ミヅチ</font> <size=35>(네코미야 케이)</size>
+
+<font=""JP/ipaexg SDF"">藤村莉央</font> <size=35>(야쿠모 나유타)</size>
+
+<font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(사이온지 히스이)</size>
+
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(다이아몬드)</size>"
+CreditRoll.FontHose,"<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ","<size=35>4x4極小かなフォント</size>
+ホセ"
+CreditRoll.FontRoundedM,"<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房","<size=35>自家製 Rounded M+</size>
+自家製フォント工房"
+CreditRoll.Audio,"<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<size=35>SE・BGM</size>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic"
+CreditRoll.Publisher,"<size=35>パブリッシャー</size>
+Mango Party","<size=35>Publisher</size>
+Mango Party","<size=35>發行商</size>
+Mango Party","<size=35>发行商</size>
+Mango Party","<size=35>パブリッシャー</size>
+Mango Party","<size=35>Publisher</size>
+Mango Party","<size=35>發行商</size>
+Mango Party","<size=35>发行商</size>
+Mango Party","<size=35>퍼블리셔</size>
+Mango Party"
+CreditRoll.Anomano,"<size=45>イラスト、シナリオ</size>
+あのまの","<size=45>Illustration, Script</size>
+anomano","<size=45>CG, 劇情</size>
+anomano","<size=45>CG, 剧情</size>
+anomano","<size=45>イラスト、シナリオ</size>
+あのまの","<size=45>Illustration, Script</size>
+anomano","<size=45>CG, 劇情</size>
+anomano","<size=45>CG, 剧情</size>
+anomano","<size=45>CG, 시나리오</size>
+anomano"
+CreditRoll.Paku,"<size=45>プログラム</size>
+Paku","<size=45>Programming</size>
+Paku","<size=45>程序</size>
+Paku","<size=45>程序</size>
+Paku","<size=45>プログラム</size>
+Paku","<size=45>Programming</size>
+Paku","<size=45>程序</size>
+Paku","<size=45>程序</size>
+Paku","<size=45>프로그래밍</size>
+Paku"
