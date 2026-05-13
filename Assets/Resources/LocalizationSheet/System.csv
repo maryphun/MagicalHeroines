@@ -916,7 +916,7 @@ CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
 
 <font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(Saionji Hisui)</size>
 
-<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size><line-height=70%>
 <font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
 
 <font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水無瀬 六花)</size>
@@ -929,7 +929,7 @@ CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
 
 <font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西園寺 翡翠)</size>
 
-<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">篠守ゆきこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size><line-height=70%>
 <font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
 
 <font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水无瀬 六花)</size>
@@ -968,7 +968,7 @@ CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
 
 <font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(Saionji Hisui)</size>
 
-<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(Diamond)</size>","<size=35>角色配音</size><line-height=70%>
 <font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
 
 <font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水無瀬 六花)</size>
@@ -981,7 +981,7 @@ CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
 
 <font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西園寺 翡翠)</size>
 
-<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size>
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>角色配音</size><line-height=70%>
 <font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(笹谷 明穗)</size>
 
 <font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(水无瀬 六花)</size>
@@ -994,7 +994,7 @@ CreditRoll.VoiceActors,"<size=35>キャラクターボイス</size>
 
 <font=""JP/ipaexg SDF"">来夢ふらん</font> <size=35>(西园寺 翡翠)</size>
 
-<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>캐릭터 보이스</size>
+<font=""JP/ipaexg SDF"">手塚りょうこ</font> <size=35>(黛雅)</size>","<size=35>캐릭터 보이스</size><line-height=70%>
 <font=""JP/ipaexg SDF"">西瓜すいか</font> <size=35>(사사야 아키호)</size>
 
 <font=""JP/ipaexg SDF"">砂糖しお</font> <size=35>(미나세 릿카)</size>
@@ -1040,7 +1040,13 @@ OtoLogic","<size=35>SE・BGM</size>
 効果音ラボ
 ユーフルカ
 甘茶の音楽工房
-OtoLogic","<size=35>SE・BGM</size>
+OtoLogic","<font=""JP/ipaexg SDF""><size=35>SE・BGM</size><line-height=120%>
+魔王魂
+フシギ製作所
+効果音ラボ
+ユーフルカ
+甘茶の音楽工房
+OtoLogic","<font=""JP/ipaexg SDF""><size=35>SE・BGM</size><line-height=200%>
 魔王魂
 フシギ製作所
 効果音ラボ
@@ -1058,25 +1064,19 @@ OtoLogic","<size=35>SE・BGM</size>
 効果音ラボ
 ユーフルカ
 甘茶の音楽工房
-OtoLogic","<size=35>SE・BGM</size>
+OtoLogic","<font=""JP/ipaexg SDF""><size=35>SE・BGM</size><line-height=120%>
 魔王魂
 フシギ製作所
 効果音ラボ
 ユーフルカ
 甘茶の音楽工房
-OtoLogic","<size=35>SE・BGM</size>
+OtoLogic","<font=""JP/ipaexg SDF""><size=35>SE・BGM</size><line-height=200%>
 魔王魂
 フシギ製作所
 効果音ラボ
 ユーフルカ
 甘茶の音楽工房
-OtoLogic","<size=35>SE・BGM</size>
-魔王魂
-フシギ製作所
-効果音ラボ
-ユーフルカ
-甘茶の音楽工房
-OtoLogic","<size=35>SE・BGM</size>
+OtoLogic","<font=""JP/ipaexg SDF""><size=35>SE・BGM</size><line-height=115%>
 魔王魂
 フシギ製作所
 効果音ラボ
