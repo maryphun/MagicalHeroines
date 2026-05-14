@@ -7,6 +7,7 @@ using UnityEngine.UI;
 using Cysharp.Threading.Tasks;
 using System.Threading;
 using System;
+using System.Threading.Tasks;
 
 #if DEBUG_INFO
 using System.Diagnostics;
@@ -99,11 +100,12 @@ namespace NovelEditor
         /// UIの表示の設定
         /// </summary>
         /// <param name="display">UIを表示するかどうか</param>
-        internal void SetUIDisplay(bool display)
+        internal async void SetUIDisplay(bool display)
         {
             if (display)
             {
                 UIparents.alpha = 1;
+                await Task.Delay(100);
                 UIparents.interactable = true;
                 UIparents.blocksRaycasts = true;
             }
