@@ -660,7 +660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7feca9d95a2d7454e9b387bb76b7e81d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LocalizationKey: System.Load
+  LocalizationKey: System.LoadFile
   Extra: 
 --- !u!114 &123147714
 MonoBehaviour:
