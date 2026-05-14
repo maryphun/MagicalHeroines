@@ -82,12 +82,14 @@ namespace NovelEditor
         /// Dialogueに応じてボイスを設定する
         /// </summary>
         /// <param name="data">次のセリフのデータ</param>
-        internal void SetVoiceData(Dialogue data)
+        internal float SetVoiceData(Dialogue data)
         {
             if (!string.IsNullOrEmpty(data.localizationID))
             {
-                SetVoice(data);
+                return SetVoice(data);
             }
+
+            return 0.0f;
         }
 
         /// <summary>
@@ -157,14 +159,18 @@ namespace NovelEditor
             }
         }
 
-        void SetVoice(Dialogue data)
+        float SetVoice(Dialogue data)
         {
             if (voiceToPlay != null)
             {
                 _VOICE.volume = _VOICEVolume;
                 _VOICE.clip = voiceToPlay;
                 _VOICE.Play();
+
+                return voiceToPlay.length;
             }
+
+            return 0.0f;
         }
 
         /// <summary>

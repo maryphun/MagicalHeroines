@@ -59,6 +59,8 @@ namespace NovelEditor
         private bool _isLoading = false;
         private bool _isAutoPlay = false;
 
+        private float _audioLength = 0.0f;
+
         private List<string> _choiceName = new();
         private List<string> _ParagraphName = new();
         private List<int> _passedParagraphID = new();
@@ -821,7 +823,7 @@ namespace NovelEditor
             _isImageChangeing = !await _novelUI.SetNextImage(newData, _imageCTS.Token);
 
             // ボイス
-            _audioPlayer.SetVoiceData(newData);
+            _audioLength = _audioPlayer.SetVoiceData(newData);
 
             //テキストを1文字ずつ再生
             _textCTS = new CancellationTokenSource();
@@ -892,9 +894,10 @@ namespace NovelEditor
                 else
                 {
                     timeElapsed += Time.deltaTime;
-                    if (timeElapsed >= 2.0f - _autoSpeed)
+                    if (timeElapsed >= 2.0f + _audioLength - _autoSpeed)
                     {
                         timeElapsed = 0.0f;
+                        _audioLength = 0.0f;
                         SetNext();
                         yield return null;
                     }
