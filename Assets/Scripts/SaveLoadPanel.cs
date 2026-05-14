@@ -268,6 +268,11 @@ public class SaveLoadPanel : MonoBehaviour
             saveSlot[i].SlotText.text = slotName;
             saveSlot[i].DateText.text = dateTime;
             slotComment[i] = comment;
+            if (i == 0)
+            {
+                // autosave slot
+                saveSlot[i].SlotText.text += " [" + LocalizationManager.Localize("System.AutoSave") + "]";
+            }
         }
     }
 
@@ -299,7 +304,7 @@ public static class AutoSave
         if (ReferenceEquals(ProgressManager.Instance.PlayerData, null)) return;
         if (!ProgressManager.Instance.IsInitialized) return;
 
-        SaveDataManager.SaveJsonData(AutoSave.AutoSaveSlot, LocalizationManager.Localize("System.AutoSave"));
+        SaveDataManager.SaveJsonData(AutoSave.AutoSaveSlot, string.Empty); // auto save data has no comment.
         PlayerPrefs.SetInt("LastSavedSlot", AutoSave.AutoSaveSlot);
         PlayerPrefs.Save();
     }
