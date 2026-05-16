@@ -148,6 +148,7 @@ public class RewardPanel : MonoBehaviour
             // scene transition
             AlphaFadeManager.Instance.FadeOut(1.0f);
             string targetMap = (ProgressManager.Instance.GetCurrentStageProgress() <= 16) ? "WorldMap" : "EndGameContent";
+            if (ProgressManager.Instance.GetCurrentDLCStageProgress() > 1) targetMap = "DLCWorldMap";
             string nextScene = BattleSetup.isStoryMode ? "Home" : targetMap;
             AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(nextScene, LoadSceneMode.Single);
             asyncLoad.allowSceneActivation = false; //Don't let the Scene activate until you allow it to
