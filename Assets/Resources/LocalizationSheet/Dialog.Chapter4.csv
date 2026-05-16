@@ -24,7 +24,7 @@ Dialog.Chapter4-1-10,,「今クローンや怪人等の戦力を増強すれば�
 ,,,,,,,,
 Dialog.Chapter4-1-11,,「清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「また清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「另外，清藤艾蓮娜出身財閥，在政界、財界都有管道。如果運用得當，那些人也能被我們利用。」,"""Erena Seidō was born into a zaibatsu and has connections in the political and business worlds. If we use her well, we will be able to take advantage of them.""","「또한 세이토 엘레나는 재벌 출신으로 정계, 재계에 인맥이 있습니다. 잘 이용하면 그들도 이용할 수 있을 것입니다」","""Elena Kiyofuji came from a rich family, so we can use their connections to politics and finances if we have to.""",「另外，清藤艾莲娜出身财阀，在政界、财界都有管道。如果运用得当，那些人也能被我们利用。」
 ,,,,,,,,
-Dialog.Chapter4-1-11(1),選択肢,「ご苦労。引き続き生徒会の動向を探ってくれ」,「ご苦労。引き続きレギオンの動向を探ってくれ」,「辛苦了。今後也請妳繼續調查軍團的動向吧。」,"""Thank you for your time. Keep me posted on what the student council is up to.""",「수고했다. 계속해서 레기온의 동향을 살피도록」,"""Thank you. Please keep an eye on the Legion and report back.""",「辛苦了。今后也请妳继续调查军团的动向吧。」
+Dialog.Chapter4-1-11(1),選択肢,「ご苦労。引き続き生徒会の動向を探ってくれ」,「ご苦労。引き続きレギオンの動向を探ってくれ」,「辛苦了。今後也請妳繼續調查軍團的動向吧。」,"""Thank you for your time. Keep me posted on what the student council is up to.""",「수고했다. 계속해서 레기온의 동향을 살피도록」,"""Thank you. Please keep an eye on the Legion and report back.""",「辛苦了。今后也请你继续调查军团的动向吧。」
 ,,,,,,,,
 Dialog.Chapter4-1-12,005号,「了解しました。引き続き潜入を継続します」,「了解しました。引き続き潜入を継続します」,「瞭解，我會持續潛入行動。」,"""We will continue to infiltrate. We will continue to infiltrate.""",「알겠습니다. 계속해서 잠입을 지속하겠습니다」,"""Understood. I will keep infiltrating.""",「了解，我会持续潜入行动。」
 ,,,,,,,,
@@ -98,7 +98,7 @@ Dialog.Chapter4-2-5,,「調査の結果、住所不明で最後に学校に来�
 ,,,,,,,,
 Dialog.Chapter4-2-6,,「聖核戦姫に変身できるようですが、戦闘記録は一切なく本人の戦闘能力は不明です」,「現状彼女の戦闘記録は一切なく本人の戦闘能力は不明です」,「目前沒有任何她的戰鬥紀錄，本人的戰鬥能力不明。」,"She seems to be able to transform into a Seikaku Princess, but there is no record of any battles and her combat ability is unknown.",「현재 그녀의 전투 기록은 일절 없으며 본인의 전투 능력은 불명입니다」,"""Currently, we do not have any combat records on her, and we do not know her capabilities.""",「目前没有任何她的战斗纪录，本人的战斗能力不明。」
 ,,,,,,,,
-Dialog.Chapter4-2-6(1),SEL,わかった。話は変わるが005号は帰還してくれ。どうやら彼女君の存在に気が付いているようだ,わかった。……話は変わるが005号は帰還してくれ。どうやら彼女は君の存在に気が付いているようだ,我知道了。話説，005號麻煩妳先撤退吧。看來她已經察覺到妳的存在了。,"Okay, I'll do it. On a different note, 005 should return. Apparently, she's aware of your presence.",알았다. ……이야기를 전환해서 005호는 귀환하도록. 아무래도 그녀는 너의 존재를 눈치챈 것 같다,"Got it. First, you need to come back. I think she somehow found out about you.""",我知道了。话说，005号麻烦妳先撤退吧。看来她已经察觉到妳的存在了。
+Dialog.Chapter4-2-6(1),SEL,わかった。話は変わるが005号は帰還してくれ。どうやら彼女君の存在に気が付いているようだ,わかった。……話は変わるが005号は帰還してくれ。どうやら彼女は君の存在に気が付いているようだ,我知道了。話説，005號麻煩妳先撤退吧。看來她已經察覺到妳的存在了。,"Okay, I'll do it. On a different note, 005 should return. Apparently, she's aware of your presence.",알았다. ……이야기를 전환해서 005호는 귀환하도록. 아무래도 그녀는 너의 존재를 눈치챈 것 같다,"Got it. First, you need to come back. I think she somehow found out about you.""",我知道了。话说，005号麻烦你先撤退吧。看来她已经察觉到你的存在了。
 ,,,,,,,,
 Dialog.Chapter4-2-7,005号,「！、何故それが…？……わかりました、すぐに帰還します」,「！、？……わかりました、すぐに帰還します」,「！ ？……瞭解，我立刻返回。」,"""! Why is that...? ...... Okay, we'll be back soon.""","「!, ?……알겠습니다, 즉시 귀환하겠습니다」","""?! Understood, I will return at once.""",「！ ？……了解，我立刻返回。」
 ,,,,,,,,
@@ -196,7 +196,7 @@ Dialog.Chapter4-2-41,戦闘員1,「最近までいた痕跡はあるものの…
 ,,,,,,,,
 Dialog.Chapter4-2-41(1),SEL,感づかれた…？いや、もしくは最初から来ることが分かっていた？,感づかれた…？いや、もしくは最初から来ることが分かっていた？,……被察覺了？不，還是說她從一開始就知道我們會來？,"Did they sense you...? No, or did they know you were coming from the beginning?","눈치챘나…? 아니, 혹은 처음부터 올 것을 알고 있었나?","Did she escape? No, did she know that we were coming?",……被察觉了？不，还是说她从一开始就知道我们会来？
 ,,,,,,,,
-Dialog.Chapter4-2-42,戦闘員(通信),「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,「報告！本設施正遭受至今規模最大的網路攻擊！系統大範圍誤動作，已經有大量戰鬥員失去聯係！」,"'Report! Our facility is under the largest cyber attack to date! The facility has malfunctioned and we have lost contact with numerous fighters!""",「보고합니다! 시설이 지금까지 중 최대 규모의 사이버 공격을 받고 있습니다! 시설이 오작동하여 다수의 전투원과 연락이 되지 않습니다!」,"""Emergency! We are suffering the worst cyberattack ever! The facility is malfunctioning and we lost contact with many soldiers!""",「报告！本设施正遭受至今规模最大的网路攻击！系统大范围误动作，已经有大量战斗员失去联系！」
+Dialog.Chapter4-2-42,戦闘員(通信),「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,「報告します！施設がこれまでで最大規模のサイバー攻撃を受けています！施設が誤動作して多数の戦闘員と連絡が取れません！」,「報告！本設施正遭受至今規模最大的網路攻擊！系統大範圍誤動作，已經有大量戰鬥員失去聯繫！」,"'Report! Our facility is under the largest cyber attack to date! The facility has malfunctioned and we have lost contact with numerous fighters!""",「보고합니다! 시설이 지금까지 중 최대 규모의 사이버 공격을 받고 있습니다! 시설이 오작동하여 다수의 전투원과 연락이 되지 않습니다!」,"""Emergency! We are suffering the worst cyberattack ever! The facility is malfunctioning and we lost contact with many soldiers!""",「报告！本设施正遭受至今规模最大的网路攻击！系统大范围误动作，已经有大量战斗员失去联系！」
 ,,,,,,,,
 Dialog.Chapter4-2-42(1),SEL,……部隊が動いたタイミングで大規模なサイバー攻撃？こちらの行動が全て読まれている？,……部隊が動いたタイミングで大規模なサイバー攻撃？こちらの行動が全て読まれている？,……在各部隊開始行動的同一時間發動大規模網攻？難道我們這邊的一舉一動全都被她看穿了？,Massive cyber attack at the same time the ...... unit moved? Is everything we do being read?,……부대가 움직인 타이밍에 대규모 사이버 공격? 이쪽의 행동이 전부 읽히고 있나?,A large-scale cyberattack as soon as we move our troops? Did she predict our actions?,……在各部队开始行动的同一时间发动大规模网攻？难道我们这边的一举一动全都被她看穿了？
 ,,,,,,,,
@@ -208,7 +208,7 @@ Dialog.Chapter4-2-44,,その瞬間、天井が破壊され、瓦礫と共に何�
 ,,,,,,,,
 Dialog.Chapter4-2-45,???,「ここがアジト最奥部か。案外あっさり入れたね」,「ここがアジト最奥部か。案外あっさり入れたね」,「這裡就是最深處啊。比我想像中還要好闖進來呢。」,This is the innermost part of the hideout. It was surprisingly easy to get in.,「여기가 아지트 가장 안쪽인가. 의외로 쉽게 들어왔네」,"""This is the deepest part, huh? Didn't take that long.""",「这里就是最深处啊。比我想像中还要好闯进来呢。」
 ,京　変身＆武器,,,,,,,
-Dialog.Chapter4-2-46,005号,「っ！、どうしてここが！」,「っ！、どうしてここが！」,「什、什麼！妳怎麼會在這裡！」,"I'm like, ""What? How did you find this place?","「윽!, 어째서 여기가!」","""How did you...""",「什、什么！妳怎么会在这里！」
+Dialog.Chapter4-2-46,005号,「っ！、どうしてここが！」,「っ！、どうしてここが！」,「什、什麼！妳怎麼會在這裡！」,"I'm like, ""What? How did you find this place?","「윽!, 어째서 여기가!」","""How did you...""",「什、什么！你怎么会在这里！」
 ,,,,,,,,
 Dialog.Chapter4-2-47,京,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,「……只是從這個房間的移動模式和結構推算出來而已。這裡完全收不到電波，倒是真的有點麻煩。」,"'...I was just guessing based on the movement patterns and structure of this room. It was tricky, though, because there's no reception in here.""",「…이 방의 이동 패턴과 구조로 추측했을 뿐이야. 여기는 전파가 닿지 않아서 귀찮았지만」,"""I guessed based on the room's relocation pattern and structure. It was hard because there's no signal.""",「……只是从这个房间的移动模式和结构推算出来而已。这里完全收不到电波，倒是真的有点麻烦。」
 ,,,,,,,,
@@ -225,7 +225,7 @@ Dialog.Chapter4-3-2,072号,「ぐっ、コイツっ、ちょこまかとっ！�
 ,,,,,,,,
 Dialog.Chapter4-3-3,京,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「畢竟我的戰鬥能力遠遠不如艾蓮娜前輩啊。所以我可不會跟你們正面硬拼。」,"I'm not as good a fighter as Erena-senpai,"" he said. I won't fight her head―on.""",「나는 전투 능력으로는 엘레나 선배에게 한참 못 미치니까. 정면으로는 싸우지 않아」,"""I'm not nearly as powerful as Elena, so I never fight head-on.""",「毕竟我的战斗能力远远不如艾莲娜前辈啊。所以我可不会跟你们正面硬拼。」
 ,,,,,,,,
-Dialog.Chapter4-3-4,005号,「72号！、何をやってるんですか！また調整室に入りたいですか？！」,「072号！、何をやってるんですか！また調整室に入りたいですか？！」,「072號！妳在幹什麼！還想再進調整室嗎？！」,No. 72! What are you doing? Do you want to go back into the control room?,"「072호!, 뭘 하고 있는 겁니까! 또 조정실에 들어가고 싶습니까?!」","""072, what are you doing? Do you want to be adjusted again?""",「072号！妳在干什么！还想再进调整室吗？！」
+Dialog.Chapter4-3-4,005号,「72号！、何をやってるんですか！また調整室に入りたいですか？！」,「072号！、何をやってるんですか！また調整室に入りたいですか？！」,「072號！妳在幹什麼！還想再進調整室嗎？！」,No. 72! What are you doing? Do you want to go back into the control room?,"「072호!, 뭘 하고 있는 겁니까! 또 조정실에 들어가고 싶습니까?!」","""072, what are you doing? Do you want to be adjusted again?""",「072号！你在干什么！还想再进调整室吗？！」
 ,,,,,,,,
 Dialog.Chapter4-3-5,072号,「っ！、申し訳ありませんっ、動きが早くてっ！」,「っ！、申し訳ありませんっ、動きが早くてっ！」,「！非常抱歉！她的動作實在太快了！」,"I'm sorry, I'm moving too fast! I'm sorry, I'm moving too fast!""","「윽!, 죄송합니다, 움직임이 빨라서!」","""Sorry! She moved too fast!""",「！非常抱歉！她的动作实在太快了！」
 ,,,,,,,,
@@ -235,7 +235,7 @@ Dialog.Chapter4-3-7,触手怪人,「小娘がっ！こんな所に一人で乗�
 ,,,,,,,,
 Dialog.Chapter4-3-8,京,「おっと…これが触手細胞技術の上位怪人ね…知性を維持できる範囲なら戦闘力はこんなものか」,「おっと…これが触手細胞技術の上位怪人ね…知性を維持できる範囲なら戦闘力はこんなもんか…」,「喔……這就是你們那套觸手細胞技術做出來的高階怪人嗎……若要維持智力的話，戰鬥力大概也就這個水準吧……」,"Oops... so this is the higher level monster of tentacle cell technology... so much for combat power as long as it can maintain its intelligence.""",「어이쿠… 이게 촉수 세포 기술의 상위 괴인이네… 지능을 유지할 수 있는 범위라면 전투력은 이 정도인가…」,"""Whoa, an advanced tentacle monster... So this is how powerful you can be while staying sane...""",「喔……这就是你们那套触手细胞技术做出来的高阶怪人吗……若要维持智力的话，战斗力大概也就这个水准吧……」
 ,,,,,,,,
-Dialog.Chapter4-3-9,触手怪人,「このクソガキっ！言わせておけばっ！」,「このメスネコがっ！言わせておけばっ！」,「妳這隻母貓！再囂張試試看！」,"You little shit! Let him say it!""",「이 암고양이년! 말을 함부로 하다니!」,"""Shut your hole!""",「妳这只母猫！再嚣张试试看！」
+Dialog.Chapter4-3-9,触手怪人,「このクソガキっ！言わせておけばっ！」,「このメスネコがっ！言わせておけばっ！」,「妳這隻母貓！再囂張試試看！」,"You little shit! Let him say it!""",「이 암고양이년! 말을 함부로 하다니!」,"""Shut your hole!""",「你这只母猫！再嚣张试试看！」
 ,,,,,,,,
 Dialog.Chapter4-3-10,005号,「敵は一人です！今の私達なら落ち着いて戦えば勝てない相手ではありません！」,「敵は一人です！今の私達なら落ち着いて戦えば勝てない相手ではありません！」,「敵人只有一人！以我們現在的戰力，只要冷靜應戰不會打不贏的！」,"The enemy is one man! If we fight calmly now, we are not an opponent we can't beat!""",「적은 한 명입니다! 지금의 우리라면 침착하게 싸우면 이기지 못할 상대는 아닙니다!」,"""She's alone! If we keep our heads cool, we might be able to take her down!""",「敌人只有一人！以我们现在的战力，只要冷静应战不会打不赢的！」
 ,,,,,,,,
@@ -258,7 +258,7 @@ Dialog.Chapter4-3-16,触手怪人,「……っ、了解した！」,「……っ
 ,Kei story 2-1,,,,,,,
 Dialog.Chapter4-3-17,,京は怪人の触手によって全身をがっちりと拘束される,京は怪人の触手によって全身をがっちりと拘束される,京被怪人的觸手死死纏住，整個身體動彈不得。,Kei's entire body is tightly bound by the monster's tentacles.,케이는 괴인의 촉수에 의해 온몸이 단단히 구속된다,Kei was immediately wrapped up in tentacles.,京被怪人的触手死死缠住，整个身体动弹不得。
 ,,,,,,,,
-Dialog.Chapter4-3-18,触手怪人,「このメスガキッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,「このクソメスがッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,「妳這臭女人，把我們的據點搞得一團亂！別以為還能跑得掉！」,"You little bitch, you've made a mess of our hideout! Don't think you can get away with this!""","「이 망할 암컷이, 실컷 아지트를 엉망으로 만들고! 이제 도망칠 수 있다고 생각하지 마라!」","""You bratty little girl, messing up our hideout just like that! Don't think you can get away from us!""",「妳这臭女人，把我们的据点搞得一团乱！别以为还能跑得掉！」
+Dialog.Chapter4-3-18,触手怪人,「このメスガキッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,「このクソメスがッ、散々アジトをめちゃくちゃにしやがって！もう逃げられると思うなよ！」,「妳這臭女人，把我們的據點搞得一團亂！別以為還能跑得掉！」,"You little bitch, you've made a mess of our hideout! Don't think you can get away with this!""","「이 망할 암컷이, 실컷 아지트를 엉망으로 만들고! 이제 도망칠 수 있다고 생각하지 마라!」","""You bratty little girl, messing up our hideout just like that! Don't think you can get away from us!""",「你这臭女人，把我们的据点搞得一团乱！别以为还能跑得掉！」
 ,,,,,,,,
 Dialog.Chapter4-3-19,京,「ああ。これ以上戦い続けても勝ち目は薄そうだったからね。無駄なことはしないさ」,「ああ。これ以上戦い続けても勝ち目は薄そうだったからね。無駄なことはしないさ」,「嗯。就算再打下去我的勝算也不高，我不喜歡做無謂的掙扎。」,"I was just too weak to fight any longer. ""Yeah. It didn't look like I was going to win if I kept fighting. I'm not going to waste my time.""",「아아. 이 이상 싸워봤자 승산이 희박해 보였으니까. 쓸데없는 짓은 하지 않아」,"""Yeah, I won't do anything stupid. Not like I could win even if I kept going anyway.""",「嗯。就算再打下去我的胜算也不高，我不喜欢做无谓的挣扎。」
 ,,,,,,,,
@@ -274,7 +274,7 @@ Dialog.Chapter4-3-24,,触手怪人は京の小さな口に触手をねじ込む,
 ,,,,,,,,
 Dialog.Chapter4-3-25,京,「むぐっ」,「むぐっ」,「唔……！」,"Mugg.""",「읍」,"""Ugmmm.""",「唔……！」
 ,,,,,,,,
-Dialog.Chapter4-3-26,触手怪人,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,「給我好好嚐嚐吧！我會讓妳連站都站不起來！」,"I'll make you drink so much you won't be able to stand on your feet! I'll make you drink so much you won't be able to stand on your feet!""",「받아라! 허리도 못 펼 정도로 마시게 해주마!」,"""Eat this! I'm going to pump you full of it until you can't stand!""",「给我好好尝尝吧！我会让妳连站都站不起来！」
+Dialog.Chapter4-3-26,触手怪人,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,「くらえっ！足腰が立たないくらいに飲ませてやるっ！」,「給我好好嚐嚐吧！我會讓妳連站都站不起來！」,"I'll make you drink so much you won't be able to stand on your feet! I'll make you drink so much you won't be able to stand on your feet!""",「받아라! 허리도 못 펼 정도로 마시게 해주마!」,"""Eat this! I'm going to pump you full of it until you can't stand!""",「给我好好尝尝吧！我会让你连站都站不起来！」
 ,Kei　story　2ｰ3,,,,,,,
 Dialog.Chapter4-3-27,京,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,「咕、咳……！咕、咕嚥……噗哈……」,"Gobo! Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Puha...""","「꿀꺽!?, 윽… 꿀꺽, 꿀꺽… 푸핫」","""Ugh... Guh... Pffafa...""",「咕、咳……！咕、咕咽……噗哈……」
 ,,,,,,,,
@@ -286,7 +286,7 @@ Dialog.Chapter4-3-30,,「なるほど、聖核エネルギーが使いづらい�
 ,,,,,,,,
 Dialog.Chapter4-3-31,,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,「雖然早就知道你們有這種東西……但沒想到有一天會真的輪到自己體驗。」,"I knew these things existed... but I never thought I'd actually experience them.""",「이런 게 있다는 건 알고 있었지만… 실제로 체험하게 될 줄이야」,"""I knew you had this... But to actually experience it...""",「虽然早就知道你们有这种东西……但没想到有一天会真的轮到自己体验。」
 ,,,,,,,,
-Dialog.Chapter4-3-32,触手怪人,「…クソガキッ、まだ自分が置かれた状況を理解していないようだなぁ？」,「…メスネコッ、まだ自分が置かれた状況を理解していないようだなぁ？」,「……妳這個臭丫頭，看來還沒搞清楚自己現在是什麼處境啊？」,"""...you little shit, you still don't seem to understand the situation you're in, do you?""","「…암고양이, 아직 자신이 처한 상황을 이해하지 못한 것 같군?」","""Do you not understand your current situation?""",「……妳这个臭丫头，看来还没搞清楚自己现在是什么处境啊？」
+Dialog.Chapter4-3-32,触手怪人,「…クソガキッ、まだ自分が置かれた状況を理解していないようだなぁ？」,「…メスネコッ、まだ自分が置かれた状況を理解していないようだなぁ？」,「……妳這個臭丫頭，看來還沒搞清楚自己現在是什麼處境啊？」,"""...you little shit, you still don't seem to understand the situation you're in, do you?""","「…암고양이, 아직 자신이 처한 상황을 이해하지 못한 것 같군?」","""Do you not understand your current situation?""",「……你这个臭丫头，看来还没搞清楚自己现在是什么处境啊？」
 ,,,,,,,,
 Dialog.Chapter4-3-33,Kei story 2-5,ビリッ、ビリリッ,ビリッ、ビリリッ,撕啦、撕、撕——,"Bing, bang.","찌익, 찌리릭",Riiiipppp!,撕啦、撕、撕——
 ,,,,,,,,
@@ -294,17 +294,17 @@ Dialog.Chapter4-3-34,,触手怪人が京の戦闘スーツを破り、小さな�
 ,,,,,,,,
 Dialog.Chapter4-3-35,京,「ああ、なるほど、やっぱりそうなるよね…でも流石にこの体勢はちょっと恥ずかしいかな」,「ああ、なるほど、やっぱりそうなるよね…でも流石にこの体勢はちょっと恥ずかしいかな」,「啊啊，原來如此，果然會變成這樣啊……不過這個姿勢還是有點害羞呢。」,"'Oh, I see, I knew it would happen...but I'm a little embarrassed to be in this position.'","「아아, 과연, 역시 그렇게 되는군… 하지만 설마 이 자세는 좀 부끄러울지도」","""Ah, I see... But this posture is a little humiliating.""",「啊啊，原来如此，果然会变成这样啊……不过这个姿势还是有点害羞呢。」
 ,,,,,,,,
-Dialog.Chapter4-3-36,触手怪人,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,「妳可是把我們組織搞得一團亂啊？真正的節目現在才要開始呢。」,"You've done so much damage to our organization, haven't you? Now the real work begins, okay?""",「실컷 우리 조직에 손해를 입혔으니 말이야? 본방은 이제부터다?」,"""I want you to think about all the damage you've done to us... This is payback!""",「妳可是把我们组织搞得一团乱啊？真正的节目现在才要开始呢。」
+Dialog.Chapter4-3-36,触手怪人,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,「散々私達の組織に損害を与えてくれたからなあ？本番はこれからだぞ？」,「妳可是把我們組織搞得一團亂啊？真正的節目現在才要開始呢。」,"You've done so much damage to our organization, haven't you? Now the real work begins, okay?""",「실컷 우리 조직에 손해를 입혔으니 말이야? 본방은 이제부터다?」,"""I want you to think about all the damage you've done to us... This is payback!""",「你可是把我们组织搞得一团乱啊？真正的节目现在才要开始呢。」
 ,,,,,,,,
 Dialog.Chapter4-3-37,京,「はあ、これも敗北した変身ヒロインの運命だね…甘んじて受け入れるよ」,「はあ、これも敗北した変身ヒロインの運命だね…甘んじて受け入れるよ」,「唉，這大概就是失敗的變身女主角的命運吧……我只能坦然接受了。」,"I guess that's the fate of a defeated shape―shifting heroine... I'll just have to take it in stride.""","「하아, 이것도 패배한 변신 히로인의 운명이네… 달게 받아들이지」","""This is the fate of a failed heroine who could transform... I will accept it.""",「唉，这大概就是失败的变身女主角的命运吧……我只能坦然接受了。」
 ,,,,,,,,
-Dialog.Chapter4-3-38,触手怪人,「グフフッ、いつまでその余裕が持つか楽しみだ！」,「グフフッ、いつまでその余裕が持つか楽しみだ！」,「咕呵呵，就看看妳這副餘裕的樣子能撐到什麼時候！」,"Guffaw, I can't wait to see how long I can afford that!""","「크흐흐, 언제까지 그 여유가 이어질지 기대되는군!」","""I'm looking forward to breaking you!""",「咕呵呵，就看看妳这副余裕的样子能撑到什么时候！」
+Dialog.Chapter4-3-38,触手怪人,「グフフッ、いつまでその余裕が持つか楽しみだ！」,「グフフッ、いつまでその余裕が持つか楽しみだ！」,「咕呵呵，就看看妳這副餘裕的樣子能撐到什麼時候！」,"Guffaw, I can't wait to see how long I can afford that!""","「크흐흐, 언제까지 그 여유가 이어질지 기대되는군!」","""I'm looking forward to breaking you!""",「咕呵呵，就看看你这副余裕的样子能撑到什么时候！」
 ,,,,,,,,
 Dialog.Chapter4-3-39,Kei story 2-6,そして触手怪人は京の割れ目を粘液の付いた触手で撫で始める,そして触手怪人は京の割れ目を粘液の付いた触手で撫で始める,觸手怪人讓沾滿黏液的觸手纏上京的下半身，來回摩挲。,And the tentacle monster begins to stroke Kei's crack with its mucus―covered tentacles.,그리고 촉수 괴인은 케이의 갈라진 틈을 점액이 묻은 촉수로 쓰다듬기 시작한다,The Tentacle Man started caressing Kei's crotch with his slimy tentacles.,触手怪人让沾满黏液的触手缠上京的下半身，来回摩挲。
 ,,,,,,,,
 Dialog.Chapter4-3-40,京,「！、ああ、ぬるぬるして不思議な感触だ。とても気持ち悪い」,「！、ああ、ぬるぬるして不思議な感触だ。とても気持ち悪い」,「！啊啊，黏黏滑滑的，感覺好奇怪。真讓人噁心。」,"""! Oh, it feels slimy and strange. It's so gross.""","「!, 아아, 미끈미끈해서 이상한 감촉이야. 아주 기분 나빠」","""! Ahhh... Slippery... Feels strange, and... disgusting.""",「！啊啊，黏黏滑滑的，感觉好奇怪。真让人恶心。」
 ,,,,,,,,
-Dialog.Chapter4-3-41,触手怪人,「グフフッ！じきに何も考えられなくさせてやろう！」,「グフフッ！じきに何も考えられなくさせてやろう！」,「咕呵呵！很快就會讓妳什麼都沒辦法思考的！」,"I'm going to make you think of nothing soon! Soon I'll make you think of nothing!""",「크흐흐! 곧 아무것도 생각할 수 없게 만들어주마!」,"""You're going to lose your ability to think very soon!""",「咕呵呵！很快就会让妳什么都没办法思考的！」
+Dialog.Chapter4-3-41,触手怪人,「グフフッ！じきに何も考えられなくさせてやろう！」,「グフフッ！じきに何も考えられなくさせてやろう！」,「咕呵呵！很快就會讓妳什麼都沒辦法思考的！」,"I'm going to make you think of nothing soon! Soon I'll make you think of nothing!""",「크흐흐! 곧 아무것도 생각할 수 없게 만들어주마!」,"""You're going to lose your ability to think very soon!""",「咕呵呵！很快就会让你什么都没办法思考的！」
 ,,,,,,,,
 Dialog.Chapter4-3-42,京,「あっ、ふう…、昔興味でやったことはあって、その時は良く分からなかったけど…」,「あっ、ふう…、昔興味でやったことはあって、その時は良く分からなかったけど…」,「啊……呼……以前出於好奇自己試過類似的事，那時還不太懂是怎麼回事，不過……」,"I did it once, out of curiosity, and I didn't really understand it at the time...""","「앗, 후우…, 옛날에 흥미로 해본 적은 있어서, 그때는 잘 몰랐지만…」","""Ahhh... I've done this before out of curiosity, but I didn't understand back then...""",「啊……呼……以前出于好奇自己试过类似的事，那时还不太懂是怎么回事，不过……」
 ,,,,,,,,
@@ -318,13 +318,13 @@ Dialog.Chapter4-3-46,京,「っ！、んっ♥、ふうっ、んんっ、なか�
 ,,,,,,,,
 Dialog.Chapter4-3-47,,「んぁ…♥、このまま続けられたらっ♥、ちょっとまずいかなっ」,「んぁ…♥、このまま続けられたらっ♥、ちょっとまずいかなっ」,「啊……要是這樣一直被弄下去……好像就有點不太妙了呢。」,"If you continue like this, it might not be good for me.","「으앗…♥, 이대로 계속 당하면, 좀 위험할지도」","""Haaa♥ This might be bad if you keep doing it...""",「啊……要是这样一直被弄下去……好像就有点不太妙了呢。」
 ,,,,,,,,
-Dialog.Chapter4-3-48,触手怪人,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「咕呵……很快妳也會沉溺在快感裡，乖乖聽從我們的命令。真期待那個時候啊。」,"Soon you will be so addicted to pleasure that you will obey us. I'm looking forward to that.""","「크흣, 곧 너도 쾌락에 빠져 우리에게 따르게 될 것이다. 그때가 기대되는군」","""You will soon succumb to the pleasure and obey us. I can't wait!""",「咕呵……很快妳也会沉溺在快感里，乖乖听从我们的命令。真期待那个时候啊。」
+Dialog.Chapter4-3-48,触手怪人,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「咕呵……很快妳也會沉溺在快感裡，乖乖聽從我們的命令。真期待那個時候啊。」,"Soon you will be so addicted to pleasure that you will obey us. I'm looking forward to that.""","「크흣, 곧 너도 쾌락에 빠져 우리에게 따르게 될 것이다. 그때가 기대되는군」","""You will soon succumb to the pleasure and obey us. I can't wait!""",「咕呵……很快你也会沉溺在快感里，乖乖听从我们的命令。真期待那个时候啊。」
 ,,,,,,,,
 Dialog.Chapter4-3-49,京,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「……原來如此，你們抓來的那些聖核戰姫，就是這樣被對待的嗎？真是夠惡趣味的。」,"I see...I see...the Seikaku Princesses you captured were brainwashed this way? That's totally in bad taste.""","「…읏♥, 과연, 붙잡은 성핵전희들은 이렇게 세뇌했나? 정말 악취미야」","""...♥ I see, so this is how you brainwash the captured Holy Core Battlemaidens. Again, disgusting.""",「……原来如此，你们抓来的那些圣核战姫，就是这样被对待的吗？真是够恶趣味的。」
 ,,,,,,,,
 Dialog.Chapter4-3-50,,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,「本來還想親手把你們的據點徹底摧毀掉的……真可惜呢。」,"I wanted to destroy the hideout with my own hands, but I'm sorry.",「내 손으로 아지트를 괴멸시키고 싶었지만♥… 유감이야♥」,"""I wanted to destroy your hideout with these very hands♥ What a shame...♥""",「本来还想亲手把你们的据点彻底摧毁掉的……真可惜呢。」
 ,,,,,,,,
-Dialog.Chapter4-3-51,触手怪人,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,「好了，前菜到此為止。接下來就從妳的身體深處開始，把妳徹底墮落。」,"Now that the foreplay is over, let's corrupt you from the inside out.","「자 전희는 끝이다, 다음은 안쪽에서 네놈을 타락시켜주마」","""Foreplay is over! I'm going to corrupt you from within!""",「好了，前菜到此为止。接下来就从妳的身体深处开始，把妳彻底堕落。」
+Dialog.Chapter4-3-51,触手怪人,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,「さあ前戯は終わりだっ、次は内側から貴様を堕としてやろう」,「好了，前菜到此為止。接下來就從妳的身體深處開始，把妳徹底墮落。」,"Now that the foreplay is over, let's corrupt you from the inside out.","「자 전희는 끝이다, 다음은 안쪽에서 네놈을 타락시켜주마」","""Foreplay is over! I'm going to corrupt you from within!""",「好了，前菜到此为止。接下来就从你的身体深处开始，把你彻底堕落。」
 ,,,,,,,,
 Dialog.Chapter4-3-52,京,「っ…！何をっ？」,「っ…！何をっ？」,「……！你打算做什麼？」,What? What?,「윽…! 뭘!」,"""Huh! What is that?""",「……！你打算做什么？」
 ,,,,,,,,
@@ -391,9 +391,9 @@ Dialog.Chapter4-3-79,那由多(普通の立ち絵),「安心してください�
 ,,,,,,,,
 Dialog.Chapter4-3-80,京,「おー、流石。やっぱり会長は頼りになるね」,「おー、流石。やっぱり総司令は頼りになるね」,「喔～不愧是總司令，果然可靠呢。」,"""Oh, that's great. I knew I could count on the chairman.""","「오-, 역시. 역시 총사령관은 믿음직스럽네」","""I knew I could count on you, Commander.""",「喔～不愧是总司令，果然可靠呢。」
 ,,,,,,,,
-Dialog.Chapter4-3-81,???,「おや…京さん！そこにいましたか」,「おや…京さん！そこにいましたか」,「喔呀……京小姐！原來妳在那裡啊。」,"Oh...Mr. Kei! There you are.""",「어머… 케이 씨! 거기에 있었습니까」,"""Kei! Here you are.""",「喔呀……京小姐！原来妳在那里啊。」
+Dialog.Chapter4-3-81,???,「おや…京さん！そこにいましたか」,「おや…京さん！そこにいましたか」,「喔呀……京小姐！原來妳在那裡啊。」,"Oh...Mr. Kei! There you are.""",「어머… 케이 씨! 거기에 있었습니까」,"""Kei! Here you are.""",「喔呀……京小姐！原来你在那里啊。」
 ,,,,,,,,
-Dialog.Chapter4-3-82,触手怪人＆京,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,「呃…！喂，那邊那個女人！再動一步試試看！妳不在乎這傢伙的死活嗎！」,"Gosh,"" she said! Hey, there, woman! Don't move any further! What do you care what happens to him?""","「크윽,! 어이, 거기 여자! 더 이상 움직이지 마라! 이 녀석이 어떻게 돼도 좋으냐?」","""Ugh... Hey, don't move if you don't want anything to happen to her!""",「呃…！喂，那边那个女人！再动一步试试看！妳不在乎这家伙的死活吗！」
+Dialog.Chapter4-3-82,触手怪人＆京,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,「ぐうっ、！おい、そこの女！これ以上動くな！コイツがどうなってもいいのか？」,「呃…！喂，那邊那個女人！再動一步試試看！妳不在乎這傢伙的死活嗎！」,"Gosh,"" she said! Hey, there, woman! Don't move any further! What do you care what happens to him?""","「크윽,! 어이, 거기 여자! 더 이상 움직이지 마라! 이 녀석이 어떻게 돼도 좋으냐?」","""Ugh... Hey, don't move if you don't want anything to happen to her!""",「呃…！喂，那边那个女人！再动一步试试看！你不在乎这家伙的死活吗！」
 ,,,,,,,,
 Dialog.Chapter4-3-83,,その瞬間、京を拘束していた触手怪人の触手が全て宙に舞う,その瞬間、京を拘束していた触手怪人の触手が全て宙に舞う,就在那一瞬間，拘束著京的觸手怪人所有觸手全都飛散在空中。,"At that moment, all the tentacles of the tentacle monster that was restraining Kei fly into the air.","그 순간, 케이를 구속하고 있던 촉수 괴인의 촉수가 전부 공중으로 흩날린다","Suddenly, all the tentacles that were wrapped around Kei flailed.",就在那一瞬间，拘束着京的触手怪人所有触手全都飞散在空中。
 ,,,,,,,,
@@ -403,7 +403,7 @@ Dialog.Chapter4-3-85,???,「怪人に情けはありません。消えなさい�
 ,,,,,,,,
 Dialog.Chapter4-3-86,京,「ふう、ありがとう会長、助かったよ。発信機がちゃんと機能してよかった」,「ふう、ありがとう総司令、助かったよ。発信機がちゃんと機能してよかった」,「呼……謝啦，總司令，救了我一命。發信器有正常運作真是太好了。」,"I'm glad the transmitter is working properly."" I'm glad the transmitter is working properly.""","「후우, 고마워 총사령관, 살았어. 발신기가 제대로 작동해서 다행이야」","""Thank you, Commander. I'm glad the transmitter worked.""",「呼……谢啦，总司令，救了我一命。发信器有正常运作真是太好了。」
 ,,,,,,,,
-Dialog.Chapter4-3-87,???,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,「不，該道謝的是我這邊。多虧妳在前面引路，我才能追到這裡來。」,"No, thank you very much. Thanks to your guidance, I got here.""","「아뇨, 이쪽이야말로 감사합니다. 당신이 유도해준 덕분에 여기까지 도착할 수 있었습니다」","""No, thank YOU for guiding us to this place.""",「不，该道谢的是我这边。多亏妳在前面引路，我才能追到这里来。」
+Dialog.Chapter4-3-87,???,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,「いいえ、こちらこそありがとうございます。貴女が誘導してくれたおかげでここまで辿り着けました」,「不，該道謝的是我這邊。多虧妳在前面引路，我才能追到這裡來。」,"No, thank you very much. Thanks to your guidance, I got here.""","「아뇨, 이쪽이야말로 감사합니다. 당신이 유도해준 덕분에 여기까지 도착할 수 있었습니다」","""No, thank YOU for guiding us to this place.""",「不，该道谢的是我这边。多亏你在前面引路，我才能追到这里来。」
 ,,,,,,,,
 Dialog.Chapter4-3-88,???,「…さて、貴方がここの最高責任者でしょうか」,「…さて、貴方がここの最高責任者でしょうか」,「……那麼，你就是這裡的最高負責人吧？」,"Now, are you the chief executive here?","「…자, 당신이 이곳의 최고 책임자입니까」","""Are you the one in charge here?""",「……那么，你就是这里的最高负责人吧？」
 ,,,,,,,,

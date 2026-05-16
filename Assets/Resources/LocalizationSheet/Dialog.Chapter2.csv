@@ -18,7 +18,7 @@ Dialog.Chapter2-1-8,,六花は意を決して学園へ向かうのだった。,�
 ,,,,,,,,,
 Dialog.Chapter2-1-9,生徒会室,聖月女学園生徒会室にて,対怪人特殊防衛組織　“ホーリーコア・レギオン”司令部にて,在對怪人特殊防衛組織「聖核軍團」司令部——,聖月女學園學生會室內,In the Student Council Room at Seigetsu Girl Academy,"At the Command Center of Holy Core Legion, a special organization for combating monsters...",대 괴인 특수 방위 조직 “홀리코어 레기온” 사령부에서,在对怪人特殊防卫组织「圣核军团」司令部——
 ,,,,,,,,,
-Dialog.Chapter2-1-10,エレナ,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――您是說，明穗小姐從一週前開始行蹤不明，家裡也找不到她。妳想說的就這麼多嗎？」,「――――――您是說，明穗同學從一週前開始行蹤不明，家裡也找不到她。你想説的就這麽多嗎？」,"「―――――― So, you said that Akiho had been acting strangely for a seedy period of time and was not at home. Is that the end of your story?」","""...So you're saying that Akiho has been acting strange since a week ago, and she hasn't been home? Is that it?""","「――――――그래서, 1주일 전부터 아키호 양의 상태가 이상하고, 집에도 없었다고. 이야기는 그걸로 끝인가요?」",「――――――您是说，明穗小姐从一周前开始行踪不明，家里也找不到她。妳想说的就这么多吗？」
+Dialog.Chapter2-1-10,エレナ,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――您是說，明穗小姐從一週前開始行蹤不明，家裡也找不到她。妳想說的就這麼多嗎？」,「――――――您是說，明穗同學從一週前開始行蹤不明，家裡也找不到她。你想説的就這麽多嗎？」,"「―――――― So, you said that Akiho had been acting strangely for a seedy period of time and was not at home. Is that the end of your story?」","""...So you're saying that Akiho has been acting strange since a week ago, and she hasn't been home? Is that it?""","「――――――그래서, 1주일 전부터 아키호 양의 상태가 이상하고, 집에도 없었다고. 이야기는 그걸로 끝인가요?」",「――――――您是说，明穗小姐从一周前开始行踪不明，家里也找不到她。你想说的就这么多吗？」
 ,,,,,,,,,
 Dialog.Chapter2-1-11,六花,「はい、エレナ先輩…。それで、どうにか生徒会の方で捜索隊を…！」,「はい、エレナ先輩…。それで、どうにか司令部の方で捜索隊を…！」,「是的，艾蓮娜前輩……所以，能不能請聖核軍團組織搜查隊……！」,「是的，艾蓮娜學姐……所以，能不能請學生會組織搜查隊……！」,"「Yes, Erena-senpai... Please make student council to get a search party...!」","""Yes, Elena. And... If the Command Center can launch a search party...""","「네, 엘레나 선배…. 그래서, 어떻게든 사령부 쪽에서 수색대를…!」",「是的，艾莲娜前辈……所以，能不能请圣核军团组织搜查队……！」
 ,,,,,,,,,
@@ -36,15 +36,15 @@ Dialog.Chapter2-1-17,,「それに、ここ聖月女学園は各地の聖核戦�
 ,,,,,,,,,
 Dialog.Chapter2-1-18,,「そして、もはやあの組織は壊滅寸前。生徒会長不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「そして、もはやあの組織は壊滅寸前。総司令が不在の今、その程度の事で昔のように財団ごときにかまっている時間は私達にはありません。」,「而且，財團現在已經名存實亡了。現在總司令又不在，光是這種程度的事，我們已經沒有沒時間理他們。」,「更何況現在財團已經瀕臨滅絕了。在學生會長不在的現在，我們已經沒有閒工夫像從前那樣，把時間浪費在財團這種程度的小角色身上了。」,"「And now that Forren Foundation is on the verge of destruction. Without the student council president, we don't have the time to be bothered with them like we used to be.」","""And the Foundation is on the brink of falling apart anyway. With the Commander not here, we don't have time to focus on the Foundation over something so trivial like we used to do.""","「그리고, 이제 그 조직은 괴멸 직전. 총사령관이 부재중인 지금, 그 정도 일로 예전처럼 재단 따위에 신경 쓸 시간은 저희에게 없습니다.」",「而且，财团现在已经名存实亡了。现在总司令又不在，光是这种程度的事，我们已经没有没时间理他们。」
 ,,,,,,,,,
-Dialog.Chapter2-1-19,六花,「っ、…その程度って！」,「っ、…その程度って！」,「…妳說 『這種程度』！」,「額、…你說 ‘這種程度’是什麼意思！」,「... what did you said?」,"""T-Trivial...""","「읏, …그 정도라뇨!」",「…妳说 『这种程度』！」
+Dialog.Chapter2-1-19,六花,「っ、…その程度って！」,「っ、…その程度って！」,「…妳說 『這種程度』！」,「額、…你說 ‘這種程度’是什麼意思！」,「... what did you said?」,"""T-Trivial...""","「읏, …그 정도라뇨!」",「…你说 『这种程度』！」
 ,,,,,,,,,
-Dialog.Chapter2-1-20,エレナ,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算妳們關係再好，也未免太過杞人憂天了。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算你們關係再好，也未免太過杞人憂天了。」,"「...I suspect that all the activities have become too painful for her and she's are playing around somewhere. I think you are worrying too much, despite how close you two were.」","""Are you sure she's not just slacking off somewhere because the work has been too hard? I know you're good friends, but maybe you worry too much.""",「…대강 활동이 힘들어져서 어딘가에서 놀고 있는 건 아닌지? 아무리 사이가 좋다고는 하지만 걱정이 지나친 것 아닙니까.」,「…她或许只是觉得活动太累，跑到哪里去玩了吧？就算妳们关系再好，也未免太过杞人忧天了。」
+Dialog.Chapter2-1-20,エレナ,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…あらかた活動が辛くなってどこかで遊びまわっているのでは？いくら仲が良いとは言え心配のし過ぎではないでしょうか。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算妳們關係再好，也未免太過杞人憂天了。」,「…她或許只是覺得活動太累，跑到哪裡去玩了吧？就算你們關係再好，也未免太過杞人憂天了。」,"「...I suspect that all the activities have become too painful for her and she's are playing around somewhere. I think you are worrying too much, despite how close you two were.」","""Are you sure she's not just slacking off somewhere because the work has been too hard? I know you're good friends, but maybe you worry too much.""",「…대강 활동이 힘들어져서 어딘가에서 놀고 있는 건 아닌지? 아무리 사이가 좋다고는 하지만 걱정이 지나친 것 아닙니까.」,「…她或许只是觉得活动太累，跑到哪里去玩了吧？就算你们关系再好，也未免太过杞人忧天了。」
 ,,,,,,,,,
 Dialog.Chapter2-1-21,六花,「でもっ！明穂は―――」,「でもっ！明穂は―――」,「但是！明穗她———」,「但是！明穗她———」,「But..! No way Akiho is...」,"""But Akiho...""",「하지만! 아키호는―――」,「但是！明穗她———」
 ,,,,,,,,,
-Dialog.Chapter2-1-22,エレナ,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……這樣吧，六花小姐您就先暫時放假吧。我們會處理相關的手續，明穗的事，就全權交給妳了。」,「……這樣吧，六花同學就先暫時放假吧。我們會處理相關的手續，明穗同學的事，就全權交給你了。」,"「I will leave everything to you. I'll take care of the business procedures here, so you can take care of everything regarding Akiho-san.」","""I see. Why don't you take some time off, then? We will deal with the paperwork so you can focus on finding Akiho.""","「……알겠어요, 당분간 릿카 양은 공무 휴가로 처리하죠. 업무 절차는 이쪽에서 해둘 테니, 아키호 양의 건은 전부 당신에게 맡기겠습니다.」",「……这样吧，六花小姐您就先暂时放假吧。我们会处理相关的手续，明穗的事，就全权交给妳了。」
+Dialog.Chapter2-1-22,エレナ,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……そうですね、しばらく六花さんは公休という事にしましょう。業務の手続きはこちらでしておくので、明穂さんの件は全て貴女に任せます。」,「……這樣吧，六花小姐您就先暫時放假吧。我們會處理相關的手續，明穗的事，就全權交給妳了。」,「……這樣吧，六花同學就先暫時放假吧。我們會處理相關的手續，明穗同學的事，就全權交給你了。」,"「I will leave everything to you. I'll take care of the business procedures here, so you can take care of everything regarding Akiho-san.」","""I see. Why don't you take some time off, then? We will deal with the paperwork so you can focus on finding Akiho.""","「……알겠어요, 당분간 릿카 양은 공무 휴가로 처리하죠. 업무 절차는 이쪽에서 해둘 테니, 아키호 양의 건은 전부 당신에게 맡기겠습니다.」",「……这样吧，六花小姐您就先暂时放假吧。我们会处理相关的手续，明穗的事，就全权交给你了。」
 ,,,,,,,,,
-Dialog.Chapter2-1-23,,「―――心配しないでください。事態が大きくなるようでしたら生徒会で対処します。そうならないように貴女には期待をしていますよ？」,「―――心配しないでください。事態が大きくなるようでしたら司令部で対処します。そうならないように貴女には期待をしていますよ？」,「———請放心。如果事情真的鬧大了，聖核軍團會出面處理。不過，我期待妳能讓事態不會發展到那種地步。」,「———請放心。如果事情真的鬧大了，學生會會出面處理。不過，我期待你能讓事態不至於發展到那種地步哦？」,"「Don't worry. If the situation becomes more serious, the student council will take care of it. We're counting on you to make sure that doesn't happen.」","""Please don't worry. The Command Center will get involved if things get worse, but we expect you to take care of it before it gets there.""",「―――걱정하지 마세요. 사태가 커지면 사령부에서 대처하겠습니다. 그렇게 되지 않도록 당신에게 기대하고 있겠어요?」,「———请放心。如果事情真的闹大了，圣核军团会出面处理。不过，我期待妳能让事态不会发展到那种地步。」
+Dialog.Chapter2-1-23,,「―――心配しないでください。事態が大きくなるようでしたら生徒会で対処します。そうならないように貴女には期待をしていますよ？」,「―――心配しないでください。事態が大きくなるようでしたら司令部で対処します。そうならないように貴女には期待をしていますよ？」,「———請放心。如果事情真的鬧大了，聖核軍團會出面處理。不過，我期待妳能讓事態不會發展到那種地步。」,「———請放心。如果事情真的鬧大了，學生會會出面處理。不過，我期待你能讓事態不至於發展到那種地步哦？」,"「Don't worry. If the situation becomes more serious, the student council will take care of it. We're counting on you to make sure that doesn't happen.」","""Please don't worry. The Command Center will get involved if things get worse, but we expect you to take care of it before it gets there.""",「―――걱정하지 마세요. 사태가 커지면 사령부에서 대처하겠습니다. 그렇게 되지 않도록 당신에게 기대하고 있겠어요?」,「———请放心。如果事情真的闹大了，圣核军团会出面处理。不过，我期待你能让事态不会发展到那种地步。」
 ,,,,,,,,,
 Dialog.Chapter2-1-24,六花,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「…っ――――わかりました。忙しい中すみません…―――失礼します。」,「……我明白了。打擾您繁忙的時間，真的很抱歉……失禮了。」,「……我明白了。打擾您繁忙的時間，真的很抱歉……失禮了。」,「...I...I―――― I understand. I'm sorry to bother you...―――Excuse me.」,"""...Understood. Sorry to have disturbed you.""",「…읏――――알겠습니다. 바쁘신 와중에 죄송합니다…―――실례하겠습니다.」,「……我明白了。打扰您繁忙的时间，真的很抱歉……失礼了。」
 ,,,,,,,,,
@@ -82,23 +82,23 @@ Dialog.Chapter2-2-4,,すると背後から何者かに声がかけれらる,す�
 ,,,,,,,,,
 Dialog.Chapter2-2-5,???,「お待ちしていました、水無瀬六花。」,「お待ちしていました、水無瀬六花。」,「久等了，水無瀬六花。」,「久等了，水無瀬六花。」,"「We have been waiting for you, Minase Rikka.」","""We have been waiting for you, Rikka Minase.""","「기다리고 있었습니다, 미나세 릿카.」",「久等了，水无瀬六花。」
 ,,,,,,,,,
-Dialog.Chapter2-2-6,六花,「……あんたは…。財団の女戦闘員か」,「……あんたは…。財団の女戦闘員か」,「……妳是……財團的女戰鬥員」,「……你是……財團的女戰鬥員」,「...... you are.... Are you a female combatant for the Foundation?」,"""...You're a soldier from the Foundation.""",「……너는…. 재단의 여성 전투원인가」,「……妳是……财团的女战斗员」
+Dialog.Chapter2-2-6,六花,「……あんたは…。財団の女戦闘員か」,「……あんたは…。財団の女戦闘員か」,「……妳是……財團的女戰鬥員」,「……你是……財團的女戰鬥員」,「...... you are.... Are you a female combatant for the Foundation?」,"""...You're a soldier from the Foundation.""",「……너는…. 재단의 여성 전투원인가」,「……你是……财团的女战斗员」
 ,,,,,,,,,
 Dialog.Chapter2-2-7,???,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「はい、戦闘員005号です。ただ今より“オリジナル”を案内します。」,「沒錯，我是戰鬥員005號。現在負責執行‘原型’的帶路任務。」,「沒錯，我是戰鬥員005號。現在負責執行‘原型’的帶路任務。」,"「Yes, I am Combatant No.005. Come with me, Original.」","""Yes, I am Soldier 005. I will be guiding you, the 'Original'.""","「네, 전투원 005호입니다. 지금부터 “오리지널”을 안내하겠습니다.」",「没错，我是战斗员005号。现在负责执行‘原型’的带路任务。」
 ,,,,,,,,,
 Dialog.Chapter2-2-8,六花,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「―――ちょっと待って、オリジナル…？それってどういう意味…？」,「———等一下，『原型』…？這是什麼意思…？」,「———等一下，‘原型’…？這是什麼意思…？」,"「―――Wait a minute, Original...? What does that even mean...?」","""...The Original? What does that mean?""","「―――잠깐 기다려, 오리지널…? 그게 무슨 의미…?」",「———等一下，『原型』…？这是什么意思…？」
 ,,,,,,,,,
-Dialog.Chapter2-2-9,005号,「おや、気づいていなかったのですね。ではお伝えします。」,「おや、気づいていなかったのですね。ではお伝えします。」,「哦？原來您還沒察覺嗎？那就讓我來告訴妳吧。」,「哦？原來您還沒察覺嗎？那就讓我來告訴你吧。」,"「Ah, so you didn't notice. Alright let me tell you.」","""You haven't noticed? I shall explain.""","「어머, 눈치채지 못하셨군요. 그럼 알려드리겠습니다.」",「哦？原来您还没察觉吗？那就让我来告诉妳吧。」
+Dialog.Chapter2-2-9,005号,「おや、気づいていなかったのですね。ではお伝えします。」,「おや、気づいていなかったのですね。ではお伝えします。」,「哦？原來您還沒察覺嗎？那就讓我來告訴妳吧。」,「哦？原來您還沒察覺嗎？那就讓我來告訴你吧。」,"「Ah, so you didn't notice. Alright let me tell you.」","""You haven't noticed? I shall explain.""","「어머, 눈치채지 못하셨군요. 그럼 알려드리겠습니다.」",「哦？原来您还没察觉吗？那就让我来告诉你吧。」
 ,,,,,,,,,
-Dialog.Chapter2-2-10,,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財團的克隆戰鬥員，全部是以妳的遺傳資訊——水無瀬六花的基因為基礎製作的。」,「財團的克隆戰鬥員，全部是以你的遺傳資訊——水無瀬六花的基因為基礎製作的。」,"「All of the Foundation's cloned fighters are based on the genetic information of you, Minase Rikka.」","""All the clone soldiers of the Foundation are created from the DNA of Rikka Minase... You.""",「재단의 클론 전투원은 전부 당신 “미나세 릿카”의 유전 정보를 바탕으로 만들어졌습니다」,「财团的克隆战斗员，全部是以妳的遗传资讯——水无瀬六花的基因为基础制作的。」
+Dialog.Chapter2-2-10,,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財団のクローン戦闘員は全てあなた“水無瀬六花”の遺伝情報を基に作成されています」,「財團的克隆戰鬥員，全部是以妳的遺傳資訊——水無瀬六花的基因為基礎製作的。」,「財團的克隆戰鬥員，全部是以你的遺傳資訊——水無瀬六花的基因為基礎製作的。」,"「All of the Foundation's cloned fighters are based on the genetic information of you, Minase Rikka.」","""All the clone soldiers of the Foundation are created from the DNA of Rikka Minase... You.""",「재단의 클론 전투원은 전부 당신 “미나세 릿카”의 유전 정보를 바탕으로 만들어졌습니다」,「财团的克隆战斗员，全部是以你的遗传资讯——水无瀬六花的基因为基础制作的。」
 ,,,,,,,,,
-Dialog.Chapter2-2-11,六花,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………原來如此。我一直從妳們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,「…………原來如此。我一直從你們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,"「'............ yeah. I've had a strange, bad feeling about you guys... so that's what it was all about.」","""...I see. That must be why I already dislike you the moment I saw you.""",「…………그래. 당신들에게 묘하게 싫은 느낌이 들었는데… 그런 거였구나」,「…………原来如此。我一直从妳们身上本能的感受到一种让人不舒服的感觉…原来是这样啊。」
+Dialog.Chapter2-2-11,六花,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………そう。あなた達には妙に嫌な感じがしてたけど…そういう事だったんだ」,「…………原來如此。我一直從妳們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,「…………原來如此。我一直從你們身上本能的感受到一種讓人不舒服的感覺…原來是這樣啊。」,"「'............ yeah. I've had a strange, bad feeling about you guys... so that's what it was all about.」","""...I see. That must be why I already dislike you the moment I saw you.""",「…………그래. 당신들에게 묘하게 싫은 느낌이 들었는데… 그런 거였구나」,「…………原来如此。我一直从你们身上本能的感受到一种让人不舒服的感觉…原来是这样啊。」
 ,,,,,,,,,
 Dialog.Chapter2-2-12,005号,「おや、意外と驚かないのですね。」,「おや、意外と驚かないのですね。」,「哦？沒想到您竟然不太驚訝呢。」,「哦？沒想到您竟然不太驚訝呢。」,"「Gosh, you're not that surprised.」","""You're not surprised.""","「어머, 의외로 놀라지 않으시는군요.」",「哦？没想到您竟然不太惊讶呢。」
 ,,,,,,,,,
-Dialog.Chapter2-2-13,六花,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「沒什麼，我還是我自己。而且妳們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,「沒什麼，我還是我自己。而且你們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,"「Nothing serious. I'm just me. And I'm disappointed that you're too weak to be my clone. No matter how many of them there are, You guys are no match for me.」","""Not really, I am me. And I'm disappointed that my clones are so weak. I can take on as many of you as I want.""","「딱히, 나는 나고. 게다가 내 클론치고는 너무 약해서 실망이야. 몇 명이 있든 내 적이 아니지」",「没什么，我还是我自己。而且妳们作为我的克隆也太弱了吧，太让人失望了。这种程度不管来多少都不是我的对手。」
+Dialog.Chapter2-2-13,六花,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「別に、私は私だし。それに私のクローンにしては弱すぎてがっかり。何人いても私の敵じゃない」,「沒什麼，我還是我自己。而且妳們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,「沒什麼，我還是我自己。而且你們作為我的克隆也太弱了吧，太讓人失望了。這種程度不管來多少都不是我的對手。」,"「Nothing serious. I'm just me. And I'm disappointed that you're too weak to be my clone. No matter how many of them there are, You guys are no match for me.」","""Not really, I am me. And I'm disappointed that my clones are so weak. I can take on as many of you as I want.""","「딱히, 나는 나고. 게다가 내 클론치고는 너무 약해서 실망이야. 몇 명이 있든 내 적이 아니지」",「没什么，我还是我自己。而且你们作为我的克隆也太弱了吧，太让人失望了。这种程度不管来多少都不是我的对手。」
 ,,,,,,,,,
-Dialog.Chapter2-2-14,六花,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「快點進入正題吧。妳們的要求是什麼？明穗在哪裡？」,「快點進入正題吧。你們的要求是什麼？明穗在哪裡？」,「Let's move the conversation. What do you guys want? Where is Akiho?」,"""Let's cut to the chase. What do you want? Where is Akiho?""",「빨리 이야기를 진행하자. 당신들의 요구는 뭐야? 아키호는 어디에 있어?」,「快点进入正题吧。妳们的要求是什么？明穗在哪里？」
+Dialog.Chapter2-2-14,六花,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「とっとと話を進めよう。あなた達の要求は何？明穂はどこにいる？」,「快點進入正題吧。妳們的要求是什麼？明穗在哪裡？」,「快點進入正題吧。你們的要求是什麼？明穗在哪裡？」,「Let's move the conversation. What do you guys want? Where is Akiho?」,"""Let's cut to the chase. What do you want? Where is Akiho?""",「빨리 이야기를 진행하자. 당신들의 요구는 뭐야? 아키호는 어디에 있어?」,「快点进入正题吧。你们的要求是什么？明穗在哪里？」
 ,,,,,,,,,
 Dialog.Chapter2-2-15,005号,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穂はこのビルの屋上近くの部屋にいます。私達の要求に従えば今日中にでも開放します」,「…笹谷明穗現在在這棟大樓接近頂樓的房間裡。如果您按照我們的要求行事，她今天之內就能被放出來。」,「…笹谷明穗現在在這棟大樓接近頂樓的房間裡。如果您按照我們的要求行事，她今天之內就能被放出來。」,"「...Sasaya Akiho is in a room near the roof of this building. If you comply with our request, we will release her today.」","""Akiho Sasaya is in a room near the top of the building. If you do as we say, we will allow you to see her today.""",「…사사야 아키호는 이 빌딩 옥상 근처 방에 있습니다. 저희 요구에 따르면 오늘 중으로라도 개방하겠습니다」,「…笹谷明穗现在在这栋大楼接近顶楼的房间里。如果您按照我们的要求行事，她今天之内就能被放出来。」
 ,,,,,,,,,
@@ -111,7 +111,7 @@ Dialog.Chapter2-2-18,005号,「静かにしてください。大事な事なの�
 ,,,,,,,,,
 Dialog.Chapter2-2-19,,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花は服を全てぬがされ、クローン戦闘員達によって身体を検査されていた,六花被迫脫光了所有衣服，正在被克隆戰鬥員們檢查身體。,六花被迫脫光了所有衣服，正在被克隆戰鬥員們檢查身體。,Rikka was stripped of all her clothes and her body was examined by the clone fighters.,Rikka was stripped naked and inspected by the clone soldiers.,"릿카는 옷을 전부 벗겨지고, 클론 전투원들에게 신체를 검사받고 있었다",六花被迫脱光了所有衣服，正在被克隆战斗员们检查身体。
 ,,,,,,,,,
-Dialog.Chapter2-2-20,六花,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……如果妳們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,「……如果你們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,"「...... if you touch me or try anything weird, I'll transform.」","""I am going to transform if you try to do anything funny.""","「……만약 만지거나, 뭔가 이상한 짓 하려 하면 그땐 언제든 변신할 거니까」",「……如果妳们突然摸我或者做什么奇怪的事，那我可是随时都可以变身的啊。」
+Dialog.Chapter2-2-20,六花,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……もし触ったり、何か変な事しようとしたらその時はいつでも変身するから」,「……如果妳們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,「……如果你們突然摸我或者做什麼奇怪的事，那我可是隨時都可以變身的啊。」,"「...... if you touch me or try anything weird, I'll transform.」","""I am going to transform if you try to do anything funny.""","「……만약 만지거나, 뭔가 이상한 짓 하려 하면 그땐 언제든 변신할 거니까」",「……如果你们突然摸我或者做什么奇怪的事，那我可是随时都可以变身的啊。」
 ,,,,,,,,,
 Dialog.Chapter2-2-21,005号,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「もちろんわかっています。オリジナルの下着は水色縞模様…と」,「這種事情我們當然知道。嗯.. 原來原型的內衣是水藍色條紋的…」,「這種事情我們當然知道。嗯.. 原來原型的內衣是水藍色條紋的…」,「Of course I know. So the original underwear was light blue striped...」,"""We understand. Your underwear is blue... I see...""",「물론 알고 있습니다. 오리지널의 속옷은 하늘색 줄무늬…라고」,「这种事情我们当然知道。嗯.. 原来原型的内衣是水蓝色条纹的…」
 ,Rikka2-2,,,,,,,,
@@ -129,13 +129,13 @@ Dialog.Chapter2-2-27,005号,「続けます。クリトリスの大きさは―�
 ,,,,,,,,,
 Dialog.Chapter2-2-28,,しばらくクローン達による計測が続いた後,しばらくクローン達による計測が続いた後,在克隆人進行了一段時間的測量之後。,在克隆人進行了一段時間的測量之後,After some time of measurement by the clones,After the clones measured what they needed from Rikka...,잠시 클론들에 의한 계측이 계속된 후,在克隆人进行了一段时间的测量之后。
 ,,,,,,,,,
-Dialog.Chapter2-2-29,005号,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――接下來是口頭問題。請告訴我們妳一週自慰的次數。」,「――接下來是口頭問題。請告訴我們你一週自慰的次數。」,「―――― the next question is an oral question. How many times do you masturbate in a week?」,"""Now we will ask you some questions. How many times a week do you masturbate?""",「――――그럼 다음은 구두 질문입니다. 일주일간의 자위 횟수를 알려주십시오.」,「――接下来是口头问题。请告诉我们妳一周自慰的次数。」
+Dialog.Chapter2-2-29,005号,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――――では次に口頭での質問です。一週間の自慰の回数を教えてください。」,「――接下來是口頭問題。請告訴我們妳一週自慰的次數。」,「――接下來是口頭問題。請告訴我們你一週自慰的次數。」,「―――― the next question is an oral question. How many times do you masturbate in a week?」,"""Now we will ask you some questions. How many times a week do you masturbate?""",「――――그럼 다음은 구두 질문입니다. 일주일간의 자위 횟수를 알려주십시오.」,「――接下来是口头问题。请告诉我们你一周自慰的次数。」
 ,,,,,,,,,
 Dialog.Chapter2-2-30,六花,「はぁっ！？なんでそんなことっ」,「はぁっ！？なんでそんなことっ」,「啥！？為什麼要問這種事啊！」,「啥！？為什麼要問這種事啊！」,「Huh? Again why does that matter?」,"""Huh? Why do you need to know?""",「하앗!? 왜 그런 걸」,「啥！？为什么要问这种事啊！」
 ,,,,,,,,,
 Dialog.Chapter2-2-31,005号,「これも聖核戦姫の身体に与える影響を―――」,「これも聖核戦姫の身体に与える影響を―――」,「當然這也是為了調查聖核戰姫對身體的影響―――」,「當然這也是為了調查聖核戰姫對身體的影響―――」,「This too will have an effect on the body of the Seikaku Princess...」,"""We need to know the impact of being a Holy Core Battlemaiden...""",「이것도 성핵전희의 신체에 미치는 영향을―――」,「当然这也是为了调查圣核战姫对身体的影响―――」
 ,,,,,,,,,
-Dialog.Chapter2-2-32,六花,「だからってそんなの教えるわけないでしょ！」,「だからってそんなの教えるわけないでしょ！」,「就算這樣說總不可能回答妳這種問題吧！」,「就算這樣總不可能回答你這種問題吧！」,「That doesn't mean I'm going to tell you that!」,"""That's not something I will tell you!""",「그렇다고 그런 걸 가르쳐줄 리 없잖아!」,「就算这样说总不可能回答妳这种问题吧！」
+Dialog.Chapter2-2-32,六花,「だからってそんなの教えるわけないでしょ！」,「だからってそんなの教えるわけないでしょ！」,「就算這樣說總不可能回答妳這種問題吧！」,「就算這樣總不可能回答你這種問題吧！」,「That doesn't mean I'm going to tell you that!」,"""That's not something I will tell you!""",「그렇다고 그런 걸 가르쳐줄 리 없잖아!」,「就算这样说总不可能回答你这种问题吧！」
 ,,,,,,,,,
 Dialog.Chapter2-2-33,005号,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……貴女は笹谷明穂よりも自分のプライドを優先するのですか？」,「……比起笹谷明穗您更優先自己的尊嚴嗎？」,「……比起笹谷明穗您更優先自己的尊嚴嗎？」,「...... you put your pride ahead of Sasaya Akiho?」,"""...Is your pride more important than Akiho Sasaya?""",「……당신은 사사야 아키호보다 자신의 프라이드를 우선시하는 겁니까?」,「……比起笹谷明穗您更优先自己的尊严吗？」
 ,,,,,,,,,
@@ -143,7 +143,7 @@ Dialog.Chapter2-2-34,六花,「っ！………うぅ～」,「っ！………う
 ,,,,,,,,,
 Dialog.Chapter2-2-35,,「………週に、3回…ぐらい。」,「………週に、3回…ぐらい。」,「……一週，大約…3次。」,「……一週，大約…3次。」,「......... about...three times..... a week.」,"""About... three times a week...""","「………일주일에, 3번…정도.」",「……一周，大约…3次。」
 ,,,,,,,,,
-Dialog.Chapter2-2-36,005号,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「請不要做出虛假的報告。從妳的搜尋記錄來看———」,「請不要做出虛假的報告。從你的搜尋記錄來看———」,「Please do not report false information. Your search history says otherw――」,"""Please do not provide false information. From your search history...""",「허위 보고는 하지 마십시오. 당신의 검색 기록에는―――」,「请不要做出虚假的报告。从妳的搜寻记录来看———」
+Dialog.Chapter2-2-36,005号,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「虚偽の報告はやめてください。あなたの検索履歴からは―――」,「請不要做出虛假的報告。從妳的搜尋記錄來看———」,「請不要做出虛假的報告。從你的搜尋記錄來看———」,「Please do not report false information. Your search history says otherw――」,"""Please do not provide false information. From your search history...""",「허위 보고는 하지 마십시오. 당신의 검색 기록에는―――」,「请不要做出虚假的报告。从你的搜寻记录来看———」
 ,,,,,,,,,
 Dialog.Chapter2-2-37,六花,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「毎日っ！、疲れてる時以外は毎日してるっ！朝起きた時と夜シャワー浴びる前に！」,「每天！！除非太累的時候，每天都會做！早上起床時和晚上洗澡前！」,「每天！！除非太累的時候，每天都會做！早上起床時和晚上洗澡前！」,「Every day! I do it every day except when I'm tired! When I wake up in the morning and before I shower at night!」,"""Every day! Every day unless I'm tired! I do it when I wake up and before I take a shower at night!""",「매일! 피곤할 때 빼고는 매일 하고 있어! 아침에 일어났을 때랑 밤에 샤워하기 전에!」,「每天！！除非太累的时候，每天都会做！早上起床时和晚上洗澡前！」
 ,,,,,,,,,
@@ -153,19 +153,19 @@ Dialog.Chapter2-2-39,六花,「………っ、妄想しながらっ、……指�
 ,,,,,,,,,
 Dialog.Chapter2-2-40,005号,「正直に答えていただきありがとうございました」,「正直に答えていただきありがとうございました」,「感謝您誠實地回答。」,「感謝您誠實地回答。」,「Thank you for your honesty.」,"""Thank you for providing the correct answers.""",「솔직하게 답해주셔서 감사합니다」,「感谢您诚实地回答。」
 ,,,,,,,,,
-Dialog.Chapter2-2-41,六花,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……嗚……應該說妳們為什麼會知道我的搜尋記錄！？」,「……嗚……應該說你們為什麼會知道我的搜尋記錄！？」,"「...... Ugh, I mean...how do you know my search history!」","""Ugh... Wait, how do you know my search history?""","「……으으, …그보다 왜 검색 기록을 아는 거야!?」",「……呜……应该说妳们为什么会知道我的搜寻记录！？」
+Dialog.Chapter2-2-41,六花,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……うぅ、…っていうかなんで検索履歴知ってるの！？」,「……嗚……應該說妳們為什麼會知道我的搜尋記錄！？」,「……嗚……應該說你們為什麼會知道我的搜尋記錄！？」,"「...... Ugh, I mean...how do you know my search history!」","""Ugh... Wait, how do you know my search history?""","「……으으, …그보다 왜 검색 기록을 아는 거야!?」",「……呜……应该说你们为什么会知道我的搜寻记录！？」
 ,,,,,,,,,
 Dialog.Chapter2-2-42,005号,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「私は貴女のクローンですので、スマホの生体認証も簡単に突破できました」,「因為我是您的克隆，所以輕鬆突破了手機的生物認證。」,「因為我是您的克隆，所以輕鬆突破了手機的生物認證。」,"「Since I am a clone of you, I was able to easily get past the biometrics on your phone.」","""I'm your clone, it was easy to bypass the biometric verification on your phone.""","「저는 당신의 클론이므로, 스마트폰의 생체 인증도 간단히 돌파할 수 있었습니다」",「因为我是您的克隆，所以轻松突破了手机的生物认证。」
 ,,,,,,,,,
-Dialog.Chapter2-2-43,六花,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……！（完事後要把妳們揍飛然後消除記憶！）」,「……！（完事後要把你們揍飛然後消除記憶！）」,「...... (I'm going to blow you up and erase all history when I'm done!)」,"""... (I'm going to beat her up so she won't remember a thing!)""",「……윽! (끝나면 박살 내서 기억 지워버리겠어!)」,「……！（完事后要把妳们揍飞然后消除记忆！）」
+Dialog.Chapter2-2-43,六花,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……っ！(終わったらぶっ飛ばして記憶消してやるっ)」,「……！（完事後要把妳們揍飛然後消除記憶！）」,「……！（完事後要把你們揍飛然後消除記憶！）」,「...... (I'm going to blow you up and erase all history when I'm done!)」,"""... (I'm going to beat her up so she won't remember a thing!)""",「……윽! (끝나면 박살 내서 기억 지워버리겠어!)」,「……！（完事后要把你们揍飞然后消除记忆！）」
 ,,,,,,,,,
 Dialog.Chapter2-2-44,005号,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「では最後です。尿検査を行いますのでこの容器に向かって放尿してください。」,「那麼最後一項。接下來要進行尿液檢查，請對著這個容器排尿。」,「那麼最後一項。接下來要進行尿液檢查，請對著這個容器排尿。」,「Now the last part. Please urinate into this container as we perform a urine test.」,"""We're almost at the end. A urine test is required, so please urinate toward this container.""",「그럼 마지막입니다. 소변 검사를 할 테니 이 용기에 소변을 보십시오.」,「那么最后一项。接下来要进行尿液检查，请对着这个容器排尿。」
 ,Rikka2-3,,,,,,,「하앗!? 여기서!?」,
 Dialog.Chapter2-2-45,六花,「はぁ！？ここでっ！？」,「はぁ！？ここでっ！？」,「蛤！？在、在這裡！？」,「蛤！？在、在這裡！？」,「Huh? Here!」,"""Huh? Here? Now?""",,「蛤！？在、在这里！？」
 ,,,,,,,,,
-Dialog.Chapter2-2-46,005号,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,"「Of course. If you go somewhere we can't see, we don't know what you will do. I can't touch you, so I have no choice but to do this.」","""Of course. We don't know what you might do where we can't see you. Since we can't touch you, this is the only way.""","「당연합니다. 안 보이는 곳에 가면 무슨 짓을 할지 모르니까요. 만질 수도 없으니, 이렇게 할 수밖에 없습니다.」",「当然了。要是让妳去看不见的地方，谁知道会做出什么事呢。也不能让妳用手触碰，所以除此之外别无他法。」
+Dialog.Chapter2-2-46,005号,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「当たり前です。見えないところに行ったら何をするかわかりませんからね。触ることもできないので、こうするほかありません。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,「當然了。要是讓妳去看不見的地方，誰知道會做出什麼事呢。也不能讓妳用手觸碰，所以除此之外別無他法。」,"「Of course. If you go somewhere we can't see, we don't know what you will do. I can't touch you, so I have no choice but to do this.」","""Of course. We don't know what you might do where we can't see you. Since we can't touch you, this is the only way.""","「당연합니다. 안 보이는 곳에 가면 무슨 짓을 할지 모르니까요. 만질 수도 없으니, 이렇게 할 수밖에 없습니다.」",「当然了。要是让你去看不见的地方，谁知道会做出什么事呢。也不能让你用手触碰，所以除此之外别无他法。」
 ,,,,,,,,,
-Dialog.Chapter2-2-47,六花,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「就算妳這麼說……在、在這麼多人面前……！」,「就算你這麼說……在、在這麼多人面前……！」,"「Even so, but there are so many people here...!」","""Even if you say so, to do it with everyone here...""","「그런 말 해도…윽, 이렇게 사람 많은 데서!」",「就算妳这么说……在、在这么多人面前……！」
+Dialog.Chapter2-2-47,六花,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「そんなこと言ったって…っ、こんなに人いる中でっ…！」,「就算妳這麼說……在、在這麼多人面前……！」,「就算你這麼說……在、在這麼多人面前……！」,"「Even so, but there are so many people here...!」","""Even if you say so, to do it with everyone here...""","「그런 말 해도…윽, 이렇게 사람 많은 데서!」",「就算你这么说……在、在这么多人面前……！」
 ,,,,,,,,,
 Dialog.Chapter2-2-48,005号,「そうですね。早くしてください。これで最後なので」,「そうですね。早くしてください。これで最後なので」,「嗯。請快一點吧。這是最後一項了。」,「嗯。請快一點吧。這是最後一項了。」,「I see. Please hurry up. This is the last one.」,"""Right. Well, please hurry up. This is the last item on the list.""",「그렇군요. 빨리 하십시오. 이걸로 마지막이니까」,「嗯。请快一点吧。这是最后一项了。」
 ,Rikka2-2,,,,,,,,
@@ -207,7 +207,7 @@ Dialog.Chapter2-2-65,六花,「～～～っっっ、！」,「～～～っっっ
 ,廃ビル(日中),,,,,,,,
 Dialog.Chapter2-2-66,六花,「…これで要求には全部従った。早く明穂に会わせて」,「…これで要求には全部従った。早く明穂に会わせて」,「……我已經配合完所有要求了。快讓我見明穗。」,「……我已經配合完所有要求了。快讓我見明穗。」,"「I've complied with all of your demands. Quickly, let me see Akiho.」","""I've done everything you asked, so please take me to Akiho.""",「…이걸로 요구는 전부 따랐어. 빨리 아키호에게 데려가 줘.」,「……我已经配合完所有要求了。快让我见明穗。」
 ,,,,,,,,,
-Dialog.Chapter2-2-67,005号,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「'Yes...but do you think we would do nothing in the face of an enemy who is completely naked and handcuffed?'」,"""I see. But do you think we won't take any action with our enemy standing in front of us naked?""","「그렇군요… 하지만 알몸에 수갑 찬 상태의 적을 앞에 두고, 저희가 아무것도 안 할 거라고 생각하십니까?」",「是啊……可是，妳难道真的天真地以为我们在面对全裸且戴着手铐的敌人时，会什么都不做吗？」
+Dialog.Chapter2-2-67,005号,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「そうですね…、しかし全裸で手錠をつけた状態の敵を前に、私達が何もしないと思いますか？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「是啊……可是，妳難道真的天真地以為我們在面對全裸且戴著手銬的敵人時，會什麼都不做嗎？」,「'Yes...but do you think we would do nothing in the face of an enemy who is completely naked and handcuffed?'」,"""I see. But do you think we won't take any action with our enemy standing in front of us naked?""","「그렇군요… 하지만 알몸에 수갑 찬 상태의 적을 앞에 두고, 저희가 아무것도 안 할 거라고 생각하십니까?」",「是啊……可是，你难道真的天真地以为我们在面对全裸且戴着手铐的敌人时，会什么都不做吗？」
 ,,,,,,,,,
 Dialog.Chapter2-2-68,,部屋のあちこちから隠れていた戦闘員が現れる,部屋のあちこちから隠れていた戦闘員が現れる,隱藏在房間各處的戰鬥員們陸續現身。,隱藏在房間各處的戰鬥員們陸續現身。,Combatants who had been hiding emerge from various parts of the room.,Soldiers emerged from their hiding spots in the room.,방 곳곳에서 숨어 있던 전투원들이 나타난다,隐藏在房间各处的战斗员们陆续现身。
 ,,,,,,,,,
@@ -225,7 +225,7 @@ Dialog.Chapter2-2-74,六花,「ふんっ！」,「ふんっ！」,「哼！」,�
 ,,,,,,,,,
 Dialog.Chapter2-2-75,,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,六花につけられていた手錠の鎖が糸のように簡単に引きちぎられたと思うと―――,原本銬在六花身上的手銬鎖鏈，竟如細線般被輕易扯斷——,原本銬在六花身上的手銬鎖鏈，竟如細線般被輕易扯斷——,The chains of the handcuffs on Rikka were ripped off as easily as thread―――.,Rikka broke the handcuffs they placed around her wrists like a thread.,릿카에게 채워져 있던 수갑 사슬이 실처럼 간단히 끊어지는가 싶더니―――,原本铐在六花身上的手铐锁链，竟如细线般被轻易扯断——
 ,,,,,,,,,
-Dialog.Chapter2-2-76,,「あんた達、流石に私を舐めすぎ…、はっ！」,「あんた達、流石に私を舐めすぎ…、はっ！」,「妳們也未免太小看我了……哈！」,「你們也未免太小看我了……哈！」,「You guys underestimated too much...ha!」,"""You really thought this could keep me down? Huh?""","「너희들, 너무 나를 얕봤어…, 하앗!」",「妳们也未免太小看我了……哈！」
+Dialog.Chapter2-2-76,,「あんた達、流石に私を舐めすぎ…、はっ！」,「あんた達、流石に私を舐めすぎ…、はっ！」,「妳們也未免太小看我了……哈！」,「你們也未免太小看我了……哈！」,「You guys underestimated too much...ha!」,"""You really thought this could keep me down? Huh?""","「너희들, 너무 나를 얕봤어…, 하앗!」",「你们也未免太小看我了……哈！」
 ,,,,,,,,,
 Dialog.Chapter2-2-77,,ドガガガッ！,ドガガガッ！,轟轟轟轟！,轟轟轟轟！,Dogga―ga―ga!,Boom!,도가각!,轰轰轰轰！
 ,,,,,,,,,
@@ -233,7 +233,7 @@ Dialog.Chapter2-2-78,,「がはっ！」,「がはっ！」,「哈！」,「哈�
 ,,,,,,,,,
 Dialog.Chapter2-2-79,,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,六花の回し蹴りの一撃が顎を揺らし、襲い掛かった戦闘員が全員床に崩れ落ちる,被六花的一記迴旋踢震碎下顎，襲向她的戰鬥員們應聲全數倒地。,被六花的一記迴旋踢震碎下顎，襲向她的戰鬥員們應聲全數倒地。,Rikka's spinning kick blow shakes the jaw and all the attacked fighters crumple to the floor.,Rikka launched a roundhouse kick that knocked all the soldiers around her down.,"릿카의 돌려차기 한 방이 턱을 흔들고, 덤벼든 전투원 전원이 바닥에 쓰러진다",被六花的一记回旋踢震碎下颚，袭向她的战斗员们应声全数倒地。
 ,,,,,,,,,
-Dialog.Chapter2-2-80,六花,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「我沒那麼多時間陪妳們。明穗，我現在就去找妳！哈！」,「我沒那麽多時間陪你們。明穗，我現在就去找你！哈！」,"「I don't have time for you guys anymore. Wait for me, Akiho, I'm coming! Haa!」","""I don't have time for this. Akiho, I'm coming to rescue you!""","「이제 너희들 상대할 시간 없어. 기다려 아키호, 지금 갈 테니까! 하아앗!」",「我没那么多时间陪妳们。明穗，我现在就去找妳！哈！」
+Dialog.Chapter2-2-80,六花,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「もうあんた達にかまってる暇はない。待ってて明穂、今行くから！はぁっ！」,「我沒那麼多時間陪妳們。明穗，我現在就去找妳！哈！」,「我沒那麽多時間陪你們。明穗，我現在就去找你！哈！」,"「I don't have time for you guys anymore. Wait for me, Akiho, I'm coming! Haa!」","""I don't have time for this. Akiho, I'm coming to rescue you!""","「이제 너희들 상대할 시간 없어. 기다려 아키호, 지금 갈 테니까! 하아앗!」",「我没那么多时间陪你们。明穗，我现在就去找你！哈！」
 ,,,,,,,,,
 Dialog.Chapter2-2-81,,ドゴッ！！,ドゴッ！！,咚轟！！,咚轟！！,!!!!!!!!!!!!!!!!!,Bang!,도곡!!,咚轰！！
 ,,,,,,,,,
@@ -247,7 +247,7 @@ Dialog.Chapter2-2-85,,ドゴンッ！ドゴンッ！,ドゴンッ！ドゴンッ
 ,,,,,,,,,
 Dialog.Chapter2-2-86,,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,襲い掛かる戦闘員をことごとく瞬殺し、六花は天井を破りながら最短ルートで明穂のいる階に上っていく。,將襲來的戰鬥員一一瞬殺，六花破開天花板，沿最短路徑衝嚮明穗所在的樓層。,將襲來的戰鬥員一一瞬殺，六花破開天花板，沿最短路徑衝向明穗所在的樓層。,"defeating every combatant who try to attacked her, Rikka took the shortest route up to the floor where Akiho was, breaking through the ceiling.","Rikka took down all the soldiers in the blink of an eye, and kept going up by breaking through the ceiling.","덤벼드는 전투원들을 모조리 순살하고, 릿카는 천장을 부수며 최단 루트로 아키호가 있는 층으로 올라간다.",将袭来的战斗员一一瞬杀，六花破开天花板，沿最短路径冲向明穗所在的楼层。
 ,,,,,,,,,
-Dialog.Chapter2-2-87,,(待ってて明穂っ！今行くからっ！),(待ってて明穂っ！今行くからっ！),（等我明穗！我現在就去找妳！）,（等我明穗！我現在就去找你！）,"(Wait for me, Akiho! I'm coming!)","(Just wait, Akiho! I'm coming!)",(기다려 아키호! 지금 갈게!),（等我明穗！我现在就去找妳！）
+Dialog.Chapter2-2-87,,(待ってて明穂っ！今行くからっ！),(待ってて明穂っ！今行くからっ！),（等我明穗！我現在就去找妳！）,（等我明穗！我現在就去找你！）,"(Wait for me, Akiho! I'm coming!)","(Just wait, Akiho! I'm coming!)",(기다려 아키호! 지금 갈게!),（等我明穗！我现在就去找你！）
 ,,,,,,,,,
 Dialog.Chapter2-2-88,,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,そして六花は、ものの1分ほどで明穂のいる階に到達し―――,六花僅用了不到一分鐘便抵達了明穗所在的樓層——,六花僅用了不到一分鐘便抵達了明穗所在的樓層——,"Rikka reached the floor where Akiho was in about a minute, and...",It only took Rikka about a minute to reach the floor that Akiho was on.,그리고 릿카는 불과 1분 만에 아키호가 있는 층에 도착하여―――,六花仅用了不到一分钟便抵达了明穗所在的楼层——
 ,,,,,,,,,
@@ -273,7 +273,7 @@ Dialog.Chapter2-3-6,六花,「明穂っ！」,「明穂っ！」,「明穗！」
 ,,,,,,,,,
 Dialog.Chapter2-3-7,明穂,「―――六花！」,「―――六花！」,「———六花！」,「———六花！」,「Rikka!」,"""Rikka!""",「―――릿카!」,「———六花！」
 ,,,,,,,,,
-Dialog.Chapter2-3-8,六花,「よかった…無事で…」,「よかった…無事で…」,「太好了……妳沒事就好……」,「太好了……妳沒事就好……」,「Thank God... you're safe...」,"""I'm glad you're all right...""",「다행이다… 무사했구나…」,「太好了……妳没事就好……」
+Dialog.Chapter2-3-8,六花,「よかった…無事で…」,「よかった…無事で…」,「太好了……妳沒事就好……」,「太好了……妳沒事就好……」,「Thank God... you're safe...」,"""I'm glad you're all right...""",「다행이다… 무사했구나…」,「太好了……你没事就好……」
 ,,,,,,,,,
 Dialog.Chapter2-3-9,明穂,「うん…六花なら助けに来てくれるって信じてた…。」,「うん…六花なら助けに来てくれるって信じてた…。」,「嗯……我就知道，六花一定會來救我……」,「嗯……我就知道，六花一定會來救我……」,「Yes. I've never doubt that Rikka would come to my rescue...」,"""I knew you would come for me...""",「응… 릿카라면 도와주러 올 거라고 믿었어….」,「嗯……我就知道，六花一定会来救我……」
 ,,,,,,,,,
@@ -295,7 +295,7 @@ Dialog.Chapter2-3-17,明穂,「ごめんね六花。でもしょうがないの�
 ,,,,,,,,,
 Dialog.Chapter2-3-18,,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,明穂の体から赤紫のドロドロとした怪しい光が立ち上り、姿を変える,赤紫色、黏稠而詭異的光芒自明穗體內湧出，她的身姿也隨之扭曲改變。,赤紫色、黏稠而詭異的光芒自明穗體內湧出，她的身姿也隨之扭曲改變。,A suspicious reddish-purple sludge light rises from Akiho's body and changes her form.,Akiho's body glowed red and purple as she transformed.,"아키호의 몸에서 자줏빛 질척한 빛이 피어오르며, 모습이 변한다",赤紫色、黏稠而诡异的光芒自明穗体内涌出，她的身姿也随之扭曲改变。
 ,,,,,,,,,
-Dialog.Chapter2-3-19,六花,「――――――っ、――明穂……なの？」,「――――――っ、――明穂……なの？」,「――……妳、是……明穗……嗎？」,「――……妳、是……明穗……嗎？」,「――――――――.....are you.... Akiho.?」,"""...Are you Akiho?""","「――――――윽, ――아키호……맞아?」",「――……妳、是……明穗……吗？」
+Dialog.Chapter2-3-19,六花,「――――――っ、――明穂……なの？」,「――――――っ、――明穂……なの？」,「――……妳、是……明穗……嗎？」,「――……妳、是……明穗……嗎？」,「――――――――.....are you.... Akiho.?」,"""...Are you Akiho?""","「――――――윽, ――아키호……맞아?」",「――……你、是……明穗……吗？」
 ,,,,,,,,,
 Dialog.Chapter2-3-20,明穂,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「ふふっ、そうだよ六花♥ちょっと見た目は変わっちゃったかもしれないけど♥」,「呵呵，是我喔，六花♥ 雖然……外表好像變得有點不一樣了♥」,「呵呵，是我喔，六花♥ 雖然……外表好像變得有點不一樣了♥」,"「Rikka, I may have changed my appearance a little, but I'm still the same person.」","""Yes, I am. I might look a little different, though.""","「후훗, 맞아 릿카♥ 좀 모습은 변했을지도 모르지만♥」",「呵呵，是我喔，六花♥ 虽然……外表好像变得有点不一样了♥」
 ,,,,,,,,,
@@ -303,7 +303,7 @@ Dialog.Chapter2-3-21,,明穂の髪は戦闘員のような白色に変わり、�
 ,,,,,,,,,
 Dialog.Chapter2-3-22,,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,そして、その口元からはかつての親友がするはずのない淫猥で嗜虐的な笑みがこぼれていた。,而此刻，那張曾屬於摯友的臉上，卻浮現出過去從未見過、充滿惡意與妖媚的笑容。,而此刻，那張曾屬於摯友的臉上，卻浮現出過去從未見過、充滿惡意與妖媚的笑容。,And her mouth was smiling an obscene and lecherous smile that she would never have done.,"She had a perverted and sadistic smile on her face, one that Rikka had never seen before from her friend.","그리고, 그 입가에서는 과거의 친구가 지을 리 없는 음란하고 가학적인 미소가 흘러나왔다.",而此刻，那张曾属于挚友的脸上，却浮现出过去从未见过、充满恶意与妖媚的笑容。
 ,,,,,,,,,
-Dialog.Chapter2-3-23,明穂,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花，從一開始的計劃就是把妳引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,「六花，從一開始的計劃就是把你引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,"「Rikka was led to come here from the beginning, you know? I didn't think you'd break through the quicksand floor like that, but...」","""You were guided here, right? I didn't expect you to break the floors, though.""",「릿카는 처음부터 여기 오도록 유도된 거라고? 설마 바닥을 부수고 올 줄은 몰랐지만…」,「六花，从一开始的计划就是把妳引到这里来喔？虽然我是没想到妳会直接撞破天花板上来啦……」
+Dialog.Chapter2-3-23,明穂,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花は最初からここに来るように誘導されてたんだよ？流石に床を破ってくるとは思わなかったけど…」,「六花，從一開始的計劃就是把妳引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,「六花，從一開始的計劃就是把你引到這裡來喔？雖然我是沒想到妳會直接撞破天花板上來啦……」,"「Rikka was led to come here from the beginning, you know? I didn't think you'd break through the quicksand floor like that, but...」","""You were guided here, right? I didn't expect you to break the floors, though.""",「릿카는 처음부터 여기 오도록 유도된 거라고? 설마 바닥을 부수고 올 줄은 몰랐지만…」,「六花，从一开始的计划就是把你引到这里来喔？虽然我是没想到你会直接撞破天花板上来啦……」
 ,,,,,,,,,
 Dialog.Chapter2-3-24,,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,そして、物陰から何人もの財団の戦闘員と怪人が現れる。,接著，許多財團的戰鬥員與怪人接連從陰影處現身。,接著，許多財團的戰鬥員與怪人接連從陰影處現身。,"Then, out of the shadows, a number of foundation fighters and monsters emerge.",Several Foundation monsters and soldiers emerged from the shadows.,"그리고, 그늘에서 몇 명이나 되는 재단 전투원과 괴인이 나타난다.",接着，许多财团的战斗员与怪人接连从阴影处现身。
 ,,,,,,,,,
@@ -311,13 +311,13 @@ Dialog.Chapter2-3-25,,「私、財団に怪人に改造してもらって、今�
 ,,,,,,,,,
 Dialog.Chapter2-3-26,六花,「そ、んな…っ」,「そ、んな…っ」,「怎、怎麼會這樣……」,「怎、怎麼會這樣……」,"「Oh, no...」","""I... No...""","「그, 럴…윽」",「怎、怎么会这样……」
 ,,,,,,,,,
-Dialog.Chapter2-3-27,,「……許さないっ！――――――！」,「……許さないっ！――――――！」,「……絕不饒恕妳們！――――――！」,「……絕不饒恕你們！――――――！」,「I won't forgive ......! ――――――!」,"""I can't forgive you for this!""",「……용서 못 해! ――――――!」,「……绝不饶恕妳们！――――――！」
+Dialog.Chapter2-3-27,,「……許さないっ！――――――！」,「……許さないっ！――――――！」,「……絕不饒恕妳們！――――――！」,「……絕不饒恕你們！――――――！」,「I won't forgive ......! ――――――!」,"""I can't forgive you for this!""",「……용서 못 해! ――――――!」,「……绝不饶恕你们！――――――！」
 ,,,,,,,,,
 Dialog.Chapter2-3-28,,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,力が入らず、朦朧とした意識の中、六花は気合で無理やり立ち上がる。,即使全身無力、意識也逐漸模糊，六花仍憑著一股意志硬是撐起身體站了起來。,即使全身無力、意識也逐漸模糊，六花仍憑著一股意志硬是撐起身體站了起來。,"With no strength and in a daze of consciousness, Rikka forced herself to stand up with her spirit.",Rikka tried to stand up despite her mind fading.,"힘이 들어가지 않고, 몽롱한 의식 속에서, 릿카는 기합으로 억지로 일어선다.",即使全身无力、意识也逐渐模糊，六花仍凭着一股意志硬是撑起身体站了起来。
 ,,,,,,,,,
 Dialog.Chapter2-3-29,,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「ハァ、ハァッ、明穂は…絶対取り戻すッ！変身っ！」,「哈、哈啊……我一定會把明穗……帶回來！變身！」,「哈、哈啊……我一定會把明穗……帶回來！變身！」,"「Huh, huh, Akiho...I'll get you back! Transform!」","""Huff... I will take Akiho back! Transform!""","「하아, 하아앗, 아키호는… 절대로 되찾겠어! 변신!」",「哈、哈啊……我一定会把明穗……带回来！变身！」
 ,,,,,,,,,
-Dialog.Chapter2-3-30,明穂,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，妳得忍一忍咯？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，你得忍一忍咯？」,"「Rikka, as expected! I knew drugs alone wouldn't stop you. ―――It might hurt a little bit, but you'll just have to bear with it, okay?」","""Wow, go you! I knew drugs weren't enough to keep you down. This is going to hurt, but bear with me.""",「역시 릿카! 역시 약만으로는 멈출 수 없구나. ―――좀 아플지도 모르지만 참아줘?」,「不愧是六花！果然光靠药物是挡不住妳的呢～♪ 不过……接下来可能会有点痛，妳得忍一忍咯？」
+Dialog.Chapter2-3-30,明穂,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「さすが六花！やっぱりクスリだけじゃ止められないよね。―――ちょっと痛いかもだけど我慢してね？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，妳得忍一忍咯？」,「不愧是六花！果然光靠藥物是擋不住妳的呢～♪ 不過……接下來可能會有點痛，你得忍一忍咯？」,"「Rikka, as expected! I knew drugs alone wouldn't stop you. ―――It might hurt a little bit, but you'll just have to bear with it, okay?」","""Wow, go you! I knew drugs weren't enough to keep you down. This is going to hurt, but bear with me.""",「역시 릿카! 역시 약만으로는 멈출 수 없구나. ―――좀 아플지도 모르지만 참아줘?」,「不愧是六花！果然光靠药物是挡不住你的呢～♪ 不过……接下来可能会有点痛，你得忍一忍咯？」
 ,,,,,,,,,
 ,戦闘開始,,,,,,,,
 ,,,,,,,,,
@@ -369,7 +369,7 @@ Dialog.Chapter2-3-51,,ピ―――――――,ピ―――――――,嗶―�
 ,,,,,,,,,
 Dialog.Chapter2-3-52,005号,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………作戦を変更します。今から部隊を二つに分け、一つは六花移送部隊。もう一つは足止め部隊です。」,「………變更作戰計劃。現在起將部隊分成兩支，一支為六花移送部隊，另一支為阻截部隊。」,「………變更作戰計劃。現在起將部隊分成兩支，一支為六花移送部隊，另一支為阻截部隊。」,"「......... I am going to revert the operation plan. From now on, we will split the force into two. One will be the Rikka transport force. The other is a stall force.」","""Plan B. Split into two groups now. One will take Rikka back, and one will stop the Battlemaiden.""","「………작전을 변경합니다. 지금부터 부대를 둘로 나누어, 하나는 릿카 이송 부대. 다른 하나는 발 묶기 부대입니다.」",「………变更作战计划。现在起将部队分成两支，一支为六花移送部队，另一支为阻截部队。」
 ,,,,,,,,,
-Dialog.Chapter2-3-53,005号,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,"「Sasaya Akiho, please return to the hideout with a few fighters and take Minase Rikka with you. The rest of the fighters will stay here with me to buy time.」","""Akiho Sasaya and several soldiers will take Rikka Minase back to the hideout. Everyone else will stay with me to stall the Battlemaiden.""",「사사야 아키호는 몇 명의 전투원과 함께 미나세 릿카를 데리고 아지트로 귀환하십시오. 그 외의 전투원은 저와 함께 여기서 시간을 벌겠습니다.」,「笹谷明穗，妳带上几名战斗员护送水无濑六花返回据点。其馀战斗员跟我留在这里争取时间。」
+Dialog.Chapter2-3-53,005号,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穂は数名の戦闘員と共に水無瀬六花を連れてアジトへ帰還してください。それ以外の戦闘員は私と共にここで時間を稼ぎます。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,「笹谷明穗，妳帶上幾名戰鬥員護送水無瀨六花返回據點。其餘戰鬥員跟我留在這裡爭取時間。」,"「Sasaya Akiho, please return to the hideout with a few fighters and take Minase Rikka with you. The rest of the fighters will stay here with me to buy time.」","""Akiho Sasaya and several soldiers will take Rikka Minase back to the hideout. Everyone else will stay with me to stall the Battlemaiden.""",「사사야 아키호는 몇 명의 전투원과 함께 미나세 릿카를 데리고 아지트로 귀환하십시오. 그 외의 전투원은 저와 함께 여기서 시간을 벌겠습니다.」,「笹谷明穗，你带上几名战斗员护送水无濑六花返回据点。其馀战斗员跟我留在这里争取时间。」
 ,,,,,,,,,
 Dialog.Chapter2-3-54,明穂,「…っ！分かった。じゃあ行くねっ！」,「…っ！分かった。じゃあ行くねっ！」,「…！知道了。那我們走！」,「…！知道了。那我們走！」,"「Okay, I'll go then!」","""...Right. See you!""",「…윽! 알았어. 그럼 갈게!」,「…！知道了。那我们走！」
 ,,,,,,,,,
@@ -399,7 +399,7 @@ Dialog.Chapter2-3-64,,ドシュッ！という音と共にエレナはビルの�
 ,,,,,,,,,
 Dialog.Chapter2-3-65,六花？,「……！エレナ先輩っ！？」,「……！エレナ先輩っ！？」,「……！艾蓮娜前輩！？」,「……！艾蓮娜前輩！？」,「......! Erena senior!」,"""...Elena?""",「……! 엘레나 선배!?」,「……！艾莲娜前辈！？」
 ,,,,,,,,,
-Dialog.Chapter2-3-66,エレナ,「……ああ六花さん、無事でしたか。」,「……ああ六花さん、無事でしたか。」,「……啊，六花小姐，妳沒事真是太好了。」,「……啊，六花小姐，妳沒事真是太好了。」,"「...... Oh Rikka―san, are you all right?」","""Rikka... Glad you're all right.""","「……아아 릿카 양, 무사했군요.」",「……啊，六花小姐，妳没事真是太好了。」
+Dialog.Chapter2-3-66,エレナ,「……ああ六花さん、無事でしたか。」,「……ああ六花さん、無事でしたか。」,「……啊，六花小姐，妳沒事真是太好了。」,「……啊，六花小姐，妳沒事真是太好了。」,"「...... Oh Rikka―san, are you all right?」","""Rikka... Glad you're all right.""","「……아아 릿카 양, 무사했군요.」",「……啊，六花小姐，你没事真是太好了。」
 ,,,,,,,,,
 Dialog.Chapter2-3-67,,ビルの最上階には制服の水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,ビルの最上階には水無瀬六花が後ろ手に手錠をかけられたまま一人横たわっていた,在大樓的頂層，水無瀨六花被反銬著雙手，一個人躺在地上。,在大樓的頂層，水無瀨六花被反銬著雙手，一個人躺在地上。,"On the top floor of the building, a uniformed Minase Rikka was lying alone, handcuffed behind her back.",There was a body behind a handcuffed Rikka Minase.,빌딩 최상층에는 미나세 릿카가 뒷짐의 상태로 수갑이 채워진 채 혼자 누워 있었다,在大楼的顶层，水无濑六花被反铐着双手，一个人躺在地上。
 ,,,,,,,,,
@@ -411,13 +411,13 @@ Dialog.Chapter2-3-70,六花？,「―――明穂を見つけたものの…逃�
 ,,,,,,,,,
 Dialog.Chapter2-3-71,エレナ,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………そうですか。はあ…、しかし薬を打たれたからとはいえ、この程度の敵にすら逃げられるとは…。」,「………是嗎。唉……不過，就算是被下了藥，居然連這種程度的敵人都讓她逃掉……。」,「………是嗎。唉……不過，就算是被下了藥，居然連這種程度的敵人都讓她逃掉……。」,"「......... I see. Huh...but even though I was drugged, I didn't think I could escape even an enemy of this caliber...」","""I see... I know you were drugged, but you let someone like that escape...""","「………그렇군요. 하아…, 하지만 약을 맞았다고는 해도, 이 정도의 적에게조차 당하다니….」",「………是吗。唉……不过，就算是被下了药，居然连这种程度的敌人都让她逃掉……。」
 ,,,,,,,,,
-Dialog.Chapter2-3-72,,「あなたにはもっと期待していたのですが。残念です」,「あなたにはもっと期待していたのですが。残念です」,「我本來對妳抱有更多期待的。真是讓人失望。」,「我本來對妳抱有更多期待的。真是讓人失望。」,「I expected more from you. It's a shame.」,"""I was hoping you would do better. What a shame.""",「당신에게는 좀 더 기대하고 있었습니다만. 유감입니다」,「我本来对妳抱有更多期待的。真是让人失望。」
+Dialog.Chapter2-3-72,,「あなたにはもっと期待していたのですが。残念です」,「あなたにはもっと期待していたのですが。残念です」,「我本來對妳抱有更多期待的。真是讓人失望。」,「我本來對妳抱有更多期待的。真是讓人失望。」,「I expected more from you. It's a shame.」,"""I was hoping you would do better. What a shame.""",「당신에게는 좀 더 기대하고 있었습니다만. 유감입니다」,「我本来对你抱有更多期待的。真是让人失望。」
 ,,,,,,,,,
-Dialog.Chapter2-3-73,エレナ,「そして脅されていたとはいえ、生徒会に報告することなく勝手な行動をしたのも問題です。」,「そして脅されていたとはいえ、司令部に報告することなく勝手な行動をしたのも問題です。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,"「And even though he was threatened, the fact that he acted on his own without informing the student council is also problematic.」","""And you were threatened, but you took actions without reporting to the Command Center.""","「그리고 협박당했다고는 하지만, 사령부에 보고하지 않고 멋대로 행동한 것도 문제입니다.」",「还有，虽说妳是被胁迫，但没有向司令部回报就擅自采取行动，这也是问题。」
+Dialog.Chapter2-3-73,エレナ,「そして脅されていたとはいえ、生徒会に報告することなく勝手な行動をしたのも問題です。」,「そして脅されていたとはいえ、司令部に報告することなく勝手な行動をしたのも問題です。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,「還有，雖說妳是被脅迫，但沒有向司令部回報就擅自採取行動，這也是問題。」,"「And even though he was threatened, the fact that he acted on his own without informing the student council is also problematic.」","""And you were threatened, but you took actions without reporting to the Command Center.""","「그리고 협박당했다고는 하지만, 사령부에 보고하지 않고 멋대로 행동한 것도 문제입니다.」",「还有，虽说你是被胁迫，但没有向司令部回报就擅自采取行动，这也是问题。」
 ,,,,,,,,,
 Dialog.Chapter2-3-74,六花？,「っ、申し訳ありません……。」,「っ、申し訳ありません……。」,「……非常抱歉。」,「……非常抱歉。」,「I'm sorry. .......」,"""I... I'm sorry...""","「윽, 죄송합니다…….」",「……非常抱歉。」
 ,,,,,,,,,
-Dialog.Chapter2-3-75,エレナ,「……。まあ、あなたの処分は明日生徒会で検討するとして…。」,「……。まあ、あなたの処分は明日司令部で検討するとして…。」,「……算了，妳的處分明天再由司令部審議。」,「……算了，妳的處分明天再由司令部審議。」,"「....... Well, your punishment will be considered by the student council tomorrow...」","""We will discuss the repercussions at the Command Center tomorrow.""","「……. 뭐, 당신의 처분은 내일 사령부에서 검토하기로 하고….」",「……算了，妳的处分明天再由司令部审议。」
+Dialog.Chapter2-3-75,エレナ,「……。まあ、あなたの処分は明日生徒会で検討するとして…。」,「……。まあ、あなたの処分は明日司令部で検討するとして…。」,「……算了，妳的處分明天再由司令部審議。」,「……算了，妳的處分明天再由司令部審議。」,"「....... Well, your punishment will be considered by the student council tomorrow...」","""We will discuss the repercussions at the Command Center tomorrow.""","「……. 뭐, 당신의 처분은 내일 사령부에서 검토하기로 하고….」",「……算了，你的处分明天再由司令部审议。」
 ,,,,,,,,,
 Dialog.Chapter2-3-76,エレナ,「私が財団の危険性を過小評価していたのも事実です。」,「私が財団の危険性を過小評価していたのも事実です。」,「再說，我確實也低估了財團的危險性。」,「再說，我確實也低估了財團的危險性。」,「It is also true that I underestimated the dangers of the Foundation.」,"""I also underestimated the danger of the Foundation.""",「제가 재단의 위험성을 과소평가한 것도 사실입니다.」,「再说，我确实也低估了财团的危险性。」
 ,,,,,,,,,
