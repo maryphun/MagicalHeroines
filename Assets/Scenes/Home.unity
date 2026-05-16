@@ -18925,6 +18925,7 @@ GameObject:
   - component: {fileID: 535420730}
   - component: {fileID: 535420732}
   - component: {fileID: 535420731}
+  - component: {fileID: 535420733}
   m_Layer: 5
   m_Name: RegenCost
   m_TagString: Untagged
@@ -19048,6 +19049,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 535420729}
   m_CullTransparentMesh: 1
+--- !u!114 &535420733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 535420729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &536848225
 GameObject:
   m_ObjectHideFlags: 0
@@ -19670,6 +19684,7 @@ GameObject:
   - component: {fileID: 585050521}
   - component: {fileID: 585050523}
   - component: {fileID: 585050522}
+  - component: {fileID: 585050524}
   m_Layer: 5
   m_Name: RegenCost
   m_TagString: Untagged
@@ -19793,6 +19808,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 585050520}
   m_CullTransparentMesh: 1
+--- !u!114 &585050524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585050520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &587866455
 GameObject:
   m_ObjectHideFlags: 0
@@ -47418,6 +47446,7 @@ GameObject:
   - component: {fileID: 1574505417}
   - component: {fileID: 1574505419}
   - component: {fileID: 1574505418}
+  - component: {fileID: 1574505420}
   m_Layer: 5
   m_Name: RegenCost
   m_TagString: Untagged
@@ -47541,6 +47570,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1574505416}
   m_CullTransparentMesh: 1
+--- !u!114 &1574505420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1574505416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &1576492363
 GameObject:
   m_ObjectHideFlags: 0
@@ -54010,6 +54052,7 @@ GameObject:
   - component: {fileID: 1730674650}
   - component: {fileID: 1730674652}
   - component: {fileID: 1730674651}
+  - component: {fileID: 1730674653}
   m_Layer: 5
   m_Name: RegenCost
   m_TagString: Untagged
@@ -54133,6 +54176,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1730674649}
   m_CullTransparentMesh: 1
+--- !u!114 &1730674653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730674649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &1732290255
 GameObject:
   m_ObjectHideFlags: 0
@@ -58478,6 +58534,7 @@ GameObject:
   - component: {fileID: 1891724563}
   - component: {fileID: 1891724565}
   - component: {fileID: 1891724564}
+  - component: {fileID: 1891724566}
   m_Layer: 5
   m_Name: RegenCost
   m_TagString: Untagged
@@ -58601,6 +58658,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1891724562}
   m_CullTransparentMesh: 1
+--- !u!114 &1891724566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891724562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8716a987147e32f48b45c67592657284, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDialogue: 0
 --- !u!1 &1895825542
 GameObject:
   m_ObjectHideFlags: 0
