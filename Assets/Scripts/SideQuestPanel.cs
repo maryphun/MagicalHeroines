@@ -42,6 +42,7 @@ public class SideQuestPanel : MonoBehaviour
     [SerializeField] private List<SideQuestEnemy> chapter3Enemies;
     [SerializeField] private List<SideQuestEnemy> chapter4Enemies;
     [SerializeField] private List<SideQuestEnemy> chapter5Enemies;
+    [SerializeField] private List<SideQuestEnemy> endgameEnemies;
 
     [SerializeField] private int[] enemyPerAlertLevel = new int[5];
 
@@ -210,6 +211,8 @@ public class SideQuestPanel : MonoBehaviour
         int currentStage = ProgressManager.Instance.GetCurrentStageProgress();
         int currentChapter = (((currentStage - 1) / 3) + 1);
 
+        if (ProgressManager.Instance.IsGameEnded()) currentChapter = 6;
+
         switch (currentChapter)
         {
             case 1:
@@ -222,6 +225,8 @@ public class SideQuestPanel : MonoBehaviour
                 return chapter4Enemies;
             case 5:
                 return chapter5Enemies;
+            case 6:
+                return endgameEnemies;
             default:
                 Debug.LogWarning("No enemy list available for chapter " + currentChapter.ToString());
                 return chapter1Enemies;
