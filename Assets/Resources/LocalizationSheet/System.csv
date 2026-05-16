@@ -22,8 +22,11 @@ System.Dark,闇落ち,Corrupt,惡墮,恶堕,闇落ち,Corrupt,惡墮,恶堕,타�
 System.CoreResearch,聖核研究進度,Core Research,聖核研究進度,圣核研究进度,聖核研究進度,Core Research,聖核研究進度,圣核研究进度,성핵 연구 진척도
 System.PickTraining,調教方法を選択：,Pick your training:,選擇調教方法：,选择调教方法：,調教方法を選択：,Pick your training:,選擇調教方法：,选择调教方法：,조교 방법 선택:
 System.HornyTraining,淫乱調教,Horniness,淫亂調教,淫乱调教,淫乱調教,Horniness,淫亂調教,淫乱调教,음란 조교
-System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教,教育調教,Re-education,教育調教,教育调教,교육 조교
-System.HolyCoreTraining,聖核研究,Seikaku Research,聖核研究,圣核研究,聖核研究,Seikaku Research,聖核研究,圣核研究,성핵 연구
+System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教,教育調教,"Re-
+education",教育調教,教育调教,교육 조교
+System.HolyCoreTraining,聖核研究,"Seikaku
+Research",聖核研究,圣核研究,聖核研究,"Seikaku
+Research",聖核研究,圣核研究,성핵 연구
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,연구 포인트 소모:
 System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,教育調教結束,教育调教结束,조교 완료
 System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,教育調教結束後開放,教育调教结束后开放,조교 완료 시 해금
@@ -217,8 +220,12 @@ Memory.AkihoDLC,明穂＆クローン戦闘員,Akiho & Clone Combatants,明穗�
 Memory.ErenaDLC,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,세이토 엘레나
 WorldMapScene,ワールドマップ,World Map,ワールドマップ,ワールドマップ,ワールドマップ,World Map,ワールドマップ,ワールドマップ,월드 맵
 System.Story,ストーリー進行,Continue story,繼續故事,继续故事,ストーリー進行,Continue story,繼續故事,继续故事,스토리 진행
-System.EndGameContent,高難易度コンテンツ,Endgame\nContent,番外篇劇情,番外篇剧情,高難易度コンテンツ,Endgame\nContent,番外篇劇情,番外篇剧情,고난도 콘텐츠
-System.DLCContent,追加コンテンツ,Extra\nContent,追加內容,追加内容,追加コンテンツ,Extra\nContent,追加內容,追加内容,추가 콘텐츠
+System.EndGameContent,高難易度コンテンツ,"Endgame
+Content",番外篇劇情,番外篇剧情,高難易度コンテンツ,"Endgame
+Content",番外篇劇情,番外篇剧情,고난도 콘텐츠
+System.DLCContent,追加コンテンツ,"Extra
+Content",追加內容,追加内容,追加コンテンツ,"Extra
+Content",追加內容,追加内容,추가 콘텐츠
 System.SideMission,資源調達クエスト,Resource Gathering,其他任務,其他任务,資源調達クエスト,Resource Gathering,其他任務,其他任务,자원 조달 퀘스트
 System.QuestList,クエスト一覧,Operation List,任務一覧,任务一覧,クエスト一覧,Operation List,任務一覧,任务一覧,퀘스트 목록
 System.FoodQuest,[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[식량 약탈]
