@@ -65,7 +65,7 @@ public class TurnBase : MonoBehaviour
         });
 
         // DLC “ÁŽêˆ—
-        if (DLCManager.isDLCEnabled)
+        if (DLCManager.IsDLCEnabled)
         {
             // ƒqƒXƒC‚Ì¹Šj‘•”õ‚ð‚»‚¤‚Ñ‚µ‚Ä‚éŽÒ‚ª‚¢‚½‚ç–³—‚â‚èæ’[‚ÉŽ‚Á‚Ä‚¢‚­
             var conditionCharacter = characterInOrder.FirstOrDefault(c => c.Item1.equipment != null && c.Item1.equipment.pathName == "Equip_Hisui");

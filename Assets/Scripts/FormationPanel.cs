@@ -179,7 +179,7 @@ public class FormationPanel : MonoBehaviour
         }
 
         // DLC追加キャラ
-        if (DLCManager.isDLCEnabled)
+        if (DLCManager.IsDLCEnabled)
         {
             allCharacters = ProgressManager.Instance.GetAllCharacter(false, true);
             usableCharacters = ProgressManager.Instance.GetAllUsableCharacter(true); // 使用できるキャラクター所持数

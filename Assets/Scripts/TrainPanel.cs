@@ -274,7 +274,7 @@ public class TrainPanel : MonoBehaviour
         }
 
         // DLC特殊処理
-        if (DLCManager.isDLCEnabled)
+        if (DLCManager.IsDLCEnabled)
         {
             if (characters[currentIndex].characterData.characterID == 12) // ダイヤ
             {
@@ -391,7 +391,7 @@ public class TrainPanel : MonoBehaviour
             characters[currentIndex].is_corrupted = true;
 
             // DLC仕様
-            if (DLCManager.isDLCEnabled)
+            if (DLCManager.IsDLCEnabled)
             {
                 if ( characters[currentIndex].characterData.characterID == 13 )// K22
                 {

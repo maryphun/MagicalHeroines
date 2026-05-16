@@ -1480,7 +1480,7 @@ MonoBehaviour:
   key: 27
   isForDialogueSystem: 0
   onlyAllowOnce: 1
-  text: {fileID: 1577373570}
+  text: {fileID: 0}
   button: {fileID: 436908050}
   eventSystem: {fileID: 1752138281}
   raycaster: {fileID: 1737923944}
@@ -5534,7 +5534,7 @@ MonoBehaviour:
   key: 27
   isForDialogueSystem: 0
   onlyAllowOnce: 0
-  text: {fileID: 716049983}
+  text: {fileID: 0}
   button: {fileID: 1329103736}
   eventSystem: {fileID: 1752138281}
   raycaster: {fileID: 1737923944}

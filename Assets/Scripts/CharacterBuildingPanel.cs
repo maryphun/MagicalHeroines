@@ -37,7 +37,7 @@ public class CharacterBuildingPanel : MonoBehaviour
     {
         tabLocalPosY = characterDataButton.GetComponent<RectTransform>().localPosition.y;
 
-        if (DLCManager.isDLCEnabled)
+        if (DLCManager.IsDLCEnabled)
         {
             characterSelectionScrollContent.sizeDelta = new Vector2(characterSelectionScrollContent.sizeDelta.x, 1100.0f);
             foreach (GameObject icon in DLCcharactersIcon)

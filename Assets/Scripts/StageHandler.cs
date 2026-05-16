@@ -30,7 +30,7 @@ public class StageHandler : MonoBehaviour
     {
         int currentStage = ProgressManager.Instance.GetCurrentStageProgress() - startingStage;
 
-        if (DLCManager.isDLCEnabled && isDLCWorld)
+        if (DLCManager.IsDLCEnabled && isDLCWorld)
         {
             currentStage = ProgressManager.Instance.GetCurrentDLCStageProgress() - startingStage;
         }

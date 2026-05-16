@@ -40,7 +40,7 @@ public class WorldMapUI : MonoBehaviour
         // dlc content
         if (dlcButton != null)
         {
-            if (DLCManager.isDLCEnabled)
+            if (DLCManager.IsDLCEnabled)
             {
                 dlcButton.GetComponentInChildren<TMPro.TMP_Text>().color = Color.white;
                 dlcButton.interactable = true;
@@ -104,7 +104,7 @@ public class WorldMapUI : MonoBehaviour
 
     public void EnterDLCScene()
     {
-        if (!DLCManager.isDLCEnabled) return;
+        if (!DLCManager.IsDLCEnabled) return;
 
         const float animationTime = 0.5f;
 

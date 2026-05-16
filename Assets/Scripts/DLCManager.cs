@@ -6,8 +6,17 @@ using System.Text;
 
 public class DLCManager : MonoBehaviour
 {
-    public static bool isDLCEnabled;
+    private static bool isDLCEnabled;
     public static bool isEnterDLCStage;
+
+    public static bool IsDLCEnabled
+    {
+#if STEAM
+        get { return true; }
+#else
+        get { return isDLCEnabled; }
+#endif
+    }
 
     private string expectedDecryptedKey = "DLC_ACTIVATE"; // The key
 

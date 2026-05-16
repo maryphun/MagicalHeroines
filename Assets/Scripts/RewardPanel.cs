@@ -117,7 +117,7 @@ public class RewardPanel : MonoBehaviour
             isHeroinDisplayed = true;
 
             // DLC特殊処理
-            if (true || DLCManager.isDLCEnabled)
+            if (true || DLCManager.IsDLCEnabled)
             {
                 if (isGetHisui && !isGetKei)
                 {

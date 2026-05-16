@@ -60,7 +60,7 @@ public class HomeSceneUI : MonoBehaviour
 
         string targetMap = (ProgressManager.Instance.GetCurrentStageProgress() <= 16) ? "WorldMap" : "EndGameContent";
 
-        if (DLCManager.isDLCEnabled && ProgressManager.Instance.IsGameEnded())
+        if (DLCManager.IsDLCEnabled && ProgressManager.Instance.IsGameEnded())
         {
             targetMap = "DLCWorldMap";
         }
