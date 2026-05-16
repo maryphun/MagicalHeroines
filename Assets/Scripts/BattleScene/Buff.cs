@@ -338,7 +338,7 @@ public static class BuffManager
 
     public static void RepelStart(Battler target, int value) 
     {
-        target.onAttackedEvent.AddListener(BuffManager.RepelAttacked);
+        target.onAttackedEvent.AddListener(BuffManager.RepelAttacked, 1);
     }
 
     public static void RepelUpdate(Battler target, int value) { }

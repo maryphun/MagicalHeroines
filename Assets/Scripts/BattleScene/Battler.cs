@@ -82,36 +82,45 @@ public class Battler : MonoBehaviour
     [Serializable]
     public class CountableUnityEvent
     {
-        [SerializeField] private UnityEvent<Battler, Battler, int> evt;
-        [SerializeField] public int EventCount { get; private set; }
-
-        public CountableUnityEvent()
+        private class Listener
         {
-            evt = new UnityEvent<Battler, Battler, int>();
-            EventCount = 0;
+            public UnityAction<Battler, Battler, int> Call;
+            public int Priority;
         }
 
-        public void AddListener(UnityAction<Battler, Battler, int> call)
+        private readonly List<Listener> listeners = new();
+
+        public int EventCount => listeners.Count;
+
+        public void AddListener(UnityAction<Battler, Battler, int> call, int priority = 0)
         {
-            evt.AddListener(call);
-            EventCount++;
+            listeners.Add(new Listener
+            {
+                Call = call,
+                Priority = priority
+            });
+
+            // Higher priority first
+            listeners.Sort((a, b) => b.Priority.CompareTo(a.Priority));
         }
 
         public void RemoveListener(UnityAction<Battler, Battler, int> call)
         {
-            evt.RemoveListener(call);
-            EventCount--;
+            listeners.RemoveAll(x => x.Call == call);
         }
 
         public void RemoveAllListeners()
         {
-            evt.RemoveAllListeners();
-            EventCount = 0;
+            listeners.Clear();
         }
 
         public void Invoke(Battler attacked, Battler attacker, int value)
         {
-            evt.Invoke(attacked, attacker, value);
+            if (listeners.Count == 0)
+                return;
+
+            // Only run the highest-priority listener
+            listeners[0].Call?.Invoke(attacked, attacker, value);
         }
     }
 

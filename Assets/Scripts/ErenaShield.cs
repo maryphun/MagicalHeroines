@@ -29,11 +29,11 @@ public class ErenaShield : MonoBehaviour
 
         if (this.type == EventType.DivineShield)
         {
-            battler.onAttackedEvent.AddListener(OnAttackDivineShield);
+            battler.onAttackedEvent.AddListener(OnAttackDivineShield, 4);
         }
         if (this.type == EventType.StunShield)
         {
-            battler.onAttackedEvent.AddListener(OnAttackStunShield);
+            battler.onAttackedEvent.AddListener(OnAttackStunShield, 3);
         }
     }
 

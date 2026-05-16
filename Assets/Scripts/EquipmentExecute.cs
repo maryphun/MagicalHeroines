@@ -78,7 +78,7 @@ public class EquipmentExecute : SingletonMonoBehaviour<EquipmentExecute>
 
     public IEnumerator Equip_RikkaStart(Battler battler)
     {
-        battler.onAttackedEvent.AddListener(EquipmentMethods.RikkaSeikakuExecute);
+        battler.onAttackedEvent.AddListener(EquipmentMethods.RikkaSeikakuExecute, 2);
         yield return null;
     }
     public IEnumerator Equip_RikkaEnd(Battler battler)
