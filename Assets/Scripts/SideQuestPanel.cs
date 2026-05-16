@@ -211,12 +211,7 @@ public class SideQuestPanel : MonoBehaviour
         int currentStage = ProgressManager.Instance.GetCurrentStageProgress();
         int currentChapter = (((currentStage - 1) / 3) + 1);
 
-        if (ProgressManager.Instance.IsGameEnded())
-        {
-            Debug.Log("Game is already ended so change chapter to 6");
-            currentChapter = 6;
-        }
-        Debug.Log("getting list for chapter " + currentChapter.ToString());
+        if (ProgressManager.Instance.IsGameEnded()) currentChapter = 6;
 
         switch (currentChapter)
         {
