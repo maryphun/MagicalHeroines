@@ -66723,6 +66723,10 @@ PrefabInstance:
       propertyPath: m_Navigation.m_Mode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8452636214387536599, guid: b627c7577b4c04b45b07de8277cec4c0, type: 3}
+      propertyPath: data
+      value: 
+      objectReference: {fileID: 11400000, guid: fe2d20b233c1bfb46a615f7f1c49dd35, type: 2}
     - target: {fileID: 8510291090941584106, guid: b627c7577b4c04b45b07de8277cec4c0, type: 3}
       propertyPath: m_Navigation.m_Mode
       value: 0
