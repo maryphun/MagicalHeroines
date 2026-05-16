@@ -230,7 +230,7 @@ System.SideMission,資源調達クエスト,Resource Gathering,其他任務,其�
 System.QuestList,クエスト一覧,Operation List,任務一覧,任务一覧,クエスト一覧,Operation List,任務一覧,任务一覧,퀘스트 목록
 System.FoodQuest,[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[식량 약탈]
 System.BankQuest,[銀行強盗],[Bank Robe],[銀行強盗],[银行强盗],[銀行強盗],[Bank Robe],[銀行強盜],[银行强盗],[은행 강도]
-System.ResearchQuest,[戦闘研究],[Battle Research],[戦闘研究],[戦闘研究],[戦闘研究],[Battle Research],[戰鬥研究],[戦闘研究],[전투 연구]
+System.ResearchQuest,[戦闘研究],[Battle Research],[戦闘研究],[战斗研究],[戦闘研究],[Battle Research],[戰鬥研究],[战斗研究],[전투 연구]
 System.RewardQuest,報酬,Reward,報酬,报酬,報酬,Reward,報酬,报酬,보상
 System.AlertLevel,警戒度,Security Level,警戒度,警戒度,警戒度,Security Level,警戒度,警戒度,경계도
 System.Star,★,★,★,★,★,★,★,★,★
@@ -245,7 +245,7 @@ Name.Diamond,ダイヤモンド,Diamond,黛雅,黛雅,ダイヤモンド,Diamond
 Name.Hisui,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠,西園寺 ヒスイ,Saionji Hisui,西園寺 翡翠,西园寺 翡翠,사이온지 히스이
 Name.No5,005号,No.005,005号,005号,005号,No.005,005號,005号,005호
 Name.No23,023号,No.023,023号,023号,023号,No.023,023號,023号,023호
-Name.Battler,戦闘員,Combatant,戦鬥員,戦闘员,戦闘員,Combatant,戰鬥員,戦闘员,전투원
+Name.Battler,戦闘員,Combatant,戦鬥員,战斗员,戦闘員,Combatant,戰鬥員,战斗员,전투원
 Name.Tentacle,触手怪人,TentacleMan,触手怪人,触手怪人,触手怪人,TentacleMan,觸手怪人,触手怪人,촉수 괴인
 Name.Clone,005号,No.005,005号,005号,005号,No.005,005號,005号,005호
 Name.RikkaDisguise,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？,水無瀬 六花？,Minase Rikka??,水無瀬 六花？,水无瀬 六花？,미나세 릿카?
@@ -260,7 +260,7 @@ Name.DarkTank,軍用歩行型タンク,Military Tank,軍用歩行型坦克,军�
 Name.PrivateDrone,私兵ドローン,Private Drone,私兵無人機,私兵无人机,私兵ドローン,Private Drone,私兵無人機,私兵无人机,사병 드론
 Name.PrivateAndroid,私兵ドロイド,Private Droid,私兵機器人,私兵机器人,私兵ドロイド,Private Droid,私兵機器人,私兵机器人,사병 드로이드
 Name.RogueTank,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克,コーポ仕様タンク,Corporate-Spec Tank,企業規格坦克,企业规格坦克,기업형 탱크
-Name.Battler+Tentacle,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、戦闘员,触手怪人、戦闘員,"Combatant, TentacleMan",觸手怪人、戰鬥員,触手怪人、戦闘员,"촉수 괴인, 전투원"
+Name.Battler+Tentacle,触手怪人、戦闘員,"Combatant, TentacleMan",触手怪人、戦闘員,触手怪人、战斗员,触手怪人、戦闘員,"Combatant, TentacleMan",觸手怪人、戰鬥員,触手怪人、战斗员,"촉수 괴인, 전투원"
 Name.Man,男,Man,男,男,男,Man,男,男,남자
 Name.Chairman,理事長,Chairman,理事長,理事长,理事長,Chairman,理事長,理事长,이사장
 Name.Tentacle_Human,触手怪人(人間体),Tentacle (HumanForm),触手怪人(人類形態),触手怪人(人类形态),触手怪人(人間体),Tentacle (HumanForm),觸手怪人(人類形態),触手怪人(人类形态),촉수 괴인 (인간형)
@@ -289,7 +289,7 @@ Name.Clones,072号＆他のクローン,No.072 and others,072号＆其他克隆�
 Name.No5_Call,005号(通信),No.005 (Call),005号(通信),005号(通信),005号(通信),No.005 (Call),005號(通信),005号(通信),005호 (통신)
 Name.ErenaNayuta,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多,エレナ＆那由多,Erena&Nayuta,艾蓮娜&那由多,艾莲娜&那由多,엘레나＆나유타
 Name.CloneBattler,クローン戦闘員,Clone,克隆,克隆,クローン戦闘員,Clone,克隆,克隆,클론 전투원
-Name.Battler_Call,戦闘員(通信),Combatant (Call),戦闘員(通信),戦闘员(通信),戦闘員(通信),Combatant (Call),戰鬥員(通信),戦闘员(通信),전투원 (통신)
+Name.Battler_Call,戦闘員(通信),Combatant (Call),戦闘員(通信),战斗员(通信),戦闘員(通信),Combatant (Call),戰鬥員(通信),战斗员(通信),전투원 (통신)
 Name.Kei_Call,猫宮京(通信),Nekomiya Kei (Call),猫宮京(通信),猫宫京(通信),猫宮京(通信),Nekomiya Kei (Call),貓宮京(通信),猫宫京(通信),네코미야 케이 (통신)
 Name.Clone_Call,クローン(通信),Clone(Call),克隆(通信),克隆(通信),クローン(通信),Clone(Call),克隆(通信),克隆(通信),클론 (통신)
 Name.Akiho_Corrupted,笹谷 明穂,Sasaya Akiho,笹谷 明穗,笹谷 明穗,笹谷 明穂,Sasaya Akiho,笹谷 明穗,笹谷 明穗,사사야 아키호
@@ -332,7 +332,7 @@ Option.Second,秒,Sec,秒,秒,秒,Sec,秒,秒,초
 Option.WindowMode,画面設定,Window Mode,画面設定,画面设定,画面設定,Window Mode,畫面設定,画面设定,화면설정
 Option.FullScreen,フルスクリーン,Fullscreen,全屏,全屏,フルスクリーン,Fullscreen,全螢幕,全屏,풀스크린
 Option.WindowedScreen,ウィンドウモード,Windowed Screen,窗口模式,窗口模式,ウィンドウモード,Windowed Screen,視窗模式,窗口模式,윈도모드
-BattleScene,戦闘シーン,Battle Scene,戦闘シーン,戦闘シーン,戦闘シーン,Battle Scene,戦闘シーン,戦闘シーン,전투 장면
+BattleScene,戦闘シーン,Battle Scene,戦闘シーン,战斗シーン,戦闘シーン,Battle Scene,戦闘シーン,战斗シーン,전투 장면
 Battle.Attack,攻撃,Attack,攻撃,攻撃,攻撃,Attack,攻擊,攻撃,공격
 Battle.Skill,特殊技,Skill,技能,技能,特殊技,Skill,技能,技能,특수
 Battle.Item,道具,Item,道具,道具,道具,Item,道具,道具,도구
@@ -769,7 +769,7 @@ World.Chapter6-1,「ついに我々が世界を征服する時です。戦力は
 World.DLC-2,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,,「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这么多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「脱走者の捜索に人手を割けません。出動人数は2人が限界です。」,"""We cannot spare any more personnel to search for the escapees. The deployment limit is two people.""",「無法調派這麼多人手搜尋區區逃亡者。出動人數兩人就是極限了。」,「无法调派这幺多人手搜寻区区逃亡者。出动人数两人就是极限了。」,「탈주자 수색에 인력을 투입할 여유가 없습니다. 출동 인원은 2명이 한계입니다。」
 World.DLC-8,「先にダイヤちゃんを躾けちゃおうか。」,,「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「先にダイヤちゃんを躾けちゃおうか。」,"""Shall we start disciplining Daiya first?""",「我們先來訓練一下小黛雅吧。」,「我们先来训练一下小黛雅吧。」,「먼저 다이아쨩을 훈련시켜 볼까?」
 World.DLC-8-2,このステージでは「猫宮 京」を出動させることができません。,,在這個關卡中無法派遣猫宮 京。,在这个关卡中无法派遣猫宫 京。,このステージでは「猫宮 京」を出動させることができません。,"""Nekomiya Kei"" cannot be deployed for this stage.",在這個關卡中無法派遣貓宮 京。,在这个关卡中无法派遣猫宫 京。,이 스테이지에서는 「네코미야 쿄」를 출전시킬 수 없습니다.
-BattleLog,戦闘ログ,Battlelog,戦闘ログ,戦闘ログ,戦闘ログ,Battlelog,戦闘ログ,戦闘ログ,전투 로그
+BattleLog,戦闘ログ,Battlelog,戦闘ログ,战斗ログ,戦闘ログ,Battlelog,戦闘ログ,战斗ログ,전투 로그
 BattleLog.Attack,{0}　の攻撃！,{0}'s attack!,{0}　的攻擊！,{0}　的攻击！,{0}　の攻撃！,{0}'s attack!,{0}　的攻擊！,{0}　的攻击！,{0}의 공격!
 BattleLog.Damage,{0}　に　{1}　のダメージを与えた！,Deals {1} damage to {0}!,向　{0}　造成　{1}　點傷害！,向　{0}　造成　{1}　点伤害！,{0}　に　{1}　のダメージを与えた！,Deals {1} damage to {0}!,向　{0}　造成　{1}　點傷害！,向　{0}　造成　{1}　点伤害！,{0}에게 {1}의 데미지를 주었다!
 BattleLog.HealHP,{0}　の HPが {1} 回復した！,{0}'s HP is healed by {1}!,{0}　回復了 {1} 點 HP！,{0}　回复了 {1} 点 HP！,{0}　の HPが {1} 回復した！,{0}'s HP is healed by {1}!,{0}　回復了 {1} 點 HP！,{0}　回复了 {1} 点 HP！,{0}의 HP가 {1} 회복되었다!
