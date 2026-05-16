@@ -550,6 +550,7 @@ MonoBehaviour:
   isMachine: 0
   attackCallback: KeiAttack
   isAoENormalAttack: 0
+  cantMissAttack: 0
   character_name: "\u8B58\u5BAE \u4EAC"
   characterID: 0
   icon: {fileID: 0}
