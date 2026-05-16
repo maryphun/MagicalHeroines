@@ -239,9 +239,10 @@ public class SaveLoadPanel : MonoBehaviour
             // SE
             AudioManager.Instance.PlaySFX("SystemSave");
         }
-        else
+        else // isLoading
         {
             SaveDataManager.LoadJsonData(currentSelectingSlotIndex);
+            ProgressManager.Instance.RelocalizeCharactersName();
 
             // ƒ[ƒh‚ªg‚¦‚é‚Æ‚±‚ë‚Í“ñ‚©Š‚ ‚é
             if (isMainMenu)
