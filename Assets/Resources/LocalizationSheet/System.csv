@@ -654,27 +654,27 @@ Ability.PowerMode,雷神之相,Thunder God's Form,雷神之相,雷神之相,雷�
 Ability.PowerMode_On,雷神之相 (入),Thunder God's Form (On),雷神之相 (入),雷神之相 (入),雷神之相 (入),Thunder God's Form (On),雷神之相 (入),雷神之相 (入),뇌신지상 (입)
 Ability.PowerMode_Off,雷神之相 (切),Thunder God's Form (Off),雷神之相 (切),雷神之相 (切),雷神之相 (切),Thunder God's Form (Off),雷神之相 (切),雷神之相 (切),뇌신지상 (절)
 Ability.PowerMode_Info,"有効にすると攻撃が70%アップ。
-常時 20 ダメージ受ける。
+常時 30 ダメージ受ける。
 
-スキルを有効・無効にするときターンを消耗しない","When activated, increases attack by 70%, but continuously takes 20 damage.
+スキルを有効・無効にするときターンを消耗しない","When activated, increases attack by 70%, but continuously takes 30 damage.
 Activating/deactivating does not consume a turn.","使用時攻擊力提升70%
-但是每回合會受到 20 點傷害。
+但是每回合會受到 30 點傷害。
 
 技能可以隨時開關切換且不會消耗回合","使用时攻击力提升70%
-但是每回合会受到 20 点伤害。
+但是每回合会受到 30 点伤害。
 
 技能可以随时开关切换且不会消耗回合","有効にすると攻撃が70%アップ。
-常時 20 ダメージ受ける。
+常時 30 ダメージ受ける。
 
-スキルを有効・無効にするときターンを消耗しない","When activated, increases attack by 70%, but continuously takes 20 damage.
+スキルを有効・無効にするときターンを消耗しない","When activated, increases attack by 70%, but continuously takes 30 damage.
 Activating/deactivating does not consume a turn.","使用時攻擊力提升70%
-但是每回合會受到 20 點傷害。
+但是每回合會受到 30 點傷害。
 
 技能可以隨時開關切換且不會消耗回合","使用时攻击力提升70%
-但是每回合会受到 20 点伤害。
+但是每回合会受到 30 点伤害。
 
 技能可以随时开关切换且不会消耗回合","활성화하면 공격이 70% 업.
-상시 20 데미지를 받는다.
+상시 30 데미지를 받는다.
 
 스킬을 활성화・비활성화할 때 턴을 소모하지 않는다"
 Ability.ChargeAttack,明鏡止水,Clear Mind,明鏡止水,明镜止水,明鏡止水,Clear Mind,明鏡止水,明镜止水,명경지수

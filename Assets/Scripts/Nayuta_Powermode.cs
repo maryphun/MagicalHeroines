@@ -1,5 +1,6 @@
 using UnityEngine;
 using Assets.SimpleLocalization.Scripts;
+using System.Linq;
 
 public class Nayuta_Powermode : MonoBehaviour
 {
@@ -23,6 +24,12 @@ public class Nayuta_Powermode : MonoBehaviour
         nayuta = GetComponent<Battler>();
 
         nayuta.afterAttackEvent.AddListener(ResetChargedDamage);
+
+        var ability = nayuta.abilities.FirstOrDefault(a => a.functionName == "PowerMode");
+        if (ability != null)
+        {
+            ability.abilityNameID = LocalizationManager.Localize("Ability.PowerMode_On");
+        }
     }
 
     public void SetActive(bool value)
@@ -48,7 +55,7 @@ public class Nayuta_Powermode : MonoBehaviour
 
     public void DamageNayuta()
     {
-        const int damage = 20;
+        const int damage = 30;
         nayuta.DeductHP(nayuta, damage, true);
 
         // text
