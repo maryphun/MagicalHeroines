@@ -38,8 +38,8 @@ public class HomeSceneUI : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.F11))
         {
-            Debug.Log("Add Hisui to the party.");
-            ProgressManager.Instance.AddHisui(true);
+            Debug.Log("Add Nayuta to the party.");
+            ProgressManager.Instance.AddNayuta(true);
         }
         if (Input.GetKeyDown(KeyCode.F12))
         {

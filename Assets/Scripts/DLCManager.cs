@@ -26,13 +26,7 @@ public class DLCManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-#if DEBUG_MODE
-        DLCManager.isDLCEnabled = true;
-        text.SetActive(true);
-        return;
-#endif
-
-#if STEAM
+#if STEAM || DEBUG_MODE
         DLCManager.isDLCEnabled = true;
         text.SetActive(true);
         return;

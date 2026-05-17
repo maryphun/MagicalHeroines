@@ -134,10 +134,6 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
 
         // フラグ更新
         isInitialized = true;
-
-#if DEBUG_MODE
-        DLCManager.isDLCEnabled = true;
-#endif
     }
 
     /// <summary>
@@ -637,8 +633,17 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
     // 侵食記録追加
     public void AddNewRecord(string recordNameID, string recordNovelID)
     {
+        if (AlreadyHasRecord(recordNameID))
+            return;
+
         Record temp = new Record(recordNameID, recordNovelID);
         playerData.records.Add(temp);
+    }
+
+    // すでに追加したかどうか
+    public bool AlreadyHasRecord(string recordNameID)
+    {
+        return playerData.records.Any(record => record.recordNameID == recordNameID);
     }
 
     // まだ通知が届いていない侵食記録があるか
@@ -764,9 +769,11 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
         tutorial.trainPanel = true;
         tutorial.worldscene = true;
         SetTutorialData(tutorial);
-
-        // DLC
-        DLCManager.isDLCEnabled = true;
+    }
+    public void AddNayuta(bool isCorrupted = false)
+    {
+        PlayerCharacterDefine Nayuta = Resources.Load<PlayerCharacterDefine>("PlayerCharacterList/8.Nayuta");
+        AddPlayerCharacter(Nayuta).is_corrupted = isCorrupted;
     }
 
     public void AddHisui(bool isCorrupted = false)
