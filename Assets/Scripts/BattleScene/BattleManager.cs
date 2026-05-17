@@ -196,6 +196,20 @@ public class Battle : MonoBehaviour
         turnBaseManager.AddEnemy(newEnemy, data);
     }
 
+
+    // バトル途中陣営をチェンジ
+    public void AddRemoveTeammate(Battler battler, bool addTeammate)
+    {
+        if (addTeammate)
+        {
+            characterList.Add(battler);
+        }
+        else
+        {
+            characterList.Remove(battler);
+        }
+    }
+
     /// <summary>
     /// 次のターン
     /// </summary>
@@ -495,7 +509,6 @@ public class Battle : MonoBehaviour
         }
         else
         {
-            Debug.Log("Enable action panel");
             actionPanel.SetEnablePanel(true);
         }
     }
@@ -1120,7 +1133,10 @@ public class Battle : MonoBehaviour
         {
             foreach (Battler battler in characterList)
             {
-                ProgressManager.Instance.UpdateCharacterByBattler(battler.characterID, battler);
+                if (!battler.IsMachine) // 機械は京の仕業だけなので無視する
+                {
+                    ProgressManager.Instance.UpdateCharacterByBattler(battler.characterID, battler);
+                }
             }
         }
 

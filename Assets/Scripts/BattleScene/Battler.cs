@@ -337,6 +337,16 @@ public class Battler : MonoBehaviour
         return new Vector2(graphicRect.rect.width * Mathf.Abs(graphicRect.localScale.x) * CanvasReferencer.Instance.GetScaleFactor(), graphicRect.rect.height * Mathf.Abs(graphicRect.localScale.y) * CanvasReferencer.Instance.GetScaleFactor());
     }
 
+    public Vector2 GetCharacterRectSize()
+    {
+        if (graphicRect == null) return Vector2.zero;
+
+        return new Vector2(
+            graphicRect.rect.width * Mathf.Abs(graphicRect.localScale.x),
+            graphicRect.rect.height * Mathf.Abs(graphicRect.localScale.y)
+        );
+    }
+
     public RectTransform GetGraphicRectTransform()
     {
         return graphicRect;

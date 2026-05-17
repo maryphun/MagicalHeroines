@@ -3990,7 +3990,7 @@ MonoBehaviour:
   text: {fileID: 0}
   button: {fileID: 1329103736}
   eventSystem: {fileID: 1752138281}
-  raycaster: {fileID: 0}
+  raycaster: {fileID: 1737923944}
 --- !u!1 &1359174950
 GameObject:
   m_ObjectHideFlags: 0

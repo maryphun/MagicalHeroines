@@ -528,6 +528,7 @@ MonoBehaviour:
   isMachine: 1
   attackCallback: DarkTankAttack
   isAoENormalAttack: 0
+  cantMissAttack: 0
   character_name: 
   characterID: 0
   icon: {fileID: 0}
@@ -548,10 +549,6 @@ MonoBehaviour:
   onDeathEvent:
     m_PersistentCalls:
       m_Calls: []
-  onAttackedEvent:
-    evt:
-      m_PersistentCalls:
-        m_Calls: []
   onTurnBeginEvent:
     m_PersistentCalls:
       m_Calls: []

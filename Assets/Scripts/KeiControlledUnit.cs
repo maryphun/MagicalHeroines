@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
+using System;
+using Assets.SimpleLocalization.Scripts;
 
 [RequireComponent(typeof(Battler))]
 public class KeiControlledUnit : MonoBehaviour
@@ -15,10 +17,11 @@ public class KeiControlledUnit : MonoBehaviour
     [SerializeField] int originalSiblingIndex;
     [SerializeField] Vector3 originalPosition;
 
-    public void StartControl(Battler kei, int turn)
+    public void StartControl(Battler kei, int turn, Battle battleManager)
     {
         master = kei;
         remainingTurn = turn;
+        this.battleManager = battleManager;
         battlerScript = GetComponent<Battler>();
 
         if (battlerScript == null)
@@ -30,6 +33,7 @@ public class KeiControlledUnit : MonoBehaviour
         {
             // ˆê“G‚Å‚Í‚È‚­‚È‚é
             battlerScript.isEnemy = !battlerScript.isEnemy;
+            battleManager.AddRemoveTeammate(battlerScript, !master.isEnemy);
 
             // Œü‚«‚ğ”½“]
             battlerScript.ReverseFacing();
@@ -47,18 +51,27 @@ public class KeiControlledUnit : MonoBehaviour
             transform.SetParent(master.transform.parent);
             transform.SetAsLastSibling();
 
-            GetComponent<RectTransform>().DOLocalMove(master.GetComponent<RectTransform>().localPosition + new Vector3(battlerScript.GetCharacterSize().x + 75.0f, 0.0f, 0.0f), 0.5f);
+            RectTransform selfRect = GetComponent<RectTransform>();
+            RectTransform masterRect = master.GetComponent<RectTransform>();
+
+            Vector2 targetPos = masterRect.anchoredPosition;
+            targetPos.x += battlerScript.GetCharacterRectSize().x;
+
+            selfRect.DOAnchorPos(targetPos, 0.5f);
 
             // €–S
             battlerScript.onDeathEvent.AddListener(OnDeath);
+            battlerScript.onTurnEndEvent.AddListener(OnTurnEnd);
         }
     }
 
     public void OnDeath()
     {
+        battleManager.AddRemoveTeammate(battlerScript, master.isEnemy);
+
         // ‹‚ğUŒ‚‚Å‚«‚é‚æ‚¤‚É‚·‚é
         master.isTargettable = true;
-        master.EnableNormalAttack = true;
+        //master.EnableNormalAttack = true;
         master.GetComponent<KeiWeaponController>().ResetControlledUnit();
 
         master.SetAbilityActive("Hacking", true);
@@ -76,6 +89,10 @@ public class KeiControlledUnit : MonoBehaviour
             GetComponent<RectTransform>().DOMove(originalPosition, 0.5f);
         });
 
+
+        battlerScript.onDeathEvent.RemoveListener(OnDeath);
+        battlerScript.onTurnEndEvent.RemoveListener(OnTurnEnd);
+
         // ‚±‚ÌƒXƒNƒŠƒvƒg‚ğíœ
         Destroy(this, delay + 0.5f);
     }
@@ -87,6 +104,8 @@ public class KeiControlledUnit : MonoBehaviour
         {
             // “G‚É–ß‚·
             battlerScript.isEnemy = !battlerScript.isEnemy;
+            battleManager.AddRemoveTeammate(battlerScript, master.isEnemy);
+
             // Œü‚«‚ğ”½“]
             battlerScript.ReverseFacing();
 
@@ -98,6 +117,19 @@ public class KeiControlledUnit : MonoBehaviour
             // ‹‚ğUŒ‚‚Å‚«‚é‚æ‚¤‚É‚·‚é
             master.isTargettable = true;
             //master.EnableNormalAttack = true;
+            master.GetComponent<KeiWeaponController>().ResetControlledUnit();
+
+            master.SetAbilityActive("Hacking", true);
+            master.SetAbilityOnCooldown(master.GetAbility("Hacking"), master.GetAbility("Hacking").cooldown);
+            master.SetAbilityActive("SuicideAttack", false);
+            master.SetAbilityActive("Reprogram", false);
+            master.SetAbilityActive("EffeciencyBoost", false);
+
+            // Battle log
+            battleManager.AddBattleLog(String.Format(LocalizationManager.Localize("BattleLog.Hacking_End"), battlerScript.CharacterNameColored));
+
+            battlerScript.onDeathEvent.RemoveListener(OnDeath);
+            battlerScript.onTurnEndEvent.RemoveListener(OnTurnEnd);
 
             const float delay = 1.0f;
             // ‚±‚ÌƒXƒNƒŠƒvƒg‚ğíœ

@@ -1369,6 +1369,15 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
 
         var self = battleManager.GetCurrentBattler();
 
+        if (!self.isEnemy)
+        {
+            targetBattlers = battleManager.GetAllEnemy().Where(battler => battler.isTargettable && battler.isAlive && battler.isEnemy).ToList();
+        }
+        else
+        {
+            targetBattlers = battleManager.GetAllTeammate().Where(battler => battler.isTargettable && battler.isAlive && !battler.isEnemy).ToList();
+        }
+
         const int numOfTarget = 3;
         var targets = new Battler[numOfTarget];
         targets[0] = GetRandomAliveTarget();
@@ -1840,7 +1849,7 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
     {
         var self = battleManager.GetCurrentBattler();
         var selfRect = self.GetComponent<RectTransform>();
-        var targets = battleManager.GetAllTeammate();
+        var targets = battleManager.GetAllTeammate().Where(battler => battler.isAlive && battler.isTargettable).ToList();
 
         const float ChargeTime = 0.75f;
         self.Shake(ChargeTime);
@@ -2400,7 +2409,7 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
                         AudioManager.Instance.PlaySFX("Notification");
                         var puppet = target.gameObject.AddComponent<KeiControlledUnit>();
                         weapons.SetControlledUnit(puppet);
-                        puppet.StartControl(kei, 0);
+                        puppet.StartControl(kei, UnityEngine.Random.Range(3, 6), battleManager);
                     })
                     .AppendInterval(animtionTime * 0.5f) // 敵を移動中
                     .AppendCallback(() =>
