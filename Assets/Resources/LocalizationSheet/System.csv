@@ -599,7 +599,7 @@ Ability.Repel_Info,一定時間内、攻撃されるたびに自身の防御力�
 Ability.GuardUp,不動のオーラ,Immovable Aura,堅定的光環,坚定的光环,不動のオーラ,Immovable Aura,堅定的光環,坚定的光环,부동의 오라
 Ability.GuardUp_Info,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防御力增加99點,2回合内防御力增加99点,2 ターン間防御力99アップ,Raises defense by 99 for 2 turns.,2回合內防禦力增加99點,2回合内防御力增加99点,2 턴간 방어력 99 업
 Ability.GuardianAngel,不滅の加護,Immortal Protection,不滅的加護,不灭的加护,不滅の加護,Immortal Protection,不滅的加護,不灭的加护,불멸의 가호
-Ability.GuardianAngel_Info,味方全員が受けるダメージを一回無効にする。,All allies negates damage for 1 time.,所有隊友免疫一次傷害。,所有都有免除一次伤害。,味方全員が受けるダメージを一回無効にする。,All allies negates damage for 1 time.,所有隊友免疫一次傷害。,所有都有免除一次伤害。,모든 아군이 피해를 1회 무효화합니다.
+Ability.GuardianAngel_Info,味方全員が受けるダメージを一回無効にする。,All allies negates damage for 1 time.,所有隊友免疫一次傷害。,所有队友免除一次伤害。,味方全員が受けるダメージを一回無効にする。,All allies negates damage for 1 time.,所有隊友免疫一次傷害。,所有队友免除一次伤害。,모든 아군이 피해를 1회 무효화합니다.
 Ability.Hacking,ハッキング,Hacking,駭客攻擊,骇客攻击,ハッキング,Hacking,駭客攻擊,骇客攻击,해킹
 Ability.Hacking_Info,"ターゲットをハッキングしてバトル終了までの間傀儡として操る。京への攻撃をすべて傀儡が代わりに受ける (機械類の敵のみ有効)
 ターゲットとのレベル差と目標の残りHPが成功確率を左右する","Hacks the target, controlling it as a puppet until the end of battle.
