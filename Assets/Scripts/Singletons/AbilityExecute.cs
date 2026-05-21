@@ -1146,6 +1146,7 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
         float projectileTime = 1.0f;
         var rectTransform = self.GetComponent<RectTransform>();
         var originalPos = rectTransform.position;
+        var originalRectPos = self.GetGraphicRectTransform().position;
         var selfPos = self.GetMiddleGlobalPosition();
         var startPoint = self.isEnemy ? new Vector2((selfPos.x - self.GetCharacterSize().x * 0.25f), selfPos.y) : new Vector2((selfPos.x + self.GetCharacterSize().x * 0.5f), selfPos.y);
 
@@ -1157,7 +1158,9 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
         self.SetAbilityActive("Milk", false);
         self.SetAbilityActive("MilkOverdrive", false);
 
-        rectTransform.DOMoveX(originalPos.x - 150.0f, 0.75f);
+        rectTransform.DOMoveX(originalPos.x - (self.GetCharacterRectSize().x * 0.2f), 0.75f);
+        self.GetGraphicRectTransform().DOMoveY(originalRectPos.y + 30.0f, 0.75f);
+        self.isBreathing = false;
         var sequence = DOTween.Sequence();
         sequence.AppendInterval(0.75f)
                 .AppendCallback(() =>
@@ -1343,8 +1346,9 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
                     // ログ ({0}　からの {1} ！)
                     battleManager.AddBattleLog(LocalizationManager.Localize("BattleLog.TeamHeal"));
 
-                    self.Graphic.rectTransform.localPosition = new Vector3(0.0f, self.Graphic.rectTransform.localPosition.y, 0.0f);
+                    //self.Graphic.rectTransform.localPosition = new Vector3(0.0f, self.Graphic.rectTransform.localPosition.y, 0.0f);
                     rectTransform.DOMove(originalPos, 0.5f);
+                    self.isBreathing = true;
 
                     // play SE
                     AudioManager.Instance.PlaySFX("CharacterMove", 0.5f);
@@ -1353,7 +1357,8 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
                 .AppendCallback(() =>
                 {
                     rectTransform.position = originalPos;
-                    
+                    self.GetGraphicRectTransform().DOMove(originalRectPos, 0.75f);
+
                     battleManager.NextTurn(false);
                 });
     }
