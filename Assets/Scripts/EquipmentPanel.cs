@@ -29,10 +29,14 @@ public class EquipmentPanel : MonoBehaviour
     [SerializeField] private TMP_Text equipmentName_Text;
     [SerializeField] private TMP_Text equipmentType_Text;
     [SerializeField] private TMP_Text description;
+    [SerializeField] private CanvasGroup popup;
+    [SerializeField] private TMP_Text popup_text;
 
     [Header("Debug")]
     [SerializeField] private int characterID = -1;
     [SerializeField] private List<EquipmentData> equips;
+    [SerializeField] private EquipmentDefine buffer_changeEquipItem;
+    [SerializeField] private int buffer_itemSlotIndex;
 
     public void OpenEquipmentPanel()
     {
@@ -87,13 +91,13 @@ public class EquipmentPanel : MonoBehaviour
                 // 装備を表示
                 equipmentSlot[i].interactable = true;
 
-                if (equips[i].equipingCharacterID >= 0 && equips[i].equipingCharacterID != characterID)
-                {
-                    // 別のキャラに装備されている装備
-                    equipmentSlot[i].interactable = false;
-                    icon.color = new Color(0.5f, 0.5f, 0.5f, 1.0f);
-                }
-                else
+                //if (equips[i].equipingCharacterID >= 0 && equips[i].equipingCharacterID != characterID)
+                //{
+                //    // 別のキャラに装備されている装備
+                //    equipmentSlot[i].interactable = false;
+                //    icon.color = new Color(0.5f, 0.5f, 0.5f, 1.0f);
+                //}
+                //else
                 {
                     icon.color = Color.white;
                 }
@@ -114,7 +118,7 @@ public class EquipmentPanel : MonoBehaviour
                 EquipmentDefine item = equips[i].data;
                 int slotIndex = i;
                 equipmentSlot[i].onClick.RemoveAllListeners();
-                equipmentSlot[i].onClick.AddListener(delegate { OnClickEquipItem(item, slotIndex); });
+                equipmentSlot[i].onClick.AddListener(delegate { OnClickEquipItem(item, slotIndex, false); });
 
                 // event triggers
                 var trigger = equipmentSlot[i].GetComponent<EventTrigger>();
@@ -152,10 +156,53 @@ public class EquipmentPanel : MonoBehaviour
         }
     }
 
-    private void OnClickEquipItem(EquipmentDefine item, int slotIndex)
+    public void OnConfirmChangeEquipCharacter()
+    {
+        OnClickEquipItem(buffer_changeEquipItem, buffer_itemSlotIndex, true);
+        OnCloseChangeEquipCharacter(false);
+    }
+
+    public void OnCloseChangeEquipCharacter(bool playSE)
+    {
+        popup.DOFade(0.0f, 0.5f);
+        popup.interactable = false;
+        popup.blocksRaycasts = false;
+
+        buffer_changeEquipItem = null;
+        buffer_itemSlotIndex = -1;
+
+        // SE
+        if (playSE)
+        {
+            AudioManager.Instance.PlaySFX("SystemCancel");
+        }
+    }
+
+    private void OnClickEquipItem(EquipmentDefine item, int slotIndex, bool ignoreEquippedByOther)
     {
         ResetCursor();
         var cursorImg = cursor.GetComponent<Image>();
+
+        // 他のキャラにすでに装備されているかを確認
+        if (!ignoreEquippedByOther)
+        {
+            if (equips[slotIndex].equipingCharacterID >= 0 && equips[slotIndex].equipingCharacterID != characterID)
+            {
+                popup.DOFade(1.0f, 0.5f);
+                popup.interactable = true;
+                popup.blocksRaycasts = true;
+
+                string s = ProgressManager.Instance.GetCharacterByID(equips[slotIndex].equipingCharacterID).localizedName;
+                popup_text.text = LocalizationManager.Localize("System.EquipByOther").Replace("{s}", s);
+
+                buffer_changeEquipItem = item;
+                buffer_itemSlotIndex = slotIndex;
+
+                // SE
+                AudioManager.Instance.PlaySFX("SystemAlert");
+                return;
+            }
+        }
 
         // このキャラが装備しているアイテムがあるかをチェック
         var EquipmentData = ProgressManager.Instance.GetEquipmentData();
