@@ -9,7 +9,7 @@ public class InputManager : SingletonMonoBehaviour<InputManager>
     // Start is called before the first frame update
     public void Initialize()
     {
-        Debug.Log("Initialize Input manager");
+        //Debug.Log("Initialize Input manager");
         for (int i = 0; i <= ((int)KeyCode.Z); i++)
         {
             isKeyDown.Add(((KeyCode)i), false);
@@ -24,14 +24,14 @@ public class InputManager : SingletonMonoBehaviour<InputManager>
             if (isKeyDown[(KeyCode)i])
             {
                 isKeyDown[(KeyCode)i] = false;
-                Debug.Log(i.ToString() + "is cancelled");
+                //Debug.Log(i.ToString() + "is cancelled");
             }
             else
             {
                 if (Input.GetKeyDown((KeyCode)i))
                 {
                     isKeyDown[(KeyCode)i] = true;
-                    Debug.Log(i.ToString() + "is clicked");
+                    //Debug.Log(i.ToString() + "is clicked");
                 }
             }
         }
@@ -39,7 +39,7 @@ public class InputManager : SingletonMonoBehaviour<InputManager>
 
     public bool GetIsKeyDown(KeyCode key)
     {
-        Debug.Log(key.ToString() + "is checking and the result is " + isKeyDown[key].ToString());
+        //Debug.Log(key.ToString() + "is checking and the result is " + isKeyDown[key].ToString());
         return isKeyDown[key];
     }
 }

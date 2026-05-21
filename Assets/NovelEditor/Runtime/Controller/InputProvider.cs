@@ -58,16 +58,16 @@ namespace NovelEditor
         }
         public override bool GetSkip()
         {
-            return Input.GetKeyDown(KeyCode.N);
+            return false; //Input.GetKeyDown(KeyCode.N);
         }
         public override bool GetHideOrDisplay()
         {
-            return Input.GetKeyDown(KeyCode.H);
+            return false; //Input.GetKeyDown(KeyCode.H);
         }
 
         public override bool GetStopOrStart()
         {
-            return Input.GetKeyDown(KeyCode.S);
+            return false;// Input.GetKeyDown(KeyCode.S);
         }
 
     }
