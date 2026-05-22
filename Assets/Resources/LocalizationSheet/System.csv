@@ -28,8 +28,8 @@ System.HolyCoreTraining,聖核研究,"Seikaku
 Research",聖核研究,圣核研究,聖核研究,"Seikaku
 Research",聖核研究,圣核研究,성핵 연구
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,연구 포인트 소모:
-System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,教育調教結束,教育调教结束,조교 완료
-System.ResearchConditionDaiya,洗脳調教の終わりに解放,,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,教育調教結束後開放,教育调教结束后开放,조교 완료 시 해금
+System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,調教結束,调教结束,조교 완료
+System.ResearchConditionDaiya,洗脳調教の終わりに解放,Unlock after Re-education,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,教育調教結束後開放,教育调教结束后开放,조교 완료 시 해금
 System.Back,戻る,Back,退出,退出,戻る,Back,退出,退出,나가기
 System.Confirm,確定,Confirm,確定,确定,確定,Confirm,確定,确定,확정
 System.OptionPanel,設定,Option,設定,设定,設定,Option,設定,设定,설정

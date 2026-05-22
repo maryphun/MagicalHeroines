@@ -1,12 +1,12 @@
 Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English,English_Steam,Korean_Steam,Simplified Chinese_Steam
 Chapter 3-1,注釈,,,,,,,
-Dialog.Chapter3-1-1,アジト,フォーレン財団アジトにて,フォーレン財団アジトにて,於「墮落財團」據點──,At the Forren Foundation Hideout,At the Forren Foundation hideout...,폴른 재단 아지트에서,于「堕落财团」据点──
+Dialog.Chapter3-1-1,アジト,フォーレン財団アジトにて,フォーレン財団アジトにて,於墮落財團基地──,At the Forren Foundation Hideout,At the Forren Foundation hideout...,폴른 재단 아지트에서,于「堕落财团」据点──
 ,エレナの写真みたいなやつ,,,,,,,
-Dialog.Chapter3-1-2,戦闘員,「―――では先日戦闘した“清藤エレナ”について現在分かっていることをお伝えします」,「―――では先日戦闘した“清藤エレナ”について現在分かっていることをお伝えします」,「―――那麼，現在向各位報告目前已知的、有關日前交戰對象「清藤艾蓮娜」的情報」,"""Here is what we know about Seidō Erena, who was recently in combat with us.""","""This is what we currently know about Elena Kiyofuji, who we fought the other day.""",「―――그럼 얼마 전 전투했던 “세이토 엘레나”에 대해 현재 알고 있는 것을 알려드리겠습니다」,「―――那么，现在向各位报告目前已知的、有关日前交战对象「清藤艾莲娜」的情报」
+Dialog.Chapter3-1-2,戦闘員,「―――では先日戦闘した“清藤エレナ”について現在分かっていることをお伝えします」,「―――では先日戦闘した『清藤エレナ』について現在分かっていることをお伝えします」,「―――那麼，現在向各位報告目前已知的，有關日前交戰對象『清藤艾蓮娜』的情報」,"""Here is what we know about Seidō Erena, who was recently in combat with us.""","""This is what we currently know about Elena Kiyofuji, who we fought the other day.""",「―――그럼 얼마 전 전투했던 “세이토 엘레나”에 대해 현재 알고 있는 것을 알려드리겠습니다」,「―――那么，现在向各位报告目前已知的、有关日前交战对象「清藤艾莲娜」的情报」
 ,,,,,,,,
 Dialog.Chapter3-1-3,SEL,よろしく頼む,よろしく頼む,「麻煩了。」,Keep up the good work,Go ahead.,잘 부탁한다,「麻烦了。」
 ,,,,,,,,
-Dialog.Chapter3-1-4,,「聖月女学園生徒会副会長にして、経済界、政界にも大きな影響力を持つ巨大財閥“清藤グループ”の令嬢です」,「ホーリーコア・レギオン副司令にして、経済界、政界にも大きな影響力を持つ巨大財閥“清藤グループ”の令嬢です」,「她是聖核軍團的副司令，同時也是在政商兩界都握有巨大影響力的財閥——「清藤集團」的千金。」,"""She is the vice president of the Seigetsu Girl Academy Student Council and the daughter of the Seidō Group, a huge conglomerate with great influence in the economic and political worlds.""","""She is the deputy commander of the Holy Core Legion, and also the daughter of the Kiyofuji Group, which has massive influence over finances and politics.""","「홀리코어 레기온 부사령관이자, 경제계, 정계에도 큰 영향력을 가진 거대 재벌 “세이토 그룹”의 영애입니다」",「她是圣核军团的副司令，同时也是在政商两界都握有巨大影响力的财阀——「清藤集团」的千金。」
+Dialog.Chapter3-1-4,,「聖月女学園生徒会副会長にして、経済界、政界にも大きな影響力を持つ巨大財閥“清藤グループ”の令嬢です」,「ホーリーコア・レギオン副司令にして、経済界、政界にも大きな影響力を持つ巨大財閥『清藤グループ』の令嬢です」,「她是聖核軍團的副司令，同時也是在政商兩界都握有巨大影響力的財閥——『清藤集團』的千金。」,"""She is the vice president of the Seigetsu Girl Academy Student Council and the daughter of the Seidō Group, a huge conglomerate with great influence in the economic and political worlds.""","""She is the deputy commander of the Holy Core Legion, and also the daughter of the Kiyofuji Group, which has massive influence over finances and politics.""","「홀리코어 레기온 부사령관이자, 경제계, 정계에도 큰 영향력을 가진 거대 재벌 “세이토 그룹”의 영애입니다」",「她是圣核军团的副司令，同时也是在政商两界都握有巨大影响力的财阀——「清藤集团」的千金。」
 ,,,,,,,,
 Dialog.Chapter3-1-5,,「生徒会長は現在半年ほど海外へ行っており、今は実質的な生徒会トップで聖核戦姫のリーダー的存在です」,「総司令は現在半年ほど海外へ行っており、今は実質的な司令部トップで聖核戦姫のリーダー的存在です」,「總司令目前已出國大概半年，如今她是實質上的司令部首腦，也是聖核戰姬的領導者。」,"""Their president is currently overseas for six months and is now she is the de facto head of the student council and leader of the Seikaku Princess.""","""The commander has been overseas for half a year now, so she is the de facto leader of the group.""","「총사령관은 현재 반년 정도 해외에 가 있으며, 지금은 실질적인 사령부 톱이자 성핵전희의 리더적 존재입니다」",「总司令目前已出国大概半年，如今她是实质上的司令部首脑，也是圣核战姬的领导者。」
 ,,,,,,,,
@@ -20,7 +20,7 @@ Dialog.Chapter3-1-9,,「そして現在クローン005号が学園に潜入し�
 ,,,,,,,,
 Dialog.Chapter3-1-10,SEL,………,………,………,.........,...,………,………
 ,,,,,,,,
-Dialog.Chapter3-1-11,戦闘員,「………ドクターの手腕に期待しています。―――！、今005号から連絡が入りました！」,「………ドクターの手腕に期待しています。―――！、今005号から連絡が入りました！」,「………接下來就靠博士您的能力了。―――！、005號剛傳來聯絡！」,"""I'm looking forward to seeing what Doctor can do.  ―――! Wait we just got a call from No.005!""","""I'm looking forward to what the doc can do... We have established contact with 005!""","「………닥터의 수완에 기대하고 있습니다. ―――!, 지금 005호로부터 연락이 들어왔습니다!」",「………接下来就靠博士您的能力了。―――！、005号刚传来联络！」
+Dialog.Chapter3-1-11,戦闘員,「………ドクターの手腕に期待しています。―――！、今005号から連絡が入りました！」,「………ドクターの手腕に期待しています。―――！、今005号から連絡が入りました！」,「………接下來就靠博士您的能力了。―――！005號剛傳來聯絡！」,"""I'm looking forward to seeing what Doctor can do.  ―――! Wait we just got a call from No.005!""","""I'm looking forward to what the doc can do... We have established contact with 005!""","「………닥터의 수완에 기대하고 있습니다. ―――!, 지금 005호로부터 연락이 들어왔습니다!」",「………接下来就靠博士您的能力了。―――！、005号刚传来联络！」
 ,,,,,,,,
 Dialog.Chapter3-1-12,005号(六花制服通信),「―――お久しぶりです、ドクター。」,「―――お久しぶりです、ドクター。」,「――好久不見了，博士。」,"""――― It's been a long time, Doctor.""","""Long time no see, doc.""","「―――오랜만입니다, 닥터.」",「――好久不见了，博士。」
 ,,,,,,,,
@@ -31,9 +31,9 @@ Dialog.Chapter3-1-14,,「…清藤エレナと生徒会の動向を探ってい�
 Dialog.Chapter3-1-15,,「役に立つかはわかりませんが、この情報が清藤エレナの突破口になるかもしれません――――」,「役に立つかはわかりませんが、この情報が清藤エレナの突破口になるかもしれません――――」,「雖然不確定是否派得上用場，但這份情報……也許會成為突破清藤艾蓮娜的關鍵――――」,"""I don't know if this will help, but this information could be a breakthrough for Seidō Erena: ――――""","""I don't know if it'll help, but it might be the info you need to get past Elena Kiyofuji...""","「도움이 될지는 모르겠습니다만, 이 정보가 세이토 엘레나의 돌파구가 될지도 모릅니다――――」",「虽然不确定是否派得上用场，但这份情报……也许会成为突破清藤艾莲娜的关键――――」
 ,,,,,,,,
 ,生徒会室,,,,,,,
-Dialog.Chapter3-1-16,,翌日、聖月女学園生徒会にて―――,翌日、ホーリーコア・レギオン司令部にて―――,翌日，於聖核軍團司令部―――,"The next day, at the Student Council of the Seigetsu Girl Academy ――――.","The next day, at the Holy Core Legion Command Center...","다음날, 홀리코어 레기온 사령부에서―――",翌日，于圣核军团司令部―――
+Dialog.Chapter3-1-16,,翌日、聖月女学園生徒会にて―――,翌日、ホーリーコア・レギオン司令部にて―――,翌日，於「聖核軍團」司令部―――,"The next day, at the Student Council of the Seigetsu Girl Academy ――――.","The next day, at the Holy Core Legion Command Center...","다음날, 홀리코어 레기온 사령부에서―――",翌日，于圣核军团司令部―――
 ,,,,,,,,
-Dialog.Chapter3-1-17,エレナ(制服),「―――そして複数班に分かれ、財団地下アジトがあると思われる場所を全戦力で同時に攻略します」,「―――そして複数班に分かれ、財団地下アジトがあると思われる場所を全戦力で同時に攻略します」,「―――然後你們將會分成數個小隊，對所有疑似藏有財團地下據點的點採取同步攻略。」,"""――― split up into multiple teams to simultaneously attack the location where the Foundation's underground hideout is believed to be, with all forces at their disposal.""","""...Split into multiple teams to attack all the locations thought to be the Foundation's underground hideouts with everything we've got.""","「―――그리고 여러 반으로 나누어, 재단 지하 아지트가 있을 것으로 생각되는 장소를 전 전력으로 동시에 공략합니다」",「―――然后你们将会分成数个小队，对所有疑似藏有财团地下据点的点采取同步攻略。」
+Dialog.Chapter3-1-17,エレナ(制服),「―――そして複数班に分かれ、財団地下アジトがあると思われる場所を全戦力で同時に攻略します」,「―――そして複数班に分かれ、財団地下アジトがあると思われる場所を全戦力で同時に攻略します」,「―――然後你們將會分成數個小隊，對所有疑似藏有財團地下基地的點採取同步攻略。」,"""――― split up into multiple teams to simultaneously attack the location where the Foundation's underground hideout is believed to be, with all forces at their disposal.""","""...Split into multiple teams to attack all the locations thought to be the Foundation's underground hideouts with everything we've got.""","「―――그리고 여러 반으로 나누어, 재단 지하 아지트가 있을 것으로 생각되는 장소를 전 전력으로 동시에 공략합니다」",「―――然后你们将会分成数个小队，对所有疑似藏有财团地下据点的点采取同步攻略。」
 ,,,,,,,,
 Dialog.Chapter3-1-18,エレナ,「作戦決行は一週間後の午前9時からです。皆さんそれまでに十分な準備をお願いします。」,「作戦決行は一週間後の午前9時からです。皆さんそれまでに十分な準備をお願いします。」,「作戰將於一週後上午9點開始。請各位在此之前做好充分準備。」,"""The operation will begin at 9:00 a.m. one week from now. Everyone should be fully prepared by then.""","""The operation will take place at 9 a.m. in one week. Please make the necessary preparations by then.""",「작전 결행은 일주일 후 오전 9시부터입니다. 여러분은 그때까지 충분한 준비를 부탁합니다.」,「作战将于一周后上午9点开始。请各位在此之前做好充分准备。」
 ,,,,,,,,
@@ -45,11 +45,11 @@ Dialog.Chapter3-1-21,,(まあいい機会です、後顧の憂いはここで断
 ,,,,,,,,
 Dialog.Chapter3-1-22,,エレナが思索にふけっていると、突然誰もいない空間から声が聞こえる,エレナが思索にふけっていると、突然誰もいない空間から声が聞こえる,正當艾蓮娜沉浸在思緒之中時，空無一人的空間裡，忽然傳來聲音——,Erena is lost in contemplation when suddenly she hears a voice from an empty space.,"While contemplating, Elena suddenly heard a voice in the space that was only supposed to be occupied by her and her alone.","엘레나가 사색에 잠겨 있자, 갑자기 아무도 없는 공간에서 목소리가 들린다",正当艾莲娜沉浸在思绪之中时，空无一人的空间里，忽然传来声音——
 ,,,,,,,,
-Dialog.Chapter3-1-23,???,「あーあー、もしもしー、ケイだよ。エレナそこにいるよね？」,「あーあー、もしもしー、ケイだよ。エレナそこにいるよね？」,「喂—喂—，聽得到嗎～？我是京。艾蓮娜在那邊對吧？」,"""Uh―oh, hello, it's Kei. Erena, you're there, right?""","""Hello? This is Kei. You're there, right? Elena?""","「아~아~, 여보세요~, 케이야. 엘레나 거기 있지?」",「喂—喂—，听得到吗～？我是京。艾莲娜在那边对吧？」
+Dialog.Chapter3-1-23,???,「あーあー、もしもしー、ケイだよ。エレナそこにいるよね？」,「あーあー、もしもしー、ケイだよ。エレナそこにいるよね？」,「喂—喂—聽得到嗎～？我是京。艾蓮娜在那邊對吧？」,"""Uh―oh, hello, it's Kei. Erena, you're there, right?""","""Hello? This is Kei. You're there, right? Elena?""","「아~아~, 여보세요~, 케이야. 엘레나 거기 있지?」",「喂—喂—，听得到吗～？我是京。艾莲娜在那边对吧？」
 ,,,,,,,,
 Dialog.Chapter3-1-24,エレナ,「……………！？」,「……………！？」,「……………！？」,"""...............!""","""...?!""",「……………!?」,「……………！？」
 ,,,,,,,,
-Dialog.Chapter3-1-25,猫宮京,「おーい、聞こえてるでしょ？はやくホログラムつけてよ。ハッキングして勝手に部屋覗いてもいいんだよ？」,「おーい、聞こえてるでしょ？はやくホログラムつけてよ。ハッキングして勝手に部屋覗いてもいいんだよ？」,「喂～，你一定聽到了吧？快幫我把全息影像打開。不然我也可以駭進去、擅自偷看房間的喔？」,"""Hey, I know you can hear me. Quick, turn on the hologram. I can hack in and peek in your room without your permission, okay?""","""Hey, you can hear me, right? Turn on your hologram, or I'm going to hack into it and look at your room!""","「어~이, 들리지? 빨리 홀로그램 켜줘. 해킹해서 멋대로 방 훔쳐봐도 괜찮아?」",「喂～，你一定听到了吧？快帮我把全息影像打开。不然我也可以骇进去、擅自偷看房间的喔？」
+Dialog.Chapter3-1-25,猫宮京,「おーい、聞こえてるでしょ？はやくホログラムつけてよ。ハッキングして勝手に部屋覗いてもいいんだよ？」,「おーい、聞こえてるでしょ？はやくホログラムつけてよ。ハッキングして勝手に部屋覗いてもいいんだよ？」,「喂～你一定聽到了吧？快幫我把全息影像打開。不然我也可以駭進去、擅自偷看房間的喔？」,"""Hey, I know you can hear me. Quick, turn on the hologram. I can hack in and peek in your room without your permission, okay?""","""Hey, you can hear me, right? Turn on your hologram, or I'm going to hack into it and look at your room!""","「어~이, 들리지? 빨리 홀로그램 켜줘. 해킹해서 멋대로 방 훔쳐봐도 괜찮아?」",「喂～，你一定听到了吧？快帮我把全息影像打开。不然我也可以骇进去、擅自偷看房间的喔？」
 ,,,,,,,,
 Dialog.Chapter3-1-26,エレナ,「……猫宮さんですか…？……あなたが連絡してくるとは珍しいですね…。」,「……猫宮さんですか…？……あなたが連絡してくるとは珍しいですね…。」,「……是貓宮小姐嗎……？……您會主動聯絡，還真是少見……。」,"""...... are you Ms.Nekomiya...? It's unusual for ...... you to contact me...""","""Nekomiya? It's rare to hear from you.""",「……네코미야 양입니까…? ……당신이 연락해 오다니 드문 일이군요….」,「……是猫宫小姐吗……？……您会主动联络，还真是少见……。」
 ,,,,,,,,
@@ -71,7 +71,7 @@ Dialog.Chapter3-1-34,エレナ,「………なぜ貴女がそれを知ってい�
 ,,,,,,,,
 Dialog.Chapter3-1-35,京,「まあ財団については私の監視対象の一つだからね。最近の行動から推測するに、そろそろ生徒会が動くんじゃないかなって」,「まあ財団については私の監視対象の一つだからね。最近の行動から推測するに、そろそろ司令部が動くんじゃないかなって」,「嗯，墮落財團本來就是我的監視對象之一。從他們最近的行動來看，我就推測——司令部差不多也該開始行動了。」,"""'Well, as for the Foundation, it's one of the things I've been keeping an eye on. Based on recent activity, I'm guessing that it's time for the student council to make a move.""","""Foundation is one of the things that I'm keeping my eyes on. Based on their recent movements, I figured the Command Center would do something soon.""","「뭐 재단에 대해서는 나의 감시 대상 중 하나니까. 최근 행동으로 추측하건대, 슬슬 사령부가 움직이지 않을까 해서」",「嗯，堕落财团本来就是我的监视对象之一。从他们最近的行动来看，我就推测——司令部差不多也该开始行动了。」
 ,,,,,,,,
-Dialog.Chapter3-1-36,エレナ,「相変わらず察しがいいですね……。その通りです。今から一週間後、生徒会の全戦力を持って残党の地下アジトを一掃します」,「相変わらず察しがいいですね……。その通りです。今から一週間後、ホーリーコア・レギオン司令部の全戦力を持って残党の地下アジトを一掃します」,「您一如既往很敏銳呢……。沒錯。從現在起一週後，我們會動員聖核軍團司令部的全部戰力，把殘黨的地下據點徹底掃平。」,"""You are as perceptive as ever. ...... That's right. One week from now, we will wipe out the underground hideouts of the remnants with the full might of the student council.""","""Observant as usual... Indeed. One week from now, the entire Holy Core Legion Command Center will descend on the secret headquarters of the remnants.""","「여전히 눈치가 빠르시군요……. 그 말대로입니다. 지금부터 일주일 후, 홀리코어 레기온 사령부의 전 전력을 동원하여 잔당의 지하 아지트를 일소할 겁니다」",「您一如既往很敏锐呢……。没错。从现在起一周后，我们会动员圣核军团司令部的全部战力，把残党的地下据点彻底扫平。」
+Dialog.Chapter3-1-36,エレナ,「相変わらず察しがいいですね……。その通りです。今から一週間後、生徒会の全戦力を持って残党の地下アジトを一掃します」,「相変わらず察しがいいですね……。その通りです。今から一週間後、ホーリーコア・レギオン司令部の全戦力を持って残党の地下アジトを一掃します」,「您一如既往很敏銳呢……。沒錯。從現在起一週後，我們會動員『聖核軍團』司令部的全部戰力，把殘黨的地下基地徹底掃平。」,"""You are as perceptive as ever. ...... That's right. One week from now, we will wipe out the underground hideouts of the remnants with the full might of the student council.""","""Observant as usual... Indeed. One week from now, the entire Holy Core Legion Command Center will descend on the secret headquarters of the remnants.""","「여전히 눈치가 빠르시군요……. 그 말대로입니다. 지금부터 일주일 후, 홀리코어 레기온 사령부의 전 전력을 동원하여 잔당의 지하 아지트를 일소할 겁니다」",「您一如既往很敏锐呢……。没错。从现在起一周后，我们会动员圣核军团司令部的全部战力，把残党的地下据点彻底扫平。」
 ,,,,,,,,
 Dialog.Chapter3-1-37,京,「……う～ん、なんていうかな。これは私の直感なんだけど…その作戦考え直した方がいいかも」,「……う～ん、なんていうかな。これは私の直感なんだけど…その作戦考え直した方がいいかも」,「……嗯——該怎麼說呢。這是我的直覺啦……那個作戰還是重新考慮一下比較好。」」,"""...... hmmm, what can I say. This is just my gut feeling... but maybe you should rethink that strategy.""","""Hmmm. How do I say this... It's just a hunch, but you should probably reconsider.""","「……음~, 뭐라고 할까. 이건 내 직감인데… 그 작전 다시 생각하는 게 좋을지도」",「……嗯——该怎么说呢。这是我的直觉啦……那个作战还是重新考虑一下比较好。」」
 ,,,,,,,,
@@ -179,7 +179,7 @@ Dialog.Chapter3-1-85,エレナ,「～～～～～ッ！」,「～～～～～ッ
 ,,,,,,,,
 Chapter 3-2,注釈,,,,,,,
 ,執務室,,,,,,,
-Dialog.Chapter3-2-1,,夜の聖月生徒会執務室にて,夜のホーリーコア・レギオン司令部にて,晚上，聖核軍團司令部——,At night in the office of the Seigetsu Student Council,The Holy Core Legion Command Center at night...,밤의 홀리코어 레기온 사령부에서,晚上，圣核军团司令部——
+Dialog.Chapter3-2-1,,夜の聖月生徒会執務室にて,夜のホーリーコア・レギオン司令部にて,晚上，「聖核軍團」司令部——,At night in the office of the Seigetsu Student Council,The Holy Core Legion Command Center at night...,밤의 홀리코어 레기온 사령부에서,晚上，圣核军团司令部——
 ,,,,,,,,
 Dialog.Chapter3-2-2,エレナ,「………もう夜10時ですか……今日の仕事は大体終わりましたが……うぅっ」,「………もう夜10時ですか……今日の仕事は大体終わりましたが……うぅっ」,「………已經晚上十點了嗎……今天的工作大致上都做完了，不過……嗚……」,"""......... is it 10pm already? ...... I'm pretty much done with work for the day, but ...... ugh.""","""Already ten o'clock? My work is mostly done... Ughhh...""",「………벌써 밤 10시입니까…… 오늘 일은 대충 끝났지만…… 우웃」,「………已经晚上十点了吗……今天的工作大致上都做完了，不过……呜……」
 ,,,,,,,,
@@ -221,7 +221,7 @@ Dialog.Chapter3-2-20,エレナ,「この水着がサイズの合わなかった�
 ,,,,,,,,
 Dialog.Chapter3-2-21,理事長,「ぐふふ…そうかそうか、それは悪いことをしたなぁ？」,「ぐふふ…そうかそうか、それは悪いことをしたなぁ？」,「咕呼呼……這樣啊這樣啊，那可真是做了壞事呢？」,"""Ggghhhh...oh yeah, that's a bad thing to do, huh?""","""I see... I guess that's a bad thing, right?""","「크흐흐… 그런가 그런가, 그거 미안하게 됐군?」",「咕呼呼……这样啊这样啊，那可真是做了坏事呢？」
 ,,,,,,,,
-Dialog.Chapter3-2-22,,「では一日中着てエレナちゃんの匂いが染みついたスク水、しっかり写真に撮らせてもらおうか」,「では一日中着てエレナちゃんの匂いが染みついた競泳水着、しっかり写真に撮らせてもらおうか」,「那我就好好把這件妳穿了一整天、都沾滿艾蓮娜香味的競賽泳裝拍下來吧。」,"""Then let's take a good picture of the scrubs that Erena-chan's scent soaks up after wearing them all day.""","""And now I'm going to take photos of you in this swimsuit, which probably smells like you after you've been wearing it all day.""","「그럼 하루 종일 입어서 엘레나쨩의 냄새가 밴 수영복, 제대로 사진에 담아두도록 하지」",「那我就好好把这件你穿了一整天、都沾满艾莲娜香味的竞赛泳装拍下来吧。」
+Dialog.Chapter3-2-22,,「では一日中着てエレナちゃんの匂いが染みついたスク水、しっかり写真に撮らせてもらおうか」,「では一日中着てエレナちゃんの匂いが染みついた競泳水着、しっかり写真に撮らせてもらおうか」,「那我就好好把這件妳穿了一整天，沾滿艾蓮娜香味的競賽泳裝拍下來吧。」,"""Then let's take a good picture of the scrubs that Erena-chan's scent soaks up after wearing them all day.""","""And now I'm going to take photos of you in this swimsuit, which probably smells like you after you've been wearing it all day.""","「그럼 하루 종일 입어서 엘레나쨩의 냄새가 밴 수영복, 제대로 사진에 담아두도록 하지」",「那我就好好把这件你穿了一整天、都沾满艾莲娜香味的竞赛泳装拍下来吧。」
 ,,,,,,,,
 Dialog.Chapter3-2-23,エレナ,「………っ、勝手にしてくださいっ！(～～～コイツっ、やっぱり本当に気持ち悪いっ！)」,「………っ、勝手にしてくださいっ！(～～～コイツっ、やっぱり本当に気持ち悪いっ！)」,「……隨、隨便你啦！ （～～～這傢伙，果然真的超噁心！）」,"""........ do whatever you want! (~~~ this guy is still really creepy!)""","""...Do what you want. (This guy is disgusting...)""","「………윽, 마음대로 하세요! (~~~이 자식, 역시 정말 기분 나빠!)」",「……随、随便你啦！ （～～～这家伙，果然真的超恶心！）」
 ,,,,,,,,
@@ -245,7 +245,7 @@ Dialog.Chapter3-2-31,エレナ,(まずいっ、後輩にこんな姿見られた
 ,,,,,,,,
 Dialog.Chapter3-2-32,理事長,(まずいな…うむ、エレナ君は机の下に隠れていたまえ。私が何とかごまかそう),(まずいな…うむ、エレナ君は机の下に隠れていたまえ。私が何とかごまかそう),（有點不妙啊……嗯，艾蓮娜，妳先躲到桌子底下去。我想辦法幫妳糊弄過去。）,"(Not good...umm, Erena, go hide under the desk. I'll cover it up somehow.)","(This is not good. Hide under the desk, I'll send them away.)","(큰일이군… 음, 엘레나 군은 책상 아래에 숨어 있게. 내가 어떻게든 얼버무리도록 하지)",（有点不妙啊……嗯，艾莲娜，你先躲到桌子底下去。我想办法帮你糊弄过去。）
 ,,,,,,,,
-Dialog.Chapter3-2-33,エレナ,(……あなたに助けられるのは不本意ですが…っ、しかたありません),(……あなたに助けられるのは不本意ですが…っ、しかたありません),（……被你救場實在很不甘心……但、現在也沒別的辦法了。）,(......I'm unwilling to be helped by this creep... but..... I have no choice),"(I did not expect to be helped by you, but it might be necessary in this situation.)","(……당신에게 도움받는 건 불쾌하지만…윽, 어쩔 수 없습니다)",（……被你救场实在很不甘心……但、现在也没别的办法了。）
+Dialog.Chapter3-2-33,エレナ,(……あなたに助けられるのは不本意ですが…っ、しかたありません),(……あなたに助けられるのは不本意ですが…っ、しかたありません),（……被你救場實在很不甘心……但現在也沒別的辦法了。）,(......I'm unwilling to be helped by this creep... but..... I have no choice),"(I did not expect to be helped by you, but it might be necessary in this situation.)","(……당신에게 도움받는 건 불쾌하지만…윽, 어쩔 수 없습니다)",（……被你救场实在很不甘心……但、现在也没别的办法了。）
 ,,,,,,,,
 Dialog.Chapter3-2-34,Erena　2ｰ2,エレナは水着のまま急いで机の下にもぐる,エレナは水着のまま急いで机の下にもぐる,艾蓮娜仍舊穿著泳裝，慌慌張張鑽進桌子底下。,Erena rushes to get under the desk in her swimsuit.,"With her swimsuit still on, Elena hid under the desk.",엘레나는 수영복 차림 그대로 서둘러 책상 아래로 기어 들어간다,艾莲娜仍旧穿着泳装，慌慌张张钻进桌子底下。
 ,,,,,,,,
@@ -263,7 +263,7 @@ Dialog.Chapter3-2-40,理事長,「それで緊急の要件とは何かね？」,
 ,,,,,,,,
 Dialog.Chapter3-2-41,女生徒,「エレナ先輩に伝えようと思っていたのですが…体調不良のエレナ先輩にお願いするのも心苦しいので今日は大丈夫です！」,「いえ、エレナ先輩に伝えようと思っていたのですが…席を外しているならしょうがないですね。」,「其實是想轉達給艾蓮娜前輩的……既然她現在不在，也沒辦法了。」,"""I was going to tell Erena-senpai, but it pains me to ask you to do this for Erena-senpai, who is not feeling well, so it's okay for today!'""","""I wanted to report to Elena, but if she's away from her desk...""","「아뇨, 엘레나 선배에게 전하려고 했는데… 자리를 비우셨다면 어쩔 수 없네요.」",「其实是想转达给艾莲娜前辈的……既然她现在不在，也没办法了。」
 ,,,,,,,,
-Dialog.Chapter3-2-42,,その時、理事長が突然チャックを開き、エレナの前にチンポを突き出した,その時、政治家の男が突然チャックを開き、エレナの前にチンポを突き出した,這時，這位政治家突然拉開拉鍊，在艾蓮娜面前猛地伸出雞雞,"At that moment, the chairman suddenly opened his zipper and thrust his cock in front of Erena!",The politician suddenly unzipped his pants and stuck his penis in Elena's face.,"그때, 정치가 남자가 갑자기 지퍼를 열고, 엘레나 앞에 자지를 내밀었다",这时，这位政治家突然拉开拉链，在艾莲娜面前猛地伸出鸡鸡
+Dialog.Chapter3-2-42,,その時、理事長が突然チャックを開き、エレナの前にチンポを突き出した,その時、政治家の男が突然チャックを開き、エレナの前にチンポを突き出した,這時，這位政治家突然拉開拉鍊，在艾蓮娜面前猛地伸出陰莖。,"At that moment, the chairman suddenly opened his zipper and thrust his cock in front of Erena!",The politician suddenly unzipped his pants and stuck his penis in Elena's face.,"그때, 정치가 남자가 갑자기 지퍼를 열고, 엘레나 앞에 자지를 내밀었다",这时，这位政治家突然拉开拉链，在艾莲娜面前猛地伸出鸡鸡
 ,,,,,,,,
 Dialog.Chapter3-2-43,エレナ,「ﾋｯ……！？、ンっ……、ン？！」,「ﾋｯ……！？、ンっ……、ン？！」,「咿……!?嗯……嗯?!」,"""Hiccup ......! Hiccup ......, hiccup?""","""Huh... ?! Nnnnn?!""","「힛……!?, 응읏……, 응?!」",「咿……!?嗯……嗯?!」
 ,,,,,,,,
@@ -271,33 +271,33 @@ Dialog.Chapter3-2-44,,(なっ！？コイツ本当に何考えて！？),(なっ
 ,,,,,,,,
 Dialog.Chapter3-2-45,女生徒,「エレナ先輩も最近は忙しいみたいで家に帰れない日も多かったみたいですし…ゆっくり休んでほしいですね」,「エレナ先輩も最近は忙しいみたいで家に帰れない日も多かったみたいですし…ゆっくり休んでほしいですね」,「艾蓮娜前輩最近好像特別忙碌連能夠回家的機會都很少……希望她能好好休息呢」,"""Erena-senpai seems to be very busy these days, and there were many days when she couldn't go home...I hope she gets some rest.""","""Elena's been busy recently, and she couldn't even go home on some days. I hope she gets some rest.""",「엘레나 선배도 요즘 바쁘셔서 집에 못 돌아가는 날도 많았던 것 같고… 푹 쉬셨으면 좋겠네요」,「艾莲娜前辈最近好像特别忙碌连能够回家的机会都很少……希望她能好好休息呢」
 ,,,,,,,,
-Dialog.Chapter3-2-46,,(っ！、コイツの…これっ、すごいニオイがっ！、ううっ！？),(っ！、コイツの…これっ、すごいニオイがっ！、ううっ！？),(這傢伙的…這東西、好重的味道啊！？嗚嗚！？),(What? This... this... this thing smells amazing! Ugh!),(This guy's... It's... It smells... Ughhh?!),"(윽!, 이 자식의… 이거, 굉장한 냄새가!, 우웃!?)",(这家伙的…这东西、好重的味道啊！？呜呜！？)
+Dialog.Chapter3-2-46,,(っ！、コイツの…これっ、すごいニオイがっ！、ううっ！？),(っ！、コイツの…これっ、すごいニオイがっ！、ううっ！？),(這傢伙的…這東西…好重的味道啊！？嗚嗚！？),(What? This... this... this thing smells amazing! Ugh!),(This guy's... It's... It smells... Ughhh?!),"(윽!, 이 자식의… 이거, 굉장한 냄새가!, 우웃!?)",(这家伙的…这东西、好重的味道啊！？呜呜！？)
 ,,,,,,,,
-Dialog.Chapter3-2-47,,(ありえないっ！、でもっ、机から出たらっ終わるっ、くううぅうううっ！！),(ありえないっ！、でもっ、机から出たらっ終わるっ、くううぅうううっ！！),（太誇張了！可是、只要一從桌子底下出來就完蛋了，呃啊啊啊啊啊！！）,"(Impossible! But, if I get out of my desk, it will be over, kuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!!)",(This can't be happening! But I can't reveal myself... Ughhh...),"(말도 안 돼!, 하지만, 책상에서 나가면 끝장인데, 크으으으으윽!!)",（太夸张了！可是、只要一从桌子底下出来就完蛋了，呃啊啊啊啊啊！！）
+Dialog.Chapter3-2-47,,(ありえないっ！、でもっ、机から出たらっ終わるっ、くううぅうううっ！！),(ありえないっ！、でもっ、机から出たらっ終わるっ、くううぅうううっ！！),（太誇張了！可是，只要一從桌子底下出來就完蛋了，呃啊啊啊啊啊！！）,"(Impossible! But, if I get out of my desk, it will be over, kuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!!)",(This can't be happening! But I can't reveal myself... Ughhh...),"(말도 안 돼!, 하지만, 책상에서 나가면 끝장인데, 크으으으으윽!!)",（太夸张了！可是、只要一从桌子底下出来就完蛋了，呃啊啊啊啊啊！！）
 ,,,,,,,,
 Dialog.Chapter3-2-48,理事長,「ふむ…君はずいぶんエレナ君を尊敬しているようだね」,「ふむ…君はずいぶんエレナ君を尊敬しているようだね」,「嗯……妳看起來相當尊敬艾蓮娜呢。」,"""Well... you seem to have a lot of respect for Erena.""","""You sound like you really respect her.""",「흠… 자네는 상당히 엘레나 군을 존경하는 것 같군」,「嗯……你看起来相当尊敬艾莲娜呢。」
 ,,,,,,,,
 Dialog.Chapter3-2-49,女生徒,「はい！エレナ先輩は私の一番の憧れの人です！一見怖いですけど、かっこよくてすごく頼りになるんです！」,「はい！エレナ先輩は私の一番の憧れの人です！一見怖いですけど、かっこよくてすごく頼りになるんです！」,「是的！艾蓮娜前輩是我最憧憬的人！乍看有點可怕，不過很帥氣又超可靠！」,"""Yes! Erena-senpai is the person I admire the most! She may look scary at first glance, but she's cool and very dependable!""","""Yes, I admire her the most. She might look scary, but she's great and very dependable!""","「네! 엘레나 선배는 제 제일 동경하는 사람이에요! 언뜻 보기엔 무섭지만, 멋있고 굉장히 의지가 돼요!」",「是的！艾莲娜前辈是我最憧憬的人！乍看有点可怕，不过很帅气又超可靠！」
 ,,,,,,,,
-Dialog.Chapter3-2-50,,突然理事長の手がエレナの頭をつかみ、自身のチンポをエレナの口に無理やり突っ込む,突然男の手がエレナの頭をつかみ、自身のチンポをエレナの口に無理やり突っ込む,突然男人的手抓住艾蕾娜的頭，硬是把自己的雞雞塞進艾連娜的嘴裡。,"Suddenly, the chairman's hand grabs Erena's head and forcibly shoves his cock into her mouth.",The man suddenly grabbed Elena's head and shoved his dick into her mouth forcefully.,"갑자기 남자의 손이 엘레나의 머리를 잡고, 자신의 자지를 엘레나의 입에 억지로 쑤셔 넣는다",突然男人的手抓住艾蕾娜的头，硬是把自己的鸡鸡塞进艾连娜的嘴里。
+Dialog.Chapter3-2-50,,突然理事長の手がエレナの頭をつかみ、自身のチンポをエレナの口に無理やり突っ込む,突然男の手がエレナの頭をつかみ、自身のチンポをエレナの口に無理やり突っ込む,突然男人的手抓住艾蕾娜的頭，硬是把自己的陰莖塞進艾連娜的嘴裡。,"Suddenly, the chairman's hand grabs Erena's head and forcibly shoves his cock into her mouth.",The man suddenly grabbed Elena's head and shoved his dick into her mouth forcefully.,"갑자기 남자의 손이 엘레나의 머리를 잡고, 자신의 자지를 엘레나의 입에 억지로 쑤셔 넣는다",突然男人的手抓住艾蕾娜的头，硬是把自己的鸡鸡塞进艾连娜的嘴里。
 ,,,,,,,,
 Dialog.Chapter3-2-51,エレナ,「ブチュッ！？グッ、んっ！……ーーーッ！？」,「ブチュッ！？グッ、んっ！……ーーーッ！？」,「噗啾！？咕、嗯！……———！？」,"""Butch! Gghh, hmmm! ......ooooo!""","""Fuh?! Ugh... Nnnn...""","「부춧!? 크윽, 응읏!……ーーー윽!?」",「噗啾！？咕、嗯！……———！？」
 ,,,,,,,,
-Dialog.Chapter3-2-52,エレナ,(コイツ本当にっ！？、やめろっ！、うぐっ、臭いっ！),(コイツ本当にっ！？、やめろっ！、うぐっ、臭いっ！),(這傢伙竟然來真的！？、住手！、嗚咕、好臭！),"(Is this guy really? Stop it! Ugh, it stinks!)",(Is he for real? No! It stinks!),"(이 자식 정말!?, 그만둬!, 우윽, 냄새나!)",(这家伙竟然来真的！？、住手！、呜咕、好臭！)
+Dialog.Chapter3-2-52,エレナ,(コイツ本当にっ！？、やめろっ！、うぐっ、臭いっ！),(コイツ本当にっ！？、やめろっ！、うぐっ、臭いっ！),(這傢伙竟然來真的！？住手！嗚咕、好臭！),"(Is this guy really? Stop it! Ugh, it stinks!)",(Is he for real? No! It stinks!),"(이 자식 정말!?, 그만둬!, 우윽, 냄새나!)",(这家伙竟然来真的！？、住手！、呜咕、好臭！)
 ,,,,,,,,
 Dialog.Chapter3-2-53,女生徒,「いつも真面目で責任感が強くて…私が一番尊敬している先輩です！」,「いつも真面目で責任感が強くて…私が一番尊敬している先輩です！」,「總是很認真又有責任感…是我最尊敬的前輩！」,"""He is always so serious and responsible...he is the senior I respect the most!""","""She's always so serious and responsible... I really respect her.""",「언제나 성실하고 책임감이 강해서… 제가 가장 존경하는 선배예요!」,「总是很认真又有责任感…是我最尊敬的前辈！」
 ,,,,,,,,
-Dialog.Chapter3-2-54,,理事長はエレナの頭を前後に揺らし、エレナの口で自身のチンポをしごき始める,政治家の男はエレナの頭を前後に揺らし、エレナの口で自身のチンポをしごき始める,政治家的男人前後搖晃艾蓮娜的頭，用艾蓮娜的嘴開始套弄自己的雞雞,"The chairman rocks Erena's head back and forth, and begins to suck his cock in Erena's mouth.","The man moved Elena's head back and forth, fucking her mouth with his dick.","정치가 남자는 엘레나의 머리를 앞뒤로 흔들며, 엘레나의 입으로 자신의 자지를 문지르기 시작한다",政治家的男人前后摇晃艾莲娜的头，用艾莲娜的嘴开始套弄自己的鸡鸡
+Dialog.Chapter3-2-54,,理事長はエレナの頭を前後に揺らし、エレナの口で自身のチンポをしごき始める,政治家の男はエレナの頭を前後に揺らし、エレナの口で自身のチンポをしごき始める,政治家的男人前後搖晃艾蓮娜的頭，用艾蓮娜的嘴開始套弄自己的陰莖。,"The chairman rocks Erena's head back and forth, and begins to suck his cock in Erena's mouth.","The man moved Elena's head back and forth, fucking her mouth with his dick.","정치가 남자는 엘레나의 머리를 앞뒤로 흔들며, 엘레나의 입으로 자신의 자지를 문지르기 시작한다",政治家的男人前后摇晃艾莲娜的头，用艾莲娜的嘴开始套弄自己的鸡鸡
 ,,,,,,,,
 Dialog.Chapter3-2-55,エレナ,「グッ、ジュルッ♥♥、ちゅぽっ♥、ちゅぽっ♥！」,「グッ、ジュルッ♥♥、ちゅぽっ♥、ちゅぽっ♥！」,「咕、啾嚕♥♥、啾啵♥、啾啵♥！」,"""Gggghh, julp ♥♥, chuppo ♥, chuppo ♥!""","""Guh♥ Squelch♥ Squelch♥""","「크윽, 쥬릇♥♥, 츄폿♥, 츄폿♥!」",「咕、啾噜♥♥、啾啵♥、啾啵♥！」
 ,,,,,,,,
-Dialog.Chapter3-2-56,,(信じられないっ！コイツ、生徒の口でっ！？),(信じられないっ！コイツ、聖核戦姫の口でっ！？),(真是不可置信！這傢伙、竟然用聖核戰姬的嘴來...),"(I can't believe it! This guy, in the mouth of a student!)",(I don't believe this! He's fucking the mouth of a Holy Core Battlemaiden?!),"(믿을 수 없어! 이 자식, 성핵전희의 입으로!?」",(真是不可置信！这家伙、竟然用圣核战姬的嘴来...)
+Dialog.Chapter3-2-56,,(信じられないっ！コイツ、生徒の口でっ！？),(信じられないっ！コイツ、聖核戦姫の口でっ！？),(真是不可置信！這傢伙，竟然用聖核戰姬的嘴來...),"(I can't believe it! This guy, in the mouth of a student!)",(I don't believe this! He's fucking the mouth of a Holy Core Battlemaiden?!),"(믿을 수 없어! 이 자식, 성핵전희의 입으로!?」",(真是不可置信！这家伙、竟然用圣核战姬的嘴来...)
 ,,,,,,,,
-Dialog.Chapter3-2-57,,(…っ、まずいっ！、コイツのから口を離すとその音でバレるっ！音を出さないようにしないと！),(…っ、まずいっ！、コイツのから口を離すとその音でバレるっ！音を出さないようにしないと！),(…不妙！如果硬是拔開、一定會發出聲音！得安靜點才行！),"(...Oh, no! If I take my mouth off this guy, the sound will give me away! I have to keep it quiet!)",(N-No... There will be noises if he slides out of my mouth! I have to stay quiet!),"(…윽, 위험해!, 이 자식에게서 입을 떼면 그 소리로 들통나요! 소리를 내지 않도록 해야!)",(…不妙！如果硬是拔开、一定会发出声音！得安静点才行！)
+Dialog.Chapter3-2-57,,(…っ、まずいっ！、コイツのから口を離すとその音でバレるっ！音を出さないようにしないと！),(…っ、まずいっ！、コイツのから口を離すとその音でバレるっ！音を出さないようにしないと！),(…不妙！如果硬是拔開，一定會發出聲音！得安靜點才行！),"(...Oh, no! If I take my mouth off this guy, the sound will give me away! I have to keep it quiet!)",(N-No... There will be noises if he slides out of my mouth! I have to stay quiet!),"(…윽, 위험해!, 이 자식에게서 입을 떼면 그 소리로 들통나요! 소리를 내지 않도록 해야!)",(…不妙！如果硬是拔开、一定会发出声音！得安静点才行！)
 ,,,,,,,,
 Dialog.Chapter3-2-58,,「……、フーーー、……、フーーー！」,「……、フーーー、……、フーーー！」,「……呼———……呼———！」,"""......, hooo, ......, hooo!""","""Ffff... Ffff...""","「……, 후ーーー, ……, 후ーーー!」",「……呼———……呼———！」
 ,,,,,,,,
-Dialog.Chapter3-2-59,,(うっ、鼻呼吸するとッ、直接コイツのニオイがっ！？),(うっ、鼻呼吸するとッ、直接コイツのニオイがっ！？),（嗚、只要一用鼻子呼吸，就會直接聞到這傢伙的味道！？）,"(Ugh, when I breathe through my nose, I can smell him directly!)","(If I breathe through my nose, the smell...)","(윽, 코로 숨 쉬면, 직접 이 자식 냄새가!?)",（呜、只要一用鼻子呼吸，就会直接闻到这家伙的味道！？）
+Dialog.Chapter3-2-59,,(うっ、鼻呼吸するとッ、直接コイツのニオイがっ！？),(うっ、鼻呼吸するとッ、直接コイツのニオイがっ！？),（嗚，只要一用鼻子呼吸，就會直接聞到這傢伙的味道！？）,"(Ugh, when I breathe through my nose, I can smell him directly!)","(If I breathe through my nose, the smell...)","(윽, 코로 숨 쉬면, 직접 이 자식 냄새가!?)",（呜、只要一用鼻子呼吸，就会直接闻到这家伙的味道！？）
 ,,,,,,,,
 Dialog.Chapter3-2-60,理事長,「そうかそうか…私もエレナ君のことはよく知っているが本当に素晴らしい生徒だと感心するよ」,「そうかそうか…私もエレナ君のことはよく知っているが本当に素晴らしい聖核戦姫だと感心するよ」,「這樣啊這樣啊……我對艾蓮娜也很了解，真心覺得她是非常優秀的聖核戰姫。」,"""Oh well...I know you well Erena, and I'm really impressed with what a great student you are.'""","""I see. I know Elena very well, and I think she's an incredible Holy Core Battlemaiden.""",「그런가 그런가… 나도 엘레나 군에 대해 잘 알고 있지만 정말 훌륭한 성핵전희라고 감탄하고 있다」,「这样啊这样啊……我对艾莲娜也很了解，真心觉得她是非常优秀的圣核战姫。」
 ,,,,,,,,
@@ -321,7 +321,7 @@ Dialog.Chapter3-2-69,エレナ,「んんっ♥！？、んんんんっ～～～�
 ,,,,,,,,
 Dialog.Chapter3-2-70,,理事長のチンポから熱い精液の奔流がエレナの口内に注ぎ込まれる,政治家の男のチンポから熱い精液の奔流がエレナの口内に注ぎ込まれる,政治家的陰莖噴出一股炙熱的精液洪流，灌進艾蓮娜的口中。,A torrent of hot semen pours into Erena's mouth from the chairman's cock.,The man blasted Elena's mouth with hot semen from his dick.,정치가 남자의 자지에서 뜨거운 정액의 분류가 엘레나의 입안에 쏟아진다,政治家的阴茎喷出一股炙热的精液洪流，灌进艾莲娜的口中。
 ,,,,,,,,
-Dialog.Chapter3-2-71,,「んんっ♥！、ゴキュッ♥！？、けぷっ♥」,「んんっ♥！、ゴキュッ♥！？、けぷっ♥」,「嗯！♥、咕嚕！？、咳！♥」,"""Nnnngggghhhh! Gokyuu♥! Gobble!""","""Nnnn♥ Ughh♥ Bah!""","「응응읏♥!, 고큣♥!?, 케풋♥」",「嗯！♥、咕噜！？、咳！♥」
+Dialog.Chapter3-2-71,,「んんっ♥！、ゴキュッ♥！？、けぷっ♥」,「んんっ♥！、ゴキュッ♥！？、けぷっ♥」,「嗯！♥咕嚕！？咳！♥」,"""Nnnngggghhhh! Gokyuu♥! Gobble!""","""Nnnn♥ Ughh♥ Bah!""","「응응읏♥!, 고큣♥!?, 케풋♥」",「嗯！♥、咕噜！？、咳！♥」
 ,,,,,,,,
 Dialog.Chapter3-2-72,,(おええっ！？コイツ口の中にっ！？臭いっ！、気持ち悪いっ！！！),(おええっ！？コイツ口の中にっ！？臭いっ！、気持ち悪いっ！！！),（嗚哇！？這傢伙射在了嘴裡！？好臭！好噁心！！！）,"(Oh, no! He's in my mouth! It stinks! It's disgusting!)","(Ugh, in my mouth?! Gross!)","(오에엑!? 이 자식 입안에!? 냄새나!, 기분 나빠!!!)",（呜哇！？这家伙射在了嘴里！？好臭！好恶心！！！）
 ,,,,,,,,
@@ -343,7 +343,7 @@ Dialog.Chapter3-2-79,エレナ,「～～～～っ！、わかり…ました…�
 ,,,,,,,,
 Dialog.Chapter3-2-80,,(ううっ～～～！、一体いつまでこんな関係を続ければいいのですかっ！),(ううっ～～～！、一体いつまでこんな事を続ければいいのですかっ！),（嗚～～～！我到底還得這樣被迫配合到什麼時候啊！）,(Ugh~~! How long do I have to continue this kind of relationship?),(Just how much longer do I have to do this?!),"(우웃~~~!, 대체 언제까지 이런 짓을 계속해야 하는 겁니까!)",（呜～～～！我到底还得这样被迫配合到什么时候啊！）
 Chapter 3-3,注釈,,,,,,,
-Dialog.Chapter3-3-1,,聖月生徒会執務室,ホーリーコア・レギオン司令部にて,在聖核軍團司令部內——,Seigetsu Student Council Office,At the Holy Core Legion Command Center...,홀리코어 레기온 사령부에서,在圣核军团司令部内——
+Dialog.Chapter3-3-1,,聖月生徒会執務室,ホーリーコア・レギオン司令部にて,在「聖核軍團」司令部內——,Seigetsu Student Council Office,At the Holy Core Legion Command Center...,홀리코어 레기온 사령부에서,在圣核军团司令部内——
 ,Erena3－1,,,,,,,
 Dialog.Chapter3-3-2,理事長,「おおっ！素晴らしい！まるで本物の牛のようだ！」,「おおっ！素晴らしい！まるで本物の牛のようだ！」,「喔喔！太棒了！簡直就像真的牛一樣！」,"""Oh, that's great! That's fantastic! They look like real cows!""","""Wow, amazing! Just like a real cow!""",「오오! 훌륭해! 마치 진짜 젖소 같구나!」,「喔喔！太棒了！简直就像真的牛一样！」
 ,,,,,,,,
@@ -395,7 +395,7 @@ Dialog.Chapter3-3-25,,「こんな臭いものをっ♥♥、生徒に処理さ�
 ,,,,,,,,
 Dialog.Chapter3-3-26,理理事長,「ぐうっ、少々準備に時間がかかったものでね…っ、時間が取れなかったのだよっ」,「ぐうっ、少々準備に時間がかかったものでね…っ、時間が取れなかったのだよっ」,「呃……因為準備花了不少時間……一直沒能擠出時間來啊。」,"""Ugh, it took me a little while to get ready... but I didn't have much time!""","""I... I had to prepare something and didn't have time.""","「크윽, 조금 준비에 시간이 걸려서 말이지…윽, 시간이 없었다」",「呃……因为准备花了不少时间……一直没能挤出时间来啊。」
 ,,,,,,,,
-Dialog.Chapter3-3-27,エレナ,「……？、ちゅぱっ♥、まったくっ♥、ぐぽっ♥♥、それでも大人ですかっ♥♥！」,「……？、ちゅぱっ♥、まったくっ♥、ぐぽっ♥♥、さいていっ♥♥！」,「…？、啾啪♥、真是的♥、咕啵♥♥、最差勁了♥♥！」,"""I'm not sure if I'm an adult or not. I'm still an adult, right?""","""...? Slurp♥ Ugh♥ You're the worst!""","「……?, 츄팟♥, 정말♥, 크폿♥♥, 최악♥!」",「…？、啾啪♥、真是的♥、咕啵♥♥、最差劲了♥♥！」
+Dialog.Chapter3-3-27,エレナ,「……？、ちゅぱっ♥、まったくっ♥、ぐぽっ♥♥、それでも大人ですかっ♥♥！」,「……？、ちゅぱっ♥、まったくっ♥、ぐぽっ♥♥、さいていっ♥♥！」,「…？啾啪♥、真是的♥、咕啵♥♥、最差勁了♥♥！」,"""I'm not sure if I'm an adult or not. I'm still an adult, right?""","""...? Slurp♥ Ugh♥ You're the worst!""","「……?, 츄팟♥, 정말♥, 크폿♥♥, 최악♥!」",「…？、啾啪♥、真是的♥、咕啵♥♥、最差劲了♥♥！」
 ,,,,,,,,
 Dialog.Chapter3-3-28,理事長,「おおっ凄いバキュームフェラだっ！しかし本当に上達したなエレナ君っ！さすがは清藤家の令嬢にして副会長のエリートだっ！」,「おおっ凄いバキュームフェラだっ！しかし本当に上達したなエレナ君っ！さすがは清藤家の令嬢にして副司令のエリートだっ！」,「喔，真厲害……妳真的進步很多呢，艾蓮娜！不愧是清藤家的千金兼副司令級的菁英啊！」,"""Oh, that's a great vacuum blowjob! But you've really improved, Erena! You are indeed the daughter of the Seidō family and the elite vice president!""","""This sucking feels great! You have really improved. The heiress of Kiyofuji and the deputy Commander is really something!""",「오오! 굉장한 진공 펠라다! 하지만 정말 능숙해졌구나 엘레나 군! 역시 세이토 가의 영애이자 부사령관인 엘리트!」,「喔，真厉害……你真的进步很多呢，艾莲娜！不愧是清藤家的千金兼副司令级的菁英啊！」
 ,,,,,,,,
@@ -409,11 +409,11 @@ Dialog.Chapter3-3-32,エレナ,「じゅぱっ♥、なにを準備するのか�
 ,,,,,,,,
 Dialog.Chapter3-3-33,理事長,「ああっ、これで終わりだっ、濃いのを出すぞっ！、しっかり飲み込めっ！」,「ああっ、これで終わりだっ、濃いのを出すぞっ！、しっかり飲み込めっ！」,「啊啊，這樣到此爲止了，我要射一發濃的了！給我好好吞下去！」,"""Oh, that's it! That's it! I'm going to make it thick! Swallow it down!""","""This is it. It's going to be thick and hot! I'm coming!""","「아아, 이걸로 끝이다, 진한 걸 싸주지!, 제대로 삼켜라!」",「啊啊，这样到此为止了，我要射一发浓的了！给我好好吞下去！」
 ,,,,,,,,
-Dialog.Chapter3-3-34,エレナ,「ちゅぽっ♥、じゅぷっ♥ゴキュッ♥、ゴキュッ♥！？、ごぷっ！？、ゴキュッ♥」,「ちゅぽっ♥、じゅぷっ♥ゴキュッ♥、ゴキュッ♥！？、ごぷっ！？、ゴキュッ♥」,「啾啵♥、啾噗♥、咕嚕♥、咕嚕♥！？、咕噗！？、咕嚕♥」,"""Chupo ♥, jupo ♥, gopu ♥, gopu ♥! Gopu♥, gopu♥, gopu♥! Gobble, gobble, gobble, gobble, gobble, gobble, gobble, gobble!""","""Slurp♥ Mmm♥ Slurp♥""","「츄폿♥, 쥬풋♥고큣♥, 고큣♥!?, 곱풋!?, 고큣♥」",「啾啵♥、啾噗♥、咕噜♥、咕噜♥！？、咕噗！？、咕噜♥」
+Dialog.Chapter3-3-34,エレナ,「ちゅぽっ♥、じゅぷっ♥ゴキュッ♥、ゴキュッ♥！？、ごぷっ！？、ゴキュッ♥」,「ちゅぽっ♥、じゅぷっ♥ゴキュッ♥、ゴキュッ♥！？、ごぷっ！？、ゴキュッ♥」,「啾啵♥、啾噗♥、咕嚕♥、咕嚕♥！？咕噗！？咕嚕♥」,"""Chupo ♥, jupo ♥, gopu ♥, gopu ♥! Gopu♥, gopu♥, gopu♥! Gobble, gobble, gobble, gobble, gobble, gobble, gobble, gobble!""","""Slurp♥ Mmm♥ Slurp♥""","「츄폿♥, 쥬풋♥고큣♥, 고큣♥!?, 곱풋!?, 고큣♥」",「啾啵♥、啾噗♥、咕噜♥、咕噜♥！？、咕噗！？、咕噜♥」
 ,,,,,,,,
-Dialog.Chapter3-3-35,,「――――ゴキュッ♥、―――――ゴキュッ♥―――――！？ッ、！？ッ！！」,「――――ゴキュッ♥、―――――ゴキュッ♥―――――！？ッ、！？ッ！！」,「―――咕嚕♥、―――咕嚕♥―――！？、！？！！」,"""―――― gokyuu♥, ――――― gokyuu ♥―――――! ♥! !!!!""","""Ugh♥ Ughhhhh?!""","「――――고큣♥, ―――――고큣♥―――――!?윽, !?윽!!」",「―――咕噜♥、―――咕噜♥―――！？、！？！！」
+Dialog.Chapter3-3-35,,「――――ゴキュッ♥、―――――ゴキュッ♥―――――！？ッ、！？ッ！！」,「――――ゴキュッ♥、―――――ゴキュッ♥―――――！？ッ、！？ッ！！」,「―――咕嚕♥―――咕嚕♥―――！？！？！！」,"""―――― gokyuu♥, ――――― gokyuu ♥―――――! ♥! !!!!""","""Ugh♥ Ughhhhh?!""","「――――고큣♥, ―――――고큣♥―――――!?윽, !?윽!!」",「―――咕噜♥、―――咕噜♥―――！？、！？！！」
 ,,,,,,,,
-Dialog.Chapter3-3-36,,「けぽっ、な…に！？、これはっ！？体から力が抜けてっ！―――精液じゃっ…ないっ！？」,「けぽっ、な…に！？、これはっ！？体から力が抜けてっ！―――精液じゃっ…ないっ！？」,「咳、什…什麼！？、這是！？、身體沒力了！―――這…不是精液！？」,"""What is this? What is this? My body is weak! ―――It's not semen!""","""Aghhhh! What's this? I'm losing my strength... This is... Not semen?!""","「케폿, 무…엇!?, 이건!? 몸에서 힘이 빠져나가! ―――정액이…아니야!?」",「咳、什…什么！？、这是！？、身体没力了！―――这…不是精液！？」
+Dialog.Chapter3-3-36,,「けぽっ、な…に！？、これはっ！？体から力が抜けてっ！―――精液じゃっ…ないっ！？」,「けぽっ、な…に！？、これはっ！？体から力が抜けてっ！―――精液じゃっ…ないっ！？」,「咳、什…什麼！？這是！？身體沒力了！―――這…不是精液！？」,"""What is this? What is this? My body is weak! ―――It's not semen!""","""Aghhhh! What's this? I'm losing my strength... This is... Not semen?!""","「케폿, 무…엇!?, 이건!? 몸에서 힘이 빠져나가! ―――정액이…아니야!?」",「咳、什…什么！？、这是！？、身体没力了！―――这…不是精液！？」
 ,,,,,,,,
 Dialog.Chapter3-3-37,理事長,「ああ、これで終わりだといっただろう？」,「ああ、これで終わりだといっただろう？」,「啊啊，我不是說過到此為止了嗎？」,"""Yeah, you said this was the end, right?""","""Did you think that was it?""","「아아, 이걸로 끝이라고 말했을 텐데?」",「啊啊，我不是说过到此为止了吗？」
 ,,,,,,,,
@@ -443,11 +443,11 @@ Dialog.Chapter3-3-49,エレナ,(体が動かないっ…意識がっ…それで
 ,,,,,,,,
 Dialog.Chapter3-3-50,,「―――ッ！、ハァッ、ハァッ、私の不始末は私が責任を持って片付けますっ！！」,「―――ッ！、ハァッ、ハァッ、私の不始末は私が責任を持って片付けますっ！！」,「――哈啊、哈啊……這是我自己闖下的禍，就由我親手收拾乾淨！！」,"""――――! Huh, huh, huh, I'll take responsibility for cleaning up my mess!""","""Huff... I will clean up after my own mistakes!""","「―――윽!, 하앗, 하앗, 제 불찰은 제가 책임지고 처리하겠습니다!!」",「――哈啊、哈啊……这是我自己闯下的祸，就由我亲手收拾干净！！」
 ,,,,,,,,
-Dialog.Chapter3-3-51,,「生徒会長に学園を預かっている身っ！絶対に負けるわけにはいきませんっ！！」,「総司令にホーリーコア・レギオン司令部を預かっている身っ！絶対に負けるわけにはいきませんっ！！」,「身為受託代行總司令職務、看守聖核軍團司令部的人，我絕對不會容許自己在這裡輸掉！！」,"""I'm entrusting the school to the student council president! I can't lose!""","""The Commander entrusted Holy Core Legion to me! I can't be defeated!""",「총사령관으로부터 홀리코어 레기온의 사령부를 위임 맡고 있는 몸! 절대로 질 수는 없습니다!!」,「身为受托代行总司令职务、看守圣核军团司令部的人，我绝对不会容许自己在这里输掉！！」
+Dialog.Chapter3-3-51,,「生徒会長に学園を預かっている身っ！絶対に負けるわけにはいきませんっ！！」,「総司令にホーリーコア・レギオン司令部を預かっている身っ！絶対に負けるわけにはいきませんっ！！」,「身為『聖核軍團』司令部的總司令代理，我絕對不會容許自己在這裡輸掉！！」,"""I'm entrusting the school to the student council president! I can't lose!""","""The Commander entrusted Holy Core Legion to me! I can't be defeated!""",「총사령관으로부터 홀리코어 레기온의 사령부를 위임 맡고 있는 몸! 절대로 질 수는 없습니다!!」,「身为受托代行总司令职务、看守圣核军团司令部的人，我绝对不会容许自己在这里输掉！！」
 ,,,,,,,,
-,,戦闘開始,戦闘開始,,Commencement of combat,Combat Starts,전투 시작,
+,,戦闘開始,戦闘開始,戰鬥開始,Commencement of combat,Combat Starts,전투 시작,
 ,,,,,,,,
-,,戦闘終了,戦闘終了,,the end of hostilities,Combat Ends,전투 종료,
+,,戦闘終了,戦闘終了,戰鬥結束,the end of hostilities,Combat Ends,전투 종료,
 ,,,,,,,,
 Dialog.Chapter3-3-52,エレナ,「ハアッ、ハアッ、ぐっ、…」,「ハアッ、ハアッ、ぐっ、…」,「哈啊、哈啊、呃……」,"""Hah, hah, ggh...""","""Huff... Puff...""","「하앗, 하앗, 크윽,…」",「哈啊、哈啊、呃……」
 ,,,,,,,,
@@ -477,7 +477,7 @@ Dialog.Chapter3-3-64,エレナ,「う、あ……そ…んなっ…」,「う、
 ,,,,,,,,
 Dialog.Chapter3-3-65,,(だめっ……私が負けたら……生徒会はっ…！),(だめっ……私が負けたら……ホーリーコア・レギオンはっ…！),（不行……要是我輸了……聖核軍團就會……！）,"(No, ...... if I lose, the ...... student council will...!)",(If I am defeated... The Holy Core Legion...),(안돼…… 내가 지면…… 홀리코어 레기온은…!),（不行……要是我输了……圣核军团就会……！）
 ,,,,,,,,
-Dialog.Chapter3-3-66,触手怪人,「ぐふふっ、心配するなエレナ君。君はアジトで私がたっぷり可愛がってやる」,「ぐふふっ、心配するなエレナ君。君はアジトで私がたっぷり可愛がってやる」,「咕呵呵，別擔心，艾蓮娜。到了我們的據點，我會好好『招待』妳的。」,"""Don't worry, Erena. I'll take good care of you in my hideout.""","""Don't worry, Elena. I'll take good care of you at our secret hideout.""","「크흐흐, 걱정하지 마라 엘레나 군. 너는 아지트에서 내가 듬뿍 귀여워해주마」",「咕呵呵，别担心，艾莲娜。到了我们的据点，我会好好『招待』你的。」
+Dialog.Chapter3-3-66,触手怪人,「ぐふふっ、心配するなエレナ君。君はアジトで私がたっぷり可愛がってやる」,「ぐふふっ、心配するなエレナ君。君はアジトで私がたっぷり可愛がってやる」,「咕呵呵，別擔心，艾蓮娜。到了我們的基地，我會好好『招待』妳的。」,"""Don't worry, Erena. I'll take good care of you in my hideout.""","""Don't worry, Elena. I'll take good care of you at our secret hideout.""","「크흐흐, 걱정하지 마라 엘레나 군. 너는 아지트에서 내가 듬뿍 귀여워해주마」",「咕呵呵，别担心，艾莲娜。到了我们的据点，我会好好『招待』你的。」
 ,,,,,,,,
 Dialog.Chapter3-3-67,エレナ,「……あ…ああっ―――――……」,「……あ…ああっ―――――……」,「……啊、啊啊―――――……」,"""...... ah... ah... ―――――... ...""","""Ahhh...""",「……아…아앗―――――……」,「……啊、啊啊―――――……」
 ,,,,,,,,

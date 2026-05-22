@@ -48,7 +48,7 @@ Nayuta.Fallen1-23,,「どうせ暇ならコイツの相手をしておいてく�
 ,,,,,,,,
 Nayuta.Fallen1-24,ゴブリン型怪人,「グギャッ、グギャッ！？」,「グギャッ、グギャッ！？」,「咕嘎、咕嘎！？」,"Ggah, ggah!""","""Gugya! Gugya!?""","「크악, 크악!?」",「咕嘎、咕嘎！？」
 ,,,,,,,,
-Nayuta.Fallen1-25,那由多,「………そのようですね」,「………そのようですね」,「………他們是這樣説的喔。」,"......... seems to be the case.""","""...So it seems.""",「………그런 것 같군요」,「………他们是这样说的喔。」
+Nayuta.Fallen1-25,那由多,「………そのようですね」,「………そのようですね」,「………似乎是這樣呢。」,"......... seems to be the case.""","""...So it seems.""",「………그런 것 같군요」,「………他们是这样说的喔。」
 ,,,,,,,,
 Nayuta.Fallen1-26,,(……まあこの程度の怪人なら相手にするべくもないでしょう),(……まあこの程度の怪人なら相手にするべくもないでしょう),（……這種程度的怪人，根本不值一提。）,"(...... Well, if it's a monster of this caliber, it's probably not worth the effort.)","(Well, a fiend of this level shouldn't be worth dealing with.)",(……뭐 이 정도 괴인이라면 상대할 필요도 없겠죠),（……这种程度的怪人，根本不值一提。）
 ,,,,,,,,
@@ -72,7 +72,7 @@ Nayuta.Fallen1-35,那由多,「ひっぎいっ！？おあっ？？お゛お゛�
 ,,,,,,,,
 Nayuta.Fallen1-36,ゴブリン型怪人,「ゲギャッ！ギャギャ！」,「ゲギャッ！ギャギャ！」,「給嘎！嘎嘎！」,"Geegawd! Ggagh!""","""Gegya! Gyagya!""",「케갹! 갸갸!」,「给嘎！嘎嘎！」
 ,,,,,,,,
-Nayuta.Fallen1-37,那由多,「――――はっ？、え、何をっ！？」,「――――はっ？、え、何をっ！？」,「――――咦？，呃，你在做什麼！？」,"""―――― what? What?","""...Huh? Wh-what are you!?""","「――――핫?, 에, 무엇을!?」",「――――咦？，呃，你在做什么！？」
+Nayuta.Fallen1-37,那由多,「――――はっ？、え、何をっ！？」,「――――はっ？、え、何をっ！？」,「――――咦？欸，你在做什麼！？」,"""―――― what? What?","""...Huh? Wh-what are you!?""","「――――핫?, 에, 무엇을!?」",「――――咦？，呃，你在做什么！？」
 ,,,,,,,,
 Nayuta.Fallen1-38,,一瞬の出来事に那由多は何が起きたのかを理解できない,一瞬の出来事に那由多は何が起きたのかを理解できない,突如其來的狀況讓那由多無法理解發生了什麼。,"In a split second, Nayuta can't understand what happened.",Nayuta couldn't understand what had happened in the blink of an eye.,순간적인 일에 나유타는 무슨 일이 일어났는지 이해하지 못한다,突如其来的状况让那由多无法理解发生了什么。
 ,,,,,,,,
@@ -106,19 +106,19 @@ Nayuta.Fallen1-52,ゴブリン型怪人,「ギャッ♪　ギャッ♪」,「ギ
 ,,,,,,,,
 Nayuta.Fallen1-53,那由多,「お゛おっ………お゛っ♥」,「お゛おっ………お゛っ♥」,「喔喔………喔♥」,"Ooooh ......... Ooooh ♥""","""Ooh... Oh♥""",「오옷 오옷……… 오옷 옷♥」,「喔喔………喔♥」
 ,Nayuta darkness 1-6,,,,,,,
-Nayuta.Fallen1-54,那由多,「―――――っ！、私ッ、今この怪人にっ…絶頂…させられた！？」,「―――――っ！、私ッ、今この怪人にっ…絶頂…させられた！？」,「―――――唔！，我竟然、被這個怪人…弄到高潮了！？」,I just had a climax......made by this monster! I've just been made to climax by this monster!,"""...! I... I just... came... because of this fiend!?""","「―――――윽!, 나, 지금 이 괴인에게… 절정… 당했다!?」",「―――――唔！，我竟然、被这个怪人…弄到高潮了！？」
+Nayuta.Fallen1-54,那由多,「―――――っ！、私ッ、今この怪人にっ…絶頂…させられた！？」,「―――――っ！、私ッ、今この怪人にっ…絶頂…させられた！？」,「―――――唔！我竟然，被這個怪人…弄到高潮了！？」,I just had a climax......made by this monster! I've just been made to climax by this monster!,"""...! I... I just... came... because of this fiend!?""","「―――――윽!, 나, 지금 이 괴인에게… 절정… 당했다!?」",「―――――唔！，我竟然、被这个怪人…弄到高潮了！？」
 ,,,,,,,,
 Nayuta.Fallen1-55,,「ぐううっ、私がっ…こんな雑魚にっ…」,「ぐううっ、私がっ…こんな雑魚にっ…」,「嗚嗚嗚，我竟然…被這種雜魚…」,"""Ugh, I... such a small fish...""","""Guuuh, for me to... by such a small fry...""","「크으으윽, 내가… 이런 잡것에게…」",「呜呜呜，我竟然…被这种杂鱼…」
 ,,,,,,,,
 Nayuta.Fallen1-56,ゴブリン型怪人,「ゲギャッ♪　ゲギャッ♪」,「ゲギャッ♪　ゲギャッ♪」,「給嘎♪　給嘎♪」,♪ Geegaw ♪ ♪ Geegaw ♪,"""Gegya♪ Gegya♪""",「케갹♪　케갹♪」,「给嘎♪　给嘎♪」
 ,,,,,,,,
-Nayuta.Fallen1-57,那由多,「っ、こんな屈辱っ、ぐうっ、絶対に許さな―――――」,「っ、こんな屈辱っ、ぐうっ、絶対に許さな―――――」,「唔，這種屈辱、嗚，絕對不會原諒―――――」,I'll never forgive this humiliation. ―――――,"""This humiliation... Guh... I'll never forgive...""","「윽, 이런 굴욕, 크윽, 절대로 용서하지 않―――――」",「唔，这种屈辱、呜，绝对不会原谅―――――」
+Nayuta.Fallen1-57,那由多,「っ、こんな屈辱っ、ぐうっ、絶対に許さな―――――」,「っ、こんな屈辱っ、ぐうっ、絶対に許さな―――――」,「唔，這種屈辱，嗚，絕對不會原諒―――――」,I'll never forgive this humiliation. ―――――,"""This humiliation... Guh... I'll never forgive...""","「윽, 이런 굴욕, 크윽, 절대로 용서하지 않―――――」",「唔，这种屈辱、呜，绝对不会原谅―――――」
 ,Nayuta darkness 1-7,,,,,,,
 Nayuta.Fallen1-58,那由多,「んお゛お゛っ！？んん゛！？」,「んお゛お゛っ！？んん゛！？」,「嗯喔喔！？嗯嗯！」,"""Aaah! D― d― d― d―?","""Noooh!? Nnn!?""",「응오옷 오옷 옷!? 응응옷 !?」,「嗯喔喔！？嗯嗯！」
 ,,,,,,,,
 Nayuta.Fallen1-59,ゴブリン型怪人,「ギャギャギャ♪♪」,「ギャギャギャ♪♪」,「嘎嘎嘎♪♪」,"♪ Gah, gah, gah ♪","""Gyagyagya♪♪""",「갸갸갸♪♪」,「嘎嘎嘎♪♪」
 ,Nayuta darkness 1-8,,,,,,,
-Nayuta.Fallen1-60,那由多,「なっ！？、コイツッ、のペニス…が私の中にっ！？」,「なっ！？、コイツッ、のペニス…が私の中にっ！？」,「什麼！？這傢伙、的陰莖…竟然在我裡面！？」,"""What? He's got his penis inside me!","""What!? This thing's penis... is inside me!?""","「뭣!?, 이 자식, 의 페니스…가 내 안에!?」",「什么！？这家伙、的阴茎…竟然在我里面！？」
+Nayuta.Fallen1-60,那由多,「なっ！？、コイツッ、のペニス…が私の中にっ！？」,「なっ！？、コイツッ、のペニス…が私の中にっ！？」,「什麼！？這傢伙…的陰莖…竟然在我裡面！？」,"""What? He's got his penis inside me!","""What!? This thing's penis... is inside me!?""","「뭣!?, 이 자식, 의 페니스…가 내 안에!?」",「什么！？这家伙、的阴茎…竟然在我里面！？」
 ,,,,,,,,
 Nayuta.Fallen1-61,那由多,「っ、今すぐその汚いものを抜きなさいっ！」,「っ、今すぐその汚いものを抜きなさいっ！」,「唔，馬上把那骯髒的東西拔出來！」,"Pull that filthy thing out now!""","""Pull that filthy thing out immediately!""","「윽, 지금 당장 그 더러운 것을 빼십시오!」",「唔，马上把那肮脏的东西拔出来！」
 ,,,,,,,,
@@ -128,7 +128,7 @@ Nayuta.Fallen1-63,ゴブリン型怪人,「ギャギャ？ギャッ！ギャッ�
 ,Nayuta darkness 1-7,,,,,,,
 Nayuta.Fallen1-64,那由多,パンッ♥、パンッ♥、パンッ♥、パンッ♥！,パンッ♥、パンッ♥、パンッ♥、パンッ♥！,啪♥、啪♥、啪♥、啪♥！,"Pang ♥, pang ♥, pang ♥, pang ♥!",Slap♥ Slap♥ Slap♥ Slap♥!,"팡♥, 팡♥, 팡♥, 팡♥!",啪♥、啪♥、啪♥、啪♥！
 ,,,,,,,,
-Nayuta.Fallen1-65,,「んおっ♥！、おっ♥、やめっ♥、腰をっ…振るなぁっ♥！」,「んおっ♥！、おっ♥、やめっ♥、腰をっ…振るなぁっ♥！」,「嗯喔♥！、喔♥、住手♥、不准搖…腰啊♥！」,"""Oh, oh, oh! Don't... don't... don't... don't shake your hips!","""Noh♥! Oh♥ Stop♥ Don't... move your hips♥!""","「응오옷♥!, 옷♥, 그만둬♥, 허리를… 흔들지 마앗♥!」",「嗯喔♥！、喔♥、住手♥、不准摇…腰啊♥！」
+Nayuta.Fallen1-65,,「んおっ♥！、おっ♥、やめっ♥、腰をっ…振るなぁっ♥！」,「んおっ♥！、おっ♥、やめっ♥、腰をっ…振るなぁっ♥！」,「嗯喔♥！喔♥、住手♥、不准搖…腰啊♥！」,"""Oh, oh, oh! Don't... don't... don't... don't shake your hips!","""Noh♥! Oh♥ Stop♥ Don't... move your hips♥!""","「응오옷♥!, 옷♥, 그만둬♥, 허리를… 흔들지 마앗♥!」",「嗯喔♥！、喔♥、住手♥、不准摇…腰啊♥！」
 ,,,,,,,,
 Nayuta.Fallen1-66,,怪人は那由多が抵抗するほど強くしがみつき、腰を激しく振る,怪人は那由多が抵抗するほど強くしがみつき、腰を激しく振る,怪人越是被那由多抵抗，就抱得越緊，搖擺腰部得越劇烈。,"The monster clings to Nayuta so tightly that she resists, and shakes her hips violently.","The more Nayuta resisted, the tighter the fiend clung to her, vigorously thrusting its hips.","괴인은 나유타가 저항할수록 강하게 매달려, 허리를 격렬하게 흔든다",怪人越是被那由多抵抗，就抱得越紧，摇摆腰部得越剧烈。
 ,Nayuta darkness 1-8,,,,,,,
@@ -144,9 +144,9 @@ Nayuta.Fallen1-71,那由多,「お゛っ♥、お゛っ♥、お゛っ♥、ま�
 ,,,,,,,,
 Nayuta.Fallen1-72,,徐々に怪人のチンポが熱を帯び、ブルブルと振動し始める,徐々に怪人のチンポが熱を帯び、ブルブルと振動し始める,怪人的陰莖逐漸發熱，開始顫抖。,"Gradually, the monster's cock begins to heat up and vibrate with a buzzing sound","Gradually, the fiend's penis became hot and began to vibrate.","서서히 괴인의 자지가 뜨거워지며, 부들부들 떨리기 시작한다",怪人的阴茎逐渐发热，开始颤抖。
 ,,,,,,,,
-Nayuta.Fallen1-73,ゴブリン型怪人,「ギャギャッ！、ギャギャッ！」,「ギャギャッ！、ギャギャッ！」,「嘎嘎！、嘎嘎！」,"""Gah―gah! Gah―gah!""","""Gyagya! Gyagya!""","「갸갸윽!, 갸갸윽!」",「嘎嘎！、嘎嘎！」
+Nayuta.Fallen1-73,ゴブリン型怪人,「ギャギャッ！、ギャギャッ！」,「ギャギャッ！、ギャギャッ！」,「嘎嘎！嘎嘎！」,"""Gah―gah! Gah―gah!""","""Gyagya! Gyagya!""","「갸갸윽!, 갸갸윽!」",「嘎嘎！、嘎嘎！」
 ,,,,,,,,
-Nayuta.Fallen1-74,那由多,「――――な、何をしようとっ♥、――――っ、まさか！？」,「――――な、何をしようとっ♥、――――っ、まさか！？」,「――――你、你想做什麼♥、――――唔、難道是！？」,"""――――, what are you doing ♥, ――――, no way!""","""...W-what are you trying to...♥ No, it can't be!?""","「――――뭣, 무엇을 하려는 건가♥, ――――윽, 설마!?」",「――――你、你想做什么♥、――――唔、难道是！？」
+Nayuta.Fallen1-74,那由多,「――――な、何をしようとっ♥、――――っ、まさか！？」,「――――な、何をしようとっ♥、――――っ、まさか！？」,「――――你、你想做什麼♥――――難道是！？」,"""――――, what are you doing ♥, ――――, no way!""","""...W-what are you trying to...♥ No, it can't be!?""","「――――뭣, 무엇을 하려는 건가♥, ――――윽, 설마!?」",「――――你、你想做什么♥、――――唔、难道是！？」
 ,,,,,,,,
 Nayuta.Fallen1-75,,「っ、やめなさ―――――」,「っ、やめなさ―――――」,「唔、快住―――――」,Stop it. ―――――,"""Stop...""","「윽, 그만둬―――――」",「唔、快住―――――」
 ,Nayuta darkness 1-9,,,,,,,
@@ -154,7 +154,7 @@ Nayuta.Fallen1-76,,ドビュルルルッルルッ！ビュルッ、ドビュル�
 ,,,,,,,,
 Nayuta.Fallen1-77,那由多,「お゛お゛お゛お゛っ！？？、子宮にッ♥、精子がッ♥！？」,「お゛お゛お゛お゛っ！？？、子宮にッ♥、精子がッ♥！？」,「喔喔喔喔喔喔！？子宮裡♥，精子！？！」,"""Oh, oh, oh, oh, oh, oh, oh! Sperm in my womb!","""Ooooh!? In my womb♥ Sperm♥!?""","「오옷 오옷 오옷 오옷 옷!??, 자궁에♥, 정자가♥!?」",「喔喔喔喔喔喔！？子宫里♥，精子！？！」
 ,,,,,,,,
-Nayuta.Fallen1-78,ゴブリン,「ギャギャギャッ！！、ギャッ！」,「ギャギャギャッ！！、ギャッ！」,「嘎嘎嘎！！、嘎！」,"""Gah, gah, gah! Gah―gah!""","""Gyagyagya!! Gya!""","「갸갸갸!!, 갹!」",「嘎嘎嘎！！、嘎！」
+Nayuta.Fallen1-78,ゴブリン,「ギャギャギャッ！！、ギャッ！」,「ギャギャギャッ！！、ギャッ！」,「嘎嘎嘎！！嘎！」,"""Gah, gah, gah! Gah―gah!""","""Gyagyagya!! Gya!""","「갸갸갸!!, 갹!」",「嘎嘎嘎！！、嘎！」
 ,,,,,,,,
 Nayuta.Fallen1-79,那由多,「お゛お゛っ♥！？、しゃせいっ♥、ながいっ！？」,「お゛お゛っ♥！？、しゃせいっ♥、ながいっ！？」,「喔喔♥！？射精♥，好久！？」,"""OHHHHH! Oh, sha―sha―sha―sha, long!""","""Oooh♥!? The ejaculation♥ is taking a long time!?""","「오옷 오옷 옷♥!?, 사정♥, 길엇!?」",「喔喔♥！？射精♥，好久！？」
 ,,,,,,,,
@@ -164,9 +164,9 @@ Nayuta.Fallen1-81,那由多,「お゛っ…ん゛あ゛っ……♥」,「お゛
 ,,,,,,,,
 Nayuta.Fallen1-82,ゴブリン,「ギャギャ……♪」,「ギャギャ……♪」,「嘎嘎……♪」,♪ Gya gya ...... ♪,"""Gyagya...♪""",「갸갸……♪」,「嘎嘎……♪」
 ,Nayuta darkness 1-10,,,,,,,
-Nayuta.Fallen1-83,那由多,「はあっ、はあっ、」,「はあっ、はあっ、」,「哈、哈、」,"""Ha―ha―ha.""","""Haa, haa...""","「하앗, 하앗,」",「哈、哈、」
+Nayuta.Fallen1-83,那由多,「はあっ、はあっ、」,「はあっ、はあっ、」,「哈……哈……」,"""Ha―ha―ha.""","""Haa, haa...""","「하앗, 하앗,」",「哈、哈、」
 ,,,,,,,,
-Nayuta.Fallen1-84,,「っ、……こんな雑魚怪人に私がっ…！？」,「っ、……こんな雑魚怪人に私がっ…！？」,「唔、……我竟然被這種雜魚怪人…！？」,"""What, ......, such a small fry monster has me...?","""To think that I... by such a weak fiend...!?""","「윽, …… 이런 잡것 괴인에게 내가…!?」",「唔、……我竟然被这种杂鱼怪人…！？」
+Nayuta.Fallen1-84,,「っ、……こんな雑魚怪人に私がっ…！？」,「っ、……こんな雑魚怪人に私がっ…！？」,「唔……我竟然被這種雜魚怪人…！？」,"""What, ......, such a small fry monster has me...?","""To think that I... by such a weak fiend...!?""","「윽, …… 이런 잡것 괴인에게 내가…!?」",「唔、……我竟然被这种杂鱼怪人…！？」
 ,,,,,,,,
 Nayuta.Fallen1-85,,「………ん゛っ♥――――っっ！？」,「………ん゛っ♥――――っっ！？」,「………嗯♥―――――唔！！？」,"""......... ♥――――!","""...Nnh♥ ...!?""",「………응옷 윽♥――――윽!?」,「………嗯♥―――――唔！！？」
 ,,,,,,,,
@@ -184,7 +184,7 @@ Nayuta.Fallen1-91,ゴブリン型怪人,「ギャッ、ギャ！」,「ギャッ
 ,,,,,,,,
 Nayuta.Fallen1-92,,パチュッ、パチュッ！,パチュッ、パチュッ！,啪嘰、啪嘰！,Patu―patu―patu!,"Slap, slap!","파츗, 파츗!",啪叽、啪叽！
 ,,,,,,,,
-Nayuta.Fallen1-93,那由多,「ぐうっ、またッ！？――いえ、大丈夫です、精神を集中させれば聖核エネルギーの流出を抑えられるはずっ！」,「ぐうっ、またッ！？――いえ、大丈夫です、精神を集中させれば聖核エネルギーの流出を抑えられるはずっ！」,「嗚、又來了！？――不對，沒關係，集中精神的話應該能抑制聖核能量的流失！」,"""Ugh, again? ――No, it's okay, if you concentrate your mind, you should be able to suppress the outflow of the Seikaku energy!","""Guh, again!? ...No, it's fine. If I concentrate, I should be able to suppress the leaking of Holy Core Energy!""","「크윽, 또!?―― 아니, 괜찮습니다, 정신을 집중하면 성핵 에너지 유출을 억제할 수 있을 터!」",「呜、又来了！？――不对，没关系，集中精神的话应该能抑制圣核能量的流失！」
+Nayuta.Fallen1-93,那由多,「ぐうっ、またッ！？――いえ、大丈夫です、精神を集中させれば聖核エネルギーの流出を抑えられるはずっ！」,「ぐうっ、またッ！？――いえ、大丈夫です、精神を集中させれば聖核エネルギーの流出を抑えられるはずっ！」,「嗚，又來了！？――不對，沒關係，集中精神的話應該能抑制聖核能量的流失！」,"""Ugh, again? ――No, it's okay, if you concentrate your mind, you should be able to suppress the outflow of the Seikaku energy!","""Guh, again!? ...No, it's fine. If I concentrate, I should be able to suppress the leaking of Holy Core Energy!""","「크윽, 또!?―― 아니, 괜찮습니다, 정신을 집중하면 성핵 에너지 유출을 억제할 수 있을 터!」",「呜、又来了！？――不对，没关系，集中精神的话应该能抑制圣核能量的流失！」
 ,,,,,,,,
 Nayuta.Fallen1-94,,「二度と先ほどのような無様は晒しませんっ！私の精神力を舐めないでくださいっ！」,「二度と先ほどのような無様は晒しませんっ！私の精神力を舐めないでくださいっ！」,「我絕不會再露出剛才那種丟臉的模樣！不要小看我的精神力！」,"I will never again display the same ineptitude as I did earlier! Don't you dare lick my spirit!""","""I won't show such disgrace again! Don't underestimate my mental fortitude!""",「두 번 다시 방금과 같은 추태는 보이지 않겠습니다! 제 정신력을 얕보지 마십시오!」,「我绝不会再露出刚才那种丢脸的模样！不要小看我的精神力！」
 ,暗転,,,,,,,
@@ -214,13 +214,13 @@ Nayuta.Fallen2-3,,拘束室に水音が響く,拘束室に水音が響く,水聲
 ,,,,,,,,
 Nayuta.Fallen2-4,ゴブリン型怪人,「グギャッ、グギャッ！」,「グギャッ、グギャッ！」,「咕嘎、咕嘎！」,"Ggah, ggah!""","""Gugya! Gugya!""","「크악, 크악!」",「咕嘎、咕嘎！」
 ,,,,,,,,
-Nayuta.Fallen2-5,那由多,「ん゛ん～～～っ！、ジュプッ、ジュプッ♥」,「ん゛ん～～～っ！、ジュプッ、ジュプッ♥」,「嗯嗯～～～唔！、啾噗、啾噗♥」,"♥""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥ Jup, jup, jup ♥""","""Mmm! Slurp, slurp♥""","「응옷 응~~~윽!, 쥬풋, 쥬풋♥」",「嗯嗯～～～唔！、啾噗、啾噗♥」
+Nayuta.Fallen2-5,那由多,「ん゛ん～～～っ！、ジュプッ、ジュプッ♥」,「ん゛ん～～～っ！、ジュプッ、ジュプッ♥」,「嗯嗯～～～唔！啾噗、啾噗♥」,"♥""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥ Jup, jup, jup ♥""","""Mmm! Slurp, slurp♥""","「응옷 응~~~윽!, 쥬풋, 쥬풋♥」",「嗯嗯～～～唔！、啾噗、啾噗♥」
 ,,,,,,,,
-Nayuta.Fallen2-6,ゴブリン型怪人,「ギャッ！、ギャッ！」,「ギャッ！、ギャッ！」,「嘎！、嘎！」,"Gah! Gah!""","""Gya! Gya!""","「갹!, 갹!」",「嘎！、嘎！」
+Nayuta.Fallen2-6,ゴブリン型怪人,「ギャッ！、ギャッ！」,「ギャッ！、ギャッ！」,「嘎！嘎！」,"Gah! Gah!""","""Gya! Gya!""","「갹!, 갹!」",「嘎！、嘎！」
 ,,,,,,,,
 Nayuta.Fallen2-7,,怪人はもっと強くしゃぶれと言うように那由多の頭を叩き、不機嫌そうな声を上げる,怪人はもっと強くしゃぶれと言うように那由多の頭を叩き、不機嫌そうな声を上げる,怪人發出不滿的聲音，拍打那由多的頭，彷彿在說要吸得更用力。,The monster smacks Nayuta on the head as if to tell her to suck harder and makes a grumpy sound,"The fiend hit Nayuta's head as if telling her to suck harder, making displeased sounds.","괴인은 더 강하게 빨라는 듯 나유타의 머리를 때리며, 불쾌한 듯한 소리를 낸다",怪人发出不满的声音，拍打那由多的头，仿佛在说要吸得更用力。
 ,,,,,,,,
-Nayuta.Fallen2-8,那由多,「ん゛んっ♥！？、ジュポッ♥、ジュルルルッ♥、ジュポッ♥」,「ん゛んっ♥！？、ジュポッ♥、ジュルルルッ♥、ジュポッ♥」,「嗯嗯♥！？、啾波♥、咕嚕嚕♥、啾波♥」,"""¡Humph! Jupo ♥, jupo ♥, jupo ♥.""","""Mmh♥ Slurp♥ Sluuurp♥ Slurp♥""","「응옷 응윽♥!?, 쥬폿♥, 쥬르르륵♥, 쥬폿♥」",「嗯嗯♥！？、啾波♥、咕噜噜♥、啾波♥」
+Nayuta.Fallen2-8,那由多,「ん゛んっ♥！？、ジュポッ♥、ジュルルルッ♥、ジュポッ♥」,「ん゛んっ♥！？、ジュポッ♥、ジュルルルッ♥、ジュポッ♥」,「嗯嗯♥！？啾波♥、咕嚕嚕♥、啾波♥」,"""¡Humph! Jupo ♥, jupo ♥, jupo ♥.""","""Mmh♥ Slurp♥ Sluuurp♥ Slurp♥""","「응옷 응윽♥!?, 쥬폿♥, 쥬르르륵♥, 쥬폿♥」",「嗯嗯♥！？、啾波♥、咕噜噜♥、啾波♥」
 ,,,,,,,,
 Nayuta.Fallen2-9,,那由多は口で怪人のチンポをさらに激しく愛撫する,那由多は口で怪人のチンポをさらに激しく愛撫する,那由多用嘴巴更激烈地愛撫怪人的陰莖。,Nayuta caresses the monster's cock even harder with her mouth,Nayuta caressed the fiend's penis even more intensely with her mouth.,나유타는 입으로 괴인의 자지를 더욱 격렬하게 애무한다,那由多用嘴巴更激烈地爱抚怪人的阴茎。
 ,,,,,,,,
@@ -230,7 +230,7 @@ Nayuta.Fallen2-11,ゴブリン怪人,「グギャッ♪、グギャッ♪」,「
 ,,,,,,,,
 Nayuta.Fallen2-12,那由多,「ん゛ふっ♥、ジュプッ、ジュプッ♥」,「ん゛ふっ♥、ジュプッ、ジュプッ♥」,「嗯呼♥、啾噗、啾噗♥」,"""Jup, jup, jup, jup, jup, jup, jup.""","""Mfuh♥ Slurp, slurp♥""","「응옷 훗♥, 쥬풋, 쥬풋♥」",「嗯呼♥、啾噗、啾噗♥」
 ,,,,,,,,
-Nayuta.Fallen2-13,ゴブリン型怪人,「ギャッギャッ！、ギャッ！！！」,「ギャッギャッ！、ギャッ！！！」,「嘎嘎！、嘎！！！」,"Gah―gah!"" Gah―gah!!!""","""Gyagya! Gya!!!""","「갹갹!, 갹!!!」",「嘎嘎！、嘎！！！」
+Nayuta.Fallen2-13,ゴブリン型怪人,「ギャッギャッ！、ギャッ！！！」,「ギャッギャッ！、ギャッ！！！」,「嘎嘎！嘎！！！」,"Gah―gah!"" Gah―gah!!!""","""Gyagya! Gya!!!""","「갹갹!, 갹!!!」",「嘎嘎！、嘎！！！」
 ,,,,,,,,
 Nayuta.Fallen2-14,Nayuta darkness 2-2,ドビュルルルッルルッ！ビュルッ、ドビュルルルッ！,ドビュルルルッルルッ！ビュルッ、ドビュルルルッ！,咚咻嚕嚕嚕嚕！咻嚕、咚咻嚕嚕嚕！, ,"Splurt! Spurt, splurt!","도뷰르르르릇르릇! 뷰릇, 도뷰르르르릇!",咚咻噜噜噜噜！咻噜、咚咻噜噜噜！
 ,,,,,,,,
@@ -254,7 +254,7 @@ Nayuta.Fallen2-23,,(……この怪人は私が女性器で絶頂するごとに
 ,,,,,,,,
 Nayuta.Fallen2-24,,(聖核エネルギーを吸収されないよう、どうにか口で処理してしのいでいますが…),(聖核エネルギーを吸収されないよう、どうにか口で処理してしのいでいますが…),（為了不讓聖核能量被吸收，我設法用口部處理來拖延…）,(I somehow manage to handle it with my mouth so that it doesn't absorb the Seikaku energy...),"(I'm somehow managing by handling it with my mouth to avoid having my Holy Core Energy absorbed, but...)","(성핵 에너지를 흡수당하지 않도록, 어떻게든 입으로 처리하며 버티고 있지만…)",（为了不让圣核能量被吸收，我设法用口部处理来拖延…）
 ,,,,,,,,
-Nayuta.Fallen2-25,,「っ…、こんな雑魚怪人にっ、こんな屈辱的な事しかできないなんて…っ！」,「っ…、こんな雑魚怪人にっ、こんな屈辱的な事しかできないなんて…っ！」,「唔…，我竟然只能對這種雜魚怪人做這種屈辱的事…！」,I can't believe I can only do such a humiliating thing to such a small fry monster!,"""To think I can only do such humiliating things against such a weak fiend...!""","「윽…, 이런 잡몹 괴인에게, 이런 굴욕적인 짓밖에 할 수 없다니…윽!」",「唔…，我竟然只能对这种杂鱼怪人做这种屈辱的事…！」
+Nayuta.Fallen2-25,,「っ…、こんな雑魚怪人にっ、こんな屈辱的な事しかできないなんて…っ！」,「っ…、こんな雑魚怪人にっ、こんな屈辱的な事しかできないなんて…っ！」,「唔…我竟然只能對這種雜魚怪人做這種屈辱的事…！」,I can't believe I can only do such a humiliating thing to such a small fry monster!,"""To think I can only do such humiliating things against such a weak fiend...!""","「윽…, 이런 잡몹 괴인에게, 이런 굴욕적인 짓밖에 할 수 없다니…윽!」",「唔…，我竟然只能对这种杂鱼怪人做这种屈辱的事…！」
 ,,,,,,,,
 Nayuta.Fallen2-26,,「しかし所詮は知能も低い雑魚…エネルギーが溜まって変身したら一瞬で細切れにします！」,「しかし所詮は知能も低い雑魚…エネルギーが溜まって変身したら一瞬で細切れにします！」,「但牠終究是智力低下的雜魚…等能量積蓄變身後，我會瞬間將牠碎屍萬段！」,"But it is only a small fish with low intelligence...when it builds up energy and transforms, it will shred you in an instant!""","""But it's just a low-intelligence weakling after all... Once I gather energy and transform, I'll shred it in an instant!""",「하지만 어차피 지능도 낮은 잡몹… 에너지가 모여 변신하면 단숨에 갈기갈기 찢어버리겠습니다!」,「但牠终究是智力低下的杂鱼…等能量积蓄变身后，我会瞬间将牠碎尸万段！」
 ,,,,,,,,
@@ -316,17 +316,17 @@ Nayuta.Fallen2-54,那由多,「お゛お゛っ！？、お゛おっ♥」,「お
 ,,,,,,,,
 Nayuta.Fallen2-55,,ズボッ、ズボッ、グチュッ！,ズボッ、ズボッ、グチュッ！,噗通、噗通、咕啾！,"Zubotsu, zubotsu, guchu!","Thrust, thrust, squelch!","즈봇, 즈봇, 구츄욱!",噗通、噗通、咕啾！
 ,,,,,,,,
-Nayuta.Fallen2-56,那由多,「ひぎっ、この刀はっ、私の誇りなのにッ！、こんなっ！」,「ひぎっ、この刀はっ、私の誇りなのにッ！、こんなっ！」,「呀，這把刀是、我的驕傲！竟然變成這樣！」,I'm so proud of this sword! Don't you dare!,"""Hgggg, this sword is my pride! How could you!""","「히끅, 이 검은, 나의 긍지인데! 이런!」",「呀，这把刀是、我的骄傲！竟然变成这样！」
+Nayuta.Fallen2-56,那由多,「ひぎっ、この刀はっ、私の誇りなのにッ！、こんなっ！」,「ひぎっ、この刀はっ、私の誇りなのにッ！、こんなっ！」,「呀，這把刀是…我的驕傲！竟然變成這樣！」,I'm so proud of this sword! Don't you dare!,"""Hgggg, this sword is my pride! How could you!""","「히끅, 이 검은, 나의 긍지인데! 이런!」",「呀，这把刀是、我的骄傲！竟然变成这样！」
 ,,,,,,,,
 Nayuta.Fallen2-57,,その時、怪人が言葉を発する,その時、怪人が言葉を発する,這時，怪人開口說話了。,"At that moment, the monster utters the words","At that moment, the fiend spoke.","그때, 괴인이 말을 했다",这时，怪人开口说话了。
 ,,,,,,,,
 Nayuta.Fallen2-58,ゴブリン型怪人,「ギャギャッ！オマエ、バカッ！」,「ギャギャッ！オマエ、バカッ！」,「嘎嘎！妳、笨蛋！」,"""Gah, gah, gah! You idiot!""","""Gyagya! You, stupid!""","「갸갸! 너, 바보!」",「嘎嘎！你、笨蛋！」
 ,,,,,,,,
-Nayuta.Fallen2-59,那由多,「ん゛ん゛っ♥、お゛！？コイツッ、な、なんで喋ってっ！」,「ん゛ん゛っ♥、お゛！？コイツッ、な、なんで喋ってっ！」,「嗯嗯♥、喔！？這傢伙、怎、怎麼會說話！」,"""D―d―d―d―d―d―d―d―d―d―d―d! He's talking, why is he talking?","""Mmm♥ Oh!? This thing, w-why is it talking!""","「응옷 응옷 윽♥, 오옷!? 이놈, 왜 말을!」",「嗯嗯♥、喔！？这家伙、怎、怎么会说话！」
+Nayuta.Fallen2-59,那由多,「ん゛ん゛っ♥、お゛！？コイツッ、な、なんで喋ってっ！」,「ん゛ん゛っ♥、お゛！？コイツッ、な、なんで喋ってっ！」,「嗯嗯♥，喔！？這傢伙，怎、怎麼會說話！」,"""D―d―d―d―d―d―d―d―d―d―d―d! He's talking, why is he talking?","""Mmm♥ Oh!? This thing, w-why is it talking!""","「응옷 응옷 윽♥, 오옷!? 이놈, 왜 말을!」",「嗯嗯♥、喔！？这家伙、怎、怎么会说话！」
 ,,,,,,,,
 Nayuta.Fallen2-60,ゴブリン型怪人,「ニゲル、ツモリ、バレバレダッタ！」,「ニゲル、ツモリ、バレバレダッタ！」,「想逃跑，早就被識破了！」,"Nigel, tsumori, vare vare datta!""","""Run away, plan, totally obvious!""","「도망칠, 생각, 다 들켰다!」",「想逃跑，早就被识破了！」
 ,,,,,,,,
-Nayuta.Fallen2-61,那由多,「なっ！…、そんなっ♥、お゛ほ゛っ♥！」,「なっ！…、そんなっ♥、お゛ほ゛っ♥！」,「什麼！…，怎麼會♥，喔吼♥！」,"""Nah! ...oh, my God!","""What! No way♥ Ohoh♥""","「앗!…, 그럴, 오홋♥!」",「什么！…，怎么会♥，喔吼♥！」
+Nayuta.Fallen2-61,那由多,「なっ！…、そんなっ♥、お゛ほ゛っ♥！」,「なっ！…、そんなっ♥、お゛ほ゛っ♥！」,「什麼！…怎麼會♥，喔吼♥！」,"""Nah! ...oh, my God!","""What! No way♥ Ohoh♥""","「앗!…, 그럴, 오홋♥!」",「什么！…，怎么会♥，喔吼♥！」
 ,,,,,,,,
 Nayuta.Fallen2-62,ゴブリン型怪人,「チンポ、ワザト、クチニ、イレテヤッタ！」,「チンポ、ワザト、クチニ、イレテヤッタ！」,「陰莖，故意讓妳吸的！」,"""Dick, wazato, kuchi ni irette yatta!""","""Dick, on purpose, in mouth, I put!""","「자지, 일부러, 입에, 넣어줬다!」",「阴茎，故意让你吸的！」
 ,,,,,,,,
@@ -344,7 +344,7 @@ Nayuta.Fallen2-68,ゴブリン型怪人,「ギャッ！ギャッ！ブザマッ�
 ,,,,,,,,
 Nayuta.Fallen2-69,那由多,「お゛お゛っ♥……お゛っ♥…」,「お゛お゛っ♥……お゛っ♥…」,「喔喔♥……喔♥…」,"""Oooooooh ♥...... oooooh ♥...""","""Oooh♥... Oh♥...""",「오옷 오옷 옷♥…… 오옷 옷♥…」,「喔喔♥……喔♥…」
 ,Nayuta darkness 2-4,,,,,,,
-Nayuta.Fallen2-70,那由多,「―――――っ！、一体どれだけ私に辱めをっ！絶対に許せませんッ！」,「―――――っ！、一体どれだけ私に辱めをっ！絶対に許せませんッ！」,「―――――唔！，你到底想給我多少羞辱！我絕不饒恕你！」,"I've been on the receiving end of a lot of ""―――――. How many times have you humiliated me? I will never forgive you!","""...! How much more will you humiliate me! I absolutely cannot forgive this!""","「―――――윽!, 대체 얼마나 나를 모욕해야! 절대로 용서할 수 없습니다!」",「―――――唔！，你到底想给我多少羞辱！我绝不饶恕你！」
+Nayuta.Fallen2-70,那由多,「―――――っ！、一体どれだけ私に辱めをっ！絶対に許せませんッ！」,「―――――っ！、一体どれだけ私に辱めをっ！絶対に許せませんッ！」,「―――――唔！你到底想給我多少羞辱！我絕不饒恕你！」,"I've been on the receiving end of a lot of ""―――――. How many times have you humiliated me? I will never forgive you!","""...! How much more will you humiliate me! I absolutely cannot forgive this!""","「―――――윽!, 대체 얼마나 나를 모욕해야! 절대로 용서할 수 없습니다!」",「―――――唔！，你到底想给我多少羞辱！我绝不饶恕你！」
 ,,,,,,,,
 Nayuta.Fallen2-71,ゴブリン型怪人,「ギャギャ♪　ムリッ！オマエ、モウオシマイ！」,「ギャギャ♪　ムリッ！オマエ、モウオシマイ！」,「嘎嘎♪　不行！妳，已經完蛋了！」,"""Gah, gah, mr! You, moooshimai!""","""Gyagya♪ Impossible! You, already finished!""","「갸갸♪　무리! 너, 이제 끝이다!」",「嘎嘎♪　不行！你，已经完蛋了！」
 ,,,,,,,,
@@ -358,7 +358,7 @@ Nayuta.Fallen2-75,ゴブリン型怪人,「ギャギャッ！ココニ、エネ�
 ,,,,,,,,
 Nayuta.Fallen2-76,那由多,「ひぐうっ♥、そんなっ♥、待ってっ♥！」,「ひぐうっ♥、そんなっ♥、待ってっ♥！」,「呀嗚♥，怎麼會♥，等一下♥！」,"""Hi―guh, oh, no, wait!","""Hgggguuh♥ No♥ Wait♥""","「히끅윽♥, 그런♥, 기다려♥!」",「呀呜♥，怎么会♥，等一下♥！」
 ,,,,,,,,
-Nayuta.Fallen2-77,那由多,(いえ―――、こんな時こそ落ち着きなさいっ！),(いえ―――、こんな時こそ落ち着きなさいっ！),（不―――，越是這種時候越要冷靜！）,"(No―――, this is the time to calm down!)","(No, stay calm at a time like this!)","(아뇨―――, 이럴 때일수록 침착하세요!)",（不―――，越是这种时候越要冷静！）
+Nayuta.Fallen2-77,那由多,(いえ―――、こんな時こそ落ち着きなさいっ！),(いえ―――、こんな時こそ落ち着きなさいっ！),（不―――越是這種時候越要冷靜！）,"(No―――, this is the time to calm down!)","(No, stay calm at a time like this!)","(아뇨―――, 이럴 때일수록 침착하세요!)",（不―――，越是这种时候越要冷静！）
 ,,,,,,,,
 Nayuta.Fallen2-78,,(あと少しで変身するだけのエネルギーがたまります！),(あと少しで変身するだけのエネルギーがたまります！),（再一點點就能儲存到可以變身的能量了！）,(Just a few more minutes and you'll have enough energy to transform!),(Just a little more and I'll have enough energy to transform!),(조금만 더 있으면 변신할 만큼의 에너지가 모입니다!),（再一点点就能储存到可以变身的能量了！）
 ,,,,,,,,
@@ -374,11 +374,11 @@ Nayuta.Fallen2-83,那由多,「お゛お゛っ♥、私にはっ！全ての聖�
 ,,,,,,,,
 Nayuta.Fallen2-84,,パンッ、パンッ、パンッ、パンッ！,パンッ、パンッ、パンッ、パンッ！,啪、啪、啪、啪！,"Pang, pang, pang, pang!",Slap... Slap... Slap...,"팡앙, 팡앙, 팡앙, 팡앙!",啪、啪、啪、啪！
 ,,,,,,,,
-Nayuta.Fallen2-85,那由多,「ひぎっっ♥、私はっ、最強の聖核戦姫ですっ！こんなチンポなんかに！」,「ひぎっっ♥、私はっ、最強の聖核戦姫ですっ！こんなチンポなんかに！」,「呀♥♥，我是、最強的聖核戰姫！對這種陰莖！」,I am the strongest Seikaku Princess! I'm the most powerful Seikaku Princess!,"""Hggggg♥ I am the strongest Holy Core Battlemaiden! This cock!""","「히끅윽♥, 나는! 최강의 성핵전희입니다! 이런 자지 따위에게!」",「呀♥♥，我是、最强的圣核战姫！对这种阴茎！」
+Nayuta.Fallen2-85,那由多,「ひぎっっ♥、私はっ、最強の聖核戦姫ですっ！こんなチンポなんかに！」,「ひぎっっ♥、私はっ、最強の聖核戦姫ですっ！こんなチンポなんかに！」,「呀♥♥，我是，最強的聖核戰姫！對這種陰莖！」,I am the strongest Seikaku Princess! I'm the most powerful Seikaku Princess!,"""Hggggg♥ I am the strongest Holy Core Battlemaiden! This cock!""","「히끅윽♥, 나는! 최강의 성핵전희입니다! 이런 자지 따위에게!」",「呀♥♥，我是、最强的圣核战姫！对这种阴茎！」
 ,,,,,,,,
 Nayuta.Fallen2-86,ゴブリン型怪人,「ギャギャッ！ムダダッ！セイエキダシテヤル！サアイケッ！」,「ギャギャッ！ムダダッ！セイエキダシテヤル！サアイケッ！」,「嘎嘎！沒用！射精給妳！快高潮！」,"Gah gah gah! Muda―da―da―da! Sayekidashiteyaru! Saai kekk!""","""Gyagya! Useless! I'm going to unleash my load! Now come!""",「갸갸악! 소용없다! 정액 내주마! 자 가라!」,「嘎嘎！没用！射精给你！快高潮！」
 ,,,,,,,,
-Nayuta.Fallen2-87,那由多,「ひぎいっ♥、全ての聖核戦姫のためにっ！私はっ、チンポなんかに、負けな―――――」,「ひぎいっ♥、全ての聖核戦姫のためにっ！私はっ、チンポなんかに、負けな―――――」,「呀噫♥，為了所有聖核戰姫！我才不會、輸給陰莖―――――」,I'm not going to be defeated by a cock! I will not be defeated by a cock. ―――――,"""Higii♥ For all the Holy Core Battlemaidens! I won't lose to a dick...""","「히기잇♥, 모든 성핵전희를 위해! 나는, 자지 따위에, 지지 않―――――」",「呀噫♥，为了所有圣核战姫！我才不会、输给阴茎―――――」
+Nayuta.Fallen2-87,那由多,「ひぎいっ♥、全ての聖核戦姫のためにっ！私はっ、チンポなんかに、負けな―――――」,「ひぎいっ♥、全ての聖核戦姫のためにっ！私はっ、チンポなんかに、負けな―――――」,「呀噫♥，為了所有聖核戰姫！我才不會，輸給陰莖―――――」,I'm not going to be defeated by a cock! I will not be defeated by a cock. ―――――,"""Higii♥ For all the Holy Core Battlemaidens! I won't lose to a dick...""","「히기잇♥, 모든 성핵전희를 위해! 나는, 자지 따위에, 지지 않―――――」",「呀噫♥，为了所有圣核战姫！我才不会、输给阴茎―――――」
 ,,,,,,,,
 Nayuta.Fallen2-88,Nayuta darkness 2-15,ドビュルルルッルルッ！ビュルッ、ドビュルルルッ！！！,ドビュルルルッルルッ！ビュルッ、ドビュルルルッ！！！,咚咻嚕嚕嚕嚕！咻嚕、咚咻嚕嚕嚕！！！, Burrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Splurt! Spurt, Splurt!","도뷰르르르릇르릇! 뷰릇, 도뷰르르르릇!!!",咚咻噜噜噜噜！咻噜、咚咻噜噜噜！！！
 ,,,,,,,,
@@ -400,11 +400,11 @@ Nayuta.Fallen2-96,,ドビュルルッ！ドビュルルッ！,ドビュルルッ
 ,,,,,,,,
 Nayuta.Fallen2-97,那由多,「ひっぐう♥、お゛お゛っ♥、お゛～～♥♥♥」,「ひっぐう♥、お゛お゛っ♥、お゛～～♥♥♥」,「呀嗚♥、喔喔♥、喔～～♥♥♥」,"""Hi―guh♥, ooo―ooh♥, ooo―ooh~♥♥♥.""","""Hggg♥ Oooh♥ Oh♥♥♥""","「히익극우♥, 오옷 오옷 옷♥, 오옷 ~~~~♥♥♥」",「呀呜♥、喔喔♥、喔～～♥♥♥」
 ,,,,,,,,
-Nayuta.Fallen2-98,那由多,(私っ、完全に負けてッ…！私が負けちゃったから…、聖核戦姫はっ！？聖月女学園はっ―――――),(私っ、完全に負けてッ…！私が負けちゃったから…、聖核戦姫はっ！？ホーリーコア・レギオンはっ―――――),（我、完全輸了…！我輸了的話…，聖核戰姫們怎麼辦！？聖核軍團―――――）,"(I, I lost completely...! Because I lost..., Seikaku Princess! Seigetsu Girl Academy is ―――――)",(I've completely lost...! Because I lost... The Holy Core Battlemaidens!? The Holy Core Legion...),"(나, 완전히 져서…! 내가 져버렸으니…, 성핵전희는!? 홀리코어 레기온은―――――)",（我、完全输了…！我输了的话…，圣核战姫们怎么办！？圣核军团―――――）
+Nayuta.Fallen2-98,那由多,(私っ、完全に負けてッ…！私が負けちゃったから…、聖核戦姫はっ！？聖月女学園はっ―――――),(私っ、完全に負けてッ…！私が負けちゃったから…、聖核戦姫はっ！？ホーリーコア・レギオンはっ―――――),（我、完全輸了…！我輸了的話…聖核戰姫們怎麼辦！？聖核軍團―――――）,"(I, I lost completely...! Because I lost..., Seikaku Princess! Seigetsu Girl Academy is ―――――)",(I've completely lost...! Because I lost... The Holy Core Battlemaidens!? The Holy Core Legion...),"(나, 완전히 져서…! 내가 져버렸으니…, 성핵전희는!? 홀리코어 레기온은―――――)",（我、完全输了…！我输了的话…，圣核战姫们怎么办！？圣核军团―――――）
 ,,,,,,,,
 Nayuta.Fallen2-99,,ドビュルルッ！ドビュルルッ！,ドビュルルッ！ドビュルルッ！,咚咻嚕嚕！咚咻嚕嚕！,Doburrrrrrrrrrrrr! Doburrrrrrrrrrrrrrrrrrr!,Splurt! Splurt!,도뷰르릇! 도뷰르릇!,咚咻噜噜！咚咻噜噜！
 ,,,,,,,,
-Nayuta.Fallen2-100,那由多,「お゛お゛っ♥、お゛お゛っ♥またイグッ！、エネルギー、取られるっ！」,「お゛お゛っ♥、お゛お゛っ♥またイグッ！、エネルギー、取られるっ！」,「喔喔♥、喔喔♥又高潮了！能量、被奪走了！」,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh! They're taking all my energy!""","""Oooh♥ Oooh♥ Coming again! My energy is being taken!""","「오옷 오옷 옷♥, 오옷 오옷 옷♥ 또 가버렷!, 에너지, 빼앗긴다!」",「喔喔♥、喔喔♥又高潮了！能量、被夺走了！」
+Nayuta.Fallen2-100,那由多,「お゛お゛っ♥、お゛お゛っ♥またイグッ！、エネルギー、取られるっ！」,「お゛お゛っ♥、お゛お゛っ♥またイグッ！、エネルギー、取られるっ！」,「喔喔♥、喔喔♥又高潮了！能量，被奪走了！」,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh! They're taking all my energy!""","""Oooh♥ Oooh♥ Coming again! My energy is being taken!""","「오옷 오옷 옷♥, 오옷 오옷 옷♥ 또 가버렷!, 에너지, 빼앗긴다!」",「喔喔♥、喔喔♥又高潮了！能量、被夺走了！」
 ,,,,,,,,
 Nayuta.Fallen2-101,,最強の聖核戦姫は完全に逆転の芽を失い、那由多の思考は白濁液と快楽の中に溶けていくのだった,最強の聖核戦姫は完全に逆転の芽を失い、那由多の思考は白濁液と快楽の中に溶けていくのだった,最強的聖核戰姫徹底失去了逆轉的希望，那由多的思緒在白色液體與快感中融化。,"The strongest Seikaku Princess completely lost the bud of reversal, and Nayuta's thoughts melted away in a cloud of white fluid and pleasure.","The strongest Holy Core Battlemaiden had completely lost any chance of a counterattack, and Nayuta's thoughts dissolved into cloudy fluids and pleasure.","최강의 성핵전희는 완전히 역전의 기회를 잃고, 나유타의 사고는 백탁액과 쾌락 속에 녹아드는 것이었다",最强的圣核战姫彻底失去了逆转的希望，那由多的思绪在白色液体与快感中融化。
 ,,,,,,,,
@@ -412,11 +412,11 @@ Nayuta Fallen Scene３,注釈,闇堕ちシーン,闇堕ちシーン,,闇堕ち�
 ,暗転,,,,,,,
 Nayuta.Fallen3-1,Nayuta darkness 3ｰ1,財団地下拘束施設にて―――――,財団地下拘束施設にて―――――,財團地下拘束設施內―――――,At the Foundation's Underground Restraint Facility: ―――――,At the Foundation's underground restraint facility,재단 지하 구속 시설에서―――――,财团地下拘束设施内―――――
 ,,,,,,,,
-Nayuta.Fallen3-2,,ドチュッ！！、ドチュッ！！、ドチュッ！！,ドチュッ！！、ドチュッ！！、ドチュッ！！,咚啾！！、咚啾！！、咚啾！！,Doo―doo! Doo―doo! Doo―doo!,"Squelch, squelch, squelch!","도츗!!, 도츗!!, 도츗!!",咚啾！！、咚啾！！、咚啾！！
+Nayuta.Fallen3-2,,ドチュッ！！、ドチュッ！！、ドチュッ！！,ドチュッ！！、ドチュッ！！、ドチュッ！！,咚啾！！咚啾！！咚啾！！,Doo―doo! Doo―doo! Doo―doo!,"Squelch, squelch, squelch!","도츗!!, 도츗!!, 도츗!!",咚啾！！、咚啾！！、咚啾！！
 ,,,,,,,,
-Nayuta.Fallen3-3,那由多,「ひぎっっ♥！、お゛お゛っ♥、お゛っ♥」,「ひぎっっ♥！、お゛お゛っ♥、お゛っ♥」,「呀♥♥！、喔喔♥、喔♥」,"""Hi―giggity―♥! Oh, oh, oh, oh, oh, oh, oh!""","""Hgggg♥ Oooh♥ Oh♥""","「히긱윽♥!, 오옷 오옷 옷♥, 오옷 옷♥」",「呀♥♥！、喔喔♥、喔♥」
+Nayuta.Fallen3-3,那由多,「ひぎっっ♥！、お゛お゛っ♥、お゛っ♥」,「ひぎっっ♥！、お゛お゛っ♥、お゛っ♥」,「呀♥♥！喔喔♥、喔♥」,"""Hi―giggity―♥! Oh, oh, oh, oh, oh, oh, oh!""","""Hgggg♥ Oooh♥ Oh♥""","「히긱윽♥!, 오옷 오옷 옷♥, 오옷 옷♥」",「呀♥♥！、喔喔♥、喔♥」
 ,,,,,,,,
-Nayuta.Fallen3-4,那由多,「お゛っ♥、イグッ♥！、子宮潰されてっ♥、また負けちゃうっ♥！」,「お゛っ♥、イグッ♥！、子宮潰されてっ♥、また負けちゃうっ♥！」,「喔♥、要高潮了♥！子宮被搗爛♥、又要輸了♥！」,"""Oh, oh, oh, oh, oh, oh! I'm getting my uterus crushed... I'm losing again!","""Oh♥ I'm coming♥ My womb is being crushed♥ I'm losing again♥""","「오옷 옷♥, 이크윽♥!, 자궁 뭉개져서♥, 또 져버렷♥!」",「喔♥、要高潮了♥！子宫被捣烂♥、又要输了♥！」
+Nayuta.Fallen3-4,那由多,「お゛っ♥、イグッ♥！、子宮潰されてっ♥、また負けちゃうっ♥！」,「お゛っ♥、イグッ♥！、子宮潰されてっ♥、また負けちゃうっ♥！」,「喔♥，要高潮了♥！子宮被搗爛♥，又要輸了♥！」,"""Oh, oh, oh, oh, oh, oh! I'm getting my uterus crushed... I'm losing again!","""Oh♥ I'm coming♥ My womb is being crushed♥ I'm losing again♥""","「오옷 옷♥, 이크윽♥!, 자궁 뭉개져서♥, 또 져버렷♥!」",「喔♥、要高潮了♥！子宫被捣烂♥、又要输了♥！」
 ,,,,,,,,
 Nayuta.Fallen3-5,,那由多は巨大な怪人に抱え込まれ、肉棒に貫かれながら体を上下に振られていた,那由多は巨大な怪人に抱え込まれ、肉棒に貫かれながら体を上下に振られていた,那由多被巨大的怪人抱住，肉棒貫穿她的身體，並被上下搖晃著。,"Nayuta was being held by a huge monster, and her body was being swung up and down while being penetrated by a meat pole.","Nayuta was held by a giant fiend, her impaled body being moved up and down.","나유타는 거대한 괴인에게 안겨, 육봉에 꿰뚫린 채 몸을 위아래로 흔들리고 있었다",那由多被巨大的怪人抱住，肉棒贯穿她的身体，并被上下摇晃着。
 ,,,,,,,,
@@ -430,7 +430,7 @@ Nayuta.Fallen3-9,那由多,「はいっ♥、那由多は…弱くて惨めな�
 ,,,,,,,,
 Nayuta.Fallen3-10,,かつての小さな怪人は、那由多から聖核エネルギーを奪い続け、今や那由多でも勝てない強大な怪人となっていた,かつての怪人は、那由多から聖核エネルギーを奪い続け、今や那由多でも勝てない強大な怪人となっていた,曾經的怪人，不斷從那由多身上奪取聖核能量，如今已成為連那由多都無法戰勝的強大怪人。,"The once small monster had continued to steal the Seikaku energy from Nayuta, and was now a powerful monster that even Nayuta could not defeat.",The former fiend had continued stealing Holy Core Energy from Nayuta and had become a powerful fiend that even Nayuta couldn't defeat.,"예전의 괴인은, 나유타로부터 성핵 에너지를 계속 빼앗아, 이제는 나유타조차 이길 수 없는 강대한 괴인이 되어 있었다",曾经的怪人，不断从那由多身上夺取圣核能量，如今已成为连那由多都无法战胜的强大怪人。
 ,,,,,,,,
-Nayuta.Fallen3-11,那由多,「ご主人様のチンポに敗北してっ♥、調教されてっ♥、那由多はご主人様のオナホになりました♥」,「ご主人様のチンポに敗北してっ♥、調教されてっ♥、那由多はご主人様のオナホになりました♥」,「已經失敗給主人的陰莖♥、被調教後♥、那由多成了主人的自慰套了♥」,"Defeated and trained by Master's cock, Nayuta became Master's masturbator.","""Defeated by Master's cock♥ Trained♥ Nayuta has become Master's toy♥""","「주인님의 자지에 패배하여♥, 조교당하여♥, 나유타는 주인님의 오나홀이 되었습니다♥」",「已经失败给主人的阴茎♥、被调教后♥、那由多成了主人的自慰套了♥」
+Nayuta.Fallen3-11,那由多,「ご主人様のチンポに敗北してっ♥、調教されてっ♥、那由多はご主人様のオナホになりました♥」,「ご主人様のチンポに敗北してっ♥、調教されてっ♥、那由多はご主人様のオナホになりました♥」,「已經敗給主人的陰莖♥，被調教後♥，那由多成了主人的自慰套了♥」,"Defeated and trained by Master's cock, Nayuta became Master's masturbator.","""Defeated by Master's cock♥ Trained♥ Nayuta has become Master's toy♥""","「주인님의 자지에 패배하여♥, 조교당하여♥, 나유타는 주인님의 오나홀이 되었습니다♥」",「已经失败给主人的阴茎♥、被调教后♥、那由多成了主人的自慰套了♥」
 ,,,,,,,,
 Nayuta.Fallen3-12,那由多,「敗者である那由多はっ♥、ご主人様に忠誠を誓うのでっ♥、惨めなオナホに精液をお恵みくださいっ♥」,「敗者である那由多はっ♥、ご主人様に忠誠を誓うのでっ♥、惨めなオナホに精液をお恵みくださいっ♥」,「身為敗者的那由多♥，向主人發誓忠誠♥，請將精液恩賜給這個可憐的自慰套吧♥」,"Nayuta, the loser, I pledge allegiance to my master, so please give me semen for my miserable masturbator.","""As a loser, Nayuta♥ pledges loyalty to Master♥ Please grant this pathetic pocket pussy your jizz♥""","「패자인 나유타는♥, 주인님께 충성을 맹세하므로♥, 비참한 오나홀에게 정액을 하사해주십시오♥」",「身为败者的那由多♥，向主人发誓忠诚♥，请将精液恩赐给这个可怜的自慰套吧♥」
 ,,,,,,,,
@@ -442,11 +442,11 @@ Nayuta.Fallen3-15,那由多,「あっ♥、あひっ♥、ありがとうござ�
 ,,,,,,,,
 Nayuta.Fallen3-16,,そして怪人は那由多を使い、オナホのようにして自身の肉棒をしごいていく,そして怪人は那由多を使い、オナホのようにして自身の肉棒をしごいていく,接著怪人將那由多當作自慰套一樣，套弄著自己的肉棒。,"Then, the monster uses Nayuta as a masturbator and rubs his own rod.",The fiend then used Nayuta like a sex toy to pleasure himself.,"그리고 괴인은 나유타를 사용하여, 오나홀처럼 자신의 육봉을 흔들어댄다",接着怪人将那由多当作自慰套一样，套弄着自己的肉棒。
 ,,,,,,,,
-Nayuta.Fallen3-17,,ドチュッ！！、ドチュッ！！、ドチュッ！！,ドチュッ！！、ドチュッ！！、ドチュッ！！,咚啾！！、咚啾！！、咚啾！！,Doo―doo! Doo―doo! Doo―doo!,"Squelch, squelch, squelch!","도츗!!, 도츗!!, 도츗!!",咚啾！！、咚啾！！、咚啾！！
+Nayuta.Fallen3-17,,ドチュッ！！、ドチュッ！！、ドチュッ！！,ドチュッ！！、ドチュッ！！、ドチュッ！！,咚啾！！咚啾！！咚啾！！,Doo―doo! Doo―doo! Doo―doo!,"Squelch, squelch, squelch!","도츗!!, 도츗!!, 도츗!!",咚啾！！、咚啾！！、咚啾！！
 ,,,,,,,,
 Nayuta.Fallen3-18,那由多,「お゛っ♥、お゛っ♥、お゛おっ♥、凄いっ♥、イクッ♥♥」,「お゛っ♥、お゛っ♥、お゛おっ♥、凄いっ♥、イクッ♥♥」,「喔♥、喔♥、喔喔♥、好厲害♥、要高潮了♥♥」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Oh♥ Oh♥ Ooh♥ Amazing♥ I'm coming♥♥""","「오옷 옷♥, 오옷 옷♥, 오옷 오옷♥, 굉장해♥, 가버렷♥♥」",「喔♥、喔♥、喔喔♥、好厉害♥、要高潮了♥♥」
 ,,,,,,,,
-Nayuta.Fallen3-19,那由多,「太いチンポでっ♥、オナホマンコ♥、壊されてイっちゃううぅッ♥」,「太いチンポでっ♥、オナホマンコ♥、壊されてイっちゃううぅッ♥」,「被粗大的陰莖♥、將自慰套小穴♥弄壞然後高潮了啦♥♥」,I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock...,"""With that thick cock♥ My toy pussy is broken♥ And I'm coming♥""","「굵은 자지로♥, 오나홀 보지♥, 부서져서 가버려어어엇♥」",「被粗大的阴茎♥、将自慰套小穴♥弄坏然后高潮了啦♥♥」
+Nayuta.Fallen3-19,那由多,「太いチンポでっ♥、オナホマンコ♥、壊されてイっちゃううぅッ♥」,「太いチンポでっ♥、オナホマンコ♥、壊されてイっちゃううぅッ♥」,「被粗大的陰莖♥，將自慰套小穴♥弄壞然後高潮了啦♥♥」,I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock... I'm going to come with a fat cock...,"""With that thick cock♥ My toy pussy is broken♥ And I'm coming♥""","「굵은 자지로♥, 오나홀 보지♥, 부서져서 가버려어어엇♥」",「被粗大的阴茎♥、将自慰套小穴♥弄坏然后高潮了啦♥♥」
 ,,,,,,,,
 Nayuta.Fallen3-20,怪人,「さあ、精液をたんと飲ませてやるっ！」,「さあ、精液をたんと飲ませてやるっ！」,「來，讓妳好好喝個夠精液！」,"Come on, I'll make you drink plenty of semen!""","""Now, I'll make you drink my cum!""","「자, 정액을 듬뿍 마시게 해주마!」",「来，让你好好喝个够精液！」
 ,Nayuta darkness 3-2,,,,,,,
@@ -458,11 +458,11 @@ Nayuta.Fallen3-23,那由多,「お゛おっ♥、お゛っ♥おお、すご…�
 ,,,,,,,,
 Nayuta.Fallen3-24,怪人,「おいオナホっ、まだ出してる途中だ！最後まで搾り取れっ！」,「おいオナホっ、まだ出してる途中だ！最後まで搾り取れっ！」,「喂自慰套，還在射的途中！給我榨到最後一滴！」,"Hey, masturbator, I'm still pumping! Squeeze me to finish!""","""Hey toy, I'm still unloading! Squeeze it all out!""","「어이 오나홀, 아직 싸는 중이다! 마지막까지 짜내라!」",「喂自慰套，还在射的途中！给我榨到最后一滴！」
 ,,,,,,,,
-Nayuta.Fallen3-25,那由多,「お゛っ♥、申し訳ありませんっ♥、おマンコ絞めますっ♥！」,「お゛っ♥、申し訳ありませんっ♥、おマンコ絞めますっ♥！」,「喔♥、非常抱歉♥、我會夾緊小穴的♥！」,"""Oh, I'm sorry, I'm gonna squeeze your pussy!""","""Oh♥ I'm sorry♥ I'll tighten up♥""","「오옷 옷♥, 죄송합니다♥, 보지 조이겠습니다♥!」",「喔♥、非常抱歉♥、我会夹紧小穴的♥！」
+Nayuta.Fallen3-25,那由多,「お゛っ♥、申し訳ありませんっ♥、おマンコ絞めますっ♥！」,「お゛っ♥、申し訳ありませんっ♥、おマンコ絞めますっ♥！」,「喔♥，非常抱歉♥，我會夾緊小穴的♥！」,"""Oh, I'm sorry, I'm gonna squeeze your pussy!""","""Oh♥ I'm sorry♥ I'll tighten up♥""","「오옷 옷♥, 죄송합니다♥, 보지 조이겠습니다♥!」",「喔♥、非常抱歉♥、我会夹紧小穴的♥！」
 ,,,,,,,,
 Nayuta.Fallen3-26,,ドビュルルッ！ビュルルルルルッ！,ドビュルルッ！ビュルルルルルッ！,咚咻嚕！咻嚕嚕嚕嚕嚕！,Doburrrrrrrrrrrr! ,Splurt! Spurrrrt!,도뷰르릇! 뷰르르르르릇!,咚咻噜！咻噜噜噜噜噜！
 ,,,,,,,,
-Nayuta.Fallen3-27,那由多,「お゛っ♥、射精っ♥、ながいぃっ♥、子宮が性液で溺れてるっ♥♥！」,「お゛っ♥、射精っ♥、ながいぃっ♥、子宮が性液で溺れてるっ♥♥！」,「喔♥、射精♥、好久♥、子宮快被精液淹沒了♥♥！」,"""Ooooh, I'm ejaculating, I'm ejaculating so long, my womb is drowning in sexual fluids!""","""Oh♥ You're coming♥ For a long time♥ My womb is drowning in fluids♥♥""","「오옷 옷♥, 사정♥, 길어엇♥, 자궁이 정액으로 넘치고 있어♥♥!」",「喔♥、射精♥、好久♥、子宫快被精液淹没了♥♥！」
+Nayuta.Fallen3-27,那由多,「お゛っ♥、射精っ♥、ながいぃっ♥、子宮が性液で溺れてるっ♥♥！」,「お゛っ♥、射精っ♥、ながいぃっ♥、子宮が性液で溺れてるっ♥♥！」,「喔♥，射精♥，好久♥，子宮快被精液淹沒了♥♥！」,"""Ooooh, I'm ejaculating, I'm ejaculating so long, my womb is drowning in sexual fluids!""","""Oh♥ You're coming♥ For a long time♥ My womb is drowning in fluids♥♥""","「오옷 옷♥, 사정♥, 길어엇♥, 자궁이 정액으로 넘치고 있어♥♥!」",「喔♥、射精♥、好久♥、子宫快被精液淹没了♥♥！」
 ,,,,,,,,
 Nayuta.Fallen3-28,,そして1分ほど子宮への射精が続いた後,そして1分ほど子宮への射精が続いた後,接著持續了約一分鐘的子宮射精後。,And after a minute or so of ejaculation into the uterus,The fiend kept coming for a whole minute,그리고 1분 정도 자궁으로 사정이 계속된 후,接着持续了约一分钟的子宫射精后。
 ,Nayuta darkness 3-3,,,,,,,
@@ -474,7 +474,7 @@ Nayuta.Fallen3-31,,那由多の胎は精液で膨らみ、妊娠したかのよ�
 ,,,,,,,,
 Nayuta.Fallen3-32,怪人,「ふう…流石は俺のオナホだ…耐久性だけはさすがだな」,「ふう…流石は俺のオナホだ…耐久性だけはさすがだな」,「呼…不愧是我的自慰套…耐用度真是沒話說。」,"""Well... that's my masturbator... it's as durable as I thought it would be.""","""Phew... As expected of my sex toy... At least your durability is impressive.""",「후우… 역시 내 오나홀이다… 내구성만큼은 과연이군」,「呼…不愧是我的自慰套…耐用度真是没话说。」
 ,,,,,,,,
-Nayuta.Fallen3-33,那由多,「お゛ほっ♥、あ、ありがとうごじゃいますぅ…♥♥」,「お゛ほっ♥、あ、ありがとうごじゃいますぅ…♥♥」,「喔吼♥、謝、謝謝您…♥♥」,"""Oh, thank you very much...♥♥♥""","""Ohoh♥ Th-thank you very much...♥♥""","「오옷 홋♥, 아, 감사합니다아…♥♥」",「喔吼♥、谢、谢谢您…♥♥」
+Nayuta.Fallen3-33,那由多,「お゛ほっ♥、あ、ありがとうごじゃいますぅ…♥♥」,「お゛ほっ♥、あ、ありがとうごじゃいますぅ…♥♥」,「喔吼♥，謝、謝謝您…♥♥」,"""Oh, thank you very much...♥♥♥""","""Ohoh♥ Th-thank you very much...♥♥""","「오옷 홋♥, 아, 감사합니다아…♥♥」",「喔吼♥、谢、谢谢您…♥♥」
 ,Nayuta darkness 3-4,,,,,,,
 Nayuta.Fallen3-34,,そして那由多の膣内からチンポがずるりと引き抜かれる,そして那由多の膣内からチンポがずるりと引き抜かれる,接著，陰莖緩緩地從那由多的陰道內抽出。,"Then, the cock is cunningly pulled out from inside Nayuta's vagina.",Then the cock was pulled out from inside Nayuta with a loud pop.,그리고 나유타의 질 내에서 자지가 즈르륵 하고 뽑혀 나온다,接着，阴茎缓缓地从那由多的阴道内抽出。
 ,,,,,,,,
@@ -488,11 +488,11 @@ Nayuta.Fallen3-38,那由多,「お゛おっ♥、おマンコ閉じられない�
 ,,,,,,,,
 Nayuta.Fallen3-39,怪人,「おい、誰がこぼしていいといった？俺のオナホなら許可なく一滴も漏らすことは許さん」,「おい、誰がこぼしていいといった？俺のオナホなら許可なく一滴も漏らすことは許さん」,「喂，誰允許妳流出來了？我的自慰套，不允許未經許可漏出一滴。」,"""Hey, who said you can spill? If it's my masturbator, I won't allow you to spill a drop without permission.""","""Hey, who said you could spill? As my toy, you're not allowed to leak a single drop without permission.""","「어이, 누가 흘려도 좋다고 했지? 내 오나홀이라면 허락 없이 한 방울도 흘리는 것은 용납 못 한다」",「喂，谁允许你流出来了？我的自慰套，不允许未经许可漏出一滴。」
 ,Nayuta darkness 3-5,,,,,,,
-Nayuta.Fallen3-40,那由多,「あひっ♥、も、申し訳ございませんっ♥、おマンコ閉めますっ♥」,「あひっ♥、も、申し訳ございませんっ♥、おマンコ閉めますっ♥」,「呀噫♥、非、非常抱歉♥、我會夾緊小穴的♥」,"I'm sorry, I'm going to close my pussy.","""Ahi♥ I-I'm sorry♥ I'll close up♥""","「아힛♥, 죄, 죄송합니다♥, 보지 닫겠습니다♥」",「呀噫♥、非、非常抱歉♥、我会夹紧小穴的♥」
+Nayuta.Fallen3-40,那由多,「あひっ♥、も、申し訳ございませんっ♥、おマンコ閉めますっ♥」,「あひっ♥、も、申し訳ございませんっ♥、おマンコ閉めますっ♥」,「呀噫♥，非、非常抱歉♥，我會夾緊小穴的♥」,"I'm sorry, I'm going to close my pussy.","""Ahi♥ I-I'm sorry♥ I'll close up♥""","「아힛♥, 죄, 죄송합니다♥, 보지 닫겠습니다♥」",「呀噫♥、非、非常抱歉♥、我会夹紧小穴的♥」
 ,,,,,,,,
 Nayuta.Fallen3-41,怪人,「グフフッ、今ので貴様から奪ったエネルギーでまたチンポが勃って来てしまったな」,「グフフッ、今ので貴様から奪ったエネルギーでまたチンポが勃って来てしまったな」,「咕呼呼，剛才從妳身上奪走的能量，又讓我的陰莖勃起了呢。」,"""Guffaw, the energy I just took from you is making my dick cum again.""","""Hehehe, the energy I stole from you just now has made me ready again.""","「크흐흐, 방금 네놈에게서 빼앗은 에너지로 또 자지가 서 버렸군」",「咕呼呼，刚才从你身上夺走的能量，又让我的阴茎勃起了呢。」
 ,,,,,,,,
-Nayuta.Fallen3-42,那由多,「お゛っ♥、エネルギー吸収していただき光栄ですっ♥」,「お゛っ♥、エネルギー吸収していただき光栄ですっ♥」,「喔♥、能讓您吸收能量是我的榮幸♥」,"""Ooooh, I'm so honored that you absorbed my energy.","""Oh♥ I'm honored to have my energy absorbed♥""","「오옷 옷♥, 에너지를 흡수해주셔서 영광입니다♥」",「喔♥、能让您吸收能量是我的荣幸♥」
+Nayuta.Fallen3-42,那由多,「お゛っ♥、エネルギー吸収していただき光栄ですっ♥」,「お゛っ♥、エネルギー吸収していただき光栄ですっ♥」,「喔♥，能讓您吸收能量是我的榮幸♥」,"""Ooooh, I'm so honored that you absorbed my energy.","""Oh♥ I'm honored to have my energy absorbed♥""","「오옷 옷♥, 에너지를 흡수해주셔서 영광입니다♥」",「喔♥、能让您吸收能量是我的荣幸♥」
 ,,,,,,,,
 Nayuta.Fallen3-43,那由多,「どうぞっ、また私のおマンコをお使いくださいっ♥！」,「どうぞっ、また私のおマンコをお使いくださいっ♥！」,「請使用吧♥，請再次使用我的小穴♥！」,"Please, use my pussy again ♥!","""Please, use me again♥""","「부디, 또 제 보지를 사용해주십시오♥!」",「请使用吧♥，请再次使用我的小穴♥！」
 ,,,,,,,,
@@ -500,11 +500,11 @@ Nayuta.Fallen3-44,怪人,「グフフッ、よかろう！」,「グフフッ、
 ,Nayuta darkness 3-3,,,,,,,
 Nayuta.Fallen3-45,,そして怪人はまた那由多のマンコへチンポを突き刺す,そして怪人はまた那由多のマンコへチンポを突き刺す,接著怪人再次將陰莖刺進那由多的小穴。,Then the monster thrusts his cock into Nayuta's pussy again.,And the fiend thrust into Nayuta once more.,그리고 괴인은 다시 나유타의 보지에 자지를 쑤셔 박는다,接着怪人再次将阴茎刺进那由多的小穴。
 ,,,,,,,,
-Nayuta.Fallen3-46,那由多,「ん゛あっ♥、ありがとうございますっ♥、オナホ冥利に尽きますっ♥！」,「ん゛あっ♥、ありがとうございますっ♥、オナホ冥利に尽きますっ♥！」,「嗯啊♥、謝謝您♥、自慰套真是死而無憾♥！」,"""Oh, thank you very much, I'm so happy to be able to masturbate!""","""Ahhnnn♥ Thank you♥ This is a sexy toy's greatest honor♥""","「응옷 앗♥, 감사합니다♥, 오나홀로서 더할 나위 없는 기쁨입니다♥!」",「嗯啊♥、谢谢您♥、自慰套真是死而无憾♥！」
+Nayuta.Fallen3-46,那由多,「ん゛あっ♥、ありがとうございますっ♥、オナホ冥利に尽きますっ♥！」,「ん゛あっ♥、ありがとうございますっ♥、オナホ冥利に尽きますっ♥！」,「嗯啊♥，謝謝您♥，自慰套真是死而無憾♥！」,"""Oh, thank you very much, I'm so happy to be able to masturbate!""","""Ahhnnn♥ Thank you♥ This is a sexy toy's greatest honor♥""","「응옷 앗♥, 감사합니다♥, 오나홀로서 더할 나위 없는 기쁨입니다♥!」",「嗯啊♥、谢谢您♥、自慰套真是死而无憾♥！」
 ,,,,,,,,
 Nayuta.Fallen3-47,那由多,(私は選ばれた力ある存在だと思っていましたが…違いましたっ♥),(私は選ばれた力ある存在だと思っていましたが…違いましたっ♥),（我以為我是被選中的有力量的存在…我錯了♥）,(I thought I was a chosen and powerful being...but I was not!),"(I thought I was a chosen, powerful being... but I was wrong♥)",(저는 선택받은 힘 있는 존재라고 생각했습니다만… 아니었습니다♥),（我以为我是被选中的有力量的存在…我错了♥）
 ,,,,,,,,
-Nayuta.Fallen3-48,那由多,(本当の私はっ♥、弱くて、おチンポにご奉仕するだけのメスでしたっ♥),(本当の私はっ♥、弱くて、おチンポにご奉仕するだけのメスでしたっ♥),（真正的我♥，是弱小的、只會服侍陰莖的雌性♥）,(The real me was a weak female who only served a cock.),(The real me♥ Was just a weak female meant to serve♥),"(진정한 저는♥, 약하고, 자지에 봉사할 뿐인 암컷이었습니다♥)",（真正的我♥，是弱小的、只会服侍阴茎的雌性♥）
+Nayuta.Fallen3-48,那由多,(本当の私はっ♥、弱くて、おチンポにご奉仕するだけのメスでしたっ♥),(本当の私はっ♥、弱くて、おチンポにご奉仕するだけのメスでしたっ♥),（真正的我♥，是弱小、只會服侍陰莖的雌性♥）,(The real me was a weak female who only served a cock.),(The real me♥ Was just a weak female meant to serve♥),"(진정한 저는♥, 약하고, 자지에 봉사할 뿐인 암컷이었습니다♥)",（真正的我♥，是弱小的、只会服侍阴茎的雌性♥）
 ,,,,,,,,
 Nayuta.Fallen3-49,那由多,(私…八雲那由多…いえ、オナホはっ♥、強者であるご主人様のチンポに永遠に命を捧げますっ♥),(私…八雲那由多…いえ、オナホはっ♥、強者であるご主人様のチンポに永遠に命を捧げますっ♥),（我…八雲那由多…不對，自慰套♥，將永遠把生命奉獻給強大的主人的陰莖♥）,"(I...Yakumo Nayuta...no, masturbator...♥, I will devote my life forever to the cock of the strong master...)","(I... Nayuta Yagumo... no, this sex toy♥ Now dedicates her life eternally to the strong Master♥)","(저… 야쿠모 나유타… 아니, 오나홀은♥, 강자인 주인님의 자지에 영원히 목숨을 바치겠습니다♥)",（我…八云那由多…不对，自慰套♥，将永远把生命奉献给强大的主人的阴茎♥）
 ,,,,,,,,
@@ -540,9 +540,9 @@ Nayuta.Debauchery1-13,那由多,(どんな辱めを受けようとも…聖核�
 ,,,,,,,,
 Nayuta.Debauchery1-14,戦闘員,「よし、じゃあまずはこの服に着替えろ」,「よし、じゃあまずはこの服に着替えろ」,「好，那妳先換上這件衣服。」,"All right, well, first you need to change into these clothes.""","""Alright, first change into these clothes.""","「좋아, 그럼 우선 이 옷으로 갈아입어라」",「好，那你先换上这件衣服。」
 ,,,,,,,,
-Nayuta.Debauchery1-15,那由多,「……？な、―――――なんですか、これはっ！？」,「……？な、―――――なんですか、これはっ！？」,「……？什、―――――這是什麼！？」,"I'm thinking, ""......? What, is it ―――――, what is this?""","""...? W-what is this!?""","「……? 뭐, ――――― 무엇입니까, 이것은!」",「……？什、―――――这是什么！？」
+Nayuta.Debauchery1-15,那由多,「……？な、―――――なんですか、これはっ！？」,「……？な、―――――なんですか、これはっ！？」,「……？什―――――這是什麼！？」,"I'm thinking, ""......? What, is it ―――――, what is this?""","""...? W-what is this!?""","「……? 뭐, ――――― 무엇입니까, 이것은!」",「……？什、―――――这是什么！？」
 ,暗転,,,,,,,
-Nayuta.Debauchery1-16,那由多(メスブタ),「―――――っ、こ、この服、なんでこんなっ！」,「―――――っ、こ、この服、なんでこんなっ！」,「―――――唔、這、這件衣服，為什麼會是這種樣式！」,"""―――――, this dress, why the hell did you do this!""","""T-these clothes, why?!""","「―――――윽, 이, 이 옷, 왜 이렇게!」",「―――――唔、这、这件衣服，为什么会是这种样式！」
+Nayuta.Debauchery1-16,那由多(メスブタ),「―――――っ、こ、この服、なんでこんなっ！」,「―――――っ、こ、この服、なんでこんなっ！」,「―――――這、這件衣服，為什麼會是這種樣式！」,"""―――――, this dress, why the hell did you do this!""","""T-these clothes, why?!""","「―――――윽, 이, 이 옷, 왜 이렇게!」",「―――――唔、这、这件衣服，为什么会是这种样式！」
 ,,,,,,,,
 Nayuta.Debauchery1-17,戦闘員,「ハハッ！、良く似合ってるぜ、最強の聖核戦姫サマよぉ！」,「ハハッ！、良く似合ってるぜ、最強の聖核戦姫サマよぉ！」,「哈哈！妳很適合啊，最強的聖核戰姫大人！」,"""Ha ha ha! You look great, you most powerful Seikaku Princess!","""Haha! They suit you well, oh, the strongest Holy Core Battlemaiden!""","「하핫! 잘 어울리는데, 최강의 성핵전희 님아!」",「哈哈！你很适合啊，最强的圣核战姫大人！」
 ,,,,,,,,
@@ -550,12 +550,12 @@ Nayuta.Debauchery1-18,那由多,(辱めるだけの服っ――いえ、こん�
 ,,,,,,,,
 Nayuta.Debauchery1-19,戦闘員,「オラッ、恥ずかしがってないでついてこい！これからたっぷりとその無様な姿を見てもらうえ！」,「オラッ、恥ずかしがってないでついてこい！これからたっぷりとその無様な姿を見てもらうえ！」,「喂，別害臊了，跟上！接下來妳會充分地被大家看到妳這副可憐的模樣！」,"Don't be shy, follow me! You're going to see a lot of that mess!""","""Hey! Stop being embarrassed and follow me! We're going to have plenty of people see your disgraceful appearance!""",「자! 부끄러워하지 말고 따라와! 이제부터 실컷 그 꼴사나운 모습을 보여줘야지!」,「喂，别害臊了，跟上！接下来你会充分地被大家看到你这副可怜的模样！」
 ,,,,,,,,
-Nayuta.Debauchery1-20,那由多,「っ、ううっ～～～ッ！」,「っ、ううっ～～～ッ！」,「唔、嗚嗚～～～唔！」,"Ughhhhhh!""","""Uuuh!""","「윽, 으으윽~~~윽!」",「唔、呜呜～～～唔！」
+Nayuta.Debauchery1-20,那由多,「っ、ううっ～～～ッ！」,「っ、ううっ～～～ッ！」,「唔，嗚嗚～～～唔！」,"Ughhhhhh!""","""Uuuh!""","「윽, 으으윽~~~윽!」",「唔、呜呜～～～唔！」
 ,暗転,,,,,,,
 ,Nayuta debauchery 1-1,,,,,,,
 Nayuta.Debauchery1-21,戦闘員,「皆様お待たせしましたっ、悪名高き聖核戦姫、八雲那由多ですっ！」,「皆様お待たせしましたっ、悪名高き聖核戦姫、八雲那由多ですっ！」,「各位久等了，這位就是惡名昭彰的聖核戰姫，八雲那由多！」,"""Here I am, the infamous Yakumo Nayuta, the Seikaku Princess!","""Everyone, thank you for waiting! Here is the infamous Holy Core Battlemaiden, Nayuta Yagumo!""","「여러분 오래 기다리셨습니다! 악명 높은 성핵전희, 야쿠모 나유타입니다!」",「各位久等了，这位就是恶名昭彰的圣核战姫，八云那由多！」
 ,,,,,,,,
-Nayuta.Debauchery1-22,那由多,(っ、うう～～～～ッ！！！！),(っ、うう～～～～ッ！！！！),（唔、嗚嗚～～～～唔！！！！）,"(ugh, ugh ～～～～ッ！！！！)",(Uuuuh!!!!),"(윽, 으으~~~윽!!!!)",（唔、呜呜～～～～唔！！！！）
+Nayuta.Debauchery1-22,那由多,(っ、うう～～～～ッ！！！！),(っ、うう～～～～ッ！！！！),（唔，嗚嗚～～～～唔！！！！）,"(ugh, ugh ～～～～ッ！！！！)",(Uuuuh!!!!),"(윽, 으으~~~윽!!!!)",（唔、呜呜～～～～唔！！！！）
 ,,,,,,,,
 Nayuta.Debauchery1-23,,那由多は大勢の前で地面に頭をつけ、土下座をしていた,那由多は大勢の前で地面に頭をつけ、土下座をしていた,那由多在大庭廣眾之下頭部貼地，跪地磕頭。,Nayuta was on his knees with his head on the ground in front of many people.,Nayuta bowed deeply with her head to the ground before a large crowd.,"나유타는 많은 사람들 앞에서 땅에 머리를 박고, 엎드려 있었다",那由多在大庭广众之下头部贴地，跪地磕头。
 ,,,,,,,,
@@ -567,9 +567,9 @@ Nayuta.Debauchery1-26,観客3,「特にコイツは強すぎて誰も口出し�
 ,,,,,,,,
 Nayuta.Debauchery1-27,那由多,(っ、私はっ、皆が平穏に暮らせるようにしたかっただけなのにっ…！こんなっ),(っ、私はっ、皆が平穏に暮らせるようにしたかっただけなのにっ…！こんなっ),（唔，我只是想讓大家能平靜地生活而已…！竟然會這樣）,(I just wanted to make sure that everyone could live peacefully...! Oh no...),(I just wanted everyone to live in peace...! This is...),"(윽, 나는, 모두가 평온하게 살 수 있도록 하고 싶었을 뿐인데…! 이런!)",（唔，我只是想让大家能平静地生活而已…！竟然会这样）
 ,,,,,,,,
-Nayuta.Debauchery1-28,戦闘員,「えー、ではここで八雲那由多から謝罪の言葉があるようです。皆様一旦耳を傾けてください」,「えー、ではここで八雲那由多から謝罪の言葉があるようです。皆様一旦耳を傾けてください」,「呃，那麼，八雲那由多似乎有話想向大家道歉。請各位暫時聽她說。」,"He said, ""Well then, here is a word of apology from Yakumo Nayuta. Everyone please pause to listen.""","""Now then, Nayuta Yagumo has some words of apology. Everyone, please listen for a moment.""","「에-, 그럼 여기서 야쿠모 나유타로부터 사죄의 말씀이 있겠습니다. 여러분 잠시 귀 기울여 주십시오」",「呃，那么，八云那由多似乎有话想向大家道歉。请各位暂时听她说。」
+Nayuta.Debauchery1-28,戦闘員,「えー、ではここで八雲那由多から謝罪の言葉があるようです。皆様一旦耳を傾けてください」,「えー、ではここで八雲那由多から謝罪の言葉があるようです。皆様一旦耳を傾けてください」,「欸――那麼，八雲那由多似乎有話想向大家道歉。請各位暫時聽她說。」,"He said, ""Well then, here is a word of apology from Yakumo Nayuta. Everyone please pause to listen.""","""Now then, Nayuta Yagumo has some words of apology. Everyone, please listen for a moment.""","「에-, 그럼 여기서 야쿠모 나유타로부터 사죄의 말씀이 있겠습니다. 여러분 잠시 귀 기울여 주십시오」",「呃，那么，八云那由多似乎有话想向大家道歉。请各位暂时听她说。」
 ,,,,,,,,
-Nayuta.Debauchery1-29,那由多,「っ、……ぐうっ……」,「っ、……ぐうっ……」,「唔、……嗚…」,I'm going to go to .......,"""...Guh...""","「윽, ……크윽……」",「唔、……呜…」
+Nayuta.Debauchery1-29,那由多,「っ、……ぐうっ……」,「っ、……ぐうっ……」,「唔……嗚…」,I'm going to go to .......,"""...Guh...""","「윽, ……크윽……」",「唔、……呜…」
 ,,,,,,,,
 Nayuta.Debauchery1-30,戦闘員,(オラッ！、教えたとおりに言えッ！),(オラッ！、教えたとおりに言えッ！),（喂！照我教的說！）,(Ora! Say exactly what I taught you!),(Hey! Say it like we taught you!),"(자!, 가르쳐준 대로 말해!)",（喂！照我教的说！）
 ,,,,,,,,
@@ -583,13 +583,13 @@ Nayuta.Debauchery1-34,戦闘員,「という事です…では皆様、後はご
 ,,,,,,,,
 ,暗転,,,,,,,
 ,Nayuta debauchery 1-2,,,,,,,
-Nayuta.Debauchery1-35,那由多,(っ、屈辱ですっ…！いくらなんでもこんな趣味の悪いことをさせるなんてっ),(っ、屈辱ですっ…！いくらなんでもこんな趣味の悪いことをさせるなんてっ),（唔，屈辱…！再怎麼說也不該做出這種惡趣味的事！）,(It's so humiliating...! I can't believe that you would make me do something so bad taste...),(This is humiliating...! Making me do something this tasteless!),"(윽, 굴욕입니다…! 아무리 그래도 이런 악취미스러운 짓을 시키다니!)",（唔，屈辱…！再怎么说也不该做出这种恶趣味的事！）
+Nayuta.Debauchery1-35,那由多,(っ、屈辱ですっ…！いくらなんでもこんな趣味の悪いことをさせるなんてっ),(っ、屈辱ですっ…！いくらなんでもこんな趣味の悪いことをさせるなんてっ),（屈辱…！再怎麼說也不該做出這種惡趣味的事！）,(It's so humiliating...! I can't believe that you would make me do something so bad taste...),(This is humiliating...! Making me do something this tasteless!),"(윽, 굴욕입니다…! 아무리 그래도 이런 악취미스러운 짓을 시키다니!)",（唔，屈辱…！再怎么说也不该做出这种恶趣味的事！）
 ,,,,,,,,
 Nayuta.Debauchery1-36,観客,「ははっ、しかし改めてみるとバカみたいな格好だな」,「ははっ、しかし改めてみるとバカみたいな格好だな」,「哈哈，不過仔細一看，這身打扮真是蠢得可以。」,"Haha, but then again, I look like an idiot.""","""Haha, looking at her again, what a ridiculous outfit.""","「하핫, 하지만 다시 보니 바보 같은 모습이군」",「哈哈，不过仔细一看，这身打扮真是蠢得可以。」
 ,,,,,,,,
 Nayuta.Debauchery1-37,観客,「そうですな…ある意味ではよく似合っているとも言えますが」,「そうですな…ある意味ではよく似合っているとも言えますが」,「說得也是…從某種意義上來說，也很適合她。」,'Well... in some ways it suits you well.,"""Indeed... In a way, you could say it suits her well.""",「그렇군요… 어떤 의미에서는 잘 어울린다고도 할 수 있겠습니다만」,「说得也是…从某种意义上来说，也很适合她。」
 ,,,,,,,,
-Nayuta.Debauchery1-38,那由多,「………っ、………ありがとう…ございます…っ」,「………っ、………ありがとう…ございます…っ」,「………唔、………謝謝…你們…」,"""Thank you ........., thank you... for ............""","""...Thank... you...""","「………윽, ………감사…합니다…윽」",「………唔、………谢谢…你们…」
+Nayuta.Debauchery1-38,那由多,「………っ、………ありがとう…ございます…っ」,「………っ、………ありがとう…ございます…っ」,「………………謝謝…你們…」,"""Thank you ........., thank you... for ............""","""...Thank... you...""","「………윽, ………감사…합니다…윽」",「………唔、………谢谢…你们…」
 ,,,,,,,,
 Nayuta.Debauchery1-39,観客,「あ？、何反抗的なツラしてんだ？これから謝罪フェラするってんのに」,「あ？、何反抗的なツラしてんだ？これから謝罪フェラするってんのに」,「啊？妳這是在擺什麼不滿的臉？接下來妳要謝罪口交耶。」,"What? What's with the defiant look on your face? I'm about to give you an apology blowjob.""","""Huh? What's with that defiant look? You're supposed to be apologizing with a blowjob.""","「아?, 무슨 반항적인 표정이야? 이제부터 사죄 펠라할 건데」",「啊？你这是在摆什么不满的脸？接下来你要谢罪口交耶。」
 ,Nayuta debauchery 1-３,,,,,,,
@@ -601,7 +601,7 @@ Nayuta.Debauchery1-42,那由多,「っ！、う゛うっ…心得ていますっ
 ,,,,,,,,
 Nayuta.Debauchery1-43,観客,「わかったんならとっととしゃぶれ！」,「わかったんならとっととしゃぶれ！」,「知道就趕快吸！」,"If you know what you're doing, then suck it off!""","""If you understand, then hurry up and suck on it!""",「알았으면 빨리 빨아!」,「知道就赶快吸！」
 ,,,,,,,,
-Nayuta.Debauchery1-44,那由多,「っ、わ、わかりましたっ！」,「っ、わ、わかりましたっ！」,「唔、我、我知道了！」,I understand!,"""I-I understand!""","「윽, 아, 알겠습니다!」",「唔、我、我知道了！」
+Nayuta.Debauchery1-44,那由多,「っ、わ、わかりましたっ！」,「っ、わ、わかりましたっ！」,「…我、我知道了！」,I understand!,"""I-I understand!""","「윽, 아, 알겠습니다!」",「唔、我、我知道了！」
 ,Nayuta debauchery 1-4,,,,,,,
 Nayuta.Debauchery1-45,,那由多は目の前に差し出されたチンポを慌てて口に含む,那由多は目の前に差し出されたチンポを慌てて口に含む,那由多慌忙將伸到面前的陰莖含進嘴裡。,Nayuta hurriedly takes the cock offered in front of her into her mouth.,Nayuta hurriedly took the cock into her mouth.,나유타는 눈앞에 내밀어진 자지를 황급히 입에 문다,那由多慌忙将伸到面前的阴茎含进嘴里。
 ,,,,,,,,
@@ -609,15 +609,15 @@ Nayuta.Debauchery1-46,那由多,「むごっ、むふーっ！」,「むごっ�
 ,,,,,,,,
 Nayuta.Debauchery1-47,那由多,(これが男性のっ…っ、最悪っ！不快ですっ！),(これが男性のっ…っ、最悪っ！不快ですっ！),（這就是男性的陰莖…唔，最糟！不舒服！）,(This is a man's......oh my god.....this is the worst! It's disgusting!),(This is a man's... This is the worst! It's unpleasant!),"(이것이 남성의…윽, 최악! 불쾌합니다!)",（这就是男性的阴茎…唔，最糟！不舒服！）
 ,,,,,,,,
-Nayuta.Debauchery1-48,観客,「おいブタッ、咥えて終わりじゃねえぞ！早くフェラして射精させろ！」,「おいブタッ、咥えて終わりじゃねえぞ！早くフェラして射精させろ！」,「喂母豬，含著可不算完！快點口交讓牠射精！」,"He said, ""Hey, pig, don't just suck me off and be done with it! Come on, suck me off and make me ejaculate!""","""Hey pig! It's not over just by holding it! Suck faster and make me come!""","「어이 돼지, 물고 끝이 아니야! 빨리 펠라해서 사정시켜!」",「喂母猪，含着可不算完！快点口交让牠射精！」
+Nayuta.Debauchery1-48,観客,「おいブタッ、咥えて終わりじゃねえぞ！早くフェラして射精させろ！」,「おいブタッ、咥えて終わりじゃねえぞ！早くフェラして射精させろ！」,「喂母豬，光含著可不算結束！快點口交讓牠射精！」,"He said, ""Hey, pig, don't just suck me off and be done with it! Come on, suck me off and make me ejaculate!""","""Hey pig! It's not over just by holding it! Suck faster and make me come!""","「어이 돼지, 물고 끝이 아니야! 빨리 펠라해서 사정시켜!」",「喂母猪，含着可不算完！快点口交让牠射精！」
 ,Nayuta debauchery 1-5,,,,,,,
-Nayuta.Debauchery1-49,那由多,「ん゛んっ♥、もうひわけごらいまへんっ♥！」,「ん゛んっ♥、もうひわけごらいまへんっ♥！」,「嗯嗯♥、我馬上就好♥！」,"""Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!","""Mmh♥ I'm shorry♥!""","「응옷 응윽♥, 죄송합니닷♥!」",「嗯嗯♥、我马上就好♥！」
+Nayuta.Debauchery1-49,那由多,「ん゛んっ♥、もうひわけごらいまへんっ♥！」,「ん゛んっ♥、もうひわけごらいまへんっ♥！」,「嗯嗯♥，我馬上就好♥！」,"""Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!","""Mmh♥ I'm shorry♥!""","「응옷 응윽♥, 죄송합니닷♥!」",「嗯嗯♥、我马上就好♥！」
 ,,,,,,,,
 Nayuta.Debauchery1-50,,そして那由多は口で男のチンポをしごいていく,そして那由多は口で男のチンポをしごいていく,接著那由多用嘴巴套弄著男人的陰莖。,And Nayuta squeezes the man's cock with her mouth.,Nayuta then began servicing the man's cock with her mouth.,그리고 나유타는 입으로 남자의 자지를 흔들어댄다,接着那由多用嘴巴套弄着男人的阴茎。
 ,Nayuta debauchery 1-4,,,,,,,
 Nayuta.Debauchery1-51,那由多,ちゅぱっ♥、ちゅぱっ♥、ちゅぱっ♥,ちゅぱっ♥、ちゅぱっ♥、ちゅぱっ♥,啾啪♥、啾啪♥、啾啪♥,"Chubby, chubby, chubby, chubby, chubby, chubby.",Slurp♥ slurp♥ slurp♥,"츄팟♥, 츄팟♥, 츄팟♥",啾啪♥、啾啪♥、啾啪♥
 ,,,,,,,,
-Nayuta.Debauchery1-52,那由多,(うぅ～～～っ、何故っ、私がこんなことをッ！),(うぅ～～～っ、何故っ、私がこんなことをッ！),（嗚嗚～～～唔，為什麼、我會做這種事！）,"(Ughhhhhh, why am I doing this!)","(Uuuh, why do I have to do this!)","(으으~~~윽, 왜, 내가 이런 짓을!)",（呜呜～～～唔，为什么、我会做这种事！）
+Nayuta.Debauchery1-52,那由多,(うぅ～～～っ、何故っ、私がこんなことをッ！),(うぅ～～～っ、何故っ、私がこんなことをッ！),（嗚嗚～～～為什麼，我會做這種事！）,"(Ughhhhhh, why am I doing this!)","(Uuuh, why do I have to do this!)","(으으~~~윽, 왜, 내가 이런 짓을!)",（呜呜～～～唔，为什么、我会做这种事！）
 ,,,,,,,,
 Nayuta.Debauchery1-53,観客,「ああ？ふざけてんのか？」,「ああ？ふざけてんのか？」,「啊？妳在開玩笑嗎？」,"""Oh? Are you kidding me?""","""Huh? Are you messing around?""",「아아? 장난치는 거냐?」,「啊？你在开玩笑吗？」
 ,,,,,,,,
@@ -631,13 +631,13 @@ Nayuta.Debauchery1-57,,那由多は自分の体力を生かし、頭を前後に
 ,,,,,,,,
 Nayuta.Debauchery1-58,,ジュポッ、ジュポッ、ジュポッ、ジュポッ！,ジュポッ、ジュポッ、ジュポッ、ジュポッ！,啾波、啾波、啾波、啾波！,"Jup, jup, jup, jup, jup!","Slurp, slurp, slurp, slurp!","쥬폿, 쥬폿, 쥬폿, 쥬폿!",啾波、啾波、啾波、啾波！
 ,,,,,,,,
-Nayuta.Debauchery1-59,観客,「……まあいい、とりあえず出してやるっ、オラ！」,「……まあいい、とりあえず出してやるっ、オラ！」,「……算了，先讓妳射出來吧，喂！」,"...... Well, I'll get it out of you anyway, Ora!""","""...Well fine, I'll finish. Here!""","「……뭐 됐어, 일단 싸주마, 자!」",「……算了，先让你射出来吧，喂！」
+Nayuta.Debauchery1-59,観客,「……まあいい、とりあえず出してやるっ、オラ！」,「……まあいい、とりあえず出してやるっ、オラ！」,「……算了，先射出來吧，喂！」,"...... Well, I'll get it out of you anyway, Ora!""","""...Well fine, I'll finish. Here!""","「……뭐 됐어, 일단 싸주마, 자!」",「……算了，先让你射出来吧，喂！」
 ,Nayuta debauchery 1-6,,,,,,,
 Nayuta.Debauchery1-60,,ドビュルルッ、ドプッ！,ドビュルルッ、ドプッ！,咚咻嚕、咚噗！,Doburrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Splurt, splash!","도뷰르르릇, 도풋!",咚咻噜、咚噗！
 ,,,,,,,,
 Nayuta.Debauchery1-61,那由多,「ん゛っ♥、ん゛んっ♥、んっ♥♥！」,「ん゛っ♥、ん゛んっ♥、んっ♥♥！」,「嗯♥、嗯嗯♥、嗯♥♥！」,"""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥!""","""Mm♥ Mmh♥ Mh♥♥!""","「응옷 윽♥, 응옷 응윽♥, 응윽♥♥!」",「嗯♥、嗯嗯♥、嗯♥♥！」
 ,,,,,,,,
-Nayuta.Debauchery1-62,那由多,(これが性液の味っ♥、ぐっ♥、苦くてっ、不愉快ですっ！),(これが性液の味っ♥、ぐっ♥、苦くてっ、不愉快ですっ！),（這就是精液的味道♥，呃♥，好苦、很不舒服！）,"(This is the taste of sexual fluid ♥, gosh ♥, it's bitter and unpleasant!)",(This is the taste♥ Ugh♥ It's bitter and unpleasant!),"(이것이 정액의 맛♥, 크윽♥, 쓰고, 불쾌합니다!)",（这就是精液的味道♥，呃♥，好苦、很不舒服！）
+Nayuta.Debauchery1-62,那由多,(これが性液の味っ♥、ぐっ♥、苦くてっ、不愉快ですっ！),(これが性液の味っ♥、ぐっ♥、苦くてっ、不愉快ですっ！),（這就是精液的味道♥，呃♥，好苦，很不舒服！）,"(This is the taste of sexual fluid ♥, gosh ♥, it's bitter and unpleasant!)",(This is the taste♥ Ugh♥ It's bitter and unpleasant!),"(이것이 정액의 맛♥, 크윽♥, 쓰고, 불쾌합니다!)",（这就是精液的味道♥，呃♥，好苦、很不舒服！）
 ,Nayuta debauchery 1-７,,,,,,,
 Nayuta.Debauchery1-63,那由多,「はあっ♥、はあっ♥、んあっ♥」,「はあっ♥、はあっ♥、んあっ♥」,「哈♥、哈♥、嗯啊♥」,"""Ahh, ah, ah, ah, ah, ah, ah, ah.""","""Haa♥ Haa♥ Naa♥""","「하앗♥, 하앗♥, 응앗♥」",「哈♥、哈♥、嗯啊♥」
 ,,,,,,,,
@@ -661,7 +661,7 @@ Nayuta.Debauchery1-72,那由多,(これも試練ですっ…、どんなに辱�
 ,,,,,,,,
 Nayuta.Debauchery1-73,,そして翌朝,そして翌朝,接著隔天早上,And the next morning,The next morning...,그리고 다음 날 아침,接着隔天早上
 ,Nayuta debauchery 1-9,,,,,,,
-Nayuta.Debauchery1-74,那由多,「ゲプッ♥、………オ゛、オエッ♥」,「ゲプッ♥、………オ゛、オエッ♥」,「嗝♥、………嘔、嘔♥」,"""Gep ♥, ......... ♥, oe ♥.""","""Burp♥ ...Ugh♥""","「켁♥, ………오옷 , 오엑♥」",「嗝♥、………呕、呕♥」
+Nayuta.Debauchery1-74,那由多,「ゲプッ♥、………オ゛、オエッ♥」,「ゲプッ♥、………オ゛、オエッ♥」,「嗝♥………嘔、嘔♥」,"""Gep ♥, ......... ♥, oe ♥.""","""Burp♥ ...Ugh♥""","「켁♥, ………오옷 , 오엑♥」",「嗝♥、………呕、呕♥」
 ,,,,,,,,
 Nayuta.Debauchery1-75,観客,「ふう、出した出した、ったくすげえザーメン臭だな」,「ふう、出した出した、ったくすげえザーメン臭だな」,「呼，射完了射完了，真是超濃的精液味。」,"""I've got it, I've got it, it smells like cum.","""Phew, finished. The smell is overwhelming.""","「후우, 쌌다 쌌어, 정말 굉장한 정액 냄새네」",「呼，射完了射完了，真是超浓的精液味。」
 ,,,,,,,,
@@ -671,7 +671,7 @@ Nayuta.Debauchery1-77,那由多,(う゛あっ♥、気持ち…悪いっ♥、�
 ,,,,,,,,
 Nayuta.Debauchery1-78,観客,「おらブタ、最後に感謝の挨拶しろ」,「おらブタ、最後に感謝の挨拶しろ」,「喂母豬，最後說句感謝的問候語。」,"Hey, pig, say thank you at the end.","""Hey pig, give your thanks at the end.""","「자 돼지, 마지막으로 감사의 인사를 해라」",「喂母猪，最后说句感谢的问候语。」
 ,,,,,,,,
-Nayuta.Debauchery1-79,那由多,「っ、…わ、わかりましたっ…♥」,「っ、…わ、わかりましたっ…♥」,「啊……我、我知道了……♥」,"I understand...♥""","""...I-I understand...♥""","「윽, …아, 알겠습니다…♥」",「啊……我、我知道了……♥」
+Nayuta.Debauchery1-79,那由多,「っ、…わ、わかりましたっ…♥」,「っ、…わ、わかりましたっ…♥」,「……我、我知道了……♥」,"I understand...♥""","""...I-I understand...♥""","「윽, …아, 알겠습니다…♥」",「啊……我、我知道了……♥」
 ,Nayuta debauchery 1-10,,,,,,,
 Nayuta.Debauchery1-80,,那由多は性液まみれの体で再び土下座をする,那由多は性液まみれの体で再び土下座をする,那由多用沾滿精液的身體再次土下座。,Nayuta gets down on her knees again with her body covered in sexual fluids,"Nayuta bowed deeply again, covered in bodily fluids.",나유타는 정액 범벅인 몸으로 다시 엎드린다,那由多用沾满精液的身体再次土下座。
 ,,,,,,,,
@@ -679,19 +679,19 @@ Nayuta.Debauchery1-81,那由多,「本日は…那由多ブタで沢山射精し
 ,,,,,,,,
 Nayuta.Debauchery1-82,那由多,「今後とも…財団と那由多をどうぞよろしくお願いしますっ♥」,「今後とも…財団と那由多をどうぞよろしくお願いしますっ♥」,「今後也請跟…財團和那由多…多多指教♥」,I look forward to your continued support for the Foundation and Nayuta.,"""Please continue to support... the Foundation and Nayuta♥""",「앞으로도… 재단과 나유타를 부디 잘 부탁드립니다♥」,「今后也请跟…财团和那由多…多多指教♥」
 ,,,,,,,,
-Nayuta.Debauchery1-83,那由多,(っ、屈辱でしたが…やっと、終わりましたっ♥…これで少し休めますっ),(っ、屈辱でしたが…やっと、終わりましたっ♥…これで少し休めますっ),（唔，雖然屈辱…但總算結束了♥…這樣可以休息一下了♥）,"(It was humiliating... but finally, it's over... now I can rest a little...)","(It was humiliating but... finally, it's over♥... Now I can rest a little.)","(윽, 굴욕이었지만… 겨우, 끝났습니다♥… 이걸로 조금 쉴 수 있습니다)",（唔，虽然屈辱…但总算结束了♥…这样可以休息一下了♥）
+Nayuta.Debauchery1-83,那由多,(っ、屈辱でしたが…やっと、終わりましたっ♥…これで少し休めますっ),(っ、屈辱でしたが…やっと、終わりましたっ♥…これで少し休めますっ),（雖然屈辱…但總算結束了♥…這樣可以休息一下了♥）,"(It was humiliating... but finally, it's over... now I can rest a little...)","(It was humiliating but... finally, it's over♥... Now I can rest a little.)","(윽, 굴욕이었지만… 겨우, 끝났습니다♥… 이걸로 조금 쉴 수 있습니다)",（唔，虽然屈辱…但总算结束了♥…这样可以休息一下了♥）
 ,,,,,,,,
 Nayuta.Debauchery1-84,,その時、戦闘員が那由多のもとにやってくる,その時、戦闘員が那由多のもとにやってくる,這時，戰鬥員來到那由多身邊。,"At that time, a combatant comes to Nayuta","At that moment, a soldier approached Nayuta.","그때, 전투원이 나유타에게 다가온다",这时，战斗员来到那由多身边。
 ,,,,,,,,
 Nayuta.Debauchery1-85,戦闘員,「やっと終わったか？じゃあとっととシャワー浴びて準備するぞ。次の場所だ」,「やっと終わったか？じゃあとっととシャワー浴びて準備するぞ。次の場所だ」,「終於結束啦？那趕快去沖個澡準備一下。要去下一個地方了。」,"You're finally done? Then let's shower and get ready. Next stop.""","""Finally done? Then hurry up and shower. We're going to the next location.""",「겨우 끝났나? 그럼 빨리 샤워하고 준비해라. 다음 장소다」,「终于结束啦？那赶快去冲个澡准备一下。要去下一个地方了。」
 ,,,,,,,,
-Nayuta.Debauchery1-86,那由多,「なっ？、なんでっ！？」,「なっ？、なんでっ！？」,「什麼？、為什麼！？」,What? Why?,"""What? Why!?""","「뭣?, 어째서!?」",「什么？、为什么！？」
+Nayuta.Debauchery1-86,那由多,「なっ？、なんでっ！？」,「なっ？、なんでっ！？」,「什麼？為什麼！？」,What? Why?,"""What? Why!?""","「뭣?, 어째서!?」",「什么？、为什么！？」
 ,,,,,,,,
 Nayuta.Debauchery1-87,戦闘員,「お前が迷惑かけたのがこれだけなわけがないだろ？これから毎日寝る間も惜しんでチンポ奉仕だ」,「お前が迷惑かけたのがこれだけなわけがないだろ？これから毎日寝る間も惜しんでチンポ奉仕だ」,「妳惹出的麻煩可不只這些吧？從現在開始每天都要爭分奪秒地服侍陰莖。」,"""This can't be all the trouble you've caused, can it? From now on, I'm going to spend every waking moment serving your dick.""","""You think this is all the trouble you've caused? From now on, you'll be serving cocks every day without rest.""",「네가 폐를 끼친 게 이것뿐일 리 없잖아? 이제부터 매일 잠잘 시간도 아껴서 자지 봉사다」,「你惹出的麻烦可不只这些吧？从现在开始每天都要争分夺秒地服侍阴茎。」
 ,,,,,,,,
 Nayuta.Debauchery1-88,戦闘員,「わかったらとっとと準備しろ。しばらく休めると思うなよ？」,「わかったらとっとと準備しろ。しばらく休めると思うなよ？」,「聽懂了就趕快準備。別想著可以休息一下啊。」,"""Get ready to go. Don't think you can rest for a while?""","""If you understand, then hurry up and get ready. Don't think you'll get to rest for a while.""",「알았으면 빨리 준비해라. 잠시 쉴 수 있다고 생각하지 마라?」,「听懂了就赶快准备。别想着可以休息一下啊。」
 ,,,,,,,,
-Nayuta.Debauchery1-89,那由多,「なっ、そんなっ…！待って、無理っ…！」,「なっ、そんなっ…！待って、無理っ…！」,「什麼、怎麼會…！等一下，不行…！」,"""No, no, no, no...! Wait, I can't...!","""No, that's...! Wait, I can't...!""","「뭣, 그런…! 기다려, 무리…!」",「什么、怎么会…！等一下，不行…！」
+Nayuta.Debauchery1-89,那由多,「なっ、そんなっ…！待って、無理っ…！」,「なっ、そんなっ…！待って、無理っ…！」,「什麼？怎麼會…！等一下，不行…！」,"""No, no, no, no...! Wait, I can't...!","""No, that's...! Wait, I can't...!""","「뭣, 그런…! 기다려, 무리…!」",「什么、怎么会…！等一下，不行…！」
 ,,,,,,,,
 Nayuta.Debauchery1-90,,その後、那由多はメスブタとして、世界中での壮絶な性奉仕の日々が続くのだった,その後、那由多はメスブタとして、世界中での壮絶な性奉仕の日々が続くのだった,在那之後，那由多作為母豬，持續著在世界各地慘烈的性服務的日子。,"After that, Nayuta was a female pig, and her days of spectacular sexual service around the world continued!","After that, Nayuta's days of intense service around the world continued.","그 후, 나유타는 암퇘지로서, 전 세계에서의 처절한 성봉사의 나날이 계속되는 것이었다",在那之后，那由多作为母猪，持续着在世界各地惨烈的性服务的日子。
 Nayuta Debauchery Scene2,注釈,淫乱化シーン,淫乱化シーン,,淫乱化シーン,,음란화 이벤트,
@@ -731,7 +731,7 @@ Nayuta.Debauchery2-17,,ジュポッ、ジュポッ、ジュポッ、ジュポッ
 ,Nayuta debauchery 2-3,,,,,,,
 Nayuta.Debauchery2-18,那由多,(わかりますっ、今は剣を握る感覚より…口の中のチンポの感覚の方が研ぎ澄まされているっ♥),(わかりますっ、今は剣を握る感覚より…口の中のチンポの感覚の方が研ぎ澄まされているっ♥),（我懂了♥，現在比起握劍的感覺…口中陰莖的感覺更敏銳了♥）,"(I know, now the sensation of a cock in my mouth is sharper than the sensation of holding a sword... ♥)","(I understand, now my senses are more attuned to the cock in my mouth than a blade in my hand♥)","(알겠습니다♥, 지금은 검을 쥐는 감각보다… 입안의 자지 감각이 더 예민해져 있어♥)",（我懂了♥，现在比起握剑的感觉…口中阴茎的感觉更敏锐了♥）
 ,,,,,,,,
-Nayuta.Debauchery2-19,那由多,(チンポの扱い方…刀の道よりも奥が深いですっ♥),(チンポの扱い方…刀の道よりも奥が深いですっ♥),（侍弄陰莖的方法…比刀法還要深奧♥）,(How to handle a cock...it's deeper than the way of the sword ♥),(The cock... is much more complicated than the way of the sword♥),(자지 다루는 법… 칼의 길보다 더 깊습니다♥),（侍弄阴茎的方法…比刀法还要深奥♥）
+Nayuta.Debauchery2-19,那由多,(チンポの扱い方…刀の道よりも奥が深いですっ♥),(チンポの扱い方…刀の道よりも奥が深いですっ♥),（服侍陰莖的方法…比刀法還要深奧♥）,(How to handle a cock...it's deeper than the way of the sword ♥),(The cock... is much more complicated than the way of the sword♥),(자지 다루는 법… 칼의 길보다 더 깊습니다♥),（侍弄阴茎的方法…比刀法还要深奥♥）
 ,,,,,,,,
 Nayuta.Debauchery2-20,観客,「那由多ちゃんチンポに必死でフェラ顔になっちゃって…まあ最後まで頼むよ」,「那由多ちゃんチンポに必死でフェラ顔になっちゃって…まあ最後まで頼むよ」,「那由多為了陰莖拼命口交的表情…很賣力，拜託妳做到最後了。」,"Nayuta―chan, you're so desperate for cock that you've got a blowjob face... well, just finish me off, please.""","""You're so desperate... Well, please continue to the end.""",「나유타쨩 자지에 필사적이어서 펠라 얼굴이 되어버렸네… 뭐 끝까지 부탁해」,「那由多为了阴茎拼命口交的表情…很卖力，拜托你做到最后了。」
 ,,,,,,,,
@@ -741,9 +741,9 @@ Nayuta.Debauchery2-22,,ジュポッ、ジュポッ、ジュポッ、ジュポッ
 ,,,,,,,,
 Nayuta.Debauchery2-23,那由多,「んっ♥、ん゛ふっ♥、ぶもっ♥、ぶもっ♥」,「んっ♥、ん゛ふっ♥、ぶもっ♥、ぶもっ♥」,「嗯♥，嗯呼♥、噗哞♥、噗哞♥」,"""Mmm, mmm, mmm, mmm, mmm, mmm, mmm.""","""Mm♥ Mfuh♥ Mmo♥ Mmo♥""","「응읏♥, 응옷 훗♥, 부못♥, 부못♥」",「嗯♥，嗯呼♥、噗哞♥、噗哞♥」
 ,,,,,,,,
-Nayuta.Debauchery2-24,観客,「っ、おおっ、がっつきやがって、出すぞっ！」,「っ、おおっ、がっつきやがって、出すぞっ！」,「唔，真會搶食啊，我要射了！」,"""Oh, oh, you greedy, greedy, I'm gonna get you out!""","""Oh, you're really going at it, I'm coming!""","「윽, 오오옷, 꿀꺽거리며, 싼다!」",「唔，真会抢食啊，我要射了！」
+Nayuta.Debauchery2-24,観客,「っ、おおっ、がっつきやがって、出すぞっ！」,「っ、おおっ、がっつきやがって、出すぞっ！」,「唔，真貪吃啊，我要射了！」,"""Oh, oh, you greedy, greedy, I'm gonna get you out!""","""Oh, you're really going at it, I'm coming!""","「윽, 오오옷, 꿀꺽거리며, 싼다!」",「唔，真会抢食啊，我要射了！」
 ,,,,,,,,
-Nayuta.Debauchery2-25,那由多,「ぶもっ♥、ぶもっ♥、なゆたのくひにっ♥、だひてくらはいっ♥」,「ぶもっ♥、ぶもっ♥、なゆたのくひにっ♥、だひてくらはいっ♥」,「噗哞♥、噗哞♥、射在那由多的嘴裡♥，請射♥」,"""Bumo, bumo, nayuta no kuhini, dahitte kurayai!""","""Mmo♥ Mmo♥ In Nayuta's mouth♥ Please finish♥""","「부못♥, 부못♥, 나유타 입에♥, 싸주세요♥」",「噗哞♥、噗哞♥、射在那由多的嘴里♥，请射♥」
+Nayuta.Debauchery2-25,那由多,「ぶもっ♥、ぶもっ♥、なゆたのくひにっ♥、だひてくらはいっ♥」,「ぶもっ♥、ぶもっ♥、なゆたのくひにっ♥、だひてくらはいっ♥」,「噗哞♥、噗哞♥，射在那由多的嘴裡♥，請射♥」,"""Bumo, bumo, nayuta no kuhini, dahitte kurayai!""","""Mmo♥ Mmo♥ In Nayuta's mouth♥ Please finish♥""","「부못♥, 부못♥, 나유타 입에♥, 싸주세요♥」",「噗哞♥、噗哞♥、射在那由多的嘴里♥，请射♥」
 ,Nayuta debauchery 2-4,,,,,,,
 Nayuta.Debauchery2-26,,ドビュルルッ、ドプッ！,ドビュルルッ、ドプッ！,咚咻嚕、咚噗！,Doburrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Splurt, splash!","도뷰르르릇, 도풋!",咚咻噜、咚噗！
 ,,,,,,,,
@@ -751,7 +751,7 @@ Nayuta.Debauchery2-27,那由多,「ん゛ん～～～っ♥！ゴキュッ♥、
 ,Nayuta debauchery 2-5,,,,,,,
 Nayuta.Debauchery2-28,那由多,「ん゛っ♥、んうっ♥、むふ～っ♥、むふ～っ♥」,「ん゛っ♥、んうっ♥、むふ～っ♥、むふ～っ♥」,「嗯♥、唔嗯♥、姆呼～♥、姆呼～♥」,"""Mmmmmm, mmmm, mmmm, mmmm, mmmm, mmmm.""","""Mm♥ Muh♥ Mfuu♥ Mfuu♥""","「응옷 윽♥, 으읏♥, 므후~♥, 므후~♥」",「嗯♥、唔嗯♥、姆呼～♥、姆呼～♥」
 ,,,,,,,,
-Nayuta.Debauchery2-29,観客,「コイツッ、出したってのにチンポから口離さねえｗ」,「コイツッ、出したってのにチンポから口離さねえｗ」,「這傢伙，射了還不把陰莖從嘴裡拿出來w」,"""This guy won't take his mouth off my dick even though I've already taken it out.""","""This one won't let go even after I finished, ha.""","「이 녀석, 쌌는데도 자지에서 입 떼지 않네ㅋ」",「这家伙，射了还不把阴茎从嘴里拿出来w」
+Nayuta.Debauchery2-29,観客,「コイツッ、出したってのにチンポから口離さねえｗ」,「コイツッ、出したってのにチンポから口離さねえｗ」,「這傢伙，都射了，還含著陰莖不放w」,"""This guy won't take his mouth off my dick even though I've already taken it out.""","""This one won't let go even after I finished, ha.""","「이 녀석, 쌌는데도 자지에서 입 떼지 않네ㅋ」",「这家伙，射了还不把阴茎从嘴里拿出来w」
 ,,,,,,,,
 Nayuta.Debauchery2-30,那由多,「むふっ♥、那由多はっ、おチンポが大好きなのでっ♥」,「むふっ♥、那由多はっ、おチンポが大好きなのでっ♥」,「姆呼♥，因為那由多最喜歡陰莖了♥」,"""Muhu♥, Nayuta loves cock so much!""","""Mfuh♥ Nayuta loves the cock♥""","「므훗♥, 나유타는, 자지가 너무 좋아서요♥」",「姆呼♥，因为那由多最喜欢阴茎了♥」
 ,,,,,,,,
@@ -833,7 +833,7 @@ Nayuta.Core1-16,戦闘員,「あの最強の聖核戦姫相手だからな…俺
 ,,,,,,,,
 Nayuta.Core1-17,,そう言うと一人の戦闘員の戦闘員が液体の入った巨大な注射器を持ってくる,そう言うと一人の戦闘員の戦闘員が液体の入った巨大な注射器を持ってくる,說完，其中一名戰鬥員拿來了一個裝有液體的巨大針筒。,Then one fighter fighter fighter brings a huge syringe full of liquid.,"As he said that, one of the soldiers brought out a huge syringe filled with liquid.",그렇게 말하며 한 명의 전투원이 액체가 든 거대한 주사기를 가져온다,说完，其中一名战斗员拿来了一个装有液体的巨大针筒。
 ,,,,,,,,
-Nayuta.Core1-18,那由多,「……………っ、……それはっ……！？」,「……………っ、……それはっ……！？」,「……………唔、……那是什麼……！？」,"""..............., ...... that's ......!""","""...! ...What is that...?!""","「……………윽, ……그것은……!?」",「……………唔、……那是什么……！？」
+Nayuta.Core1-18,那由多,「……………っ、……それはっ……！？」,「……………っ、……それはっ……！？」,「……………唔……那是什麼……！？」,"""..............., ...... that's ......!""","""...! ...What is that...?!""","「……………윽, ……그것은……!?」",「……………唔、……那是什么……！？」
 ,,,,,,,,
 Nayuta.Core1-19,戦闘員,「今からこれをてめえのケツ穴にぶち込んでやるんだよっ！オラッ！」,「今からこれをてめえのケツ穴にぶち込んでやるんだよっ！オラッ！」,「我們現在就要把這玩意兒灌進妳的屁眼裡！喂！」,Now I'm going to put this in your asshole! Hey!,"""I'm gonna shove this up your asshole right now! Take this!""",「지금부터 이걸 네놈의 엉덩이 구멍에 쑤셔 넣어주지! 자!」,「我们现在就要把这玩意儿灌进你的屁眼里！喂！」
 ,Nayuta core1-2,,,,,,,
@@ -845,11 +845,11 @@ Nayuta.Core1-22,,そして戦闘員はシリンダーを押し込み、中の液
 ,,,,,,,,
 Nayuta.Core1-23,,ギュルルルッ！グボッ！,ギュルルルッ！グボッ！,咕嚕嚕！咕啵！, Gubot!,Glurrrrp! Glub!,규르르르릇! 그봇!,咕噜噜！咕啵！
 ,,,,,,,,
-Nayuta.Core1-24,那由多,「ッッ………ぅ、んうッッッ………！！」,「ッッ………ぅ、んうッッッ………！！」,「唔唔………嗚、唔嗯！！！」,"""Ugh ........., mmmm .........!!!!""","""Ngh... ugh, mmph...!!""","「윽………읏, 응읏윽………!!」",「唔唔………呜、唔嗯！！！」
+Nayuta.Core1-24,那由多,「ッッ………ぅ、んうッッッ………！！」,「ッッ………ぅ、んうッッッ………！！」,「唔唔………唔嗯！！！」,"""Ugh ........., mmmm .........!!!!""","""Ngh... ugh, mmph...!!""","「윽………읏, 응읏윽………!!」",「唔唔………呜、唔嗯！！！」
 ,,,,,,,,
 Nayuta.Core1-25,戦闘員,「うおっコイツ、ケツ穴も凄い抵抗だなっ！」,「うおっコイツ、ケツ穴も凄い抵抗だなっ！」,「哇靠這傢伙，屁眼的抵抗力也太強了吧！」,"""Whoa, this guy's asshole is putting up a hell of a fight!""","""Whoa, her asshole is putting up incredible resistance!""","「우옷 이 녀석, 엉덩이 구멍도 굉장한 저항이네!」",「哇靠这家伙，屁眼的抵抗力也太强了吧！」
 ,,,,,,,,
-Nayuta.Core1-26,那由多,「……っ、やめなさいっ！、何のつもりですかっ！！」,「……っ、やめなさいっ！、何のつもりですかっ！！」,「……唔、住手！你想做什麼！！」,"I said, ""......, stop it! What the hell are you doing!","""...Stop it! What are you trying to do?!""","「……윽, 그만두십시오!, 무슨 셈입니까!!」",「……唔、住手！你想做什么！！」
+Nayuta.Core1-26,那由多,「……っ、やめなさいっ！、何のつもりですかっ！！」,「……っ、やめなさいっ！、何のつもりですかっ！！」,「……住手！你想做什麼！！」,"I said, ""......, stop it! What the hell are you doing!","""...Stop it! What are you trying to do?!""","「……윽, 그만두십시오!, 무슨 셈입니까!!」",「……唔、住手！你想做什么！！」
 ,,,,,,,,
 Nayuta.Core1-27,戦闘員,「あ？、好きにしろって言ったのはお前だろうがっ、オラッ、残り全部入れるぞっ！」,「あ？、好きにしろって言ったのはお前だろうがっ、オラッ、残り全部入れるぞっ！」,「啊？妳自己說隨便我們的吧，喂，剩下的全灌進去了！」,"""Oh? You're the one who told me to do what I wanted, so I'm going to put all the rest in!""","""Huh? You're the one who told us to do as we pleased! Here, I'm putting in all the rest!""","「아?, 마음대로 하라고 한 건 너잖아, 자! 남은 거 전부 넣는다!」",「啊？你自己说随便我们的吧，喂，剩下的全灌进去了！」
 ,,,,,,,,
@@ -877,7 +877,7 @@ Nayuta.Core1-38,戦闘員,「まあ教えてやるか。これはお前の聖核
 ,,,,,,,,
 Nayuta.Core1-39,,「お前の体中から聖核を集めて腸内に固定するってわけだな」,「お前の体中から聖核を集めて腸内に固定するってわけだな」,「從妳全身收集聖核，將它固定在腸道內。」,"So they're going to collect the Seikaku from all over your body and fix it in your intestines.""","""It gathers the Holy Core from throughout your body and fixes it in your intestines.""",「네 몸속에서 성핵을 모아 장내에 고정한다는 거지」,「从你全身收集圣核，将它固定在肠道内。」
 ,,,,,,,,
-Nayuta.Core1-40,那由多,「っ、やはりっ……っ！？」,「っ、やはりっ……っ！？」,「唔、果然是…！？」,I knew it. ......?,"""I knew it...""","「윽, 역시……윽!?」",「唔、果然是…！？」
+Nayuta.Core1-40,那由多,「っ、やはりっ……っ！？」,「っ、やはりっ……っ！？」,「果然是…！？」,I knew it. ......?,"""I knew it...""","「윽, 역시……윽!?」",「唔、果然是…！？」
 ,,,,,,,,
 Nayuta.Core1-41,戦闘員,「お前が次にそれを出した時がお前が聖核戦姫として終わる時ってわけだ」,「お前が次にそれを出した時がお前が聖核戦姫として終わる時ってわけだ」,「等妳下次把它排出來的時候，就是妳作為聖核戰姫結束的時候了。」,The next time you pull that out will be the end of you as the Seikaku Princess.,"""The next time you let that out will be when you're finished as a Holy Core Battlemaiden.""",「네가 다음에 그것을 내뱉을 때가 네가 성핵전희로서 끝나는 때라는 거지」,「等你下次把它排出来的时候，就是你作为圣核战姫结束的时候了。」
 ,,,,,,,,
@@ -887,11 +887,11 @@ Nayuta.Core1-43,那由多,(いえっ……この程度、焦ってはいけま�
 ,,,,,,,,
 Nayuta.Core1-44,,(時間をかければ私の雷でこの液体を分解して無力化させることもできるはず…),(時間をかければ私の雷でこの液体を分解して無力化させることもできるはず…),（只要花點時間，我應該就能用雷電分解這種液體，讓它失去作用…）,"(With time, my lightning should be able to break up this liquid and neutralize it...)","(Given enough time, I should be able to break down and neutralize this liquid with my lightning...)",(시간을 들이면 제 번개로 이 액체를 분해하여 무력화시킬 수도 있을 터…),（只要花点时间，我应该就能用雷电分解这种液体，让它失去作用…）
 ,,,,,,,,
-Nayuta.Core1-45,,(今耐えるべきは……っ),(今耐えるべきは……っ),（現在該忍耐的是……唔）,(What you need to endure now is ......),(What I need to endure now is...),(지금 견뎌야 하는 것은……윽),（现在该忍耐的是……唔）
+Nayuta.Core1-45,,(今耐えるべきは……っ),(今耐えるべきは……っ),（現在該忍耐的是……）,(What you need to endure now is ......),(What I need to endure now is...),(지금 견뎌야 하는 것은……윽),（现在该忍耐的是……唔）
 ,,,,,,,,
 Nayuta.Core1-46,,ギュルルッルッッ！,ギュルルッルッッ！,咕嚕嚕嚕！,Gulp!,Glurrrrrp!,규르르릇르릇!,咕噜噜噜！
 ,,,,,,,,
-Nayuta.Core1-47,,(この……お腹の排泄感……っでしょうかっ…………！),(この……お腹の排泄感……っでしょうかっ…………！),（這種…腹部的排洩感…嗎……！）,(This ...... feeling of excretion in the belly ...... isn't it? ............!),(This... feeling of needing to expel from my stomach... isn't it...!),(이것은…… 배의 배설감……일까요…………!),（这种…腹部的排泄感…吗……！）
+Nayuta.Core1-47,,(この……お腹の排泄感……っでしょうかっ…………！),(この……お腹の排泄感……っでしょうかっ…………！),（這種…腹部的排泄感…嗎……！）,(This ...... feeling of excretion in the belly ...... isn't it? ............!),(This... feeling of needing to expel from my stomach... isn't it...!),(이것은…… 배의 배설감……일까요…………!),（这种…腹部的排泄感…吗……！）
 ,,,,,,,,
 Nayuta.Core1-48,,(おそらくこの液体の分解までにかかる時間は6時間ほど…！),(おそらくこの液体の分解までにかかる時間は6時間ほど…！),（分解這種液體可能需要六個小時左右…！）,(Probably about 6 hours for this liquid to decompose...!),(It will probably take about 6 hours to break down this liquid...!),(아마 이 액체의 분해까지 걸리는 시간은 6시간 정도…!),（分解这种液体可能需要六个小时左右…！）
 ,,,,,,,,
@@ -903,13 +903,13 @@ Nayuta.Core1-51,那由多,「……仮にも私は最強の聖核戦姫。この
 ,,,,,,,,
 Nayuta.Core1-52,戦闘員,「ああ、だからまだ色々準備してるぞ？」,「ああ、だからまだ色々準備してるぞ？」,「喔，所以我們還準備了很多東西。」,"Yeah, so we're still setting things up, right?""","""Yeah, that's why we've prepared various other things.""","「아아, 그러니까 아직 여러 가지 준비하고 있어?」",「喔，所以我们还准备了很多东西。」
 ,Nayuta core 1-6,,,,,,,
-Nayuta.Core1-53,,那由多の前に台車に乗せられた巨大な機械が現れ、那由多のアナルに照準を定める,那由多の前に台車に乗せられた巨大な機械が現れ、那由多のアナルに照準を定める,一臺載著巨大機械的推車出現在那由多面前，將目標對準了那由多的肛門。,A huge machine on a cart appears in front of Nayuta and sets its sights on Nayuta's anus.,"A huge machine on a cart appeared in front of Nayuta, aiming at her anus.","나유타 앞에 수레에 실린 거대한 기계가 나타나, 나유타의 애널에 조준한다",一台载着巨大机械的推车出现在那由多面前，将目标对准了那由多的肛门。
+Nayuta.Core1-53,,那由多の前に台車に乗せられた巨大な機械が現れ、那由多のアナルに照準を定める,那由多の前に台車に乗せられた巨大な機械が現れ、那由多のアナルに照準を定める,一台載著巨大機械的推車出現在那由多面前，將目標對準了那由多的肛門。,A huge machine on a cart appears in front of Nayuta and sets its sights on Nayuta's anus.,"A huge machine on a cart appeared in front of Nayuta, aiming at her anus.","나유타 앞에 수레에 실린 거대한 기계가 나타나, 나유타의 애널에 조준한다",一台载着巨大机械的推车出现在那由多面前，将目标对准了那由多的肛门。
 ,,,,,,,,
 Nayuta.Core1-54,那由多,「っ……これは……っ！？」,「っ……これは……っ！？」,「唔……這是什麼！？」,"""What the ...... is this ......?""","""...What is this...?!""",「윽…… 이것은……!?」,「唔……这是什么！？」
 ,,,,,,,,
 Nayuta.Core1-55,戦闘員,「相手は最強の聖核戦姫だからな、こっちも対策してんだよ」,「相手は最強の聖核戦姫だからな、こっちも対策してんだよ」,「對手是最強的聖核戰姫，我們也準備了對策。」,"The other side is the most powerful Seikaku Princess, so we have countermeasures.""","""Since we're dealing with the strongest Holy Core Battlemaiden, we've taken countermeasures.""","「상대는 최강의 성핵전희니까, 이쪽도 대책을 세워뒀지」",「对手是最强的圣核战姫，我们也准备了对策。」
 ,,,,,,,,
-Nayuta.Core1-56,,「このピストンマシーンでてめえのケツ穴をぶっ壊して無理やり出させるってわけだ」,「このピストンマシーンでてめえのケツ穴をぶっ壊して無理やり出させるってわけだ」,「我們要用這臺活塞機器弄壞妳的屁眼，強迫妳把它排出來。」,"""I'm going to use this piston machine to destroy your asshole and force you to let me out.""","""This piston machine will wreck your asshole and force it out.""",「이 피스톤 머신으로 네놈의 엉덩이 구멍을 쳐부수고 억지로 내보내게 한다는 거지」,「我们要用这台活塞机器弄坏你的屁眼，强迫你把它排出来。」
+Nayuta.Core1-56,,「このピストンマシーンでてめえのケツ穴をぶっ壊して無理やり出させるってわけだ」,「このピストンマシーンでてめえのケツ穴をぶっ壊して無理やり出させるってわけだ」,「我們要用這台活塞機器弄壞妳的屁眼，強迫妳把它排出來。」,"""I'm going to use this piston machine to destroy your asshole and force you to let me out.""","""This piston machine will wreck your asshole and force it out.""",「이 피스톤 머신으로 네놈의 엉덩이 구멍을 쳐부수고 억지로 내보내게 한다는 거지」,「我们要用这台活塞机器弄坏你的屁眼，强迫你把它排出来。」
 ,,,,,,,,
 Nayuta.Core1-57,那由多,「なっ…………そ、そんなっ………！？」,「なっ…………そ、そんなっ………！？」,「什麼…………怎、怎麼會………！？」,"""What the ............, that's so, so, so .........!""","""Wha... N-no way...?!""","「뭣………… 그, 그런………!?」",「什么…………怎、怎么会………！？」
 ,,,,,,,,
@@ -917,43 +917,43 @@ Nayuta.Core1-58,,ピストンは那由多の腕ほども太く、ブツブツと
 ,,,,,,,,
 Nayuta.Core1-59,戦闘員,「最強の聖核戦姫がこれにどこまで耐えられるか見ものだなぁ？」,「最強の聖核戦姫がこれにどこまで耐えられるか見ものだなぁ？」,「最強的聖核戰姫能忍受這個到什麼程度，真是值得一看啊？」,"Let's see how long the mightiest Seikaku Princess can withstand this, shall we?""","""It'll be interesting to see how long the strongest Holy Core Battlemaiden can endure this.""",「최강의 성핵전희가 이것에 어디까지 견딜 수 있을지 볼 만하군?」,「最强的圣核战姫能忍受这个到什么程度，真是值得一看啊？」
 ,,,,,,,,
-Nayuta.Core1-60,那由多,「っ、や、やめなさいっ！そんなの入るわけがっ！」,「っ、や、やめなさいっ！そんなの入るわけがっ！」,「唔、住、住手！那種東西不可能進得去！」,Stop it! You can't go in there like that!,"""S-stop it! There's no way that can fit!""","「윽, 여, 그만두십시오! 그런 게 들어갈 리가!」",「唔、住、住手！那种东西不可能进得去！」
+Nayuta.Core1-60,那由多,「っ、や、やめなさいっ！そんなの入るわけがっ！」,「っ、や、やめなさいっ！そんなの入るわけがっ！」,「住、住手！那種東西不可能進得去！」,Stop it! You can't go in there like that!,"""S-stop it! There's no way that can fit!""","「윽, 여, 그만두십시오! 그런 게 들어갈 리가!」",「唔、住、住手！那种东西不可能进得去！」
 ,,,,,,,,
 Nayuta.Core1-61,,カシャン……キュイイイイインッ！,カシャン……キュイイイイインッ！,喀鏘……咻咿咿咿咿！,Kashan ...... cuiiiiiiiiinnn!,Clank... Whirrrrr....,카샨…… 큐이이이이인!,喀锵……咻咿咿咿咿！
 ,,,,,,,,
 Nayuta.Core1-62,那由多,「ひっ………ま、待ちなさい―――――ッ？！」,「ひっ………ま、待ちなさい―――――ッ？！」,「呀………等、等一下―――――？！」,"""Hi―......... wait, wait ―――――?!""","""Eek... W-wait—?!""","「히익……… 자, 기다리십시오―――――?!」",「呀………等、等一下―――――？！」
 ,Nayuta core 1-7,,,,,,,
-Nayuta.Core1-63,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core1-63,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
-Nayuta.Core1-64,那由多,「ひぎっ♥！？、ッ、んん～～～っっ！！！」,「ひぎっ♥！？、ッ、んん～～～っっ！！！」,「呀♥！？、唔、嗯嗯～～～！！！」,HIGGI♥! ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥!,"""Hgii♥?! Ngh, mmm!""","「히긱♥!?, 윽, 응응~~~읏!!!」",「呀♥！？、唔、嗯嗯～～～！！！」
+Nayuta.Core1-64,那由多,「ひぎっ♥！？、ッ、んん～～～っっ！！！」,「ひぎっ♥！？、ッ、んん～～～っっ！！！」,「呀♥！？嗯嗯～～～！！！」,HIGGI♥! ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥!,"""Hgii♥?! Ngh, mmm!""","「히긱♥!?, 윽, 응응~~~읏!!!」",「呀♥！？、唔、嗯嗯～～～！！！」
 ,,,,,,,,
 Nayuta.Core1-65,,最強の聖核戦姫の力でも機械の強力な力に逆らうことはできない,最強の聖核戦姫の力でも機械の強力な力に逆らうことはできない,即使是最強聖核戰姫的力量，也無法抵抗機器的強大力量。,Even the mightiest Seikaku Princess cannot resist the powerful force of the machine.,Even the strongest Holy Core Battlemaiden's power couldn't resist the machine's powerful force.,최강의 성핵전희 힘으로도 기계의 강력한 힘에 거스를 수는 없다,即使是最强圣核战姫的力量，也无法抵抗机器的强大力量。
 ,,,,,,,,
-Nayuta.Core1-66,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core1-66,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
-Nayuta.Core1-67,那由多,「はあっ♥！？、お゛っ♥、はっ、はっ、はあっ♥！？」,「はあっ♥！？、お゛っ♥、はっ、はっ、はあっ♥！？」,「哈啊♥！？、喔♥、哈、哈、哈啊♥！？」,"""Ha―ha―ha―ha! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!""","""Haah♥?! Ohh♥, hah, hah, haah♥?!""","「하앗♥!?, 오옷 옷♥, 핫, 핫, 하앗♥!?」",「哈啊♥！？、喔♥、哈、哈、哈啊♥！？」
+Nayuta.Core1-67,那由多,「はあっ♥！？、お゛っ♥、はっ、はっ、はあっ♥！？」,「はあっ♥！？、お゛っ♥、はっ、はっ、はあっ♥！？」,「哈啊♥！？喔♥，哈、哈、哈啊♥！？」,"""Ha―ha―ha―ha! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!""","""Haah♥?! Ohh♥, hah, hah, haah♥?!""","「하앗♥!?, 오옷 옷♥, 핫, 핫, 하앗♥!?」",「哈啊♥！？、喔♥、哈、哈、哈啊♥！？」
 ,,,,,,,,
-Nayuta.Core1-68,,(―――――っ、お、お尻がっ、無理やりっ！？),(―――――っ、お、お尻がっ、無理やりっ！？),（―――――唔、屁、屁股被、強行！？）,"(―――――...oh, my butt...forced!)",(My... my ass is being... forced?!),"(―――――윽, 엉, 엉덩이가, 억지로!?)",（―――――唔、屁、屁股被、强行！？）
+Nayuta.Core1-68,,(―――――っ、お、お尻がっ、無理やりっ！？),(―――――っ、お、お尻がっ、無理やりっ！？),（―――――屁、屁股被，強行！？）,"(―――――...oh, my butt...forced!)",(My... my ass is being... forced?!),"(―――――윽, 엉, 엉덩이가, 억지로!?)",（―――――唔、屁、屁股被、强行！？）
 ,,,,,,,,
-Nayuta.Core1-69,,「ぐっ！？、や、やめ、止めな…さいっ！」,「ぐっ！？、や、やめ、止めな…さいっ！」,「呃！？、住、住手、快住手…！」,"""Ggh! Stop, stop, stop... come on!","""Guh?! S-stop... stop it!""","「크윽!?, 그, 그만, 멈추…십시오!」",「呃！？、住、住手、快住手…！」
+Nayuta.Core1-69,,「ぐっ！？、や、やめ、止めな…さいっ！」,「ぐっ！？、や、やめ、止めな…さいっ！」,「呃！？住、住手、快住手…！」,"""Ggh! Stop, stop, stop... come on!","""Guh?! S-stop... stop it!""","「크윽!?, 그, 그만, 멈추…십시오!」",「呃！？、住、住手、快住手…！」
 ,,,,,,,,
 Nayuta.Core1-70,戦闘員,「おいおい最強の聖核戦姫が敵に命乞いか？」,「おいおい最強の聖核戦姫が敵に命乞いか？」,「喂喂，最強的聖核戰姫在向敵人求饒嗎？」,"""Oh come on, the most powerful Seikaku Princess begs for her life against the enemy?""","""Hey now, is the strongest Holy Core Battlemaiden begging her enemies?""",「어이어이 최강의 성핵전희가 적에게 목숨 구걸인가?」,「喂喂，最强的圣核战姫在向敌人求饶吗？」
 ,,,,,,,,
-Nayuta.Core1-71,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core1-71,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
-Nayuta.Core1-72,那由多,「ひぐっ♥！？、お゛っ♥、お゛っ♥、そんなことはっ♥！」,「ひぐっ♥！？、お゛っ♥、お゛っ♥、そんなことはっ♥！」,「呀♥！？、喔♥、喔♥、才不是那樣♥！」,"""HIGGH! Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!","""Hgggg♥?! Ohh♥ ohh♥ Not there♥!""","「히끅♥!?, 오옷 옷♥, 오옷 옷♥, 그런 일은♥!」",「呀♥！？、喔♥、喔♥、才不是那样♥！」
+Nayuta.Core1-72,那由多,「ひぐっ♥！？、お゛っ♥、お゛っ♥、そんなことはっ♥！」,「ひぐっ♥！？、お゛っ♥、お゛っ♥、そんなことはっ♥！」,「呀♥！？喔♥，喔♥，才不是那樣♥！」,"""HIGGH! Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!","""Hgggg♥?! Ohh♥ ohh♥ Not there♥!""","「히끅♥!?, 오옷 옷♥, 오옷 옷♥, 그런 일은♥!」",「呀♥！？、喔♥、喔♥、才不是那样♥！」
 ,,,,,,,,
 Nayuta.Core1-73,戦闘員,「じゃあケツ穴がぶっ壊れるまでやるから、まあせいぜい頑張って耐えるんだな」,「じゃあケツ穴がぶっ壊れるまでやるから、まあせいぜい頑張って耐えるんだな」,「那我就做到妳的屁眼壞掉為止，妳就盡全力忍耐吧。」,"Well, I'm going to do it until my asshole breaks, so you're just going to have to hang on for dear life.","""Then we'll keep going until your asshole breaks. Do your best to endure it.""","「그럼 엉덩이 구멍이 부서질 때까지 할 테니, 뭐 힘껏 견뎌봐라」",「那我就做到你的屁眼坏掉为止，你就尽全力忍耐吧。」
 ,,,,,,,,
-Nayuta.Core1-74,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core1-74,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
 Nayuta.Core1-75,那由多,「ぐうっ♥、くっ♥！！」,「ぐうっ♥、くっ♥！！」,「嗚嗚♥、唔♥！！」,Ugh♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥!,"""Guuh♥, kuh♥!!""","「크으윽♥, 큿♥!!」",「呜呜♥、唔♥！！」
 ,,,,,,,,
-Nayuta.Core1-76,那由多,(っ、こ、この程度ッ！、私ならっ！！！),(っ、こ、この程度ッ！、私ならっ！！！),（唔、這、這種程度！我一定能…！！！）,(This much! This much! If it were me!),(This much...! I can...!!!),"(윽, 이, 이 정도!, 나라면!!!)",（唔、这、这种程度！我一定能…！！！）
+Nayuta.Core1-76,那由多,(っ、こ、この程度ッ！、私ならっ！！！),(っ、こ、この程度ッ！、私ならっ！！！),（這、這種程度！我一定能…！！！）,(This much! This much! If it were me!),(This much...! I can...!!!),"(윽, 이, 이 정도!, 나라면!!!)",（唔、这、这种程度！我一定能…！！！）
 ,,,,,,,,
-Nayuta.Core1-77,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core1-77,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
-Nayuta.Core1-78,,「くううっ♥！、お゛っ♥、お゛おっ♥！！」,「くううっ♥！、お゛っ♥、お゛おっ♥！！」,「嗚嗚嗚♥！、喔♥、喔喔♥！！」,"""Kuuuhh! Oh, oh, oh, oh, oh, oh, oh, oh!","""Kuuuh♥! Ohh♥, ohhh♥!!""","「크으으윽♥!, 오옷 옷♥, 오옷 오옷♥!!」",「呜呜呜♥！、喔♥、喔喔♥！！」
+Nayuta.Core1-78,,「くううっ♥！、お゛っ♥、お゛おっ♥！！」,「くううっ♥！、お゛っ♥、お゛おっ♥！！」,「嗚嗚嗚♥！喔♥、喔喔♥！！」,"""Kuuuhh! Oh, oh, oh, oh, oh, oh, oh, oh!","""Kuuuh♥! Ohh♥, ohhh♥!!""","「크으으윽♥!, 오옷 옷♥, 오옷 오옷♥!!」",「呜呜呜♥！、喔♥、喔喔♥！！」
 ,,,,,,,,
 Nayuta.Core1-79,,その後、数時間にわたり那由多の尻穴を拡張する作業は続くのだった,その後、数時間にわたり那由多の尻穴を拡張する作業は続くのだった,在那之後，擴張那由多肛門的作業持續了數小時。,"After that, the process of dilating Nayuta's asshole continued for several hours.","After that, the work of expanding Nayuta's anus continued for several hours.","그 후, 수 시간 동안 나유타의 엉덩이 구멍을 확장하는 작업은 계속되는 것이었다",在那之后，扩张那由多肛门的作业持续了数小时。
 ,,,,,,,,
@@ -962,7 +962,7 @@ Nayuta Core Scene２,注釈,聖核シーン２,聖核シーン２,,聖核シー�
 ,,,,,,,,
 Nayuta.Core2-1,,那由多への聖核排出調教が始まり、那由多は数時間にわたってピストンによる責めを受け続けていた,那由多への聖核排出調教が始まり、那由多は数時間にわたってピストンによる責めを受け続けていた,對那由多的聖核排出調教開始了，那由多連續數小時持續承受著活塞的折磨,"The training of the Seikaku ejection to Nayuta began, and Nayuta continued to receive piston torture for several hours.","The Holy Core expulsion training on Nayuta had begun, and she had been continuously subjected to the piston's torment for several hours.","나유타에 대한 성핵 배출 조교가 시작되고, 나유타는 수 시간 동안 피스톤에 의한 고문을 계속 받고 있었다",对那由多的圣核排出调教开始了，那由多连续数小时持续承受着活塞的折磨
 ,Nayuta core 2ｰ1,,,,,,,
-Nayuta.Core2-2,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！、咚啾！、咚啾！、咚啾！、咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
+Nayuta.Core2-2,,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！、ドチュッ！,咚啾！ 咚啾！ 咚啾！ 咚啾！ 咚啾！,Doo―doo! Doo―doo! Doo―doo! Doo―doo! Doo―doo!,"Thrust, thrust, thrust, thrust, thrust!","도츗!, 도츗!, 도츗!, 도츗!, 도츗!",咚啾！、咚啾！、咚啾！、咚啾！、咚啾！
 ,,,,,,,,
 Nayuta.Core2-3,那由多,「はあっ♥、はあっ♥、はあっ♥、お゛っ♥、お゛おっ♥！」,「はあっ♥、はあっ♥、はあっ♥、お゛っ♥、お゛おっ♥！」,「哈啊♥、哈啊♥、哈啊♥、喔♥、喔喔♥！」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!""","""Haah♥, haah♥, haah♥, ohh♥, ohhh♥!""","「하앗♥, 하앗♥, 하앗♥, 오옷 옷♥, 오옷 오옷♥!」",「哈啊♥、哈啊♥、哈啊♥、喔♥、喔喔♥！」
 ,,,,,,,,
@@ -976,9 +976,9 @@ Nayuta.Core2-7,,その時、部屋の中に戦闘員が入ってくる,その時
 ,,,,,,,,
 Nayuta.Core2-8,戦闘員,「お～那由多ちゃんがんばってるねえ？流石最強の聖核戦姫だな」,「お～那由多ちゃんがんばってるねえ？流石最強の聖核戦姫だな」,「喔～那由多很努力嘛？不愧是最強的聖核戰姫啊。」,"""Oh, Nayuta, you're doing great, aren't you? You are the strongest Seikaku Princess.","""Hanging in there? As expected of the strongest Holy Core Battlemaiden.""",「오~ 나유타쨩 힘내고 있네? 역시 최강의 성핵전희야」,「喔～那由多很努力嘛？不愧是最强的圣核战姫啊。」
 ,,,,,,,,
-Nayuta.Core2-9,那由多,「っ、ぐうっ♥！、はあっ♥、はあっ♥！」,「っ、ぐうっ♥！、はあっ♥、はあっ♥！」,「唔、嗚♥！、哈啊♥、哈啊♥！」,"""Gosh, gosh! Aaahh♥, aaahh♥!","""Guh♥! Haah♥, haah♥!""","「윽, 크으윽♥!, 하앗♥, 하앗♥!」",「唔、呜♥！、哈啊♥、哈啊♥！」
+Nayuta.Core2-9,那由多,「っ、ぐうっ♥！、はあっ♥、はあっ♥！」,「っ、ぐうっ♥！、はあっ♥、はあっ♥！」,「唔、嗚♥！哈啊♥、哈啊♥！」,"""Gosh, gosh! Aaahh♥, aaahh♥!","""Guh♥! Haah♥, haah♥!""","「윽, 크으윽♥!, 하앗♥, 하앗♥!」",「唔、呜♥！、哈啊♥、哈啊♥！」
 ,,,,,,,,
-Nayuta.Core2-10,,「……っ、ざ、残念でしたね……っ！」,「……っ、ざ、残念でしたね……っ！」,「……唔、太、太令你們失望了……！」,"""......, I'm so sorry ......!""","""...T-too bad for you...!""","「……윽, 자, 잔꾀였군요……!」",「……唔、太、太令你们失望了……！」
+Nayuta.Core2-10,,「……っ、ざ、残念でしたね……っ！」,「……っ、ざ、残念でしたね……っ！」,「……太、太令你們失望了……！」,"""......, I'm so sorry ......!""","""...T-too bad for you...!""","「……윽, 자, 잔꾀였군요……!」",「……唔、太、太令你们失望了……！」
 ,,,,,,,,
 Nayuta.Core2-11,,「この程度っ♥、最強の聖核戦姫の私の前には無意味ですッ！」,「この程度っ♥、最強の聖核戦姫の私の前には無意味ですッ！」,「這種程度♥，在最強的聖核戰姫的我面前，是沒有意義的！」,"This level is meaningless in front of me, the strongest Seikaku Princess!","""This level♥ is meaningless before me, the strongest Holy Core Battlemaiden!""","「이 정도♥, 최강의 성핵전희인 저에게는 무의미합니다!」",「这种程度♥，在最强的圣核战姫的我面前，是没有意义的！」
 ,,,,,,,,
@@ -988,13 +988,13 @@ Nayuta.Core2-13,,「本当にそうだってんなら証明してみろっ…ほ
 ,,,,,,,,
 Nayuta.Core2-14,,ガチャン…ボコッ！,ガチャン…ボコッ！,喀鏘…噗！,Clang...bump!,Clank... pop!,가챤… 보콧!,喀锵…噗！
 ,Nayuta core 2-2,,,,,,,
-Nayuta.Core2-15,那由多,「………ひぐっ！！！ほお゛っ♥、お゛おおおおおおっっっ！？！？！？」,「………ひぐっ！！！ほお゛っ♥、お゛おおおおおおっっっ！？！？！？」,「………呀！！！吼喔♥、喔喔喔喔喔喔喔喔♥♥！？！？！？」,"""......... Higg! Ho ♥, oh oh oh oh oh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!""","""...Hgggg!!! Hohhh♥ Ohhhhhhhh?!?!?!""","「………히극!!! 호오옷 옷♥, 오옷 오오오오오옷!?!?!?」",「………呀！！！吼喔♥、喔喔喔喔喔喔喔喔♥♥！？！？！？」
+Nayuta.Core2-15,那由多,「………ひぐっ！！！ほお゛っ♥、お゛おおおおおおっっっ！？！？！？」,「………ひぐっ！！！ほお゛っ♥、お゛おおおおおおっっっ！？！？！？」,「………呀！！！吼喔♥，喔喔喔喔喔喔喔喔♥♥！？！？！？」,"""......... Higg! Ho ♥, oh oh oh oh oh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!""","""...Hgggg!!! Hohhh♥ Ohhhhhhhh?!?!?!""","「………히극!!! 호오옷 옷♥, 오옷 오오오오오옷!?!?!?」",「………呀！！！吼喔♥、喔喔喔喔喔喔喔喔♥♥！？！？！？」
 ,,,,,,,,
-Nayuta.Core2-16,,ブリュッ！、ドルルルッ！,ブリュッ！、ドルルルッ！,噗啾！、咚嚕嚕！,Brrrrrrrrrrrrrrrrrr! Druhlrrrrrrrrrr!,Splurt! Whirrrr!,"부릇!, 도르르릇!",噗啾！、咚噜噜！
+Nayuta.Core2-16,,ブリュッ！、ドルルルッ！,ブリュッ！、ドルルルッ！,噗啾！咚嚕嚕！,Brrrrrrrrrrrrrrrrrr! Druhlrrrrrrrrrr!,Splurt! Whirrrr!,"부릇!, 도르르릇!",噗啾！、咚噜噜！
 ,,,,,,,,
 Nayuta.Core2-17,那由多,突然ピストンが那由多のアナルから抜かれ、その衝撃で那由多は勢いよく聖核を排出してしまう,突然ピストンが那由多のアナルから抜かれ、その衝撃で那由多は勢いよく聖核を排出してしまう,活塞突然從那由多的肛門被拔出，因為那股衝擊，那由多猛烈地排出了聖核。,"Suddenly, the piston is pulled out of Nayuta's anus, and the impact causes her to vigorously eject her Seikaku.","The piston was suddenly pulled from Nayuta's anus, and the shock caused her to forcefully expel the Holy Core.","갑자기 피스톤이 나유타의 애널에서 뽑히고, 그 충격으로 나유타는 세차게 성핵을 배출해 버린다",活塞突然从那由多的肛门被拔出，因为那股冲击，那由多猛烈地排出了圣核。
 ,,,,,,,,
-Nayuta.Core2-18,,「お゛っ♥！？、ほお゛っ♥！？お゛ん～～～っ！？」,「お゛っ♥！？、ほお゛っ♥！？お゛ん～～～っ！？」,「喔♥！？、吼喔♥！？喔嗯～～～！？」,"""Oh, d'aagh! Oh, oh, oh, oh, oh! Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!""","""Ohh♥?! Hohhh♥?! Onnnn?!""","「오옷 옷♥!?, 호오옷 옷♥!? 오옷 응~~~윽!?」",「喔♥！？、吼喔♥！？喔嗯～～～！？」
+Nayuta.Core2-18,,「お゛っ♥！？、ほお゛っ♥！？お゛ん～～～っ！？」,「お゛っ♥！？、ほお゛っ♥！？お゛ん～～～っ！？」,「喔♥！？吼喔♥！？喔嗯～～～！？」,"""Oh, d'aagh! Oh, oh, oh, oh, oh! Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!""","""Ohh♥?! Hohhh♥?! Onnnn?!""","「오옷 옷♥!?, 호오옷 옷♥!? 오옷 응~~~윽!?」",「喔♥！？、吼喔♥！？喔嗯～～～！？」
 ,,,,,,,,
 Nayuta.Core2-19,那由多,(まずいっ、お、お尻の穴からっ………！),(まずいっ、お、お尻の穴からっ………！),（不妙，從、從屁股的洞……！）,"(First of all, my butt hole! .........!)","(This is bad, from my ass...!)","(위험해, 엉, 엉덩이 구멍에서………!)",（不妙，从、从屁股的洞……！）
 ,,,,,,,,
@@ -1006,9 +1006,9 @@ Nayuta.Core2-22,那由多,「はあっ♥、はあっ♥、はあっっ♥！！
 ,Nayuta core 2-4,,,,,,,
 Nayuta.Core2-23,戦闘員,「お？マジか、コイツあれだけやってまだケツ穴閉められんのか？」,「お？マジか、コイツあれだけやってまだケツ穴閉められんのか？」,「喔？真的假的，這傢伙被搞成這樣還能夾緊屁眼嗎？」,"""Oh? Seriously, she can't shut his asshole after all that?""","""Oh? Seriously? After all that, she can still clench her asshole?""","「오? 진짜냐, 이 녀석 저렇게 당하고도 아직 엉덩이 구멍 조일 수 있는 건가?」",「喔？真的假的，这家伙被搞成这样还能夹紧屁眼吗？」
 ,,,,,,,,
-Nayuta.Core2-24,那由多,「っっ！、こ、この程度っ♥！」,「っっ！、こ、この程度っ♥！」,「唔唔！、這、這種程度♥！」,"""This is it! This, this much!","""Ngh! T-this much♥!""","「윽!, 이, 이 정도♥!」",「唔唔！、这、这种程度♥！」
+Nayuta.Core2-24,那由多,「っっ！、こ、この程度っ♥！」,「っっ！、こ、この程度っ♥！」,「唔唔！這、這種程度♥！」,"""This is it! This, this much!","""Ngh! T-this much♥!""","「윽!, 이, 이 정도♥!」",「唔唔！、这、这种程度♥！」
 ,,,,,,,,
-Nayuta.Core2-25,,「私は最強の聖核戦姫ですッ！♥、こんなことでっ、絶対に負けませんっ！」,「私は最強の聖核戦姫ですッ！♥、こんなことでっ、絶対に負けませんっ！」,「我是最強的聖核戰姫！♥，我絕對不會因為這種事就輸了！」,I am the strongest Seikaku Princess! I will never be defeated by such a thing!,"""I am the strongest Holy Core Battlemaiden♥! I will never lose to something like this!""","「저는 최강의 성핵전희입니다!♥, 이런 걸로, 절대로 지지 않겠습니다!」",「我是最强的圣核战姫！♥，我绝对不会因为这种事就输了！」
+Nayuta.Core2-25,,「私は最強の聖核戦姫ですッ！♥、こんなことでっ、絶対に負けませんっ！」,「私は最強の聖核戦姫ですッ！♥、こんなことでっ、絶対に負けませんっ！」,「我是最強的聖核戰姫！♥我絕對不會因為這種事就輸了！」,I am the strongest Seikaku Princess! I will never be defeated by such a thing!,"""I am the strongest Holy Core Battlemaiden♥! I will never lose to something like this!""","「저는 최강의 성핵전희입니다!♥, 이런 걸로, 절대로 지지 않겠습니다!」",「我是最强的圣核战姫！♥，我绝对不会因为这种事就输了！」
 ,,,,,,,,
 Nayuta.Core2-26,戦闘員,「ったく……手間かけさせやがって…」,「ったく……手間かけさせやがって…」,「真是的……盡給人添麻煩…」,"Damn you ...... for making me go through all that trouble...""","""Geez... making us go through all this trouble...""",「정말…… 귀찮게 하네…」,「真是的……尽给人添麻烦…」
 ,,,,,,,,
@@ -1016,11 +1016,11 @@ Nayuta.Core2-27,,そう言うと戦闘員は那由多のアナルに指を突っ
 ,Nayuta core 2-5,,,,,,,
 Nayuta.Core2-28,,ドルルルッ！,ドルルルッ！,咚嚕嚕！,Dorrrrrrrrrrrrrrrrrrrrrrrrr!,Glurrrrrr!,도르르릇!,咚噜噜！
 ,,,,,,,,
-Nayuta.Core2-29,那由多,「ひっぐうっ♥！、な、なあっ！？」,「ひっぐうっ♥！、な、なあっ！？」,「呀嗚♥！、什、什麼！？」,"""Hi―guh―♥! Nah, nah!","""Hggg♥! W-whaah?!""","「히익극우웃♥!, 무, 무앗!?」",「呀呜♥！、什、什么！？」
+Nayuta.Core2-29,那由多,「ひっぐうっ♥！、な、なあっ！？」,「ひっぐうっ♥！、な、なあっ！？」,「呀嗚♥！什、什麼！？」,"""Hi―guh―♥! Nah, nah!","""Hggg♥! W-whaah?!""","「히익극우웃♥!, 무, 무앗!?」",「呀呜♥！、什、什么！？」
 ,,,,,,,,
 Nayuta.Core2-30,戦闘員,「おら、せいぜいぶっ壊れたケツ穴で抵抗してみろ」,「おら、せいぜいぶっ壊れたケツ穴で抵抗してみろ」,「喂，妳就盡管用妳那壞掉的屁眼抵抗看看啊。」,"Come on, try to fight back with your busted asshole.","""Come on, try resisting with that broken asshole of yours.""","「자, 힘껏 망가진 엉덩이 구멍으로 저항해 봐라」",「喂，你就尽管用你那坏掉的屁眼抵抗看看啊。」
 ,,,,,,,,
-Nayuta.Core2-31,那由多,「ほ゛おっ！？、や、やめなさいっ♥！」,「ほ゛おっ！？、や、やめなさいっ♥！」,「吼喔！？、住、住手♥！」,"""Whoa! No, no, stop it!","""Hohh?! S-stop it♥!""","「호옷 오옷!?, 여, 그만두십시오♥!」",「吼喔！？、住、住手♥！」
+Nayuta.Core2-31,那由多,「ほ゛おっ！？、や、やめなさいっ♥！」,「ほ゛おっ！？、や、やめなさいっ♥！」,「吼喔！？住、住手♥！」,"""Whoa! No, no, stop it!","""Hohh?! S-stop it♥!""","「호옷 오옷!?, 여, 그만두십시오♥!」",「吼喔！？、住、住手♥！」
 ,,,,,,,,
 Nayuta.Core2-32,,那由多はアナルにキュウキュウと力を入れ、必死に抵抗する,那由多はアナルにキュウキュウと力を入れ、必死に抵抗する,那由多拚命地將肛門縮緊，死命抵抗。,,"Nayuta clenched her anus tightly, desperately resisting.","나유타는 애널에 큣큣하고 힘을 주어, 필사적으로 저항한다",那由多拚命地将肛门缩紧，死命抵抗。
 ,,,,,,,,
@@ -1040,13 +1040,13 @@ Nayuta.Core2-39,戦闘員,「ははっ、それが最後の言葉か…オラッ
 ,,,,,,,,
 Nayuta.Core2-40,,戦闘員は腕に力を込め、那由多の聖核を強く引っ張る,戦闘員は腕に力を込め、那由多の聖核を強く引っ張る,戰鬥員手臂使勁，用力拉扯那由多的聖核。,Combatants put strength into their arms and pull hard on Nayuta's sacred nucleus.,The soldier pulled hard on Nayuta's Holy Core.,"전투원은 팔에 힘을 주어, 나유타의 성핵을 강하게 잡아당긴다",战斗员手臂使劲，用力拉扯那由多的圣核。
 ,,,,,,,,
-Nayuta.Core2-41,,ドリュリュリュリュッッ！、ドブッ！ブリュリュリュッ！！！,ドリュリュリュリュッッ！、ドブッ！ブリュリュリュッ！！！,咚嚕嚕嚕嚕！！、噗！噗啾啾啾！！！,Drizzle―drizzle―drizzle―drizzle! Drururururururururururururururururururururururururururu! ,Splurrrrr! Glub! Blurrrr!,"도릇릇릇릇릇!!, 도븃! 브릇릇릇!!!",咚噜噜噜噜！！、噗！噗啾啾啾！！！
+Nayuta.Core2-41,,ドリュリュリュリュッッ！、ドブッ！ブリュリュリュッ！！！,ドリュリュリュリュッッ！、ドブッ！ブリュリュリュッ！！！,咚嚕嚕嚕嚕！！噗！噗啾啾啾！！！,Drizzle―drizzle―drizzle―drizzle! Drururururururururururururururururururururururururururu! ,Splurrrrr! Glub! Blurrrr!,"도릇릇릇릇릇!!, 도븃! 브릇릇릇!!!",咚噜噜噜噜！！、噗！噗啾啾啾！！！
 ,,,,,,,,
 Nayuta.Core2-42,那由多,「ほ゛おおおおおおっっっ！？！？！？」,「ほ゛おおおおおおっっっ！？！？！？」,「吼喔喔喔喔喔喔喔♥♥！？！？！？」,"""Ho―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh―oh.""","""Hohhhhhhhhh?!?!?!""",「호옷 오오오오오오옷!?!?!?」,「吼喔喔喔喔喔喔喔♥♥！？！？！？」
 ,,,,,,,,
 Nayuta.Core2-43,,那由多はアナルに必死に力を込めるが、もはや戦闘員の屈強な腕に引っ張られる聖核を留めることは出来なかった,那由多はアナルに必死に力を込めるが、もはや戦闘員の屈強な腕に引っ張られる聖核を留めることは出来なかった,那由多拚命地緊縮肛門，但已經無法阻止聖核被戰鬥員強壯的手臂拉出來。,"Nayuta put all her strength desperately into her anus, but she could no longer hold the Seikaku that was being pulled by the strong arms of the combatant.","Nayuta desperately tried to clench her anus, but she could no longer hold back the Holy Core being pulled by the soldier's strong arm.","나유타는 애널에 필사적으로 힘을 주지만, 이제 전투원의 강인한 팔에 끌려 나오는 성핵을 막을 수는 없었다",那由多拚命地紧缩肛门，但已经无法阻止圣核被战斗员强壮的手臂拉出来。
 ,,,,,,,,
-Nayuta.Core2-44,那由多,「お゛っ♥、お゛おっ♥、そ、そんな゛ぁっ♥」,「お゛っ♥、お゛おっ♥、そ、そんな゛ぁっ♥」,「喔♥、喔喔♥、怎、怎麼會♥」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Ohh♥, ohhh♥, n-nooo♥""","「오옷 옷♥, 오옷 오옷♥, 그, 그런옷 앗♥」",「喔♥、喔喔♥、怎、怎么会♥」
+Nayuta.Core2-44,那由多,「お゛っ♥、お゛おっ♥、そ、そんな゛ぁっ♥」,「お゛っ♥、お゛おっ♥、そ、そんな゛ぁっ♥」,「喔♥、喔喔♥，怎、怎麼會♥」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Ohh♥, ohhh♥, n-nooo♥""","「오옷 옷♥, 오옷 오옷♥, 그, 그런옷 앗♥」",「喔♥、喔喔♥、怎、怎么会♥」
 ,,,,,,,,
 Nayuta.Core2-45,,ズルルッ、ズルルッ、ズルルッ！,ズルルッ、ズルルッ、ズルルッ！,嘶嚕、嘶嚕、嘶嚕！,"Slurp, slurp, slurp!","Zrrrrr, zrrrrr, zrrrr!","즈르릇, 즈르릇, 즈르릇!",嘶噜、嘶噜、嘶噜！
 ,,,,,,,,
@@ -1058,7 +1058,7 @@ Nayuta.Core2-48,戦闘員,「おいおい、急にケツ穴緩んじまったな
 ,,,,,,,,
 Nayuta.Core2-49,Nayuta core 2-6,ズルルルルルッルルッ！,ズルルルルルッルルッ！,嘶嚕嚕嚕嚕嚕嚕！,Zulu zulu zulu!,Zrrrrrr!,즈르르르르릇르릇!,嘶噜噜噜噜噜噜！
 ,,,,,,,,
-Nayuta.Core2-50,,そして戦闘員が一気に腕を引くと、那由多の残りの聖核がところてんのように排出される,そして戦闘員が一気に腕を引くと、那由多の残りの聖核がところてんのように排出される,接著戰鬥員猛地一抽手，那由多剩餘的聖核就像涼粉一樣被排了出來。,"And when the combatant pulls back his arm at once, the rest of Nayuta's Seikaku is ejected like a tokoroten.","Then, as the soldier pulled his arm in one swift motion, Nayuta's remaining Holy Core was expelled like jelly being pushed through a mold.","그리고 전투원이 단숨에 팔을 당기자, 나유타의 남은 성핵이 우뭇가사리처럼 배출된다",接着战斗员猛地一抽手，那由多剩余的圣核就像凉粉一样被排了出来。
+Nayuta.Core2-50,,そして戦闘員が一気に腕を引くと、那由多の残りの聖核がところてんのように排出される,そして戦闘員が一気に腕を引くと、那由多の残りの聖核がところてんのように排出される,接著戰鬥員猛地一抽手，那由多剩餘的聖核就像石花凍一樣被排了出來。,"And when the combatant pulls back his arm at once, the rest of Nayuta's Seikaku is ejected like a tokoroten.","Then, as the soldier pulled his arm in one swift motion, Nayuta's remaining Holy Core was expelled like jelly being pushed through a mold.","그리고 전투원이 단숨에 팔을 당기자, 나유타의 남은 성핵이 우뭇가사리처럼 배출된다",接着战斗员猛地一抽手，那由多剩余的圣核就像凉粉一样被排了出来。
 ,,,,,,,,
 Nayuta.Core2-51,那由多,「ほ゛おおおおおおっ♥っ？っ♥～～～～――――――――――お゛っ♥」,「ほ゛おおおおおおっ♥っ？っ♥～～～～――――――――――お゛っ♥」,「吼喔喔喔喔喔喔♥？♥～～～～――――――――――喔♥」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh. ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥～～～～―――――――――― Oh!","""Hohhhhhhhh♥?♥ Ohoooohh♥""",「호옷 오오오오오오옷♥윽?윽♥~~~~――――――――――오옷 옷♥」,「吼喔喔喔喔喔喔♥？♥～～～～――――――――――喔♥」
 ,,,,,,,,

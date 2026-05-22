@@ -12,7 +12,7 @@ Kei.Fallen1-5,,「他の捕らえられた聖核戦姫みたいに私も調教�
 ,,,,,,,,
 Kei.Fallen1-6,,「どうせなら早くやってくれ。暇すぎる方が苦痛だ」,「どうせなら早くやってくれ。暇すぎる方が苦痛だ」,「要動手的話就快點吧。太閒了反而更痛苦。」,"""I'd rather do it fast anyway. Too much free time is more painful.""","""Just do it quickly! I can't stand being bored.""",「어차피라면 빨리 해줘. 너무 심심한 게 더 고통이야」,「要动手的话就快点吧。太闲了反而更痛苦。」
 ,,,,,,,,
-Kei.Fallen1-7,戦闘員,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「啊ー，吵死了！妳難道不明白妳接下來會經歷什麼嗎！？」,"""Oh, shut up! Don't you realize what you're about to do to me?""","""Shut up! Don't you understand what's going to happen to you?""","「아-, 시끄러워! 너 이제부터 뭘 당할지 이해 못 하는 거야!?」",「啊ー，吵死了！你难道不明白你接下来会经历什么吗！？」
+Kei.Fallen1-7,戦闘員,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「啊ーー吵死了！妳難道不明白妳接下來會經歷什麼嗎！？」,"""Oh, shut up! Don't you realize what you're about to do to me?""","""Shut up! Don't you understand what's going to happen to you?""","「아-, 시끄러워! 너 이제부터 뭘 당할지 이해 못 하는 거야!?」",「啊ー，吵死了！你难道不明白你接下来会经历什么吗！？」
 ,,,,,,,,
 Kei.Fallen1-8,京,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教洗脳されるのだろう？」,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教されるのだろう？」,「我當然明白。我會被極盡凌辱，然後被教育吧？」,"""Of course I understand. I will be humiliated, trained and brainwashed, won't I?""","""I do, you're going to humiliate me as much as possible and then re-educate me, right?""","「물론 이해하고 있어. 나는 능욕의 극한을 당하고, 조교 교육당하는 거겠지?」",「我当然明白。我会被极尽凌辱，然后被教育吧？」
 ,,,,,,,,
@@ -20,7 +20,7 @@ Kei.Fallen1-9,戦闘員,「良く分かってるじゃねえか。だが、そ�
 ,,,,,,,,
 Kei.Fallen1-10,京,「…半分？何か見逃してることがあったかな？」,「…半分？何か見逃してることがあったかな？」,「……一半？我漏掉了什麼嗎？」,"""'...half? Am I missing something?""","""Half? Did I miss something?""",「…절반? 뭔가 놓친 게 있었나?」,「……一半？我漏掉了什么吗？」
 ,,,,,,,,
-Kei.Fallen1-11,戦闘員,「……お前が俺達のアジトにサイバー攻撃をしたせいで、俺達がどんな目にあったか分かってるか？」,「……お前が俺達のアジトにサイバー攻撃をしたせいで、俺達がどんな目にあったか分かってるか？」,「……妳對我們的基地進行網路攻擊，害我們遭受了多大的損失，妳知道嗎？」,"""Do you have any idea what we've been through because of your cyber―attack on our hideout at ......?""","""...You launched a cyberattack on us. Do you have any idea what happened?""","「……네가 우리 아지트에 사이버 공격을 한 탓에, 우리가 어떤 꼴을 당했는지 알고 있나?」",「……你对我们的基地进行网路攻击，害我们遭受了多大的损失，你知道吗？」
+Kei.Fallen1-11,戦闘員,「……お前が俺達のアジトにサイバー攻撃をしたせいで、俺達がどんな目にあったか分かってるか？」,「……お前が俺達のアジトにサイバー攻撃をしたせいで、俺達がどんな目にあったか分かってるか？」,「……因為妳對我們的基地的伺服器進行攻擊，害我們遭受了多大的損失，妳知道嗎？」,"""Do you have any idea what we've been through because of your cyber―attack on our hideout at ......?""","""...You launched a cyberattack on us. Do you have any idea what happened?""","「……네가 우리 아지트에 사이버 공격을 한 탓에, 우리가 어떤 꼴을 당했는지 알고 있나?」",「……你对我们的基地进行网路攻击，害我们遭受了多大的损失，你知道吗？」
 ,,,,,,,,
 Kei.Fallen1-12,京,「………ああ、なるほど」,「………ああ、なるほど」,「………啊，原來如此。」,"""......... Oh, I see.""","""Oh, that.""","「………아아, 과연」",「………啊，原来如此。」
 ,,,,,,,,
@@ -32,7 +32,7 @@ Kei.Fallen1-15,京,「……それについては弁明のしようもないね�
 ,Kei darkness 1-2,,,,,,,
 Kei.Fallen1-16,,そして部屋に屈強な体の戦闘員達が入ってくる,そして部屋に屈強な体の戦闘員達が入ってくる,接著，體格強壯的戰鬥員們走進房間。,And into the room come the strong―bodied combatants.,Then muscular soldiers entered the room.,그리고 방에 튼튼한 몸의 전투원들이 들어온다,接着，体格强壮的战斗员们走进房间。
 ,,,,,,,,
-Kei.Fallen1-17,京,「―――――っ！？」,「―――――っ！？」,「―――――可惡！？」,"""―――――?""","""?!""",「―――――윽!?」,「―――――可恶！？」
+Kei.Fallen1-17,京,「―――――っ！？」,「―――――っ！？」,「―――――！？」,"""―――――?""","""?!""",「―――――윽!?」,「―――――可恶！？」
 ,,,,,,,,
 Kei.Fallen1-18,戦闘員,「お前は今から俺達戦闘員100人を全員相手にしてもらう」,「お前は今から俺達戦闘員100人を全員相手にしてもらう」,「妳現在開始要應付我們所有一百名戰鬥員。」,"""You are now going to have to deal with all 100 of us combatants.""","""You're going to take on all 100 of us soldiers now.""",「너는 지금부터 우리 전투원 100명 전원을 상대해야 한다」,「你现在开始要应付我们所有一百名战斗员。」
 ,,,,,,,,
@@ -64,17 +64,17 @@ Kei.Fallen1-31,戦闘員,「なにを訳の分からないことを言ってい�
 ,,,,,,,,
 Kei.Fallen1-32,,「それとペニスじゃねえ、チンポだ！わかったらとっとと始めろ！」,「それとペニスじゃねえ、チンポだ！わかったらとっとと始めろ！」,「還有，那不叫陰莖，叫陽具！懂了就快點開始！」,"""And it ain't a penis, it's a dick! Get on with it!""","""And it's not 'penis,' it's dick! Now that you understand, get started!""","「그리고 페니스가 아니야, 자지다! 알았으면 빨리 시작해!」",「还有，那不叫阴茎，叫阳具！懂了就快点开始！」
 ,,,,,,,,
-Kei.Fallen1-33,京,「うっ、わかった…ではまず…チンポ…を握って…」,「うっ、わかった…ではまず…チンポ…を握って…」,「唔、我知道了……那麼首先……抓住陽具……」,"""Ugh, okay...so first...grab...your...dick...""","""Ugh, got it... So first... I grip the... dick...""","「윽, 알았다… 그럼 우선… 자지…를 잡고…」",「唔、我知道了……那么首先……抓住阳具……」
+Kei.Fallen1-33,京,「うっ、わかった…ではまず…チンポ…を握って…」,「うっ、わかった…ではまず…チンポ…を握って…」,「唔，我知道了……那麼首先……抓住陽具……」,"""Ugh, okay...so first...grab...your...dick...""","""Ugh, got it... So first... I grip the... dick...""","「윽, 알았다… 그럼 우선… 자지…를 잡고…」",「唔、我知道了……那么首先……抓住阳具……」
 ,,,,,,,,
 Kei.Fallen1-34,,京は両手にチンポを握り、慣れない手つきで上下させる,京は両手にチンポを握り、慣れない手つきで上下させる,京雙手握住陽具，以生疏的手勢上下套弄。,Kei grips his cock in both hands and moves it up and down with an unaccustomed hand.,Kei gripped dicks in both hands and moved them up and down with inexperienced motions.,"케이는 양손에 자지를 쥐고, 익숙하지 않은 손놀림으로 위아래로 움직인다",京双手握住阳具，以生疏的手势上下套弄。
 ,,,,,,,,
-Kei.Fallen1-35,,コスッ…、コスッ…,コスッ…、コスッ…,摩擦…、摩擦…,"Koss..., Koss...","Rub, rub...",코슷… 코슷…,摩擦…、摩擦…
+Kei.Fallen1-35,,コスッ…、コスッ…,コスッ…、コスッ…,摩擦…摩擦…,"Koss..., Koss...","Rub, rub...",코슷… 코슷…,摩擦…、摩擦…
 ,,,,,,,,
 Kei.Fallen1-36,戦闘員,「おいおいなんだその手つきは？ふざけてるのか？」,「おいおいなんだその手つきは？ふざけてるのか？」,「喂喂，妳那是什麼手法？在開玩笑嗎？」,"""Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa. Are you kidding me?""","""Hey, what's with that clumsy technique! Are you an elementary schooler?!""",「어이어이 뭐야 그 손놀림은? 장난치는 건가?」,「喂喂，你那是什么手法？在开玩笑吗？」
 ,,,,,,,,
-Kei.Fallen1-37,京,「っ、まちたまえっ、初めてなんだ、すぐにできるわけがないだろう？！」,「っ、まちたまえっ、初めてなんだ、すぐにできるわけがないだろう？！」,「可惡、等一下、這可是我的第一次，不可能馬上就會吧？！」,"""I've never done this before, how could I do it so quickly?""","""Ugh... It can't be helped since this is my first time...""","「윽, 기다려줘, 처음이란 말이야, 바로 할 수 있을 리 없잖아?!」",「可恶、等一下、这可是我的第一次，不可能马上就会吧？！」
+Kei.Fallen1-37,京,「っ、まちたまえっ、初めてなんだ、すぐにできるわけがないだろう？！」,「っ、まちたまえっ、初めてなんだ、すぐにできるわけがないだろう？！」,「等一下，這可是我的第一次，不可能馬上就會吧？！」,"""I've never done this before, how could I do it so quickly?""","""Ugh... It can't be helped since this is my first time...""","「윽, 기다려줘, 처음이란 말이야, 바로 할 수 있을 리 없잖아?!」",「可恶、等一下、这可是我的第一次，不可能马上就会吧？！」
 ,,,,,,,,
-Kei.Fallen1-38,京,「っ、こう…か？いや、もっと…」,「っ、こう…か？いや、もっと…」,「可惡、這樣……嗎？不對、再更……」,"""Like this...? No, more like...""","""L-like this...? No, more...""","「윽, 이렇게…인가? 아니, 더…」",「可恶、这样……吗？不对、再更……」
+Kei.Fallen1-38,京,「っ、こう…か？いや、もっと…」,「っ、こう…か？いや、もっと…」,「這樣……嗎？不對，再更……」,"""Like this...? No, more like...""","""L-like this...? No, more...""","「윽, 이렇게…인가? 아니, 더…」",「可恶、这样……吗？不对、再更……」
 ,,,,,,,,
 Kei.Fallen1-39,,コスッ、コスッ、コスッ,コスッ、コスッ、コスッ,摩擦、摩擦、摩擦,"Koss, koss, koss.","Rub, rub, rub","코슷, 코슷, 코슷",摩擦、摩擦、摩擦
 ,,,,,,,,
@@ -88,7 +88,7 @@ Kei.Fallen1-43,,一人の戦闘員が京の口にチンポを突っ込む,一人
 ,,,,,,,,
 Kei.Fallen1-44,京,「む゛っ！？」,「む゛っ！？」,「唔！」,"""Mwah!""","""Mmph?!""",「읍옷 !?」,「唔！」
 ,,,,,,,,
-Kei.Fallen1-45,戦闘員,「チッ、コイツ口小さくて先端しか入らねえな」,「チッ、コイツ口小さくて先端しか入らねえな」,「嘖，這傢伙嘴巴太小了，只能進去陽具頭。」,"""Damn, his mouth is so small, only the tip goes in.""","""Tch, her mouth's so small only the tip fits.""","「칫, 이 녀석 입 작아서 끝부분밖에 안 들어가네」",「啧，这家伙嘴巴太小了，只能进去阳具头。」
+Kei.Fallen1-45,戦闘員,「チッ、コイツ口小さくて先端しか入らねえな」,「チッ、コイツ口小さくて先端しか入らねえな」,「嘖，這傢伙嘴巴太小了，只有前端進得去。」,"""Damn, his mouth is so small, only the tip goes in.""","""Tch, her mouth's so small only the tip fits.""","「칫, 이 녀석 입 작아서 끝부분밖에 안 들어가네」",「啧，这家伙嘴巴太小了，只能进去阳具头。」
 ,,,,,,,,
 Kei.Fallen1-46,京,「グムッ、ん゛ん゛っ！」,「グムッ、ん゛ん゛っ！」,「唔、嗯嗯！」,"""Gummmm, dang!""","""Gmph, mmph!""","「크음, 응옷 응옷 윽!」",「唔、嗯嗯！」
 ,,,,,,,,
@@ -102,31 +102,31 @@ Kei.Fallen1-50,京,「む゛っ、ん゛ん゛っ～～～～！？」,「む゛
 ,,,,,,,,
 Kei.Fallen1-51,戦闘員,「ハハッ、コイツ口がちいせえからチンポに吸い付くぞ！」,「ハハッ、コイツ口がちいせえからチンポに吸い付くぞ！」,「哈哈，這傢伙嘴巴小，會緊緊吸住陽具！」,"""Hahaha, he's got a big mouth, he's gonna suck my dick!""","""Haha, her small mouth is wrapped tight around my dick!""",「하핫! 이 녀석 입 작아서 자지에 달라붙네!」,「哈哈，这家伙嘴巴小，会紧紧吸住阳具！」
 ,,,,,,,,
-Kei.Fallen1-52,京,「ん゛ん゛っ！グパッ、―――まへ゛っ！、いきがっ！」,「ん゛ん゛っ！グパッ、―――まへ゛っ！、いきがっ！」,「嗯嗯！嘩啦、―――可惡！我、我快不能呼吸了！」,"""D―D―D―D―D. G―p―pa―aaah! Breathe!""","""Mmph! Gasp—Wait! I can't breathe!""","「응옷 응옷 윽! 크팟, ―――자해!, 숨이!」",「嗯嗯！哗啦、―――可恶！我、我快不能呼吸了！」
+Kei.Fallen1-52,京,「ん゛ん゛っ！グパッ、―――まへ゛っ！、いきがっ！」,「ん゛ん゛っ！グパッ、―――まへ゛っ！、いきがっ！」,「嗯嗯！嘩啦―――等等！快不能呼吸了！」,"""D―D―D―D―D. G―p―pa―aaah! Breathe!""","""Mmph! Gasp—Wait! I can't breathe!""","「응옷 응옷 윽! 크팟, ―――자해!, 숨이!」",「嗯嗯！哗啦、―――可恶！我、我快不能呼吸了！」
 ,,,,,,,,
-Kei.Fallen1-53,戦闘員,「ああ？知ったことか！お前は射精させることだけ考えてりゃいいんだよ！」,「ああ？知ったことか！お前は射精させることだけ考えてりゃいいんだよ！」,「啊？關我什麼事！妳只要專心讓它射精就好了！」,"""Oh?"" I don't care! All you need to think about is making me ejaculate!""","""Huh? Like I care! All you need to think about is making me come!""",「아아? 알 바 아니야! 너는 사정시키는 것만 생각하면 돼!」,「啊？关我什么事！你只要专心让它射精就好了！」
+Kei.Fallen1-53,戦闘員,「ああ？知ったことか！お前は射精させることだけ考えてりゃいいんだよ！」,「ああ？知ったことか！お前は射精させることだけ考えてりゃいいんだよ！」,「啊？關我什麼事！妳只要專心讓我射精就好了！」,"""Oh?"" I don't care! All you need to think about is making me ejaculate!""","""Huh? Like I care! All you need to think about is making me come!""",「아아? 알 바 아니야! 너는 사정시키는 것만 생각하면 돼!」,「啊？关我什么事！你只要专心让它射精就好了！」
 ,,,,,,,,
 Kei.Fallen1-54,,ジュプッ、チュプッ、ジュプッ！,ジュプッ、チュプッ、ジュプッ！,咕啵、啾啵、咕啵！,"Jup, chup, jup!","Schlup, slurp, schlup!","쥬풋, 츄풋, 쥬풋!",咕啵、啾啵、咕啵！
 ,,,,,,,,
-Kei.Fallen1-55,京,「ん゛ん゛っ～～～っ！！、ん゛ん゛っ！！」,「ん゛ん゛っ～～～っ！！、ん゛ん゛っ！！」,「嗯嗯～～～！！、嗯嗯！！」,"""¡n゛―！！！！！ D―D―D―D―D―D!!!""","""Mmmmph!! Mmph!!""","「응옷 응옷 윽~~~윽!!, 응옷 응옷 윽!!」",「嗯嗯～～～！！、嗯嗯！！」
+Kei.Fallen1-55,京,「ん゛ん゛っ～～～っ！！、ん゛ん゛っ！！」,「ん゛ん゛っ～～～っ！！、ん゛ん゛っ！！」,「嗯嗯～～～！！嗯嗯！！」,"""¡n゛―！！！！！ D―D―D―D―D―D!!!""","""Mmmmph!! Mmph!!""","「응옷 응옷 윽~~~윽!!, 응옷 응옷 윽!!」",「嗯嗯～～～！！、嗯嗯！！」
 ,,,,,,,,
-Kei.Fallen1-56,,(ぐっ、こんな速度で扱くものなのかっ！？),(ぐっ、こんな速度で扱くものなのかっ！？),(可惡、是要用這種速度套弄嗎！？),"(Gosh, is it possible to handle it at such a speed?)","(Ugh, is this the speed you're supposed to stroke it?!)","(크윽, 이런 속도로 흔드는 건가!?)",(可恶、是要用这种速度套弄吗！？)
+Kei.Fallen1-56,,(ぐっ、こんな速度で扱くものなのかっ！？),(ぐっ、こんな速度で扱くものなのかっ！？),(咕，是要用這種速度套弄嗎！？),"(Gosh, is it possible to handle it at such a speed?)","(Ugh, is this the speed you're supposed to stroke it?!)","(크윽, 이런 속도로 흔드는 건가!?)",(可恶、是要用这种速度套弄吗！？)
 ,,,,,,,,
-Kei.Fallen1-57,,パチュッ！、パチュッ！、パチュッ！,パチュッ！、パチュッ！、パチュッ！,啪啾！、啪啾！、啪啾！,Patchu! Patchu! Patchoo!,Squelch! Squelch! Squelch!,"파츗!, 파츗!, 파츗!",啪啾！、啪啾！、啪啾！
+Kei.Fallen1-57,,パチュッ！、パチュッ！、パチュッ！,パチュッ！、パチュッ！、パチュッ！,啪啾！啪啾！啪啾！,Patchu! Patchu! Patchoo!,Squelch! Squelch! Squelch!,"파츗!, 파츗!, 파츗!",啪啾！、啪啾！、啪啾！
 ,,,,,,,,
 Kei.Fallen1-58,戦闘員,「オラッ、そろそろ出してやるっ！全部飲み込めっ！」,「オラッ、そろそろ出してやるっ！全部飲み込めっ！」,「喂！差不多要射出來了！全部吞下去！」,"""I'm about to let you out! Swallow it all!""","""Here, I'm gonna come soon! Swallow it all!""",「자! 슬슬 싸줄게! 전부 삼켜!」,「喂！差不多要射出来了！全部吞下去！」
 ,,,,,,,,
 Kei.Fallen1-59,京,「ん゛ん゛っ！？ん゛っ！」,「ん゛ん゛っ！？ん゛っ！」,「嗯嗯！嗯！」,"""D―D―D―D―D―D―D? ""D―B―B―Y!""","""Mmph?! Mmph!""",「응옷 응옷 윽!? 응옷 윽!」,「嗯嗯！嗯！」
 ,,,,,,,,
-Kei.Fallen1-60,,(まてっ、心の準備がっ！、っそもそも飲んで大丈夫なのか！？),(まてっ、心の準備がっ！、っそもそも飲んで大丈夫なのか！？),(等一下、我還沒做好心理準備！而且、吞下去真的沒問題嗎！？),"(Wait, I'm not prepared for this! Is it safe to drink in the first place?)","(Wait, I'm not mentally prepared! Is it even safe to swallow?!)","(잠깐, 마음의 준비가!, 윽 애초에 마셔도 괜찮은 건가!?)",(等一下、我还没做好心理准备！而且、吞下去真的没问题吗！？)
+Kei.Fallen1-60,,(まてっ、心の準備がっ！、っそもそも飲んで大丈夫なのか！？),(まてっ、心の準備がっ！、っそもそも飲んで大丈夫なのか！？),(等一下，我還沒做好心理準備！而且吞下去真的沒問題嗎！？),"(Wait, I'm not prepared for this! Is it safe to drink in the first place?)","(Wait, I'm not mentally prepared! Is it even safe to swallow?!)","(잠깐, 마음의 준비가!, 윽 애초에 마셔도 괜찮은 건가!?)",(等一下、我还没做好心理准备！而且、吞下去真的没问题吗！？)
 ,,,,,,,,
 Kei.Fallen1-61,Kei darkness 1-5,その瞬間、戦闘員のチンポが激しく脈動し、京の口の中に精液が放たれる,その瞬間、戦闘員のチンポが激しく脈動し、京の口の中に精液が放たれる,就在這瞬間，戰鬥員的陽具劇烈脈動，精液射進了京的嘴裡。,"At that moment, the fighter's cock pulsates violently and semen is released into Kei's mouth!","At that moment, the soldier's dick pulsated violently and shot his semen into Kei's mouth.","그 순간, 전투원의 자지가 격렬하게 맥동하며, 케이의 입안에 정액이 방출된다",就在这瞬间，战斗员的阳具剧烈脉动，精液射进了京的嘴里。
 ,,,,,,,,
-Kei.Fallen1-62,,ドビュッ！、ビュルルルッルッ！,ドビュッ！、ビュルルルッルッ！,咚！、咻嚕嚕嚕嚕！,Dobruh! Doburrrrrrrrrrr!,Spurt! Splurrrt!,"도븃!, 뷰르르르릇르릇!",咚！、咻噜噜噜噜！
+Kei.Fallen1-62,,ドビュッ！、ビュルルルッルッ！,ドビュッ！、ビュルルルッルッ！,咚！咻嚕嚕嚕嚕！,Dobruh! Doburrrrrrrrrrr!,Spurt! Splurrrt!,"도븃!, 뷰르르르릇르릇!",咚！、咻噜噜噜噜！
 ,,,,,,,,
 Kei.Fallen1-63,京,「ん゛ん゛っ！？ん゛っ～～～！！！？」,「ん゛ん゛っ！？ん゛っ～～～！！！？」,「嗯嗯！嗯～～～！！！？」,"""D―D―D―D―D―D! dd~~~!!!!!!!""","""Mmph?! Mmmmmph?!""",「응옷 응옷 윽!? 응옷 윽~~~!!!?」,「嗯嗯！嗯～～～！！！？」
 ,,,,,,,,
-Kei.Fallen1-64,戦闘員,「コイツッ、全部飲めって言ったのに漏らしやがってッ！」,「コイツッ、全部飲めって言ったのに漏らしやがってッ！」,「這傢伙、叫妳全吞下去竟然還漏出來！」,"""I told you to drink it all and you shit your pants!""","""Hey! I told you to swallow it all but you're spilling it!""","「이 자식!, 전부 마시라고 했는데 흘리고 있잖아!」",「这家伙、叫你全吞下去竟然还漏出来！」
+Kei.Fallen1-64,戦闘員,「コイツッ、全部飲めって言ったのに漏らしやがってッ！」,「コイツッ、全部飲めって言ったのに漏らしやがってッ！」,「這傢伙，叫妳全吞下去竟然還漏出來！」,"""I told you to drink it all and you shit your pants!""","""Hey! I told you to swallow it all but you're spilling it!""","「이 자식!, 전부 마시라고 했는데 흘리고 있잖아!」",「这家伙、叫你全吞下去竟然还漏出来！」
 ,,,,,,,,
 Kei.Fallen1-65,,「ゴプッ、ブピュッ、ん゛ん゛っ～～～！？」,「ゴプッ、ブピュッ、ん゛ん゛っ～～～！？」,「咳、噗滋、嗯嗯～～～！？」,"""Gobble, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup, bup!""","""Glup, splurt Mmmph?!""","「곱, 부퓻, 응옷 응옷 윽~~~!?」",「咳、噗滋、嗯嗯～～～！？」
 ,,,,,,,,
@@ -164,7 +164,7 @@ Kei.Fallen1-81,京,「っ！、……覚悟を決めるしかないな」,「っ
 ,,,,,,,,
 Kei.Fallen1-82,,バコッ、バコッ、バコッ！,バコッ、バコッ、バコッ！,啪、啪、啪！,"Bakkop, bakkop, bakkop!","Slam, slam, slam!","바콧, 바콧, 바콧!",啪、啪、啪！
 ,,,,,,,,
-Kei.Fallen1-83,京,「っ、ん゛ん゛っ♥、お゛お゛っ！」,「っ、ん゛ん゛っ♥、お゛お゛っ！」,「可惡♥、嗯嗯！喔喔！」,"""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥""","""Mmph♥ Ohhh!""","「윽, 응옷 응옷 윽♥, 오옷 오옷 옷!」",「可恶♥、嗯嗯！喔喔！」
+Kei.Fallen1-83,京,「っ、ん゛ん゛っ♥、お゛お゛っ！」,「っ、ん゛ん゛っ♥、お゛お゛っ！」,「可惡♥，嗯嗯！喔喔！」,"""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥""","""Mmph♥ Ohhh!""","「윽, 응옷 응옷 윽♥, 오옷 오옷 옷!」",「可恶♥、嗯嗯！喔喔！」
 ,,,,,,,,
 Kei.Fallen1-84,,「ん゛ん゛っ♥、お゛っ！、もっと、ゆっくりっ♥！」,「ん゛ん゛っ♥、お゛っ！、もっと、ゆっくりっ♥！」,「嗯嗯♥！喔！再、慢一點♥！」,"""D―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d―d. ""Slower, slower, slower!""","""Mmph♥ Oh! More... Slowly♥!""","「응옷 응옷 윽♥, 오옷 옷!, 더, 천천히♥!」",「嗯嗯♥！喔！再、慢一点♥！」
 ,,,,,,,,
@@ -176,7 +176,7 @@ Kei.Fallen1-87,,シュコッ、シュコッ、シュコッ！,シュコッ、シ
 ,,,,,,,,
 Kei.Fallen1-88,戦闘員,「お？ちょっとは様になって来たじゃねえか」,「お？ちょっとは様になって来たじゃねえか」,「喔？開始有點樣子了嘛。」,"""Oh? You're starting to look good.""","""Oh? You're starting to look the part.""",「오? 좀 폼이 나기 시작했잖아」,「喔？开始有点样子了嘛。」
 ,,,,,,,,
-Kei.Fallen1-89,京,「んお゛お゛っ♥、はやくっ♥、出してくれっ♥！」,「んお゛お゛っ♥、はやくっ♥、出してくれっ♥！」,「嗯喔喔♥快點♥快點射出來♥！」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, let me out, let me out, let me out, let me out!""","""Ohhh♥ Hurry♥ And come♥!""","「응오옷 오옷 옷♥, 빨리♥, 싸줘♥!」",「嗯喔喔♥快点♥快点射出来♥！」
+Kei.Fallen1-89,京,「んお゛お゛っ♥、はやくっ♥、出してくれっ♥！」,「んお゛お゛っ♥、はやくっ♥、出してくれっ♥！」,「嗯喔喔♥、快點♥、快點射出來♥！」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, let me out, let me out, let me out, let me out!""","""Ohhh♥ Hurry♥ And come♥!""","「응오옷 오옷 옷♥, 빨리♥, 싸줘♥!」",「嗯喔喔♥快点♥快点射出来♥！」
 ,,,,,,,,
 Kei.Fallen1-90,戦闘員,「まあいい、後がつっかえてるしな、オラッ」,「まあいい、後がつっかえてるしな、オラッ」,「算了，後面還有人等著呢，喂！」,"""'Oh well, the rest of it's stuck, orah.""","""Fine, there's a line behind me anyway. Here!""","「뭐 됐어, 뒤가 밀렸으니까, 자!」",「算了，后面还有人等着呢，喂！」
 ,,,,,,,,
@@ -184,7 +184,7 @@ Kei.Fallen1-91,Kei darkness 1-7,ドビュッ、ビュルルルッルッ,ドビ�
 ,,,,,,,,
 Kei.Fallen1-92,京,「ひぎっ、お゛お゛お゛っ♥！」,「ひぎっ、お゛お゛お゛っ♥！」,「噫！喔喔喔♥」,"""HIGH, OH, OH, OH, OH, OH ♥!""","""Hiiiiig, ooohhhhh♥!""","「히긱, 오옷 오옷 오옷 옷♥!」",「噫！喔喔喔♥」
 ,,,,,,,,
-Kei.Fallen1-93,,「お゛っ、熱いのがお腹の中にっ、こ、これが膣内射精の感覚ッ♥」,「お゛っ、熱いのがお腹の中にっ、こ、これが膣内射精の感覚ッ♥」,「喔、熱熱的東西進到肚子裡了、這、這就是陰道內被射精的感覺！」,"""Oh, I'm so hot in my stomach, this is what vaginal ejaculation feels like!""","""Oh, hot stuff inside my belly, s-so this is what vaginal ejaculation feels like♥""","「오옷 옷, 뜨거운 게 배 안에, 이, 이게 질내 사정의 감각윽♥」",「喔、热热的东西进到肚子里了、这、这就是阴道内被射精的感觉！」
+Kei.Fallen1-93,,「お゛っ、熱いのがお腹の中にっ、こ、これが膣内射精の感覚ッ♥」,「お゛っ、熱いのがお腹の中にっ、こ、これが膣内射精の感覚ッ♥」,「喔！熱熱的東西進到肚子裡了，這、這就是陰道內被射精的感覺！」,"""Oh, I'm so hot in my stomach, this is what vaginal ejaculation feels like!""","""Oh, hot stuff inside my belly, s-so this is what vaginal ejaculation feels like♥""","「오옷 옷, 뜨거운 게 배 안에, 이, 이게 질내 사정의 감각윽♥」",「喔、热热的东西进到肚子里了、这、这就是阴道内被射精的感觉！」
 ,,,,,,,,
 Kei.Fallen1-94,戦闘員,「ぼーっとしてんじゃねえっ！次だ次！」,「ぼーっとしてんじゃねえっ！次だ次！」,「別發呆了！下一個下一個！」,"""Don't just stand there! Next, next!""","""Don't space out! Next, next!""",「멍하니 있지 마! 다음이야 다음!」,「别发呆了！下一个下一个！」
 ,,,,,,,,
@@ -194,13 +194,13 @@ Kei.Fallen1-96,京,「ま、待て少し休憩をっ」,「ま、待て少し休
 ,暗転,,,,,,,
 Kei.Fallen1-97,Kei darkness 1-8,パンッ、パンッ、パンッ、パンッ！,パンッ、パンッ、パンッ、パンッ！,啪、啪、啪、啪！,"Pang, pang, pang, pang!",Slap... Slap... Slap...,팡! 팡! 팡! 팡!,啪、啪、啪、啪！
 ,,,,,,,,
-Kei.Fallen1-98,京,「ん゛お゛っ♥、お゛っ♥、お゛っ♥」,「ん゛お゛っ♥、お゛っ♥、お゛っ♥」,「嗯喔♥喔♥喔♥」,"""Oh... oh... oh♥""","""Ngh♥ Oh♥ Oh♥""","「응옷 오옷 옷♥, 오옷 옷♥, 오옷 옷♥」",「嗯喔♥喔♥喔♥」
+Kei.Fallen1-98,京,「ん゛お゛っ♥、お゛っ♥、お゛っ♥」,「ん゛お゛っ♥、お゛っ♥、お゛っ♥」,「嗯喔♥、喔♥、喔♥」,"""Oh... oh... oh♥""","""Ngh♥ Oh♥ Oh♥""","「응옷 오옷 옷♥, 오옷 옷♥, 오옷 옷♥」",「嗯喔♥喔♥喔♥」
 ,,,,,,,,
 Kei.Fallen1-99,戦闘員,「ハハッ、コイツ軽いから吊り下げて使えばちょうどいいな」,「ハハッ、コイツ軽いから吊り下げて使えばちょうどいいな」,「哈哈，這傢伙很輕，吊起來用剛剛好。」,"""Hahaha, this one is so light, it's perfect for hanging.""","""Haha, she's so light, it's perfect to use her hanging like this.""",「하핫! 이 녀석 가벼워서 매달아 쓰면 딱 좋네」,「哈哈，这家伙很轻，吊起来用刚刚好。」
 ,,,,,,,,
 Kei.Fallen1-100,京,「ん゛あ゛っ♥、さっきからペニ…チンポが入りっぱなしなんだっ！」,「ん゛あ゛っ♥、さっきからペニ…チンポが入りっぱなしなんだっ！」,「嗯啊♥！陰莖……陽具一直插在裡面！」,"""Oh my god, I've had my dick in you for a while now!""","""Ngaah♥ The peni... dick has been inside me this whole time!""","「응옷 아옷 앗♥, 아까부터 페니… 자지가 계속 들어가 있어!」",「嗯啊♥！阴茎……阳具一直插在里面！」
 ,,,,,,,,
-Kei.Fallen1-101,,「ん゛ん゛っ♥、このままではッ♥、ちょっと休ませて…っ♥」,「ん゛ん゛っ♥、このままではッ♥、ちょっと休ませて…っ♥」,「嗯嗯♥、這樣下去♥、讓我休息一下！」,"""I'm going to have to take a break...""","""Mmph♥ At this rate♥ Let me rest a bit♥""","「응옷 응옷 윽♥, 이대로는♥, 조금 쉬게 해줘…♥」",「嗯嗯♥、这样下去♥、让我休息一下！」
+Kei.Fallen1-101,,「ん゛ん゛っ♥、このままではッ♥、ちょっと休ませて…っ♥」,「ん゛ん゛っ♥、このままではッ♥、ちょっと休ませて…っ♥」,「嗯嗯♥，再這樣下去♥…讓我休息一下！」,"""I'm going to have to take a break...""","""Mmph♥ At this rate♥ Let me rest a bit♥""","「응옷 응옷 윽♥, 이대로는♥, 조금 쉬게 해줘…♥」",「嗯嗯♥、这样下去♥、让我休息一下！」
 ,,,,,,,,
 Kei.Fallen1-102,戦闘員,「ああ？オナホが口答えすんじゃねえよ！あと90人以上残ってんだぞ！」,「ああ？オナホが口答えすんじゃねえよ！あと90人以上残ってんだぞ！」,「啊？自慰器還敢頂嘴！後面還有90多個人等著呢！」,"""Oh? Don't talk back to me, masturbator! There's over 90 of us left!""","""Huh? A sex toy shouldn't talk back! There's still over 90 guys left!""",「아아? 오나홀이 말대꾸하지 마! 아직 90명 이상 남았다고!」,「啊？自慰器还敢顶嘴！后面还有90多个人等着呢！」
 ,,,,,,,,
@@ -216,11 +216,11 @@ Kei.Fallen1-107,Kei darkness 1－10,パチュッ、パチュッ、パチュッ�
 ,,,,,,,,
 Kei.Fallen1-108,京,「むぐっ！？♥ん゛ん゛ん♥！？」,「むぐっ！？♥ん゛ん゛ん♥！？」,「唔！？嗯♥嗯♥！？」,"""MUGGH! ♥♥♥♥♥?""","""Mugu?!♥ Mmmph♥?!""",「읍!?♥ 응옷 응옷 응♥!?」,「唔！？嗯♥嗯♥！？」
 ,,,,,,,,
-Kei.Fallen1-109,戦闘員,「京ちゃん口もきつくてツインテも持ちやすくてマジでオナホだわ」,「京ちゃん口もきつくてツインテも持ちやすくてマジでオナホだわ」,「京小姐嘴巴也夾得緊，雙馬尾也好抓，簡直就是個自慰器。」,"""Kei―chan's mouth is so tight, and her twin tweezers are so easy to hold, she's a real masturbator.""","""Your mouth is tight and your twintails are easy to grab, you're seriously a perfect sex toy.""",「케이쨩 입도 좁고 트윈테일도 잡기 쉬워서 진짜 오나홀이야」,「京小姐嘴巴也夹得紧，双马尾也好抓，简直就是个自慰器。」
+Kei.Fallen1-109,戦闘員,「京ちゃん口もきつくてツインテも持ちやすくてマジでオナホだわ」,「京ちゃん口もきつくてツインテも持ちやすくてマジでオナホだわ」,「京醬嘴巴也夾得緊，雙馬尾也好抓，簡直就是個自慰器。」,"""Kei―chan's mouth is so tight, and her twin tweezers are so easy to hold, she's a real masturbator.""","""Your mouth is tight and your twintails are easy to grab, you're seriously a perfect sex toy.""",「케이쨩 입도 좁고 트윈테일도 잡기 쉬워서 진짜 오나홀이야」,「京小姐嘴巴也夹得紧，双马尾也好抓，简直就是个自慰器。」
 ,,,,,,,,
 Kei.Fallen1-110,京,「ん゛ん゛っ♥！、ん゛ん゛♥！？」,「ん゛ん゛っ♥！、ん゛ん゛♥！？」,「嗯嗯♥！嗯嗯♥！」,"""mhmm....mmmm..mmm...! ""","""Mmph♥! Mmph♥?!""","「응옷 응옷 윽♥!, 응옷 응옷 ♥!?」",「嗯嗯♥！嗯嗯♥！」
 ,,,,,,,,
-Kei.Fallen1-111,戦闘員,「ああ、腰も両手で持てるオナホサイズでちょうどいい」,「ああ、腰も両手で持てるオナホサイズでちょうどいい」,「啊，腰也正好是雙手能抱住的自慰器尺寸。」,"""Oh, and the waist is just the right size of a masturbatorium to hold with both hands.""","""And your waist is the perfect size for a sex toy that I can hold with both hands.""","「아아, 허리도 양손으로 잡을 수 있는 오나홀 사이즈라 딱 좋아」",「啊，腰也正好是双手能抱住的自慰器尺寸。」
+Kei.Fallen1-111,戦闘員,「ああ、腰も両手で持てるオナホサイズでちょうどいい」,「ああ、腰も両手で持てるオナホサイズでちょうどいい」,「啊，腰也正好是雙手能握住的自慰器尺寸。」,"""Oh, and the waist is just the right size of a masturbatorium to hold with both hands.""","""And your waist is the perfect size for a sex toy that I can hold with both hands.""","「아아, 허리도 양손으로 잡을 수 있는 오나홀 사이즈라 딱 좋아」",「啊，腰也正好是双手能抱住的自慰器尺寸。」
 ,,,,,,,,
 Kei.Fallen1-112,,パチュッ、パチュッ、パチュッ、パチュッ！,パチュッ、パチュッ、パチュッ、パチュッ！,啪啾、啪啾、啪啾、啪啾！,"Patch, patch, patch, patch!","Squelch, squelch, squelch, squelch!","파츗, 파츗, 파츗, 파츗!",啪啾、啪啾、啪啾、啪啾！
 ,,,,,,,,
@@ -244,7 +244,7 @@ Kei.Fallen1-121,Kei darkness 1-13,数時間後,数時間後,數小時後,a few h
 ,,,,,,,,
 Kei.Fallen1-122,京,「――――へあっ♥、へっ♥、へっ♥」,「――――へあっ♥、へっ♥、へっ♥」,「哈♥、哈♥、哈♥！」,"""―――― heh ♥, heh ♥, heh ♥""","""...Haah♥ Heh♥ Heh♥""","「――――헤앗♥, 헤♥, 헤♥」",「哈♥、哈♥、哈♥！」
 ,,,,,,,,
-Kei.Fallen1-123,戦闘員,「おい京ちゃんもうへばってガバガバじゃねえかっ！」,「おい京ちゃんもうへばってガバガバじゃねえかっ！」,「喂！京小姐已經累得張開了！」,"""Hey, Kei―chan, you're so weak, you're like a governor!""","""Hey, aren't you getting loose?""",「어이 케이쨩 이제 지쳐서 헐렁헐렁하잖아!」,「喂！京小姐已经累得张开了！」
+Kei.Fallen1-123,戦闘員,「おい京ちゃんもうへばってガバガバじゃねえかっ！」,「おい京ちゃんもうへばってガバガバじゃねえかっ！」,「喂！京醬已經累得動不了了啊！」,"""Hey, Kei―chan, you're so weak, you're like a governor!""","""Hey, aren't you getting loose?""",「어이 케이쨩 이제 지쳐서 헐렁헐렁하잖아!」,「喂！京小姐已经累得张开了！」
 ,,,,,,,,
 Kei.Fallen1-124,京,「お゛お゛っ、もう、むりぃ♥！しぬっ♥」,「お゛お゛っ、もう、むりぃ♥！しぬっ♥」,「喔喔、已經、不行了！快死了！」,"""Oh, God, I can't take it! I'm gonna die!""","""Ohhh, I can't anymore♥! I'll die♥""","「오옷 오옷 옷, 이제, 무리잇♥! 죽어♥」",「喔喔、已经、不行了！快死了！」
 ,,,,,,,,
@@ -262,23 +262,23 @@ Kei.Fallen1-130,京,「ほお゛お゛っ！、チンポッ♥！？」,「ほ�
 ,,,,,,,,
 Kei.Fallen1-131,戦闘員,「おら、やっと折り返しだ！しっかりマンコ絞めて奉仕しろっ！」,「おら、やっと折り返しだ！しっかりマンコ絞めて奉仕しろっ！」,「喂！好不容易剩下一半了！好好夾緊鮑魚服侍！」,"""I'm finally going to turn around! Squeeze my cunt and serve me well!""","""Hey, we're finally halfway! Squeeze your pussy hard and serve us!""","「자, 드디어 반환점이다! 제대로 보지 조여서 봉사해!」",「喂！好不容易剩下一半了！好好夹紧鲍鱼服侍！」
 ,,,,,,,,
-Kei.Fallen1-132,京,「お゛お゛っ！？、むりだっ♥、しぬぅっ♥！」,「お゛お゛っ！？、むりだっ♥、しぬぅっ♥！」,「喔喔！？不行了♥、快死了♥！」,"""Oh, oh, oh! I can't do it, I can't do it!""","""Ohhh?! I can't♥ I'll die♥!""","「오옷 오옷 옷!?, 무리다♥, 죽어엇♥!」",「喔喔！？不行了♥、快死了♥！」
+Kei.Fallen1-132,京,「お゛お゛っ！？、むりだっ♥、しぬぅっ♥！」,「お゛お゛っ！？、むりだっ♥、しぬぅっ♥！」,「喔喔！？不行了♥，快死了♥！」,"""Oh, oh, oh! I can't do it, I can't do it!""","""Ohhh?! I can't♥ I'll die♥!""","「오옷 오옷 옷!?, 무리다♥, 죽어엇♥!」",「喔喔！？不行了♥、快死了♥！」
 ,暗転,,,,,,,
 Kei.Fallen1-133,Kei darkness 1-15,更に数時間後,更に数時間後,又過了數小時後,A few more hours later,Several more hours later...,다시 수 시간 후,又过了数小时后
 ,,,,,,,,
-Kei.Fallen1-134,京,「ほおっ♥、お゛っ、…お゛っ♥」,「ほおっ♥、お゛っ、…お゛っ♥」,「呼♥！喔、…喔♥」,"""Ho ho ♥, ooh... ooh... ooh... ooh...""","""Hoh♥ Oh... Oh♥""","「호오옷♥, 오옷 옷, …오옷 옷♥」",「呼♥！喔、…喔♥」
+Kei.Fallen1-134,京,「ほおっ♥、お゛っ、…お゛っ♥」,「ほおっ♥、お゛っ、…お゛っ♥」,「呼♥！喔…喔♥」,"""Ho ho ♥, ooh... ooh... ooh... ooh...""","""Hoh♥ Oh... Oh♥""","「호오옷♥, 오옷 옷, …오옷 옷♥」",「呼♥！喔、…喔♥」
 ,,,,,,,,
 Kei.Fallen1-135,戦闘員,「おっし、これで全員終わったな！」,「おっし、これで全員終わったな！」,「好，這樣所有人就結束了！」,"""Oops, I guess we're all done now!""","""Alright, that's everyone!""","「좋아, 이걸로 전원 끝났군!」",「好，这样所有人就结束了！」
 ,,,,,,,,
 Kei.Fallen1-136,,「ったく、ザーメン臭くてかなわねえな」,「ったく、ザーメン臭くてかなわねえな」,「真是的，精液味濃得受不了。」,"""God, it reeks of cum.""","""Damn, this place reeks of cum.""","「정말, 정액 냄새나서 못 견디겠네」",「真是的，精液味浓得受不了。」
 ,,,,,,,,
-Kei.Fallen1-137,京,「ひあっ♥……お、…わった？」,「ひあっ♥……お、…わった？」,「呀♥……結、……束了？」,"""Hiya ♥♥...... Is it... over?""","""Hyah♥... Is it... over?""","「히앗♥…… 그, …끝났어?」",「呀♥……结、……束了？」
+Kei.Fallen1-137,京,「ひあっ♥……お、…わった？」,「ひあっ♥……お、…わった？」,「呀♥……結……束了？」,"""Hiya ♥♥...... Is it... over?""","""Hyah♥... Is it... over?""","「히앗♥…… 그, …끝났어?」",「呀♥……结、……束了？」
 ,,,,,,,,
 Kei.Fallen1-138,戦闘員,「ああ、まあ最後の方はほとんど動かなくてぶっかけてるだけだったがな」,「ああ、まあ最後の方はほとんど動かなくてぶっかけてるだけだったがな」,「啊，雖然最後面妳幾乎動不了，我們只是亂射一通就是了。」,"""Yeah, well, the last one was almost motionless, just bukkake.""","""Yeah, though toward the end you barely moved and we were just coming on you.""","「아아, 뭐 마지막에는 거의 움직이지 않고 뿌리기만 했지만」",「啊，虽然最后面你几乎动不了，我们只是乱射一通就是了。」
 ,,,,,,,,
 Kei.Fallen1-139,,「これから100人相手にしてもらうからな、しっかり準備しておけ」,「これから100人相手にしてもらうからな、しっかり準備しておけ」,「接下來還要應付100個人，做好準備。」,"""You're going to be dealing with a hundred people from now on, so be prepared.""","""You'll be taking on 100 guys from now on, so be prepared.""","「이제부터 100명 상대해야 하니까, 제대로 준비해둬」",「接下来还要应付100个人，做好准备。」
 ,,,,,,,,
-Kei.Fallen1-140,京,「……なっ！？、っ♥、…そんなっ♥！」,「……なっ！？、っ♥、…そんなっ♥！」,「……什麼！？、可惡♥、……怎麼會♥！」,"""......? No way....♥!""","...What?! ♥... No way♥!""","「……뭣!?, 윽♥, …그런♥!」",「……什么！？、可恶♥、……怎么会♥！」
+Kei.Fallen1-140,京,「……なっ！？、っ♥、…そんなっ♥！」,「……なっ！？、っ♥、…そんなっ♥！」,「……什麼！？可惡♥……怎麼會♥！」,"""......? No way....♥!""","...What?! ♥... No way♥!""","「……뭣!?, 윽♥, …그런♥!」",「……什么！？、可恶♥、……怎么会♥！」
 ,,,,,,,,
 Kei.Fallen1-141,戦闘員,「これからアジト備え付けオナホとして頑張ってくれ、じゃあな」,「これからアジト備え付けオナホとして頑張ってくれ、じゃあな」,「接下來就作為基地專用的自慰器努力吧，再見了。」,"""Good luck as a masturbator in the safe house from now on.""","""From now on, work hard as the hideout's installed sex toy. See ya.""","「이제부터 아지트 상비 오나홀로서 힘내줘, 그럼 안녕」",「接下来就作为基地专用的自慰器努力吧，再见了。」
 ,,,,,,,,
@@ -304,11 +304,11 @@ Kei.Fallen2-9,戦闘員,「あれだけ毎日犯してんのにまだまだキ�
 ,,,,,,,,
 Kei.Fallen2-10,京,「……それはどうも。」,「……それはどうも。」,「……那還真是多謝了。」,"""...... thanks for that.""","""...Thanks for that.""",「……그거 고맙네.」,「……那还真是多谢了。」
 ,,,,,,,,
-Kei.Fallen2-11,戦闘員,「コイツッ、手コキも上手くなりやがって！その小さい手でよくやるぜ」,「コイツッ、手コキも上手くなりやがって！その細い手でよくやるぜ」,「這傢伙、口交也變熟練了！就憑妳那纖細的手，真虧妳能做到。」,"""He's getting good hand jobs, too! You're so good with those little hands of yours.""","""This bitch has gotten good at handjobs too! You do well with those thin hands.""","「이 녀석!, 손으로 대딸하는 게 능숙해졌잖아! 그 가는 손으로 잘도 하네」",「这家伙、口交也变熟练了！就凭你那纤细的手，真亏你能做到。」
+Kei.Fallen2-11,戦闘員,「コイツッ、手コキも上手くなりやがって！その小さい手でよくやるぜ」,「コイツッ、手コキも上手くなりやがって！その細い手でよくやるぜ」,「這傢伙，口交也變熟練了！就憑妳那纖細的手，真虧妳能做到。」,"""He's getting good hand jobs, too! You're so good with those little hands of yours.""","""This bitch has gotten good at handjobs too! You do well with those thin hands.""","「이 녀석!, 손으로 대딸하는 게 능숙해졌잖아! 그 가는 손으로 잘도 하네」",「这家伙、口交也变熟练了！就凭你那纤细的手，真亏你能做到。」
 ,,,,,,,,
 Kei.Fallen2-12,京,「…まあこれだけ相手していればね。嫌でも上手くなるさ」,「…まあこれだけ相手していればね。嫌でも上手くなるさ」,「……嘛，應付了這麼多人，不想熟練也難啊。」,"""I'm not going to be able to do it. You'll get good at it.""","""...Well, after dealing with this much, I'd get good at it whether I wanted to or not.""",「…뭐 이렇게 상대하다 보면 말이야. 싫어도 능숙해지지」,「……嘛，应付了这么多人，不想熟练也难啊。」
 ,,,,,,,,
-Kei.Fallen2-13,,「……さあ、膣に力入れるからとっとと射精してくれ」,「……さあ、膣に力入れるからとっとと射精してくれ」,「……來吧，我要用陰道的力量夾緊了，快點射精吧。」,"""...... Now, I'm going to put some pressure on your vagina and you're going to ejaculate.""","""...Now, I'll going to squeeze my vagina very hard, so hurry up and ejaculate.""","「……자, 질에 힘줄 테니 빨리 사정해줘」",「……来吧，我要用阴道的力量夹紧了，快点射精吧。」
+Kei.Fallen2-13,,「……さあ、膣に力入れるからとっとと射精してくれ」,「……さあ、膣に力入れるからとっとと射精してくれ」,「……來吧，我陰道已經出力夾緊了，快點射精吧。」,"""...... Now, I'm going to put some pressure on your vagina and you're going to ejaculate.""","""...Now, I'll going to squeeze my vagina very hard, so hurry up and ejaculate.""","「……자, 질에 힘줄 테니 빨리 사정해줘」",「……来吧，我要用阴道的力量夹紧了，快点射精吧。」
 ,,,,,,,,
 Kei.Fallen2-14,戦闘員,「っ、コイツ急に締め付けやがって！うおっ、出るっ！」,「っ、コイツ急に締め付けやがって！うおっ、出るっ！」,「可惡、這傢伙突然夾緊！哇喔、要射了！」,"""He's suddenly tightening up! Oh, it's coming out!""","""Ugh, this bitch suddenly tightened up! Whoa, I'm coming!""","「윽, 이 녀석 갑자기 조여오잖아! 우옷, 싼다!」",「可恶、这家伙突然夹紧！哇喔、要射了！」
 ,,,,,,,,
@@ -318,7 +318,7 @@ Kei.Fallen2-16,京,「…………おっけー。じゃあ次行こうか」,「
 ,暗転,,,,,,,
 Kei.Fallen2-17,Kei darkness 2-4,パンッ、パンッ、パンッ、パンッ、パンッ！,パンッ、パンッ、パンッ、パンッ、パンッ！,啪、啪、啪、啪、啪！,"Pan, pan, pan, pan, pan, pan!","Slap, slap, slap, slap, slap!",팡! 팡! 팡! 팡! 팡!,啪、啪、啪、啪、啪！
 ,,,,,,,,
-Kei.Fallen2-18,戦闘員,「ふうっ、オラどうだっ！」,「ふうっ、オラどうだっ！」,「呼、喂，怎麼樣！」,"""Phew, I'm good!""","""Phew, how's that?!""","「후웃, 자 어떠냐!」",「呼、喂，怎么样！」
+Kei.Fallen2-18,戦闘員,「ふうっ、オラどうだっ！」,「ふうっ、オラどうだっ！」,「呼……喂，怎麼樣！」,"""Phew, I'm good!""","""Phew, how's that?!""","「후웃, 자 어떠냐!」",「呼、喂，怎么样！」
 ,,,,,,,,
 Kei.Fallen2-19,京,「…………………」,「…………………」,「…………………」,""".....................""","""...""",「…………………」,「…………………」
 ,,,,,,,,
@@ -332,7 +332,7 @@ Kei.Fallen2-23,戦闘員,「……っ！コイツッ、舐めやがって！ま�
 ,,,,,,,,
 Kei.Fallen2-24,,パンッ、パンッ、パンッ、パンッ、パンッ！,パンッ、パンッ、パンッ、パンッ、パンッ！,啪、啪、啪、啪、啪！,"Pan, pan, pan, pan, pan, pan!","Slap, slap, slap, slap, slap!",팡! 팡! 팡! 팡! 팡!,啪、啪、啪、啪、啪！
 ,,,,,,,,
-Kei.Fallen2-25,京,「っ♥、ふう、んっ♥、流石戦闘員だっ…」,「っ♥、ふう、んっ♥、流石戦闘員だっ…」,「可惡♥、呼、嗯♥、不愧是戰鬥員……」,"""I'm a fighter...""","""Ah♥ Phew, nn♥ As expected of a soldier...""","「윽♥, 후우, 응읏♥, 역시 전투원이군…」",「可恶♥、呼、嗯♥、不愧是战斗员……」
+Kei.Fallen2-25,京,「っ♥、ふう、んっ♥、流石戦闘員だっ…」,「っ♥、ふう、んっ♥、流石戦闘員だっ…」,「可惡♥，呼…嗯♥，不愧是戰鬥員……」,"""I'm a fighter...""","""Ah♥ Phew, nn♥ As expected of a soldier...""","「윽♥, 후우, 응읏♥, 역시 전투원이군…」",「可恶♥、呼、嗯♥、不愧是战斗员……」
 ,,,,,,,,
 Kei.Fallen2-26,,「改造チンポでこれだけ突かれるのはっ♥、やはり凄いねっ」,「改造チンポでこれだけ突かれるのはっ♥、やはり凄いねっ」,「被改造過的陽具這樣捅♥……果然很厲害呢。」,"""I'm still amazed that a modified cock can penetrate me this much.""","""Being pounded this much by a modified dick♥ It's incredible...""","「개조 자지로 이만큼 찔리는 건♥, 역시 굉장하네」",「被改造过的阳具这样捅♥……果然很厉害呢。」
 ,,,,,,,,
@@ -340,15 +340,15 @@ Kei.Fallen2-27,,パンッ、パンッ、パンッ、パンッ、パンッ！,パ
 ,,,,,,,,
 Kei.Fallen2-28,戦闘員,「オラッ、イけっ！反省しろっ！」,「オラッ、イけっ！反省しろっ！」,「喂！射吧！好好反省一下！」,"""I'm going to come! Come on!""","""Come on, come already! Reflect on your attitude!""",「자! 가버려! 반성해!」,「喂！射吧！好好反省一下！」
 ,,,,,,,,
-Kei.Fallen2-29,京,「っ♥、んっ、ふうっ……私も負けるわけにはいかないね…」,「っ♥、んっ、ふうっ……私も負けるわけにはいかないね…」,「可惡♥、嗯、呼……我也不能輸呢……」,"""I can't lose to you either...""","""Ah♥ Nn, phew... I can't afford to lose either...""","「윽♥, 응읏, 후웃…… 나도 질 수는 없지…」",「可恶♥、嗯、呼……我也不能输呢……」
+Kei.Fallen2-29,京,「っ♥、んっ、ふうっ……私も負けるわけにはいかないね…」,「っ♥、んっ、ふうっ……私も負けるわけにはいかないね…」,「♥嗯、呼……我也不能輸呢……」,"""I can't lose to you either...""","""Ah♥ Nn, phew... I can't afford to lose either...""","「윽♥, 응읏, 후웃…… 나도 질 수는 없지…」",「可恶♥、嗯、呼……我也不能输呢……」
 ,,,,,,,,
-Kei.Fallen2-30,戦闘員,「っ、コイツ、急にっ、出すぞっ！」,「っ、コイツ、急にっ、出すぞっ！」,「可惡、這傢伙、突然！要射了！」,"""He's going to get it out!""","""Huh? Ugh, I'm coming!""","「윽, 이 녀석, 갑자기! 싼다!」",「可恶、这家伙、突然！要射了！」
+Kei.Fallen2-30,戦闘員,「っ、コイツ、急にっ、出すぞっ！」,「っ、コイツ、急にっ、出すぞっ！」,「這傢伙、突然！要射了！」,"""He's going to get it out!""","""Huh? Ugh, I'm coming!""","「윽, 이 녀석, 갑자기! 싼다!」",「可恶、这家伙、突然！要射了！」
 ,,,,,,,,
 Kei.Fallen2-31,Kei darkness 2-5,ビュルッ、ビュルルルッルッ！,ビュルッ、ビュルルルッルッ！,咻嚕嚕嚕嚕、咻！,"Burr, burr, burr!","Splurt, splurrrt!","뷰릇, 뷰르르르릇르릇!",咻噜噜噜噜、咻！
 ,,,,,,,,
 Kei.Fallen2-32,京,「……んっ♥、おっけー、しっかり濃いのでたっぽいね♥」,「……んっ♥、おっけー、しっかり濃いのでたっぽいね♥」,「……嗯♥、好，看來是射得很濃稠呢♥」,"""......, okay, it looks like it's really thick.""","""Nnnn♥ Wow, that was thick♥""","「……응읏♥, 오케이, 제대로 진한 거 나온 것 같네♥」",「……嗯♥、好，看来是射得很浓稠呢♥」
 ,,,,,,,,
-Kei.Fallen2-33,戦闘員,「っ、はあ、はあ、コイツッ」,「っ、はあ、はあ、コイツッ」,「可惡、哈、哈、這傢蚪」,"""Ha, ha, ha, this guy.""","""Haaa... You...""","「윽, 하아, 하아, 이 녀석」",「可恶、哈、哈、这家蚪」
+Kei.Fallen2-33,戦闘員,「っ、はあ、はあ、コイツッ」,「っ、はあ、はあ、コイツッ」,「哈、哈，這傢伙。」,"""Ha, ha, ha, this guy.""","""Haaa... You...""","「윽, 하아, 하아, 이 녀석」",「可恶、哈、哈、这家蚪」
 ,,,,,,,,
 Kei.Fallen2-34,,「…さて、次だ。とっとと全員やっちゃおうか」,「…さて、次だ。とっとと全員やっちゃおうか」,「……那麼，下一個。快點把所有人都解決掉吧。」,"""...Now, let's move on. Let's do them all quickly.""","""...Now then, next. Let's quickly do everyone.""","「…자, 다음이다. 빨리 전부 해치우자」",「……那么，下一个。快点把所有人都解决掉吧。」
 ,暗転,,,,,,,
@@ -356,7 +356,7 @@ Kei.Fallen2-35,Kei darkness 2-6,パチュッ、パチュッ、パチュッ、パ
 ,,,,,,,,
 Kei.Fallen2-36,京,「んっ♥、んんっ、ジュルッ、ジュルッ、ジュプッ♥」,「んっ♥、んんっ、ジュルッ、ジュルッ、ジュプッ♥」,「嗯♥、嗯嗯、咕嚕、咕嚕、咕啵♥」,"""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥""","""Nn♥ Nnn, slurp, slurp, schlup♥""","「응읏♥, 응응읏, 쥬릇, 쥬릇, 쥬풋♥」",「嗯♥、嗯嗯、咕噜、咕噜、咕啵♥」
 ,,,,,,,,
-Kei.Fallen2-37,戦闘員,「ぐッ、コイツの口オナホ吸い付き強くなりやがってっ」,「ぐッ、コイツの口オナホ吸い付き強くなりやがってっ」,「唔、這傢伙的嘴巴吸得比自慰器還緊。」,"""Damn, his mouth masturbator sucks harder and harder.""","""Guh, her mouth is is sucking really hard!""","「크윽, 이 녀석 입 오나홀 흡입력이 강해졌잖아」",「唔、这家伙的嘴巴吸得比自慰器还紧。」
+Kei.Fallen2-37,戦闘員,「ぐッ、コイツの口オナホ吸い付き強くなりやがってっ」,「ぐッ、コイツの口オナホ吸い付き強くなりやがってっ」,「唔，這傢伙的嘴巴吸得比自慰器還緊。」,"""Damn, his mouth masturbator sucks harder and harder.""","""Guh, her mouth is is sucking really hard!""","「크윽, 이 녀석 입 오나홀 흡입력이 강해졌잖아」",「唔、这家伙的嘴巴吸得比自慰器还紧。」
 ,,,,,,,,
 Kei.Fallen2-38,京,「ちゅぽっ♥、ジュルッ、ジュルッ♥」,「ちゅぽっ♥、ジュルッ、ジュルッ♥」,「啾啵♥、咕嚕、咕嚕♥」,"""Chupo ♥, julp, julp ♥.""","""Suck♥ Slurp, slurp♥""","「츄폿♥, 쥬릇, 쥬릇♥」",「啾啵♥、咕噜、咕噜♥」
 ,,,,,,,,
@@ -366,13 +366,13 @@ Kei.Fallen2-40,京,「んっ♥、チュポッ、チュポッ、チュポッ、�
 ,,,,,,,,
 Kei.Fallen2-41,,京は精液をねだるように上下の穴で激しく戦闘員のチンポに刺激を加える,京は精液をねだるように上下の穴で激しく戦闘員のチンポに刺激を加える,京用上下的洞劇烈地刺激戰鬥員的陽具，像是在索求精液。,Kei stimulates the fighter's cock violently with his upper and lower holes as if begging for semen,Kei stimulated the soldiers' dicks intensely with her holes as if begging for semen.,케이는 정액을 조르듯 위아래 구멍으로 격렬하게 전투원의 자지에 자극을 가한다,京用上下的洞剧烈地刺激战斗员的阳具，像是在索求精液。
 ,,,,,,,,
-Kei.Fallen2-42,戦闘員,「くっ、コイツ生意気なっ！」,「くっ、コイツ生意気なっ！」,「可惡、這傢伙真囂張！」,"""Damn, he's cocky!""","""Kuh, this bitch is getting cocky!""","「크윽, 이 녀석 건방지게!」",「可恶、这家伙真嚣张！」
+Kei.Fallen2-42,戦闘員,「くっ、コイツ生意気なっ！」,「くっ、コイツ生意気なっ！」,「咕，這傢伙真囂張！」,"""Damn, he's cocky!""","""Kuh, this bitch is getting cocky!""","「크윽, 이 녀석 건방지게!」",「可恶、这家伙真嚣张！」
 ,,,,,,,,
 Kei.Fallen2-43,京,「グプッ、ジュプッ、ジュルルルッ！♥」,「グプッ、ジュプッ、ジュルルルッ！♥」,「咕啵、咕啵、咕嚕嚕嚕！♥」,"""Gup, jup, jup, jup! ♥♥""","""Glup, schlup, slurrrrp!♥""","「크풋, 쥬풋, 쥬르르르릇!♥」",「咕啵、咕啵、咕噜噜噜！♥」
 ,,,,,,,,
 Kei.Fallen2-44,,「ジュプッ、ズルルッ！」,「ジュプッ、ズルルッ！」,「咕啵、咕溜！」,"""Jup, zulch!""","""Schlup, slurrp!""","「쥬풋, 즈르릇!」",「咕啵、咕溜！」
 ,,,,,,,,
-Kei.Fallen2-45,戦闘員,「うおっ、耐えられねえっ、出るっ！」,「うおっ、耐えられねえっ、出るっ！」,「哇喔、受不了了、要射了！」,"""Oh, I can't stand it, I'm coming out!""","""Whoa, I can't hold it, I'm comoing!""","「우옷, 견딜 수 없어! 싼다!」",「哇喔、受不了了、要射了！」
+Kei.Fallen2-45,戦闘員,「うおっ、耐えられねえっ、出るっ！」,「うおっ、耐えられねえっ、出るっ！」,「哇喔，受不了了，要射了！」,"""Oh, I can't stand it, I'm coming out!""","""Whoa, I can't hold it, I'm comoing!""","「우옷, 견딜 수 없어! 싼다!」",「哇喔、受不了了、要射了！」
 ,,,,,,,,
 Kei.Fallen2-46,Kei darkness 2-8,ビュルルルッルッ、ビュルッ、ドブッ！,ビュルルルッルッ、ビュルッ、ドブッ！,咻嚕嚕嚕嚕、咻、咚！,,"Splurrrt, splurt, gush!","뷰르르르릇르릇, 뷰릇, 돕!",咻噜噜噜噜、咻、咚！
 ,,,,,,,,
@@ -380,7 +380,7 @@ Kei.Fallen2-47,京,「んっ♥、ジュルッ、ゴキュッ、ゴキュッ、�
 ,,,,,,,,
 Kei.Fallen2-48,,「ジュルルル♥、グプッ♥」,「ジュルルル♥、グプッ♥」,「咕嚕嚕♥、咕啵♥」,"""Jools ♥, gulp ♥.""","""Slurrrp♥ Glup♥""","「쥬르르르♥, 크풋♥」",「咕噜噜♥、咕啵♥」
 ,,,,,,,,
-Kei.Fallen2-49,戦闘員,「っ、コイツ根元から吸い上げるようにっ！」,「っ、コイツ根元から吸い上げるようにっ！」,「可惡、這傢伙從根部開始吸！」,"""Oh, this thing is sucking me up from the root!""","""Ugh, she's sucking it up from the base!""",「윽! 이 녀석 뿌리부터 빨아올리듯!」,「可恶、这家伙从根部开始吸！」
+Kei.Fallen2-49,戦闘員,「っ、コイツ根元から吸い上げるようにっ！」,「っ、コイツ根元から吸い上げるようにっ！」,「這傢伙從根部開始吸！」,"""Oh, this thing is sucking me up from the root!""","""Ugh, she's sucking it up from the base!""",「윽! 이 녀석 뿌리부터 빨아올리듯!」,「可恶、这家伙从根部开始吸！」
 ,Kei darkness 2-9,,,,,,,
 Kei.Fallen2-50,京,「ジュルルル、ジュプッ♥♥♥」,「ジュルルル、ジュプッ♥♥♥」,「咕嚕嚕、咕啵、咕啵♥♥♥」,"""Jools, Jupe ♥♥♥♥♥♥""","""Slurrrp, schlup♥♥♥""","「쥬르르르, 쥬풋♥♥♥」",「咕噜噜、咕啵、咕啵♥♥♥」
 ,,,,,,,,
@@ -393,11 +393,11 @@ Kei.Fallen2-53,,「んっ、おしまい。次行こうか」,「んっ、おし
 ,Kei darkness 2-10,,,,,,,
 Kei.Fallen2-54,京,「ジュルッ、ジュルッ、ジュルルル♥」,「ジュルッ、ジュルッ、ジュルルル♥」,「咕嚕、咕嚕、咕嚕嚕♥！」,"""Jools, jools, jools ♥""","""Slurp, slurp, slurrrp♥""","「쥬릇, 쥬릇, 쥬르르르♥」",「咕噜、咕噜、咕噜噜♥！」
 ,,,,,,,,
-Kei.Fallen2-55,戦闘員,「ぐっ、コイツッ！フェラ上手くなりやがって！」,「ぐっ、コイツッ！フェラ上手くなりやがって！」,「唔、這傢伙！口交怎麼突然變得這麼熟練了！」,"""I'm like, ""Geez, this guy! He's getting so good at blowjobs!""","""Guh, this bitch! She's gotten good at blowjobs!""","「크윽, 이 녀석! 펠라 능숙해졌잖아!」",「唔、这家伙！口交怎么突然变得这么熟练了！」
+Kei.Fallen2-55,戦闘員,「ぐっ、コイツッ！フェラ上手くなりやがって！」,「ぐっ、コイツッ！フェラ上手くなりやがって！」,「唔，這傢伙！口交怎麽突然變得這麽熟練了！」,"""I'm like, ""Geez, this guy! He's getting so good at blowjobs!""","""Guh, this bitch! She's gotten good at blowjobs!""","「크윽, 이 녀석! 펠라 능숙해졌잖아!」",「唔、这家伙！口交怎么突然变得这么熟练了！」
 ,,,,,,,,
 Kei.Fallen2-56,京,「チュパッ、チュパッ、ジュルルル♥、チュプッ♥」,「チュパッ、チュパッ、ジュルルル♥、チュプッ♥」,「啾啵、啾啵、咕嚕嚕嚕♥、啾啵！♥」,"""Chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup.""","""Suck, suck, slurrrp♥, schlup♥""","「츄팟, 츄팟, 쥬르르르♥, 츄풋♥」",「啾啵、啾啵、咕噜噜噜♥、啾啵！♥」
 ,,,,,,,,
-Kei.Fallen2-57,戦闘員,「くっ、先端がっ…出るっ」,「くっ、先端がっ…出るっ」,「可惡、龜頭……要射了。」,"""Oh, the tip... comes out.""","""Kuh, the tip is... I'm cumming!""","「크윽, 끝부분이… 싼다!」",「可恶、龟头……要射了。」
+Kei.Fallen2-57,戦闘員,「くっ、先端がっ…出るっ」,「くっ、先端がっ…出るっ」,「唔，龜頭……要射了。」,"""Oh, the tip... comes out.""","""Kuh, the tip is... I'm cumming!""","「크윽, 끝부분이… 싼다!」",「可恶、龟头……要射了。」
 ,,,,,,,,
 Kei.Fallen2-58,京,「んっ♥、んっ♥、ジュルルルッ♥！！」,「んっ♥、んっ♥、ジュルルルッ♥！！」,「嗯♥、嗯♥、咕嚕嚕嚕♥！」,"""♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥""","""Nn♥ Nn♥ Slurrrrp♥!!""","「응읏♥, 응읏♥, 쥬르르르릇♥!!」",「嗯♥、嗯♥、咕噜噜噜♥！」
 ,,,,,,,,
@@ -405,9 +405,9 @@ Kei.Fallen2-59,Kei darkness 2-11,ビュルルルッルッ、ビュルッ、ド�
 ,,,,,,,,
 Kei.Fallen2-60,京,「ゴキュッ♥、ゴキュッ♥、ジュルルルッ♥」,「ゴキュッ♥、ゴキュッ♥、ジュルルルッ♥」,「咕咚♥、咕咚♥、咕嚕嚕嚕♥！」,"""Gokyukk♥, gokyukk♥, jurururukk♥.""","""Gulp♥ Gulp♥ Slurrrrp♥""","「꿀꺽♥, 꿀꺽♥, 쥬르르르릇♥」",「咕咚♥、咕咚♥、咕噜噜噜♥！」
 ,,,,,,,,
-Kei.Fallen2-61,戦闘員,「……っ！ぐっ」,「……っ！ぐっ」,「……可惡！唔！」,"""......! Ggh!""","""...! Guh!""",「……윽! 크윽」,「……可恶！唔！」
+Kei.Fallen2-61,戦闘員,「……っ！ぐっ」,「……っ！ぐっ」,「……！唔！」,"""......! Ggh!""","""...! Guh!""",「……윽! 크윽」,「……可恶！唔！」
 ,Kei darkness 2-12,,,,,,,
-Kei.Fallen2-62,京,「…プハッ……すまないね。やはり君たちの濃いザーメンを全部飲み込むのは難しくてね。少しこぼしてしまった」,「…プハッ……すまないね。やはり君たちの濃いザーメンを全部飲み込むのは難しくてね。少しこぼしてしまった」,「……呸哈……抱歉。要將你們這麼濃稠的精液全部吞下去還是有點難度呢。漏了一點。」,"""I'm sorry...puhah ...... It's still hard for me to swallow all of your thick cum. I spilled some.""","""...Pwah... Sorry about that. It's still difficult to swallow all of your thick semen. I spilled a little.""",「…푸핫…… 미안하네. 역시 너희들의 진한 정액을 전부 삼키는 건 어려워서. 조금 흘려버렸어」,「……呸哈……抱歉。要将你们这么浓稠的精液全部吞下去还是有点难度呢。漏了一点。」
+Kei.Fallen2-62,京,「…プハッ……すまないね。やはり君たちの濃いザーメンを全部飲み込むのは難しくてね。少しこぼしてしまった」,「…プハッ……すまないね。やはり君たちの濃いザーメンを全部飲み込むのは難しくてね。少しこぼしてしまった」,「……呸哈……抱歉，要將你們這麼濃稠的精液全部吞下去還是有點難度呢，漏了一點。」,"""I'm sorry...puhah ...... It's still hard for me to swallow all of your thick cum. I spilled some.""","""...Pwah... Sorry about that. It's still difficult to swallow all of your thick semen. I spilled a little.""",「…푸핫…… 미안하네. 역시 너희들의 진한 정액을 전부 삼키는 건 어려워서. 조금 흘려버렸어」,「……呸哈……抱歉。要将你们这么浓稠的精液全部吞下去还是有点难度呢。漏了一点。」
 ,,,,,,,,
 Kei.Fallen2-63,戦闘員,「…コイツっ、前は俺達のチンポで喘ぎまくってたくせにっ！何しやがった！？」,「…コイツっ、前は俺達のチンポで喘ぎまくってたくせにっ！何しやがった！？」,「……這傢伙、以前明明被我們的陽具插得淫叫連連！到底發生了什麼！？」,"""You were moaning on our dicks before! What the fuck did you do?""","""...This bitch, you were moaning like crazy from our dicks before! What did you do?!""","「…이 자식, 전에는 우리 자지로 마구 신음하던 주제에! 뭐 한 거야!?」",「……这家伙、以前明明被我们的阳具插得淫叫连连！到底发生了什么！？」
 ,,,,,,,,
@@ -417,9 +417,9 @@ Kei.Fallen2-65,京,「簡単な話だ、要は君たちのチンポに快楽が�
 ,,,,,,,,
 Kei.Fallen2-66,京,「膣圧と摩擦係数でチンポにかける圧力を計算して…と。この類の計算は私の得意分野だ」,「膣圧と摩擦係数でチンポにかける圧力を計算して…と。この類の計算は私の得意分野だ」,「計算陰道壓力和摩擦係數後，得出對陽具施加的壓力……這類計算是我的拿手領域。」,"""He said, ""I use the vaginal pressure and the coefficient of friction to calculate the pressure to be applied to the cock.... This kind of calculation is my specialty.""","""Calculating the pressure on the dick using vaginal pressure and friction coefficients... This type of calculation is my specialty.""",「질압과 마찰 계수로 자지에 가하는 압력을 계산해서… 뭐. 이런 종류의 계산은 내 특기 분야야」,「计算阴道压力和摩擦系数后，得出对阳具施加的压力……这类计算是我的拿手领域。」
 ,,,,,,,,
-Kei.Fallen2-67,戦闘員,「っ、何を訳の分からないことをッ！そんなことが出来るわけが……」,「っ、何を訳の分からないことをッ！そんなことが出来るわけが……」,「可惡、妳在說什麼鬼話！怎麼可能做得到……」,"""What incomprehensible things! How is that possible? ......""","""What nonsense are you spouting?! There's no way you could...""","「윽, 무슨 말도 안 되는 소리를! 그런 게 가능할 리가……」",「可恶、你在说什么鬼话！怎么可能做得到……」
+Kei.Fallen2-67,戦闘員,「っ、何を訳の分からないことをッ！そんなことが出来るわけが……」,「っ、何を訳の分からないことをッ！そんなことが出来るわけが……」,「妳在說什麼鬼話！怎麼可能做得到……」,"""What incomprehensible things! How is that possible? ......""","""What nonsense are you spouting?! There's no way you could...""","「윽, 무슨 말도 안 되는 소리를! 그런 게 가능할 리가……」",「可恶、你在说什么鬼话！怎么可能做得到……」
 ,,,,,,,,
-Kei.Fallen2-68,京,「ふふっ、このような状況下でも頭脳は役に立つことが証明されたね」,「ふふっ、このような状況下でも頭脳は役に立つことが証明されたね」,「呵呵，看來在這種情況下，我的頭腦也能派上用場，這被證明瞭呢。」,"""Hmmm...proves that brains do come in handy in situations like this.""","""Hehe, it's been proven that intelligence is useful even in this situation.""","「후훗, 이런 상황에서도 두뇌는 도움이 된다는 게 증명되었네」",「呵呵，看来在这种情况下，我的头脑也能派上用场，这被证明了呢。」
+Kei.Fallen2-68,京,「ふふっ、このような状況下でも頭脳は役に立つことが証明されたね」,「ふふっ、このような状況下でも頭脳は役に立つことが証明されたね」,「呵呵，看來在這種情況下，我的頭腦也能派上用場，這被證明了呢。」,"""Hmmm...proves that brains do come in handy in situations like this.""","""Hehe, it's been proven that intelligence is useful even in this situation.""","「후훗, 이런 상황에서도 두뇌는 도움이 된다는 게 증명되었네」",「呵呵，看来在这种情况下，我的头脑也能派上用场，这被证明了呢。」
 ,,,,,,,,
 Kei.Fallen2-69,京,「それに君たちの精液…どういうわけか摂取すると私の聖核がうずくような気がしてね」,「それに君たちの精液…どういうわけか摂取すると私の聖核がうずくような気がしてね」,「而且你們的精液……不知怎麼地，攝取之後我的聖核就會蠢蠢欲動。」,"""And your semen... for some reason, it makes my sacrum tingle when I ingest it.""","""And your semen... for some reason when I consume it, I feel like my Holy Core throbs.""",「게다가 너희들 정액… 왠지 모르게 섭취하면 내 성핵이 욱신거리는 것 같아서 말이야」,「而且你们的精液……不知怎么地，摄取之后我的圣核就会蠢蠢欲动。」
 ,,,,,,,,
@@ -437,25 +437,25 @@ Kei.Fallen2-75,京,「ジュルルル♥、ジュプッ♥」,「ジュルルル
 ,,,,,,,,
 Kei.Fallen2-76,,シュコッ、シュコッ、シュコッ！,シュコッ、シュコッ、シュコッ！,咻、咻、咻！,"Shukk, shukk, shukk!","Stroke, stroke, stroke!","슈콧, 슈콧, 슈콧!",咻、咻、咻！
 ,,,,,,,,
-Kei.Fallen2-77,京,「ジュプッ、ジュプッ♥、ほあ、よこのふはりもはっはとらしたまえ♥」,「ジュプッ、ジュプッ♥、ほあ、よこのふはりもはっはとらしたまえ♥」,「咕啵、咕啵！喔，兩邊的也別給我閑著。」,"""Jup, jup, jup ♥, hoa, yokonofuhari hahatashitamae ♥.""","""Schlup, schlup♥ Come on, let the ones on the side have a turn too♥""","「쥬풋, 쥬풋♥, 호아, 요코노 후하리모 핫하토라시타마에♥」",「咕啵、咕啵！喔，两边的也别给我闲着。」
+Kei.Fallen2-77,京,「ジュプッ、ジュプッ♥、ほあ、よこのふはりもはっはとらしたまえ♥」,「ジュプッ、ジュプッ♥、ほあ、よこのふはりもはっはとらしたまえ♥」,「咕啵、咕啵！喔，兩邊的也別給我閒著。」,"""Jup, jup, jup ♥, hoa, yokonofuhari hahatashitamae ♥.""","""Schlup, schlup♥ Come on, let the ones on the side have a turn too♥""","「쥬풋, 쥬풋♥, 호아, 요코노 후하리모 핫하토라시타마에♥」",「咕啵、咕啵！喔，两边的也别给我闲着。」
 ,,,,,,,,
 Kei.Fallen2-78,戦闘員,「っ、コイツッ、これが最適化された動きっ！？」,「っ、コイツッ、これが最適化された動きっ！？」,「可惡、這傢伙、這就是優化過的動作！？」,"""Oh, this is the optimized move!""","""Bitch... These are optimized movements?!""","「윽!, 이 자식, 이게 최적화된 움직임!?」",「可恶、这家伙、这就是优化过的动作！？」
 ,,,,,,,,
 Kei.Fallen2-79,京,「ジュルルッ♥、ジュポッ♥、ジュポッ♥」,「ジュルルッ♥、ジュポッ♥、ジュポッ♥」,「咕嚕嚕♥、咕啵♥、咕啵♥」,"""Joollllll♥, jooppoo♥, jooppoo♥""","""Slurrp♥ Schlup♥ Schlup♥""","「쥬르르릇♥, 쥬폿♥, 쥬폿♥」",「咕噜噜♥、咕啵♥、咕啵♥」
 ,,,,,,,,
-Kei.Fallen2-80,戦闘員,「ぐっ、出るっ…！」,「ぐっ、出るっ…！」,「唔、要射了……！」,"""I'm coming out!""","""Guh, I'm coming...!""","「크윽, 싼다…!」",「唔、要射了……！」
+Kei.Fallen2-80,戦闘員,「ぐっ、出るっ…！」,「ぐっ、出るっ…！」,「唔，要射了……！」,"""I'm coming out!""","""Guh, I'm coming...!""","「크윽, 싼다…!」",「唔、要射了……！」
 ,,,,,,,,
 Kei.Fallen2-81,Kei darkness 2-14,ドビュッ、ビュルルルッルッ！ビュルルルッ,ドビュッ、ビュルルルッルッ！ビュルルルッ,咚、咻嚕嚕嚕嚕！咻嚕嚕嚕！,Doburrrrrrrrrrr! Burrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Spurt, splurrrt! Splurrrt","도븃, 뷰르르르릇르릇! 비ュ르르릇",咚、咻噜噜噜噜！咻噜噜噜！
 ,,,,,,,,
 Kei.Fallen2-82,京,「プハッ♥、んっ♥、んっ♥」,「プハッ♥、んっ♥、んっ♥」,「呸哈♥、嗯♥、嗯♥」,"""Puhhhh ♥, mmmm ♥, mmmm ♥""","""Pwah♥ Nn♥ Nn♥""","「푸핫♥, 응읏♥, 응읏♥」",「呸哈♥、嗯♥、嗯♥」
 ,,,,,,,,
-Kei.Fallen2-83,,「んっ♥、そうだっ、全部私の顔にかけてくれっ♥」,「んっ♥、そうだっ、全部私の顔にかけてくれっ♥」,「嗯♥、對、全都射在我臉上吧♥」,"""♥♥, yeah, put it all over my face ♥♥.""","""Nn♥ That's right, unload it all on my face♥""","「응읏♥, 그래, 전부 내 얼굴에 뿌려줘♥」",「嗯♥、对、全都射在我脸上吧♥」
+Kei.Fallen2-83,,「んっ♥、そうだっ、全部私の顔にかけてくれっ♥」,「んっ♥、そうだっ、全部私の顔にかけてくれっ♥」,「嗯♥、對，全都射在我臉上吧♥」,"""♥♥, yeah, put it all over my face ♥♥.""","""Nn♥ That's right, unload it all on my face♥""","「응읏♥, 그래, 전부 내 얼굴에 뿌려줘♥」",「嗯♥、对、全都射在我脸上吧♥」
 ,,,,,,,,
-Kei.Fallen2-84,戦闘員,「っ、ぐうっ！」,「っ、ぐうっ！」,「可惡、唔！」,"""Gosh!""","""Ugh, guuh!""","「윽, 크윽!」",「可恶、唔！」
+Kei.Fallen2-84,戦闘員,「っ、ぐうっ！」,「っ、ぐうっ！」,「唔！」,"""Gosh!""","""Ugh, guuh!""","「윽, 크윽!」",「可恶、唔！」
 ,,,,,,,,
 Kei.Fallen2-85,,ビュルルッ、ピュッ、ピュッ,ビュルルッ、ピュッ、ピュッ,咻嚕、咻！,,"Splurt, spurt, spurt","뷰르르릇, 퓻, 퓻",咻噜、咻！
 ,,,,,,,,
-Kei.Fallen2-86,京,「んっ♥、全部出たようだね…」,「んっ♥、全部出たようだね…」,「嗯♥、好像全都射完了呢……」,"""I guess it's all coming out...""","""Nmn♥ Looks like it all came out...""","「응읏♥, 전부 나온 것 같네…」",「嗯♥、好像全都射完了呢……」
+Kei.Fallen2-86,京,「んっ♥、全部出たようだね…」,「んっ♥、全部出たようだね…」,「嗯♥，好像全都射完了呢……」,"""I guess it's all coming out...""","""Nmn♥ Looks like it all came out...""","「응읏♥, 전부 나온 것 같네…」",「嗯♥、好像全都射完了呢……」
 ,Kei darkness 2-15,,,,,,,
 Kei.Fallen2-87,京,「ふう…これで今日の分は全員かな？」,「ふう…これで今日の分は全員かな？」,「呼……這樣今天的人數都結束了嗎？」,"""'Fu...is that everyone for the day?'""","""Phew... Is that everyone for today?""",「후우… 이걸로 오늘의 분량은 전원인가?」,「呼……这样今天的人数都结束了吗？」
 ,,,,,,,,
@@ -484,13 +484,13 @@ Kei.Fallen3-2,Kei darkness 3-1,パチュッ、パチュッ、パチュッ、パ�
 ,,,,,,,,
 Kei.Fallen3-3,,アジトの地下の調教部屋に淫らな水音が響き渡る,アジトの地下の調教部屋に淫らな水音が響き渡る,在基地地下的調教室裡，響起了淫靡的水聲。,The sound of lewd water echoes in the training room in the basement of the hideaway.,Lewd wet sounds echoed throughout the underground training room of the hideout.,아지트 지하 조교실에 음란한 물소리가 울려 퍼진다,在基地地下的调教室里，响起了淫靡的水声。
 ,,,,,,,,
-Kei.Fallen3-4,京,「ジュルルッ♥、ジュルッ♥、ふふっ♥、どうだ？」,「ジュルルッ♥、ジュルッ♥、ふふっ♥、どうだ？」,「咕嚕嚕♥、咕嚕♥、呵呵♥、怎麼樣？」,"""'Jools ♥, jools ♥, hmmm ♥, how's that?""","""Slurrp♥ Slurp♥ Hehe♥ How's that?""","「쥬르릇♥, 쥬릇♥, 후훗♥, 어때?」",「咕噜噜♥、咕噜♥、呵呵♥、怎么样？」
+Kei.Fallen3-4,京,「ジュルルッ♥、ジュルッ♥、ふふっ♥、どうだ？」,「ジュルルッ♥、ジュルッ♥、ふふっ♥、どうだ？」,「咕嚕嚕♥、咕嚕♥、呵呵♥，怎麼樣？」,"""'Jools ♥, jools ♥, hmmm ♥, how's that?""","""Slurrp♥ Slurp♥ Hehe♥ How's that?""","「쥬르릇♥, 쥬릇♥, 후훗♥, 어때?」",「咕噜噜♥、咕噜♥、呵呵♥、怎么样？」
 ,,,,,,,,
-Kei.Fallen3-5,戦闘員,「うっ、ぐうっ！」,「うっ、ぐうっ！」,「唔、可惡！」,"""Ugh!""","""Ugh, guuh!""","「윽, 크윽!」",「唔、可恶！」
+Kei.Fallen3-5,戦闘員,「うっ、ぐうっ！」,「うっ、ぐうっ！」,「唔，唔嗚！」,"""Ugh!""","""Ugh, guuh!""","「윽, 크윽!」",「唔、可恶！」
 ,,,,,,,,
 Kei.Fallen3-6,京,「おっと、まだ出すんじゃないぞ？今チンポの射精耐久性実験をしてるんだからな」,「おっと、まだ出すんじゃないぞ？今チンポの射精耐久性実験をしてるんだからな」,「喔，還不能射喔？現在正在進行陽具射精耐久性實驗呢。」,"""Whoa, don't let it out yet, okay? We're doing a cock ejaculation endurance experiment right now.""","""Oops, don't come yet. I'm conducting an experiment on dick ejaculation endurance.""","「어이쿠, 아직 싸지 마? 지금 자지 사정 내구성 실험 중이니까」",「喔，还不能射喔？现在正在进行阳具射精耐久性实验呢。」
 ,,,,,,,,
-Kei.Fallen3-7,戦闘員,「ぐっ、コイツッ、調子に乗りやがってっ！」,「ぐっ、コイツッ、調子に乗りやがってっ！」,「可惡、這傢伙、太得意忘形了！」,"""Damn this guy, he's on a roll!""","""Guh, this bitch is getting carried away!""","「크윽, 이 녀석! 잘난 척하기는!」",「可恶、这家伙、太得意忘形了！」
+Kei.Fallen3-7,戦闘員,「ぐっ、コイツッ、調子に乗りやがってっ！」,「ぐっ、コイツッ、調子に乗りやがってっ！」,「唔，這傢伙，太得意忘形了！」,"""Damn this guy, he's on a roll!""","""Guh, this bitch is getting carried away!""","「크윽, 이 녀석! 잘난 척하기는!」",「可恶、这家伙、太得意忘形了！」
 ,,,,,,,,
 Kei.Fallen3-8,京,「ふふっ、コイツとは酷いな？私は今は洗脳改造を受けたここの戦闘員なんだぞ？」,「ふふっ、コイツとは酷いな？私は今は改造を受けたここの戦闘員なんだぞ？」,「呵呵，說傢伙也太過分了吧？我現在可是接受了教育改造在這裡的戰鬥員喔？」,"""'Pfft, it's terrible with this guy, isn't it? I'm a brainwashed and modified combatant here now, remember?""","""Hehe, 'this bitch' is harsh. I'm now a modified soldier here, you know?""","「후훗, 이 녀석이라니 너무하네? 나는 지금 교육 개조를 받은 이곳 전투원이잖아?」",「呵呵，说家伙也太过分了吧？我现在可是接受了教育改造在这里的战斗员喔？」
 ,,,,,,,,
@@ -498,11 +498,11 @@ Kei.Fallen3-9,,「いや、戦闘員というより怪人なのかな？まあ�
 ,,,,,,,,
 Kei.Fallen3-10,,チュパッ、チュパッ、ジュルルル♥、チュプッ♥,チュパッ、チュパッ、ジュルルル♥、チュプッ♥,啾啵、啾啵、咕嚕嚕嚕♥、啾啵♥,"Chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup, chup.","Suck, suck, slurrrp♥, schlup♥","츄팟, 츄팟, 쥬르르르♥, 츄풋♥",啾啵、啾啵、咕噜噜噜♥、啾啵♥
 ,,,,,,,,
-Kei.Fallen3-11,戦闘員,「ぐっ、一体どれだけやりゃ気がすむんだっ」,「ぐっ、一体どれだけやりゃ気がすむんだっ」,「唔、到底要玩多久才甘心！」,"""Damn, how much more of this do you have to do?""","""Guh, how long until you're satisfied?!""","「크윽, 대체 얼마나 해야 만족하는 거야」",「唔、到底要玩多久才甘心！」
+Kei.Fallen3-11,戦闘員,「ぐっ、一体どれだけやりゃ気がすむんだっ」,「ぐっ、一体どれだけやりゃ気がすむんだっ」,「唔，到底要玩多久才甘心！」,"""Damn, how much more of this do you have to do?""","""Guh, how long until you're satisfied?!""","「크윽, 대체 얼마나 해야 만족하는 거야」",「唔、到底要玩多久才甘心！」
 ,,,,,,,,
 Kei.Fallen3-12,,ジュルルル♥、チュプッ♥、チュパッ、チュパッ,ジュルルル♥、チュプッ♥、チュパッ、チュパッ,咕嚕嚕嚕♥、啾啵♥、啾啵、啾啵,"Jjululu♥, chup, chup, chup, chup, chup, chup.","Slurrrp♥, schlup♥, suck, suck","쥬르르르♥, 츄풋♥, 츄팟, 츄팟",咕噜噜噜♥、啾啵♥、啾啵、啾啵
 ,,,,,,,,
-Kei.Fallen3-13,京,「ジュルルッ♥、ふう、君たちが私を足腰が立たなくなるくらいハメ倒してくれればよかったのだが…♥」,「ジュルルッ♥、ふう、君たちが私を足腰が立たなくなるくらいハメ倒してくれればよかったのだが…♥」,「咕嚕嚕♥、呼，要是你們能把我插到連站都站不穩就好了呢……」,"""I wish you guys had fucked me to the point where I couldn't stand on my feet anymore.""","""Slurrp♥ Phew, it would have been nice if you guys had fucked me until my legs gave out...♥""","「쥬르릇♥, 후우, 너희들이 나를 허리도 못 펼 정도로 박아주면 좋았을 텐데…♥」",「咕噜噜♥、呼，要是你们能把我插到连站都站不稳就好了呢……」
+Kei.Fallen3-13,京,「ジュルルッ♥、ふう、君たちが私を足腰が立たなくなるくらいハメ倒してくれればよかったのだが…♥」,「ジュルルッ♥、ふう、君たちが私を足腰が立たなくなるくらいハメ倒してくれればよかったのだが…♥」,「咕嚕嚕♥，呼，要是你們能把我插到連站都站不穩就好了呢……」,"""I wish you guys had fucked me to the point where I couldn't stand on my feet anymore.""","""Slurrp♥ Phew, it would have been nice if you guys had fucked me until my legs gave out...♥""","「쥬르릇♥, 후우, 너희들이 나를 허리도 못 펼 정도로 박아주면 좋았을 텐데…♥」",「咕噜噜♥、呼，要是你们能把我插到连站都站不稳就好了呢……」
 ,,,,,,,,
 Kei.Fallen3-14,,「君たち戦闘員は何百人もいるのに情けない…こんなか弱い少女にいいようにされて悔しくないのかい？」,「君たち戦闘員は何百人もいるのに情けない…こんなか弱い少女にいいようにされて悔しくないのかい？」,「你們這些戰鬥員有幾百人卻這麼沒用……被我這麼一個柔弱的少女玩弄，難道不覺得不甘心嗎？」,"""You have hundreds of fighters and you're pathetic... don't you feel frustrated that you're being taken advantage of by such a weak girl?""","""There are hundreds of you soldiers yet you're pathetic... Aren't you frustrated being toyed with by such a frail girl?""",「너희들 전투원은 수백 명이나 있는데 한심하네… 이런 약한 소녀에게 당해서 분하지 않아?」,「你们这些战斗员有几百人却这么没用……被我这么一个柔弱的少女玩弄，难道不觉得不甘心吗？」
 ,,,,,,,,
@@ -512,15 +512,15 @@ Kei.Fallen3-16,,ジュルルル♥、チュプッ♥、ジュルル♥、ジュ�
 ,,,,,,,,
 Kei.Fallen3-17,,キュッ、パチュッ♥、パチュッ♥、パチュッ！,キュッ、パチュッ♥、パチュッ♥、パチュッ！,夾緊、啪啾♥、啪啾♥、啪啾！,Cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu―cu!,"Squeeze, squelch♥, squelch♥, squelch!","큣, 파츗♥, 파츗♥, 파츗!",夹紧、啪啾♥、啪啾♥、啪啾！
 ,,,,,,,,
-Kei.Fallen3-18,戦闘員,「―――っ、ぐっ、なんだこのマンコはっ！」,「―――っ、ぐっ、なんだこのマンコはっ！」,「―――可惡、唔、這是什麼鮑魚！」,"""――――gggghh, what a cunt!""","""...Guh, what the hell is this pussy?!""","「―――윽, 크윽, 뭐야 이 보지는!」",「―――可恶、唔、这是什么鲍鱼！」
+Kei.Fallen3-18,戦闘員,「―――っ、ぐっ、なんだこのマンコはっ！」,「―――っ、ぐっ、なんだこのマンコはっ！」,「―――唔，這是什麼鮑魚！」,"""――――gggghh, what a cunt!""","""...Guh, what the hell is this pussy?!""","「―――윽, 크윽, 뭐야 이 보지는!」",「―――可恶、唔、这是什么鲍鱼！」
 ,,,,,,,,
 Kei.Fallen3-19,京,「ふふっ、ここで改造手術を受けてから感覚が敏感になってね」,「ふふっ、ここで改造手術を受けてから感覚が敏感になってね」,「呵呵，自從在這裡接受了改造手術之後，我的感覺就變得敏銳了呢。」,"""Hmmm, my senses have become more sensitive since I had my remodeling surgery here.""","""Hehe, my senses have become more sensitive since I underwent modification surgery here.""","「후훗, 여기서 개조 수술을 받고 나서 감각이 민감해져서 말이야」",「呵呵，自从在这里接受了改造手术之后，我的感觉就变得敏锐了呢。」
 ,,,,,,,,
-Kei.Fallen3-20,京,「君たちのチンポの血液の流れや体温、ホルモンに電気信号のシグナルまで手に取るように理解できるのさ」,「君たちのチンポの血液の流れや体温、ホルモンに電気信号のシグナルまで手に取るように理解できるのさ」,「你們陽具的血液流動、體溫、荷爾蒙，連電氣訊號都能一清二楚地掌握喔。」,"""I can see the blood flow in your dick, your body temperature, your hormones, even your electrical signals.""","""I can understand everything about your dicks like the back of my hand. Blood flow, temperature, hormones, even electrical signals, you name it.""","「너희들 자지의 혈액 흐름이나 체온, 호르몬에 전기 신호의 시그널까지 손에 잡힐 듯이 이해할 수 있지」",「你们阳具的血液流动、体温、荷尔蒙，连电气讯号都能一清二楚地掌握喔。」
+Kei.Fallen3-20,京,「君たちのチンポの血液の流れや体温、ホルモンに電気信号のシグナルまで手に取るように理解できるのさ」,「君たちのチンポの血液の流れや体温、ホルモンに電気信号のシグナルまで手に取るように理解できるのさ」,「你們陽具的血液流動、體溫、荷爾蒙，就像電器運作的訊息傳遞一樣，已經掌握地一清二楚喔。」,"""I can see the blood flow in your dick, your body temperature, your hormones, even your electrical signals.""","""I can understand everything about your dicks like the back of my hand. Blood flow, temperature, hormones, even electrical signals, you name it.""","「너희들 자지의 혈액 흐름이나 체온, 호르몬에 전기 신호의 시그널까지 손에 잡힐 듯이 이해할 수 있지」",「你们阳具的血液流动、体温、荷尔蒙，连电气讯号都能一清二楚地掌握喔。」
 ,,,,,,,,
 Kei.Fallen3-21,戦闘員,「ぐっ、耐えられねえっ！」,「ぐっ、耐えられねえっ！」,「唔、受不了了！」,"""I can't stand it!""","""Guh, I can't hold it!""","「크윽, 견딜 수 없어!」",「唔、受不了了！」
 ,,,,,,,,
-Kei.Fallen3-22,京,「ふふっ、搾精もここまで最適化すると楽しいね。これだけのチンポが全て私の思い通りだ♥」,「ふふっ、搾精もここまで最適化すると楽しいね。これだけのチンポが全て私の思い通りだ♥」,「呵呵，將搾精優化到這種地步，真是太有趣了。這麼多的陽具全都隨我心意！」,"""'Pfft, it's fun to optimize my sperming so much. All this cock is exactly what I want it to be ♥""","""Hehe, milking is fun when optimized to this level. All these dicks are completely under my control♥""","「후훗, 착정도 여기까지 최적화하면 즐겁네. 이만큼의 자지가 전부 내 마음대로야♥」",「呵呵，将搾精优化到这种地步，真是太有趣了。这么多的阳具全都随我心意！」
+Kei.Fallen3-22,京,「ふふっ、搾精もここまで最適化すると楽しいね。これだけのチンポが全て私の思い通りだ♥」,「ふふっ、搾精もここまで最適化すると楽しいね。これだけのチンポが全て私の思い通りだ♥」,「呵呵，將搾精最佳化到這種地步，真是太有趣了。這麼多的陽具全都隨我心意！」,"""'Pfft, it's fun to optimize my sperming so much. All this cock is exactly what I want it to be ♥""","""Hehe, milking is fun when optimized to this level. All these dicks are completely under my control♥""","「후훗, 착정도 여기까지 최적화하면 즐겁네. 이만큼의 자지가 전부 내 마음대로야♥」",「呵呵，将搾精优化到这种地步，真是太有趣了。这么多的阳具全都随我心意！」
 ,,,,,,,,
 Kei.Fallen3-23,京,「……さて、そろそろ出してもらおうかな？よっと」,「……さて、そろそろ出してもらおうかな？よっと」,「……那麼，差不多該讓你們射出來了吧？嘿。」,"""...... Well, I guess it's time to get them out. Yo!""","""...Now then, shall I have you come? Here we go.""","「……자, 슬슬 싸게 해줄까? 자」",「……那么，差不多该让你们射出来了吧？嘿。」
 ,,,,,,,,
@@ -540,7 +540,7 @@ Kei.Fallen3-30,京,「ジュルッ♥、ジュルルル♥チュパッ♥」,「
 ,,,,,,,,
 Kei.Fallen3-31,戦闘員,「ぐっ、おお…」,「ぐっ、おお…」,「唔、喔……」,"""Gosh, oh...""","""Guh, ohh...""","「크윽, 오오…」",「唔、喔……」
 ,,,,,,,,
-Kei.Fallen3-32,京,「ジュルルル♥ゴキュッ♥、……プハッ♥」,「ジュルルル♥ゴキュッ♥、……プハッ♥」,「咕嚕嚕嚕！咕咚♥、……呸哈♥」,"""Jullll♥gocuk♥, ......puhhhh♥""","""Slurrrp♥ Gulp♥... Pwah♥""","「쥬르르르♥꿀꺽♥, ……푸핫♥」",「咕噜噜噜！咕咚♥、……呸哈♥」
+Kei.Fallen3-32,京,「ジュルルル♥ゴキュッ♥、……プハッ♥」,「ジュルルル♥ゴキュッ♥、……プハッ♥」,「咕嚕嚕嚕！咕咚♥……呸哈♥」,"""Jullll♥gocuk♥, ......puhhhh♥""","""Slurrrp♥ Gulp♥... Pwah♥""","「쥬르르르♥꿀꺽♥, ……푸핫♥」",「咕噜噜噜！咕咚♥、……呸哈♥」
 ,Kei darkness 3-3,,,,,,,
 Kei.Fallen3-33,京,「…うん、みんなちょっとタンパク量が少ないかな…？今晩はもっと精の付くもの食べるのを推奨するよ」,「…うん、みんなちょっとタンパク量が少ないかな…？今晩はもっと精の付くもの食べるのを推奨するよ」,「……嗯，大家的蛋白質含量好像都有點少呢……？我建議今晚多吃點滋補的東西。」,"""...Yeah, I think we're all a little low on protein...? I suggest you eat something more hearty tonight.""","""...Hmm, everyone's protein levels seem a bit low... I recommend eating more stamina-building food tonight.""","「…응, 다들 좀 단백질 양이 부족한걸…? 오늘 밤은 더 정력에 좋은 걸 먹는 걸 추천할게」",「……嗯，大家的蛋白质含量好像都有点少呢……？我建议今晚多吃点滋补的东西。」
 ,,,,,,,,
@@ -556,7 +556,7 @@ Kei.Fallen3-38,,「ふむ…そろそろ勃起力と射精量を増強させる�
 ,,,,,,,,
 Kei.Fallen3-39,,「君たちのチンポ弱くてね…飽きてきちゃった」,「君たちのチンポ弱くてね…飽きてきちゃった」,「你們的陽具太弱了……我已經開始感到無聊了。」,"""Your dicks are so weak I'm getting tired of them.""","""Your dicks are so weak... I'm getting bored.""",「너희들 자지 약해서 말이야… 질려버렸어」,「你们的阳具太弱了……我已经开始感到无聊了。」
 ,,,,,,,,
-Kei.Fallen3-40,戦闘員,「っ、このガキがっ！俺達戦闘員を舐めるなッ！」,「っ、この雌猫がっ！俺達戦闘員を舐めるなッ！」,「可惡、這隻母貓！別小看我們戰鬥員！」,"""You little brat! Don't you dare lick us fighters!""","""You bitch! Don't underestimate us soldiers!""","「윽, 이 암고양이가! 우리 전투원을 얕보지 마!」",「可恶、这只母猫！别小看我们战斗员！」
+Kei.Fallen3-40,戦闘員,「っ、このガキがっ！俺達戦闘員を舐めるなッ！」,「っ、この雌猫がっ！俺達戦闘員を舐めるなッ！」,「這隻母貓！別小看我們戰鬥員！」,"""You little brat! Don't you dare lick us fighters!""","""You bitch! Don't underestimate us soldiers!""","「윽, 이 암고양이가! 우리 전투원을 얕보지 마!」",「可恶、这只母猫！别小看我们战斗员！」
 ,,,,,,,,
 Kei.Fallen3-41,京,「おや？やる気になってくれたかな？」,「おや？やる気になってくれたかな？」,「哎呀？你們有幹勁了嗎？」,"""Oh? Are you motivated now?""","""Oh? Are you getting motivated?""",「어머? 의욕이 생겼나?」,「哎呀？你们有干劲了吗？」
 ,,,,,,,,
@@ -591,7 +591,7 @@ Kei.Debauchery1-6,戦闘員,「というわけでお前には損失分―――�
 ,,,,,,,,
 Kei.Debauchery1-7,京,「…ははあ。つまり銀行をハッキングして口座の数字を書き換えろと―――」,「…ははあ。つまり銀行をハッキングして口座の数字を書き換えろと―――」,「…哈。也就是說要我駭入銀行修改帳戶數字囉——」,"""Hahaha. In other words, you want me to hack the bank and rewrite the numbers on the account――""","""...I see. So you want me to hack banks and rewrite account numbers...""",「…하하. 즉 은행을 해킹해서 계좌 숫자를 바꾸라는 건가―――」,「…哈。也就是说要我骇入银行修改帐户数字啰——」
 ,,,,,,,,
-Kei.Debauchery1-8,戦闘員,「違う！俺達よりも邪悪な事考えやがって！」,「違う！俺達よりも邪悪な事考えやがって！」,「才不是！妳怎麼想的事情比我們還邪惡！」,"""No,"" he said! You think more evil than we do!""","""Wrong! You're thinking of something more evil than us!""",「아니야! 우리보다 더 사악한 생각 하지 마!」,「才不是！你怎么想的事情比我们还邪恶！」
+Kei.Debauchery1-8,戦闘員,「違う！俺達よりも邪悪な事考えやがって！」,「違う！俺達よりも邪悪な事考えやがって！」,「才不是！妳怎麽想的事情比我們還邪惡！」,"""No,"" he said! You think more evil than we do!""","""Wrong! You're thinking of something more evil than us!""",「아니야! 우리보다 더 사악한 생각 하지 마!」,「才不是！你怎么想的事情比我们还邪恶！」
 ,,,,,,,,
 Kei.Debauchery1-9,戦闘員,「お前にやってもらうのはこれだ―――――」,「お前にやってもらうのはこれだ―――――」,「我們要妳做的是這個——」,"""Here's what I need you to do: ―――――""","""What you'll be doing is this...""",「너에게 시킬 일은 이거다―――――」,「我们要你做的是这个——」
 ,,,,,,,,
@@ -605,7 +605,7 @@ Kei.Debauchery1-12,戦闘員,「頭のいいお前ならこの仕事が適任だ
 ,,,,,,,,
 Kei.Debauchery1-13,戦闘員,「心配するな。財団が根回しして視聴者無理やり集めてやるから」,「心配するな。財団が根回しして視聴者無理やり集めてやるから」,「不用擔心。我們會利用財團的資源硬幫妳拉點閱。」,"""Don't worry. The foundation will put the groundwork in place and force the audience to come together.""","""Don't worry. The Foundation will pull strings and forcibly gather viewers for you.""",「걱정하지 마. 재단이 손써서 시청자 억지로 모아줄 테니까」,「不用担心。我们会利用财团的资源硬帮你拉点阅。」
 ,,,,,,,,
-Kei.Debauchery1-14,京,「…っ、いや、私はあまり人前に出るのは…しかもこの格好で！？」,「…っ、いや、私はあまり人前に出るのは…しかもこの格好で！？」,「…唔，不行，我不太喜歡拋頭露面…況且還是穿成這副模樣！？」,"""I don't go out in public much...and dressed like this!""","""...No, I'm not really comfortable appearing in public... especially in this outfit?!""","「…윽, 아니, 나는 별로 사람들 앞에 나서는 건… 게다가 이 모습으로!?」",「…唔，不行，我不太喜欢抛头露面…况且还是穿成这副模样！？」
+Kei.Debauchery1-14,京,「…っ、いや、私はあまり人前に出るのは…しかもこの格好で！？」,「…っ、いや、私はあまり人前に出るのは…しかもこの格好で！？」,「…不行，我不太喜歡拋頭露面…況且還是穿成這副模樣！？」,"""I don't go out in public much...and dressed like this!""","""...No, I'm not really comfortable appearing in public... especially in this outfit?!""","「…윽, 아니, 나는 별로 사람들 앞에 나서는 건… 게다가 이 모습으로!?」",「…唔，不行，我不太喜欢抛头露面…况且还是穿成这副模样！？」
 ,,,,,,,,
 Kei.Debauchery1-15,戦闘員,「物は試しだ、俺が助手してやるからさっさと準備するぞ」,「物は試しだ、俺が助手してやるからさっさと準備するぞ」,「試試看嘛，我來當妳的助手，快點準備！」,"""Let's just try it out, I'll be your assistant, and we'll get you set up quickly.""","""Just give it a try. I'll be your assistant, so hurry up and get ready.""","「시험 삼아 해보자, 내가 조수 해줄 테니 빨리 준비해」",「试试看嘛，我来当你的助手，快点准备！」
 ,,,,,,,,
@@ -624,11 +624,11 @@ Kei.Debauchery1-20,京,「しかも至近距離でこんな格好で…流石に
 ,,,,,,,,
 Kei.Debauchery1-21,助手,「ほら、視聴者が待ってます！まずは挨拶を！」,「ほら、視聴者が待ってます！まずは挨拶を！」,「快，觀眾們在等妳！先來打個招呼！」,"""'Look, the audience is waiting for you! Greetings first!""","""Come on, the viewers are waiting! Start with a greeting!""","「자, 시청자들이 기다리고 있어요! 우선 인사를!」",「快，观众们在等你！先来打个招呼！」
 ,,,,,,,,
-Kei.Debauchery1-22,京,「っ、そうだね…やるしかないか」,「っ、そうだね…やるしかないか」,「唔，說得也是…只能上了」,"""I guess... we'll just have to do it.""","""Right... Guess I have no choice.""","「윽, 그렇네… 할 수밖에 없나」",「唔，说得也是…只能上了」
+Kei.Debauchery1-22,京,「っ、そうだね…やるしかないか」,「っ、そうだね…やるしかないか」,「說得也是…只能上了」,"""I guess... we'll just have to do it.""","""Right... Guess I have no choice.""","「윽, 그렇네… 할 수밖에 없나」",「唔，说得也是…只能上了」
 ,,,,,,,,
 Kei.Debauchery1-23,京,「……というわけで視聴者の諸君、初めまして。」,「……というわけで視聴者の諸君、初めまして。」,「……那麼，各位觀眾，初次見面。」,"""So nice to meet you, viewers of .......""","""...So then, viewers, nice to meet you.""","「……그런 이유로 시청자 여러분, 처음 뵙겠습니다.」",「……那么，各位观众，初次见面。」
 ,,,,,,,,
-Kei.Debauchery1-24,京,「元聖核戦姫の天才エロストリーマー、ケイちゃんだ」,「元聖核戦姫の天才エロストリーマー、ケイちゃんだ」,「我是前聖核戰姫的天才情色實況主，京。」,"""I'm Kei, a genius erotic streamer formerly known as the Seikaku Princess.""","""I'm the genius erotic streamer and former Holy Core Battlemaiden, Kei.""","「전 성핵전희 천재 에로 스트리머, 케이쨩이다」",「我是前圣核战姫的天才情色实况主，京。」
+Kei.Debauchery1-24,京,「元聖核戦姫の天才エロストリーマー、ケイちゃんだ」,「元聖核戦姫の天才エロストリーマー、ケイちゃんだ」,「我是前聖核戰姫的天才情色實況主，京醬唷。」,"""I'm Kei, a genius erotic streamer formerly known as the Seikaku Princess.""","""I'm the genius erotic streamer and former Holy Core Battlemaiden, Kei.""","「전 성핵전희 천재 에로 스트리머, 케이쨩이다」",「我是前圣核战姫的天才情色实况主，京。」
 ,Kei debauchery1ｰ2,,,,,,,
 Kei.Debauchery1-25,京,「聖核戦姫として戦っていたのだが…負けてしまってね、今は財団管理のもと配信を行っている」,「聖核戦姫として戦っていたのだが…負けてしまってね、今は財団管理のもと配信を行っている」,「我原本是作為聖核戰姫在戰鬥…但由於我輸了，現在在財團的管理下進行直播。」,"""I was fighting as the Seikaku Princess...but I lost, and now I distribute under the control of the Foundation.""","""I was fighting as a Holy Core Battlemaiden but... I lost, and now I'm streaming under Foundation management.""","「성핵전희로서 싸웠지만… 져버려서 말이야, 지금은 재단 관리 하에 방송을 하고 있다」",「我原本是作为圣核战姫在战斗…但由于我输了，现在在财团的管理下进行直播。」
 ,,,,,,,,
@@ -648,13 +648,13 @@ Kei.Debauchery1-32,京,「な…この1万人以上が見ている中で…っ�
 ,,,,,,,,
 Kei.Debauchery1-33,助手,「どうせこれから何回も見られるんです。自己紹介だと思って！」,「どうせこれから何回も見られるんです。自己紹介だと思って！」,「反正妳接下來會被看很多次。就當作是自我介紹吧！」,"""I'm going to see you many times from now on anyway. Think of it as an introduction!""","""You'll be showing them in the long run anyway, think of it as introducing yourself!""",「어차피 이제부터 몇 번이나 보게 될 거예요. 자기소개라고 생각하고!」,「反正你接下来会被看很多次。就当作是自我介绍吧！」
 ,,,,,,,,
-Kei.Debauchery1-34,Kei debauchery 1-4,京は恐る恐る自分の秘所に手を伸ばし、割れ目をぱっくりと開く,京は恐る恐る自分の秘所に手を伸ばし、割れ目をぱっくりと開く,京戰戰兢兢地將手伸向自己的秘處，將花瓣完全掰開。,Kei fearfully reaches for his secret place and cracks it open.,"Hesitant, Kei extended her hand to her crotch and spread her slit.","케이는 두려워하며 자신의 은밀한 곳에 손을 뻗어, 갈라진 틈을 활짝 벌린다",京战战兢兢地将手伸向自己的秘处，将花瓣完全掰开。
+Kei.Debauchery1-34,Kei debauchery 1-4,京は恐る恐る自分の秘所に手を伸ばし、割れ目をぱっくりと開く,京は恐る恐る自分の秘所に手を伸ばし、割れ目をぱっくりと開く,京戰戰兢兢地將手伸向自己的祕處，將花瓣完全掰開。,Kei fearfully reaches for his secret place and cracks it open.,"Hesitant, Kei extended her hand to her crotch and spread her slit.","케이는 두려워하며 자신의 은밀한 곳에 손을 뻗어, 갈라진 틈을 활짝 벌린다",京战战兢兢地将手伸向自己的秘处，将花瓣完全掰开。
 ,,,,,,,,
 Kei.Debauchery1-35,京,「～～～っ、これでいいだろうかっ！」,「～～～っ、これでいいだろうかっ！」,「～～～唔，這樣可以了吧！」,"""","""...Will this do?""","「~~~윽, 이걸로 됐을까!」",「～～～唔，这样可以了吧！」
 ,,,,,,,,
 Kei.Debauchery1-36,助手,「流石です先生！既に4万人近くが見ています！」,「流石です先生！既に4万人近くが見ています！」,「不愧是老師！已經有將近四萬人正在觀看了！」,"""It's a quintessence, sir! Already nearly 40,000 people have seen it!""","""That's it! We've got more than 40,000 people watching now!""",「역시 선생님! 이미 4만 명 가까이 보고 있습니다!」,「不愧是老师！已经有将近四万人正在观看了！」
 ,,,,,,,,
-Kei.Debauchery1-37,京,「っ、…うぅ…恥ずかしさで茹ってしまいそうだ…」,「っ、…うぅ…恥ずかしさで茹ってしまいそうだ…」,「唔，…嗚嗚…我快要因為羞恥而熟透了…」,"""I'm going to boil with embarrassment...""","""So... humiliating...""","「윽, …으으… 부끄러워서 삶아질 것 같아…」",「唔，…呜呜…我快要因为羞耻而熟透了…」
+Kei.Debauchery1-37,京,「っ、…うぅ…恥ずかしさで茹ってしまいそうだ…」,「っ、…うぅ…恥ずかしさで茹ってしまいそうだ…」,「唔…嗚嗚…我快要因為羞恥而熟透了…」,"""I'm going to boil with embarrassment...""","""So... humiliating...""","「윽, …으으… 부끄러워서 삶아질 것 같아…」",「唔，…呜呜…我快要因为羞耻而熟透了…」
 ,,,,,,,,
 Kei.Debauchery1-38,京,「コメントも拾わないとな…おマンコピンク色でめっちゃ綺麗………あ、ありがとう……」,「コメントも拾わないとな…おマンコピンク色でめっちゃ綺麗………あ、ありがとう……」,「也得看一下留言呢…小穴是粉紅色的，超級漂亮………謝、謝謝……」,"""I'll have to pick up your comments too... your pussy is so pink and so beautiful ......... oh, thanks ......""","""Oh, the comments... 'Your pussy is pink and beautiful.' Thank you...""","「코멘트도 읽어야지… 보지 핑크색으로 엄청 예뻐……… 아, 고마워……」",「也得看一下留言呢…小穴是粉红色的，超级漂亮………谢、谢谢……」
 ,,,,,,,,
@@ -668,7 +668,7 @@ Kei.Debauchery1-42,助手,「では私が指し示すので解説を。京先生
 ,,,,,,,,
 Kei.Debauchery1-43,京,「っ、…うう、わかった…しかし自分のをここまではっきり見るのは初めてだ…」,「っ、…うう、わかった…しかし自分のをここまではっきり見るのは初めてだ…」,「唔，…嗚嗚，我知道了…可是連我自己也是第一次這麼清楚地看到自己的私處…」,"""I've never seen my own so clearly before...""","""...Fine. I've never seen my own so close...""","「윽, …으으, 알았다… 하지만 내 것을 이렇게 또렷하게 보는 건 처음이야…」",「唔，…呜呜，我知道了…可是连我自己也是第一次这么清楚地看到自己的私处…」
 ,,,,,,,,
-Kei.Debauchery1-44,,京は指示棒が示す自分の秘所の部分を順に解説していく,京は指示棒が示す自分の秘所の部分を順に解説していく,京依序解說著指示棒所指著的自己秘處部位。,Kei explains in turn the parts of his own secret places indicated by the instruction stick.,Kei explained her private parts with a stick.,케이는 지시봉이 가리키는 자신의 은밀한 부분을 차례로 해설해 나간다,京依序解说着指示棒所指着的自己秘处部位。
+Kei.Debauchery1-44,,京は指示棒が示す自分の秘所の部分を順に解説していく,京は指示棒が示す自分の秘所の部分を順に解説していく,京依序解說著指示棒所指著的自己祕處部位。,Kei explains in turn the parts of his own secret places indicated by the instruction stick.,Kei explained her private parts with a stick.,케이는 지시봉이 가리키는 자신의 은밀한 부분을 차례로 해설해 나간다,京依序解说着指示棒所指着的自己秘处部位。
 ,,,,,,,,
 Kei.Debauchery1-45,京,「ここは尿道で…排尿をする器官だ…オーガズム時には潮吹きの現象が見られるな…」,「ここは尿道で…排尿をする器官だ…オーガズム時には潮吹きの現象が見られるな…」,「這裡是尿道…是排尿的器官…在高潮的時候會出現噴潮的現象…」,"""This is the urethra... the organ that urinates... you see the phenomenon of squirting during orgasm...""","""This is where I pee... And where I squirt when I come.""",「여기는 요도이고… 배뇨를 하는 기관이다… 오르가즘 시에는 분수 현상이 보이지…」,「这里是尿道…是排尿的器官…在高潮的时候会出现喷潮的现象…」
 ,,,,,,,,
@@ -686,21 +686,21 @@ Kei.Debauchery1-51,京,「なっ…これでも精一杯広げているんだが
 ,,,,,,,,
 Kei.Debauchery1-52,助手,「ここまでくれば後は一緒です。もっと広げて子宮まで見せちゃいましょう」,「ここまでくれば後は一緒です。もっと広げて子宮まで見せちゃいましょう」,「都到這一步了，剩下的都一樣。再撐開一點，把子宮也給大家看吧。」,"""Once you've reached this point, the rest is the same. Let's widen it even more and show her the womb.""","""You've already come this far, doesn't hurt to go further. Spread wider and show them your womb.""",「여기까지 왔으면 이제 똑같습니다. 더 벌려서 자궁까지 보여줍시다」,「都到这一步了，剩下的都一样。再撑开一点，把子宫也给大家看吧。」
 ,,,,,,,,
-Kei.Debauchery1-53,京,「っ、ううっ…」,「っ、ううっ…」,「唔，嗚嗚…」,"""Ugh...""","""Ugh...""","「윽, 으윽…」",「唔，呜呜…」
+Kei.Debauchery1-53,京,「っ、ううっ…」,「っ、ううっ…」,「嗚嗚…」,"""Ugh...""","""Ugh...""","「윽, 으윽…」",「唔，呜呜…」
 ,Kei debauchery 1-6,,,,,,,
-Kei.Debauchery1-54,京,「っ、これでいいだろうかっ！」,「っ、これでいいだろうかっ！」,「唔，這樣可以了吧！」,"""Let's do this!""","""Is this good enough?!""","「윽, 이걸로 됐을까!」",「唔，这样可以了吧！」
+Kei.Debauchery1-54,京,「っ、これでいいだろうかっ！」,「っ、これでいいだろうかっ！」,「這樣可以了吧！」,"""Let's do this!""","""Is this good enough?!""","「윽, 이걸로 됐을까!」",「唔，这样可以了吧！」
 ,,,,,,,,
 Kei.Debauchery1-55,助手,「流石です先生！ついでに解説もお願いします」,「流石です先生！ついでに解説もお願いします」,「不愧是老師！順便也麻煩解說一下！」,"""I'm sure you're right, sir! And while you're at it, could you give us an explanation?""","""Excellent! Please provide commentary as well.""",「역시 선생님! 겸사겸사 해설도 부탁합니다」,「不愧是老师！顺便也麻烦解说一下！」
 ,,,,,,,,
-Kei.Debauchery1-56,京,「――――っ、これが…私の子宮口だ…私も初めて見るなっ……」,「――――っ、これが…私の子宮口だ…私も初めて見るなっ……」,「――――唔，這就是…我的子宮頸…連我也是第一次看到啊……」,"""――――, this... is my cervix... I've never seen it before. ......""","""...This is... my cervix... It's my first time seeing it too...""","「――――윽, 이것이… 내 자궁 입구다… 나도 처음 보는군……」",「――――唔，这就是…我的子宫颈…连我也是第一次看到啊……」
+Kei.Debauchery1-56,京,「――――っ、これが…私の子宮口だ…私も初めて見るなっ……」,「――――っ、これが…私の子宮口だ…私も初めて見るなっ……」,「――――這就是…我的子宮頸…連我也是第一次看到啊……」,"""――――, this... is my cervix... I've never seen it before. ......""","""...This is... my cervix... It's my first time seeing it too...""","「――――윽, 이것이… 내 자궁 입구다… 나도 처음 보는군……」",「――――唔，这就是…我的子宫颈…连我也是第一次看到啊……」
 ,,,,,,,,
 Kei.Debauchery1-57,京,「膣内射精された精液は…この中に入って…受精…するわけだな…」,「膣内射精された精液は…この中に入って…受精…するわけだな…」,「被內射的精液…會進入這裡面…進行受精…就是這麼一回事。」,"""So the semen ejaculated vaginally... goes in... and fertilizes... this... thing...?""","""The semen from vaginal ejaculation... enters here... and fertilization... happens...""",「질내 사정된 정액은… 이 안으로 들어가서… 수정…하는 거겠지…」,「被内射的精液…会进入这里面…进行受精…就是这么一回事。」
 ,,,,,,,,
-Kei.Debauchery1-58,京,「なになに…子宮もかわいい…そ、そうか、コメントありがとう……」,「なになに…子宮もかわいい…そ、そうか、コメントありがとう……」,「咦，什麼什麼…子宮也超可愛…是、是嗎，謝謝留言……」,"""What the... uterus is cute too... well, thanks for the comment ......""","""What's that... 'Your womb is cute too'... I-I see, thank you for the comment...""","「뭐야뭐야… 자궁도 귀여워… 그, 그래, 코멘트 고마워……」",「咦，什么什么…子宫也超可爱…是、是吗，谢谢留言……」
+Kei.Debauchery1-58,京,「なになに…子宮もかわいい…そ、そうか、コメントありがとう……」,「なになに…子宮もかわいい…そ、そうか、コメントありがとう……」,「什麼什麼…子宮也超可愛…是、是嗎，謝謝留言……」,"""What the... uterus is cute too... well, thanks for the comment ......""","""What's that... 'Your womb is cute too'... I-I see, thank you for the comment...""","「뭐야뭐야… 자궁도 귀여워… 그, 그래, 코멘트 고마워……」",「咦，什么什么…子宫也超可爱…是、是吗，谢谢留言……」
 ,,,,,,,,
 Kei.Debauchery1-59,京,「本物見ながらだと分かりやすい…ううっ、理解を深められたようで何よりだ…」,「本物見ながらだと分かりやすい…ううっ、理解を深められたようで何よりだ…」,「看到實體來解說比較好理解…嗚嗚，能加深理解真是太好了…」,"""It's easier to understand when you see the real thing...ugh, I'm glad you're getting a better understanding...""","""It's easier to understand while looking at the real thing... Ugh, I'm glad you could deepen your understanding...""","「실물 보면서 하면 알기 쉬워… 으윽, 이해가 깊어진 것 같아 다행이다…」",「看到实体来解说比较好理解…呜呜，能加深理解真是太好了…」
 ,,,,,,,,
-Kei.Debauchery1-60,京,「っ、ううっ…私のプライバシーは終わりだ…」,「っ、ううっ…私のプライバシーは終わりだ…」,「唔，嗚嗚…我的隱私徹底沒了…」,"""Ugh... my privacy is over...""","""Ugh... my privacy is over...""","「윽, 으윽… 내 프라이버시는 끝이야…」",「唔，呜呜…我的隐私彻底没了…」
+Kei.Debauchery1-60,京,「っ、ううっ…私のプライバシーは終わりだ…」,「っ、ううっ…私のプライバシーは終わりだ…」,「嗚嗚…我的隱私徹底沒了…」,"""Ugh... my privacy is over...""","""Ugh... my privacy is over...""","「윽, 으윽… 내 프라이버시는 끝이야…」",「唔，呜呜…我的隐私彻底没了…」
 ,,,,,,,,
 Kei.Debauchery1-61,助手,「これで挨拶は一通り済みましたね。では本番と行きましょう」,「これで挨拶は一通り済みましたね。では本番と行きましょう」,「這樣打招呼就差不多結束了。那麼，進入正題吧。」,"""Now that we've done all the greetings, let's get down to business. Now let's get down to business.""","""That completes the greetings. Now let's move on to the main event.""",「이걸로 인사는 대충 끝났네요. 그럼 본방으로 가봅시다」,「这样打招呼就差不多结束了。那么，进入正题吧。」
 ,,,,,,,,
@@ -712,7 +712,7 @@ Kei.Debauchery1-64,助手,「エロ配信ですからね。これだけで終わ
 ,,,,,,,,
 Kei.Debauchery1-65,助手,「これは視聴者から投げ銭と連動して動くピストンです。お、早速誰か投げ銭を」,「これは視聴者から投げ銭と連動して動くピストンです。お、早速誰か投げ銭を」,「這是與觀眾的贊助金額連動的活塞。喔，這麼快就有人贊助了。」,"""This is a piston that works in tandem with the money thrown in by the viewer. Oh, someone throw in some money right away.""","""This piston moves in sync with viewer donations. Oh, someone's already donating.","「이것은 시청자로부터의 팁과 연동하여 움직이는 피스톤입니다. 오, 벌써 누군가 팁을」",「这是与观众的赞助金额连动的活塞。喔，这么快就有人赞助了。」
 ,,,,,,,,
-Kei.Debauchery1-66,京,「っ、悪趣味なっ、ていうかこれ規約的に良いの―――――」,「っ、悪趣味なっ、ていうかこれ規約的に良いの―――――」,「唔，品味真差！話說這在規定上沒問題嗎―――――」,"""I mean, is this even legal ―――――?""","""That's in bad taste, and is this even allowed by the terms of service...""","「윽, 악취미네, 그보다 이거 규약적으로 괜찮은 거야―――――」",「唔，品味真差！话说这在规定上没问题吗―――――」
+Kei.Debauchery1-66,京,「っ、悪趣味なっ、ていうかこれ規約的に良いの―――――」,「っ、悪趣味なっ、ていうかこれ規約的に良いの―――――」,「品味真差！話說這在規定上沒問題嗎―――――」,"""I mean, is this even legal ―――――?""","""That's in bad taste, and is this even allowed by the terms of service...""","「윽, 악취미네, 그보다 이거 규약적으로 괜찮은 거야―――――」",「唔，品味真差！话说这在规定上没问题吗―――――」
 ,,,,,,,,
 Kei.Debauchery1-67,Kei debauchery1-8,ズボッ！！,ズボッ！！,噗滋！！,Zbobo!,Thrust!!,즈봇!!,噗滋！！
 ,,,,,,,,
@@ -726,7 +726,7 @@ Kei.Debauchery1-71,京,「ちょ、ちょっとまて！まだ心の準備がっ
 ,暗転,,,,,,,
 Kei.Debauchery1-72,Kei debauchery1-9,ウィィィィイインンッ！ズボッ！ズボッ！ズボッ！,ウィィィィイインンッ！ズボッ！ズボッ！ズボッ！,嗡嗡嗡嗡嗡！噗滋！噗滋！噗滋！,Wheeeeeeeeeeeinnnggg! Zvobo! Zubo! Zubo!,Whirrr! Thrust! Thrust! Thrust!,위이이이이인! 즈봇! 즈봇! 즈봇!,嗡嗡嗡嗡嗡！噗滋！噗滋！噗滋！
 ,,,,,,,,
-Kei.Debauchery1-73,京,「ひあっ♥、まってってっ！、まだ早いぃっ！」,「ひあっ♥、まってってっ！、まだ早いぃっ！」,「呀♥、等一下！還太快了啦！」,"""Oh, stop it! It's too early!""","""Hyah♥ I said wait! It's too fast!""","「히앗♥, 기다려줘!, 아직 일러잇!」",「呀♥、等一下！还太快了啦！」
+Kei.Debauchery1-73,京,「ひあっ♥、まってってっ！、まだ早いぃっ！」,「ひあっ♥、まってってっ！、まだ早いぃっ！」,「呀♥，等一下！還太快了啦！」,"""Oh, stop it! It's too early!""","""Hyah♥ I said wait! It's too fast!""","「히앗♥, 기다려줘!, 아직 일러잇!」",「呀♥、等一下！还太快了啦！」
 ,,,,,,,,
 Kei.Debauchery1-74,,ズボッ！ズボッ！ズボッ！,ズボッ！ズボッ！ズボッ！,噗滋！噗滋！噗滋！,Zubo! Zubo! Zubo!,Thrust! Thrust! Thrust!,즈봇! 즈봇! 즈봇!,噗滋！噗滋！噗滋！
 ,,,,,,,,
@@ -750,7 +750,7 @@ Kei.Debauchery1-82,,プシュッ、プシャアアアア,プシュッ、プシ�
 ,,,,,,,,
 Kei.Debauchery1-83,助手,「京先生は実況どころではないので私が代わりに解説していますが…投げ銭が300万超えた所で5回目の潮吹きです！」,「京先生は実況どころではないので私が代わりに解説していますが…投げ銭が300万超えた所で5回目の潮吹きです！」,「京老師已經沒空實況了，所以由我來代替解說…在贊助金額超過三百萬的時候，是第五次的噴潮！」,"""Kei―sensei is not in the mood for play―by―play, so I'm doing the commentary for him...and we've just passed the 3 million mark in throws, and it's our fifth squirt!""","""Since Miss Kei can't commentate, I'll explain instead... With donations exceeding 3 million, that's her fifth squirting!""",「케이 선생님은 실황할 정신이 없으므로 제가 대신 해설하고 있습니다만… 팁이 300만 넘은 시점에서 5번째 분수입니다!」,「京老师已经没空实况了，所以由我来代替解说…在赞助金额超过三百万的时候，是第五次的喷潮！」
 ,,,,,,,,
-Kei.Debauchery1-84,京,「まってぇっ♥、止めてっ♥、イキ死ぬぅっ♥！」,「まってぇっ♥、止めてっ♥、イキ死ぬぅっ♥！」,「等一下啦♥、快停下來♥、我要高潮死掉了啦♥！」,"""Stop, stop, I'm dying!""","""Wait♥ Stop♥ I'll die from coming♥!""","「기다려요오♥, 멈춰줘♥, 가서 죽어버려어♥!」",「等一下啦♥、快停下来♥、我要高潮死掉了啦♥！」
+Kei.Debauchery1-84,京,「まってぇっ♥、止めてっ♥、イキ死ぬぅっ♥！」,「まってぇっ♥、止めてっ♥、イキ死ぬぅっ♥！」,「等一下啦♥，快停下來♥，我要高潮死掉了啦♥！」,"""Stop, stop, I'm dying!""","""Wait♥ Stop♥ I'll die from coming♥!""","「기다려요오♥, 멈춰줘♥, 가서 죽어버려어♥!」",「等一下啦♥、快停下来♥、我要高潮死掉了啦♥！」
 ,,,,,,,,
 Kei.Debauchery1-85,助手,「先生、20万人がこの配信を見ていますが、何か感想は？」,「先生、20万人がこの配信を見ていますが、何か感想は？」,「老師，有二十萬人在看這個直播，有什麼感想嗎？」,"""'Sir, 200,000 people are watching this feed, any thoughts?""","""200,000 people are watching this stream. Any thoughts?""","「선생님, 20만 명이 이 방송을 보고 있습니다만, 뭔가 감상은?」",「老师，有二十万人在看这个直播，有什么感想吗？」
 ,,,,,,,,
@@ -766,7 +766,7 @@ Kei.Debauchery1-90,,ケイからピストンが引き抜かれる,ケイから�
 ,,,,,,,,
 Kei.Debauchery1-91,助手,「終了です！これで今回のピストンは終わりとさせていただきます！」,「終了です！これで今回のピストンは終わりとさせていただきます！」,「結束了！這次的活塞運動就到此為止！」,"""It's over! This concludes this round of pistons!""","""That's it! This concludes today's piston session!""",「종료입니다! 이걸로 이번 피스톤은 끝내도록 하겠습니다!」,「结束了！这次的活塞运动就到此为止！」
 ,,,,,,,,
-Kei.Debauchery1-92,京,「お゛おっ♥、おわっ…た♥？」,「お゛おっ♥、おわっ…た♥？」,「喔喔♥、結…束了♥？」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh...?""","""Ohh♥ It's... over?""","「오옷 오옷♥, 끝…났…어♥?」",「喔喔♥、结…束了♥？」
+Kei.Debauchery1-92,京,「お゛おっ♥、おわっ…た♥？」,「お゛おっ♥、おわっ…た♥？」,「喔喔♥結…束了♥？」,"""Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh...?""","""Ohh♥ It's... over?""","「오옷 오옷♥, 끝…났…어♥?」",「喔喔♥、结…束了♥？」
 ,,,,,,,,
 Kei.Debauchery1-93,助手,「今回集まった投げ銭の総量は1千100万円！累計1000回以上ピストンされました！」,「今回集まった投げ銭の総量は1千100万円！累計1000回以上ピストンされました！」,「這次募到的贊助總額是一千一百萬！活塞累積運動了一千多次！」,"""The total amount of money raised this time was 11 million yen! Pistons have been pistoned more than 1,000 times in total!""","""The total donations collected this time amount to 11 million yen! You were pistoned over 1000 times in total!""",「이번에 모인 팁 총액은 1천100만 엔! 누계 1000회 이상 피스톤되었습니다!」,「这次募到的赞助总额是一千一百万！活塞累积运动了一千多次！」
 ,,,,,,,,
@@ -784,15 +784,15 @@ Kei Debauchery Scene　2,注釈,淫乱化シーン,淫乱化シーン,,淫乱化
 ,,,,,,,,
 Kei.Debauchery2-1,暗転,京が配信を始めてから1か月後,京が配信を始めてから1か月後,京開始直播後一個月,One month after Kei started delivering,One month after Kei started streaming,케이가 방송을 시작한 지 1개월 후,京开始直播后一个月
 ,Kei debauchery2ｰ1,,,,,,,
-Kei.Debauchery2-2,京,「あー、あー、映っているかな？」,「あー、あー、映っているかな？」,「啊～啊～有映出來嗎？」,"""Uh, uh, are we in the picture?""","""Has it started?""","「아-, 아-, 나오고 있을까?」",「啊～啊～有映出来吗？」
+Kei.Debauchery2-2,京,「あー、あー、映っているかな？」,「あー、あー、映っているかな？」,「啊～啊～有拍到嗎？」,"""Uh, uh, are we in the picture?""","""Has it started?""","「아-, 아-, 나오고 있을까?」",「啊～啊～有映出来吗？」
 ,,,,,,,,
-Kei.Debauchery2-3,京,「深夜の天才ストリーマー、ケイちゃんの絶頂配信の時間だ」,「深夜の天才ストリーマー、ケイちゃんの絶頂配信の時間だ」,「深夜的天才實況主，京的極致高潮直播時間到囉。」,"""It's time for the late-night streaming genius, Kei-chan, to deliver her climax.""","""It's time for the orgasm stream of Kei, the late night genius streamer!""","「심야의 천재 스트리머, 케이쨩의 절정 방송 시간이다」",「深夜的天才实况主，京的极致高潮直播时间到啰。」
+Kei.Debauchery2-3,京,「深夜の天才ストリーマー、ケイちゃんの絶頂配信の時間だ」,「深夜の天才ストリーマー、ケイちゃんの絶頂配信の時間だ」,「深夜的天才實況主，京醬的極致高潮直播時間到囉。」,"""It's time for the late-night streaming genius, Kei-chan, to deliver her climax.""","""It's time for the orgasm stream of Kei, the late night genius streamer!""","「심야의 천재 스트리머, 케이쨩의 절정 방송 시간이다」",「深夜的天才实况主，京的极致高潮直播时间到啰。」
 ,,,,,,,,
 Kei.Debauchery2-4,京,「うぉ…全世界60万人近くが配信を見てるのか…凄い数だな」,「うぉ…全世界60万人近くが配信を見てるのか…凄い数だな」,「哇…全世界有將近六十萬人在看直播嗎…真是驚人的數字。」,"""Wow...almost 600,000 people worldwide are watching the feed...that's a lot of people.""","""Whoa... Nearly 600,000 people worldwide are watching the stream... That's an incredible number.""",「우옷… 전 세계 60만 명 가까이가 방송을 보고 있나… 굉장한 숫자네」,「哇…全世界有将近六十万人在看直播吗…真是惊人的数字。」
 ,,,,,,,,
-Kei.Debauchery2-5,京,「え～コメント…“ケイちゃん種付けプレスで絶対孕ますマン”さん…ひどい名前だ」,「え～コメント…“ケイちゃん種付けプレスで絶対孕ますマン”さん…ひどい名前だ」,「呃～留言…「京播種內射絕對讓妳懷孕男」先生…名字真難聽。」,"""Ehhh, comment... 'Mr. Man who will definitely impregnate Kei with his seed press'... that's a terrible name.""","""Let's see the comments... 'KeiMatingPressMan'... What a terrible username.""",「에~ 코멘트… “케이쨩 씨받이 프레스로 절대 임신시킬 남자” 씨… 심한 이름이네」,「呃～留言…「京播种内射绝对让你怀孕男」先生…名字真难听。」
+Kei.Debauchery2-5,京,「え～コメント…“ケイちゃん種付けプレスで絶対孕ますマン”さん…ひどい名前だ」,「え～コメント…“ケイちゃん種付けプレスで絶対孕ますマン”さん…ひどい名前だ」,「呃～留言…『京醬播種內射絕對讓妳懷孕男』先生…名字真難聽。」,"""Ehhh, comment... 'Mr. Man who will definitely impregnate Kei with his seed press'... that's a terrible name.""","""Let's see the comments... 'KeiMatingPressMan'... What a terrible username.""",「에~ 코멘트… “케이쨩 씨받이 프레스로 절대 임신시킬 남자” 씨… 심한 이름이네」,「呃～留言…「京播种内射绝对让你怀孕男」先生…名字真难听。」
 ,,,,,,,,
-Kei.Debauchery2-6,京,「“今日もケイちゃんのおまんこ見れて眼福です、いつかハメたい”……あ、ありがとう」,「“今日もケイちゃんのおまんこ見れて眼福です、いつかハメたい”……あ、ありがとう」,「「今天又看到了京的小穴真是大飽眼福，總有一天我要內射妳」……謝、謝謝你。」,"""I'm so happy to see Kei's pussy again today, I want to fuck her someday."" ...... ""Oh, thank you.""","""'Thanks for the stream today, Kei, hope to fuck someday'... Th-thank you.""","「“오늘도 케이쨩 보지 봐서 눈 호강입니다, 언젠가 박고 싶다”…… 아, 고마워」",「「今天又看到了京的小穴真是大饱眼福，总有一天我要内射你」……谢、谢谢你。」
+Kei.Debauchery2-6,京,「“今日もケイちゃんのおまんこ見れて眼福です、いつかハメたい”……あ、ありがとう」,「“今日もケイちゃんのおまんこ見れて眼福です、いつかハメたい”……あ、ありがとう」,「『今天又看到了京醬的小穴真是大飽眼福，總有一天我要內射妳』……謝、謝謝你。」,"""I'm so happy to see Kei's pussy again today, I want to fuck her someday."" ...... ""Oh, thank you.""","""'Thanks for the stream today, Kei, hope to fuck someday'... Th-thank you.""","「“오늘도 케이쨩 보지 봐서 눈 호강입니다, 언젠가 박고 싶다”…… 아, 고마워」",「「今天又看到了京的小穴真是大饱眼福，总有一天我要内射你」……谢、谢谢你。」
 ,,,,,,,,
 Kei.Debauchery2-7,京,「まぁ…私のおまんこなどもはや隠す意味もない。少し検索すれば無限に出てくるからな」,「まぁ…私のおまんこなどもはや隠す意味もない。少し検索すれば無限に出てくるからな」,「算了…我的小穴之類的東西已經沒必要隱藏了。稍微搜尋一下就能找到無限多張。」,"""'Well... there's no longer any point in hiding my pussy or anything else. A little searching will reveal an infinite number of them.""","""Well... There's no point in hiding my pussy anymore. A quick search would show endless results anyway.""",「뭐… 내 보지 따위 이제 숨길 의미도 없어. 조금 검색하면 무한히 나오니까」,「算了…我的小穴之类的东西已经没必要隐藏了。稍微搜寻一下就能找到无限多张。」
 ,,,,,,,,
@@ -812,7 +812,7 @@ Kei.Debauchery2-14,,助手がスイッチを入れた瞬間、ピンク色のレ
 ,,,,,,,,
 Kei.Debauchery2-15,Kei debauchery2-3,ジジッ！ピ――――！,ジジッ！ピ――――！,滋滋！嗶―――！,Geez! Pi――――!,Zap! Beeeep!,지직! 피――――!,滋滋！哔―――！
 ,,,,,,,,
-Kei.Debauchery2-16,京,「ひあっ♥！？、んっ♥、んあっ♥！？」,「ひあっ♥！？、んっ♥、んあっ♥！？」,「呀♥！？、嗯♥、嗯啊♥！？」,"""Hi ♥♥! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Hyah♥!? Nn♥, nah♥!?""","「히앗♥!?, 응읏♥, 응앗♥!?」",「呀♥！？、嗯♥、嗯啊♥！？」
+Kei.Debauchery2-16,京,「ひあっ♥！？、んっ♥、んあっ♥！？」,「ひあっ♥！？、んっ♥、んあっ♥！？」,「呀♥！？嗯♥、嗯啊♥！？」,"""Hi ♥♥! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Hyah♥!? Nn♥, nah♥!?""","「히앗♥!?, 응읏♥, 응앗♥!?」",「呀♥！？、嗯♥、嗯啊♥！？」
 ,,,,,,,,
 Kei.Debauchery2-17,京,「ま、まってっ♥、まだ付けろとは言っていなかっただろ…っ♥！」,「ま、まってっ♥、まだ付けろとは言っていなかっただろ…っ♥！」,「等、等一下♥，我還沒說要打開吧…♥！」,"""I didn't tell you to put it on yet...!""","""W-wait♥, I didn't say to turn it on yet...♥!""","「자, 잠깐♥, 아직 켜라고는 말 안 했는데…윽♥!」",「等、等一下♥，我还没说要打开吧…♥！」
 ,,,,,,,,
@@ -820,7 +820,7 @@ Kei.Debauchery2-18,京,「んっ♥、このように、レーザーがっ♥発
 ,Kei debauchery2-4,,,,,,,
 Kei.Debauchery2-19,京,「絶頂には至れずっ♥、ひうっ♥、永遠に軽イキ地獄を味わい続けることになるっ…♥」,「絶頂には至れずっ♥、ひうっ♥、永遠に軽イキ地獄を味わい続けることになるっ…♥」,「但還沒達到高潮♥，唔♥，就會永遠持續在輕微高潮的地獄裡…♥」,"""I can't climax... I'm going to be in a light―quivering hell forever... ♥""","""It doesn't take me to actual orgasm♥, hyu♥, so I'm forced to endure endless edging torture...♥""","「절정에는 이르지 못하고♥, 히웃♥, 영원히 가벼운 절정 지옥을 맛보게 된다…♥」",「但还没达到高潮♥，唔♥，就会永远持续在轻微高潮的地狱里…♥」
 ,,,,,,,,
-Kei.Debauchery2-20,京,「そう…っ♥、だからケイちゃんの頭が快楽でやられる前にっ♥」,「そう…っ♥、だからケイちゃんの頭が快楽でやられる前にっ♥」,「所以…♥，在京的頭腦因為快感而崩潰之前♥」,"""So, before Kei―chan's head is destroyed by pleasure....""","""Yes...♥, so before my mind is overwhelmed♥""","「그래…♥, 그러니까 케이쨩 머리가 쾌락으로 망가지기 전에♥」",「所以…♥，在京的头脑因为快感而崩溃之前♥」
+Kei.Debauchery2-20,京,「そう…っ♥、だからケイちゃんの頭が快楽でやられる前にっ♥」,「そう…っ♥、だからケイちゃんの頭が快楽でやられる前にっ♥」,「所以…♥，在京醬的頭腦因為快感而崩潰之前♥」,"""So, before Kei―chan's head is destroyed by pleasure....""","""Yes...♥, so before my mind is overwhelmed♥""","「그래…♥, 그러니까 케이쨩 머리가 쾌락으로 망가지기 전에♥」",「所以…♥，在京的头脑因为快感而崩溃之前♥」
 ,,,,,,,,
 Kei.Debauchery2-21,京,「チャンネル登録…♥、それと私の配信をSNSに…拡散…してくれると嬉しい…♥」,「チャンネル登録…♥、それと私の配信をSNSに…拡散…してくれると嬉しい…♥」,「如果能幫我訂閱頻道…♥，還有把我的直播分享到社群網站上…♥我就會很高興…♥」,"""Subscribe to my channel...♥ and spread the word...♥ on your social networking sites...♥""","""Please subscribe...♥, and share my stream on social media...♥""","「채널 구독…♥, 그리고 내 방송을 SNS에… 확산… 해주면 기쁘겠어…♥」",「如果能帮我订阅频道…♥，还有把我的直播分享到社群网站上…♥我就会很高兴…♥」
 ,,,,,,,,
@@ -832,7 +832,7 @@ Kei.Debauchery2-24,京,「ん゛っ♥、お゛お゛っ♥、ん゛っ♥、ん
 ,,,,,,,,
 Kei.Debauchery2-25,,ジリジリジリッ♥ジーーーーッ！,ジリジリジリッ♥ジーーーーッ！,滋滋滋滋滋♥滋―――――！,Jiggle Jiggle Jiggle ♥ Jeeeeeeeee!,Bzzzzt♥ Beeeeep!,지리 지리 지릿♥ 지ーーーー잇!,滋滋滋滋滋♥滋―――――！
 ,,,,,,,,
-Kei.Debauchery2-26,京,「ひうっ♥、登録者、ま、まだなのかっ♥ん゛っ♥」,「ひうっ♥、登録者、ま、まだなのかっ♥ん゛っ♥」,「唔♥，訂閱者，還、還沒到嗎♥嗯♥」,"""Hiuuh, I'm not sure if you're a subscriber yet.""","""Hyu♥, the subscribers, a-are we there yet♥ ngh♥""","「히웃♥, 구독자, 아, 아직인가♥ 응옷 윽♥」",「唔♥，订阅者，还、还没到吗♥嗯♥」
+Kei.Debauchery2-26,京,「ひうっ♥、登録者、ま、まだなのかっ♥ん゛っ♥」,「ひうっ♥、登録者、ま、まだなのかっ♥ん゛っ♥」,「唔♥，訂閱數，還、還沒到嗎♥？嗯♥」,"""Hiuuh, I'm not sure if you're a subscriber yet.""","""Hyu♥, the subscribers, a-are we there yet♥ ngh♥""","「히웃♥, 구독자, 아, 아직인가♥ 응옷 윽♥」",「唔♥，订阅者，还、还没到吗♥嗯♥」
 ,,,,,,,,
 Kei.Debauchery2-27,京,「流石にっ…んっ♥、甘イキし過ぎてっ♥、おマンコの感覚がっ♥！」,「流石にっ…んっ♥、甘イキし過ぎてっ♥、おマンコの感覚がっ♥！」,「真的已經…嗯♥，輕微高潮太久了♥，小穴的感覺都…♥！」,"""I'm so sweet, I can't feel my pussy!""","""This is too much... nn♥, too much edging♥, my sensitivity has gone crazy♥!""","「아무래도… 응읏♥, 가벼운 절정 너무 해서♥, 보지 감각이♥!」",「真的已经…嗯♥，轻微高潮太久了♥，小穴的感觉都…♥！」
 ,,,,,,,,
@@ -846,21 +846,21 @@ Kei.Debauchery2-31,京,「ひぐっ♥！？ま、まだ半分っ！？」,「�
 ,,,,,,,,
 Kei.Debauchery2-32,助手,「このままじゃいつまでたっても終わらないので…そうですね、新しくルールを追加しましょう」,「このままじゃいつまでたっても終わらないので…そうですね、新しくルールを追加しましょう」,「這樣下去永遠不會結束的…那麼，我們來新增一條規則吧。」,"""'This is not going to go on forever, so...yes, let's add a new rule.'""","""At this rate it'll never end... Let's add a new rule.""","「이대로는 언제 끝나도 끝나지 않으니… 그렇군요, 새롭게 규칙을 추가합시다」",「这样下去永远不会结束的…那么，我们来新增一条规则吧。」
 ,,,,,,,,
-Kei.Debauchery2-33,京,「なっ♥、で、でもっ♥、何をっ♥！？」,「なっ♥、で、でもっ♥、何をっ♥！？」,「什麼♥、那、那是什麼♥！？」,"""But, but, but, what?""","""Higu♥!? St-still only halfway!?""","「뭣♥, 그, 그래도♥, 무엇을♥!?」",「什么♥、那、那是什么♥！？」
+Kei.Debauchery2-33,京,「なっ♥、で、でもっ♥、何をっ♥！？」,「なっ♥、で、でもっ♥、何をっ♥！？」,「什麼♥那、那是什麼♥！？」,"""But, but, but, what?""","""Higu♥!? St-still only halfway!?""","「뭣♥, 그, 그래도♥, 무엇을♥!?」",「什么♥、那、那是什么♥！？」
 ,,,,,,,,
-Kei.Debauchery2-34,助手,「メンバーシップ…つまり我が財団の戦闘員となる契約をしてくれた方一人につき10人とカウントしましょう」,「メンバーシップ…つまり我が財団の戦闘員となる契約をしてくれた方一人につき10人とカウントしましょう」,「會員訂閱…也就是跟我們財團簽訂成為戰鬥員契約的人，一個人就算十人份。」,"""Membership...that is, for each person who signs up to be a fighter for our foundation, we will count 10.""","""Membership... meaning anyone who enters a contract to become a Foundation soldier counts as 10 people.""",「멤버십… 즉 우리 재단의 전투원이 되는 계약을 해준 분 한 명당 10명으로 카운트합시다」,「会员订阅…也就是跟我们财团签订成为战斗员契约的人，一个人就算十人份。」
+Kei.Debauchery2-34,助手,「メンバーシップ…つまり我が財団の戦闘員となる契約をしてくれた方一人につき10人とカウントしましょう」,「メンバーシップ…つまり我が財団の戦闘員となる契約をしてくれた方一人につき10人とカウントしましょう」,「加入會員…也就是跟我們財團簽訂成為戰鬥員契約的人，一個人就算十人份。」,"""Membership...that is, for each person who signs up to be a fighter for our foundation, we will count 10.""","""Membership... meaning anyone who enters a contract to become a Foundation soldier counts as 10 people.""",「멤버십… 즉 우리 재단의 전투원이 되는 계약을 해준 분 한 명당 10명으로 카운트합시다」,「会员订阅…也就是跟我们财团签订成为战斗员契约的人，一个人就算十人份。」
 ,,,,,,,,
 Kei.Debauchery2-35,京,「なっ♥、そんな視聴者を悪の道に誘うようなことを…っ♥」,「なっ♥、そんな視聴者を悪の道に誘うようなことを…っ♥」,「什麼♥、怎麼能做出引誘觀眾走向邪路的事情…♥」,"""What are you doing to lead the viewers down such an evil path?""","""What♥, leading viewers down the path of evil...♥""","「뭣♥, 그런 시청자를 악의 길로 유혹하는 짓을…윽♥」",「什么♥、怎么能做出引诱观众走向邪路的事情…♥」
 ,,,,,,,,
 Kei.Debauchery2-36,助手,「でもこのままじゃいつまでたっても終わりませんよ？」,「でもこのままじゃいつまでたっても終わりませんよ？」,「可是這樣下去永遠不會結束喔？」,"""But it won't be over anytime soon, will it?""","""But at this rate it'll never end, you know?""",「하지만 이대로는 언제 끝나도 끝나지 않아요?」,「可是这样下去永远不会结束喔？」
 ,Kei debauchery2-6,,,,,,,
-Kei.Debauchery2-37,京,「っ、ん゛あっ♥、しょうがないっ♥、視聴者の諸君っ♥聞こえているかっ？」,「っ、ん゛あっ♥、しょうがないっ♥、視聴者の諸君っ♥聞こえているかっ？」,「唔、嗯啊♥、沒辦法了♥、各位觀眾♥聽得到嗎？」,"""Oh, God, I can't help it, my dear viewers, can you hear me?""","""Ngh, nah♥, fine♥, viewers♥ can you hear me?""","「윽, 응옷 앗♥, 어쩔 수 없지♥, 시청자 여러분♥ 들리는가?」",「唔、嗯啊♥、没办法了♥、各位观众♥听得到吗？」
+Kei.Debauchery2-37,京,「っ、ん゛あっ♥、しょうがないっ♥、視聴者の諸君っ♥聞こえているかっ？」,「っ、ん゛あっ♥、しょうがないっ♥、視聴者の諸君っ♥聞こえているかっ？」,「唔、嗯啊♥、沒辦法了♥，各位觀眾♥，聽得到嗎？」,"""Oh, God, I can't help it, my dear viewers, can you hear me?""","""Ngh, nah♥, fine♥, viewers♥ can you hear me?""","「윽, 응옷 앗♥, 어쩔 수 없지♥, 시청자 여러분♥ 들리는가?」",「唔、嗯啊♥、没办法了♥、各位观众♥听得到吗？」
 ,,,,,,,,
-Kei.Debauchery2-38,京,「というわけだ、メンバーシップ…つまり戦闘員になってくれれば一人当たり10人分が加算されるっ♥」,「というわけだ、メンバーシップ…つまり戦闘員になってくれれば一人当たり10人分が加算されるっ♥」,「就是這麼回事，會員訂閱…也就是成為戰鬥員的話，一個人可以加算十人份♥」,"""So, membership... that is, if you become a combatant, you get 10 extra per person ♥.""","""So that's how it is, membership... meaning if you become a soldier, each person counts as 10♥""","「그런 이유다, 멤버십… 즉 전투원이 되어주면 한 명당 10명분으로 가산된다♥」",「就是这么回事，会员订阅…也就是成为战斗员的话，一个人可以加算十人份♥」
+Kei.Debauchery2-38,京,「というわけだ、メンバーシップ…つまり戦闘員になってくれれば一人当たり10人分が加算されるっ♥」,「というわけだ、メンバーシップ…つまり戦闘員になってくれれば一人当たり10人分が加算されるっ♥」,「就是這麼回事，加入會員…也就是成為戰鬥員的話，一個人可以加算十人份♥」,"""So, membership... that is, if you become a combatant, you get 10 extra per person ♥.""","""So that's how it is, membership... meaning if you become a soldier, each person counts as 10♥""","「그런 이유다, 멤버십… 즉 전투원이 되어주면 한 명당 10명분으로 가산된다♥」",「就是这么回事，会员订阅…也就是成为战斗员的话，一个人可以加算十人份♥」
 ,,,,,,,,
-Kei.Debauchery2-39,京,「戦闘員となった者は…早い者勝ちだっ、ケイちゃんに生ハメセックスの権利…を与えようっ♥」,「戦闘員となった者は…早い者勝ちだっ、ケイちゃんに生ハメセックスの権利…を与えようっ♥」,「成為戰鬥員的人…先搶先贏，我會給予和京**生內射性交的權利…♥」,"""The first one to become a combatant wins the right to have live sex with Kei―chan.""","""Those who become soldiers... first come first served, will get special privileges with Kei♥""","「전투원이 된 자는… 선착순이다, 케이쨩에게 생으로 박는 섹스 권리…를 주도록 하지♥」",「成为战斗员的人…先抢先赢，我会给予和京**生内射性交的权利…♥」
+Kei.Debauchery2-39,京,「戦闘員となった者は…早い者勝ちだっ、ケイちゃんに生ハメセックスの権利…を与えようっ♥」,「戦闘員となった者は…早い者勝ちだっ、ケイちゃんに生ハメセックスの権利…を与えようっ♥」,「成為戰鬥員的人…先搶先贏，我會給予和京無套內射性交的權利…♥」,"""The first one to become a combatant wins the right to have live sex with Kei―chan.""","""Those who become soldiers... first come first served, will get special privileges with Kei♥""","「전투원이 된 자는… 선착순이다, 케이쨩에게 생으로 박는 섹스 권리…를 주도록 하지♥」",「成为战斗员的人…先抢先赢，我会给予和京**生内射性交的权利…♥」
 ,,,,,,,,
-Kei.Debauchery2-40,京,「んっ♥、どうだろうかっ…♥これで多少は登録者が増えて…」,「んっ♥、どうだろうかっ…♥これで多少は登録者が増えて…」,「嗯♥，怎麼樣呢…♥這樣多少能增加一點訂閱者…」,"""I wonder if this will increase the number of registrations somewhat...""","""Nn♥, I wonder...♥ this should increase subscribers somewhat...""","「응읏♥, 어떨까…♥ 이걸로 조금은 구독자가 늘어서…」",「嗯♥，怎么样呢…♥这样多少能增加一点订阅者…」
+Kei.Debauchery2-40,京,「んっ♥、どうだろうかっ…♥これで多少は登録者が増えて…」,「んっ♥、どうだろうかっ…♥これで多少は登録者が増えて…」,「嗯♥，怎麼樣呢…♥這樣多少能增加一點訂閱數…」,"""I wonder if this will increase the number of registrations somewhat...""","""Nn♥, I wonder...♥ this should increase subscribers somewhat...""","「응읏♥, 어떨까…♥ 이걸로 조금은 구독자가 늘어서…」",「嗯♥，怎么样呢…♥这样多少能增加一点订阅者…」
 ,,,,,,,,
 Kei.Debauchery2-41,,その瞬間、登録者数が凄い勢いで伸び始める,その瞬間、登録者数が凄い勢いで伸び始める,就在那一瞬間，訂閱人數以驚人的速度暴增。,"At that moment, the number of registrations starts growing at a tremendous rate.","At that moment, the subscriber count began going up rapidly.","그 순간, 구독자 수가 굉장한 기세로 늘어나기 시작한다",就在那一瞬间，订阅人数以惊人的速度暴增。
 ,,,,,,,,
@@ -868,11 +868,11 @@ Kei.Debauchery2-42,助手,「おっ？…おおっ？」,「おっ？…おお�
 ,,,,,,,,
 Kei.Debauchery2-43,京,「んっ♥、どうしたっ♥…？―――――っ！？」,「んっ♥、どうしたっ♥…？―――――っ！？」,「嗯♥，怎麼了♥…？―――――唔！？」,"""What's wrong with you? ―――――!""","""Nn♥, what happened♥...? ...!?""","「응읏♥, 왜 그래♥…?―――――윽!?」",「嗯♥，怎么了♥…？―――――唔！？」
 ,,,,,,,,
-Kei.Debauchery2-44,Kei debauchery2-7,登録者が1000万に到達した瞬間レーザーが太くなり、弱い刺激にさらされ続けた京の秘所を直撃する,登録者が1000万に到達した瞬間レーザーが太くなり、弱い刺激にさらされ続けた京の秘所を直撃する,在訂閱人數達到一千萬的瞬間，雷射變粗，直接命中京被微弱刺激持續折磨的秘處。,"The moment the number of registered users reaches 10 million, the laser becomes thicker and strikes Kei's secret place, which has been exposed to weak stimulation for a long time.","The moment subscribers reached 10 million, the laser intensified, directly hitting Kei's oversensitized areas.","구독자가 1000만에 도달한 순간 레이저가 굵어지고, 약한 자극에 계속 노출되었던 케이의 은밀한 곳을 직격한다",在订阅人数达到一千万的瞬间，雷射变粗，直接命中京被微弱刺激持续折磨的秘处。
+Kei.Debauchery2-44,Kei debauchery2-7,登録者が1000万に到達した瞬間レーザーが太くなり、弱い刺激にさらされ続けた京の秘所を直撃する,登録者が1000万に到達した瞬間レーザーが太くなり、弱い刺激にさらされ続けた京の秘所を直撃する,在訂閱人數達到一千萬的瞬間，雷射變粗，直接命中京被微弱刺激持續折磨的祕處。,"The moment the number of registered users reaches 10 million, the laser becomes thicker and strikes Kei's secret place, which has been exposed to weak stimulation for a long time.","The moment subscribers reached 10 million, the laser intensified, directly hitting Kei's oversensitized areas.","구독자가 1000만에 도달한 순간 레이저가 굵어지고, 약한 자극에 계속 노출되었던 케이의 은밀한 곳을 직격한다",在订阅人数达到一千万的瞬间，雷射变粗，直接命中京被微弱刺激持续折磨的秘处。
 ,,,,,,,,
-Kei.Debauchery2-45,京,「ん゛おっ♥！？、お゛お゛っ♥、お゛お゛っ♥！？」,「ん゛おっ♥！？、お゛お゛っ♥、お゛お゛っ♥！？」,「嗯喔♥！？、喔喔♥、喔喔♥！？」,"""OHHHH! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Ngoh♥!? Ooh♥, ooh♥!?""","「응옷 오옷♥!?, 오옷 오옷 옷♥, 오옷 오옷 옷♥!?」",「嗯喔♥！？、喔喔♥、喔喔♥！？」
+Kei.Debauchery2-45,京,「ん゛おっ♥！？、お゛お゛っ♥、お゛お゛っ♥！？」,「ん゛おっ♥！？、お゛お゛っ♥、お゛お゛っ♥！？」,「嗯喔♥！？喔喔♥、喔喔♥！？」,"""OHHHH! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.""","""Ngoh♥!? Ooh♥, ooh♥!?""","「응옷 오옷♥!?, 오옷 오옷 옷♥, 오옷 오옷 옷♥!?」",「嗯喔♥！？、喔喔♥、喔喔♥！？」
 ,,,,,,,,
-Kei.Debauchery2-46,京,「えっ♥！？、まてっ♥、も、もうっ♥！？」,「えっ♥！？、まてっ♥、も、もうっ♥！？」,「咦♥！？、等一下♥、我、我已經♥！？」,"""What? Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.""","""Eh♥!? Wait♥, a-already♥!?""","「엣♥!?, 잠깐♥, 보, 벌써♥!?」",「咦♥！？、等一下♥、我、我已经♥！？」
+Kei.Debauchery2-46,京,「えっ♥！？、まてっ♥、も、もうっ♥！？」,「えっ♥！？、まてっ♥、も、もうっ♥！？」,「咦♥！？等一下♥、我、我已經♥！？」,"""What? Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.""","""Eh♥!? Wait♥, a-already♥!?""","「엣♥!?, 잠깐♥, 보, 벌써♥!?」",「咦♥！？、等一下♥、我、我已经♥！？」
 ,,,,,,,,
 Kei.Debauchery2-47,,バチバチバチッ！ビシュッッ！！！,バチバチバチッ！ビシュッッ！！！,啪滋啪滋啪滋！噴射！！！,Bee bee bee bee bee bee bee bee bee bee bee! Bish bish bish bish bish bish bish bish bish bish bish bish bish bish bish!,Crackle crackle! Splash!!!,바치바치바칫! 비슛!!,啪滋啪滋啪滋！喷射！！！
 ,,,,,,,,
@@ -888,7 +888,7 @@ Kei.Debauchery2-52,助手,「京先生！おめでとうございますっ！」
 ,,,,,,,,
 Kei.Debauchery2-53,,京は目隠しを外され、戦闘員の男達から精液を掛けられる,京は目隠しを外され、戦闘員の男達から精液を掛けられる,京被拿下眼罩，被戰鬥員們的精液潑灑。,Kei is blindfolded and doused with semen by male combatants.,Kei's blindfold was removed as the male soldiers celebrated by splashing her with their jizz.,"케이는 눈가리개를 벗겨지고, 전투원 남자들에게 정액을 뒤집어쓴다",京被拿下眼罩，被战斗员们的精液泼洒。
 ,,,,,,,,
-Kei.Debauchery2-54,京,「ん゛っ♥！？、はあっ♥、はあっ♥、はあっ♥」,「ん゛っ♥！？、はあっ♥、はあっ♥、はあっ♥」,「嗯♥！？、哈♥、哈♥、哈♥」,"""Aaahhh! ""Ah―ha―ha―ha―ha―ha―ha―ha―ha.""","""Ngh♥!? Haa♥, haa♥, haa♥""","「응옷 윽♥!?, 하앗♥, 하앗♥, 하앗♥」",「嗯♥！？、哈♥、哈♥、哈♥」
+Kei.Debauchery2-54,京,「ん゛っ♥！？、はあっ♥、はあっ♥、はあっ♥」,「ん゛っ♥！？、はあっ♥、はあっ♥、はあっ♥」,「嗯♥！？哈♥、哈♥、哈♥」,"""Aaahhh! ""Ah―ha―ha―ha―ha―ha―ha―ha―ha.""","""Ngh♥!? Haa♥, haa♥, haa♥""","「응옷 윽♥!?, 하앗♥, 하앗♥, 하앗♥」",「嗯♥！？、哈♥、哈♥、哈♥」
 ,,,,,,,,
 Kei.Debauchery2-55,助手,「ついに1000万人到達です！流石京先生！」,「ついに1000万人到達です！流石京先生！」,「終於達到一千萬人訂閱了！不愧是京老師！」,"""At last, we have reached 10 million users! Quite an achievement, Dr. Kei!""","""We finally reached 10 million! As expected of Professor Kei!""",「드디어 1000만 명 도달입니다! 역시 케이 선생님!」,「终于达到一千万人订阅了！不愧是京老师！」
 ,,,,,,,,
@@ -896,11 +896,11 @@ Kei.Debauchery2-56,京,「ん゛あっ♥、あっ♥、ありがとうっ♥」
 ,,,,,,,,
 Kei.Debauchery2-57,助手,「戦闘員になったら京先生をハメれるってのが効きましたね！」,「戦闘員になったら京先生をハメれるってのが効きましたね！」,「成為戰鬥員就能內射京老師這招真有效呢！」,"""The fact that I could frame Dr. Kei if I became a combatant worked for me!""","""The incentive about meeting Professor Kei if they became soldiers really worked!""",「전투원이 되면 케이 선생님을 박을 수 있다는 게 효과가 있었네요!」,「成为战斗员就能内射京老师这招真有效呢！」
 ,,,,,,,,
-Kei.Debauchery2-58,京,「んあっ♥、そ、そうだったがっ♥」,「んあっ♥、そ、そうだったがっ♥」,「嗯啊♥、的、的確是這樣♥」,"""Oh, yes, that's right.""","""Nah♥, th-that's right♥""","「응앗♥, 그, 그랬던가♥」",「嗯啊♥、的、的确是这样♥」
+Kei.Debauchery2-58,京,「んあっ♥、そ、そうだったがっ♥」,「んあっ♥、そ、そうだったがっ♥」,「嗯啊♥，的、的確是這樣♥」,"""Oh, yes, that's right.""","""Nah♥, th-that's right♥""","「응앗♥, 그, 그랬던가♥」",「嗯啊♥、的、的确是这样♥」
 ,,,,,,,,
 Kei.Debauchery2-59,助手,「大体3000人位が戦闘員になってくれましたので…まあ頑張ってください」,「大体3000人位が戦闘員になってくれましたので…まあ頑張ってください」,「大約有三千人成為戰鬥員了…那麼請加油吧。」,"""Roughly 3,000 people have become fighters, so... well, good luck with that.""","""About 3000 people became soldiers... well, good luck with that.""",「대략 3000명 정도가 전투원이 되어주셨으니… 뭐 힘내세요」,「大约有三千人成为战斗员了…那么请加油吧。」
 ,,,,,,,,
-Kei.Debauchery2-60,京,「なっ♥！？、3000人っ♥！？」,「なっ♥！？、3000人っ♥！？」,「什麼♥！？、三千人♥！？」,"""Nah! 3,000 people?""","""What♥!? 3000 people♥!?""","「뭣♥!?, 3000명♥!?」",「什么♥！？、三千人♥！？」
+Kei.Debauchery2-60,京,「なっ♥！？、3000人っ♥！？」,「なっ♥！？、3000人っ♥！？」,「什麼♥！？三千人♥！？」,"""Nah! 3,000 people?""","""What♥!? 3000 people♥!?""","「뭣♥!?, 3000명♥!?」",「什么♥！？、三千人♥！？」
 ,,,,,,,,
 Kei.Debauchery2-61,助手,「では先生！最後に視聴者の皆様に挨拶を！」,「では先生！最後に視聴者の皆様に挨拶を！」,「那麼老師！最後請跟觀眾們打個招呼！」,"""'Well then, Doctor! One last word to our viewers!""","""Now Professor! Please say something to the viewers before we leave!""",「그럼 선생님! 마지막으로 시청자 여러분께 인사를!」,「那么老师！最后请跟观众们打个招呼！」
 ,Kei debauchery2-9,,,,,,,
@@ -910,7 +910,7 @@ Kei.Debauchery2-63,京,「…約束は約束だ…新しく戦闘員になった
 ,,,,,,,,
 Kei.Debauchery2-64,京,「じゃあ…これからも色々企画やっていくから…っ♥」,「じゃあ…これからも色々企画やっていくから…っ♥」,「那麼…接下來還會舉辦各種企劃…♥」,"""I'll be doing a lot of projects from now on... ♥""","""Well... I'll be doing more things on stream from now on...♥""",「자 그럼… 앞으로도 여러 기획 해나갈 테니…윽♥」,「那么…接下来还会举办各种企划…♥」
 ,,,,,,,,
-Kei.Debauchery2-65,京,「ではまた次の配信で会おうっ♥、今後ともケイちゃんをよろしくっ♥」,「ではまた次の配信で会おうっ♥、今後ともケイちゃんをよろしくっ♥」,「那麼我們下次直播見♥，今後也請多多指教京喔♥」,"""See you on the next delivery, and please keep in touch with Kei―chan.""","""See you in the next stream♥, please continue supporting me♥""","「그럼 다음 방송에서 만나자♥, 앞으로도 케이쨩을 잘 부탁해♥」",「那么我们下次直播见♥，今后也请多多指教京喔♥」
+Kei.Debauchery2-65,京,「ではまた次の配信で会おうっ♥、今後ともケイちゃんをよろしくっ♥」,「ではまた次の配信で会おうっ♥、今後ともケイちゃんをよろしくっ♥」,「那麼我們下次直播見♥，今後也請多多指教京醬喔♥」,"""See you on the next delivery, and please keep in touch with Kei―chan.""","""See you in the next stream♥, please continue supporting me♥""","「그럼 다음 방송에서 만나자♥, 앞으로도 케이쨩을 잘 부탁해♥」",「那么我们下次直播见♥，今后也请多多指教京喔♥」
 ,,,,,,,,
 Kei Core Scene,注釈,聖核シーン,聖核シーン,,聖核シーン,,성핵 이벤트,
 Kei.Core1-1,アジト,京が捕獲されて調教が続いていたある日,京が捕獲されて調教が続いていたある日,京被捕獲並持續進行調教的某一天,One day after Kei was captured and training continued.,"One day, while Kei's captivity and training continued...",케이가 포획되어 조교가 계속되던 어느 날,京被捕获并持续进行调教的某一天
@@ -975,7 +975,7 @@ Kei.Core1-29,,シコッ、シコッ、シコッ,シコッ、シコッ、シコ�
 ,,,,,,,,
 Kei.Core1-30,,「チンポっ♥、チンポをしごく手が止められないっ♥」,「チンポっ♥、チンポをしごく手が止められないっ♥」,「陰莖♥，套弄陰莖的手停不下來♥」,"""I can't stop fucking my dick.""","""I can't♥ stop my hand from stroking my dick♥""","「자지♥, 자지 흔드는 손을 멈출 수가 없어♥」",「阴茎♥，套弄阴茎的手停不下来♥」
 ,,,,,,,,
-Kei.Core1-31,,「これはっ♥、何らかの認識阻害なのかっ♥！？、そうだとしたら今すぐやめなければっ♥！」,「これはっ♥、何らかの認識阻害なのかっ♥！？、そうだとしたら今すぐやめなければっ♥！」,「這是♥，某種認知幹擾嗎♥！？如果是的話，我必須馬上停止♥！」,"""Is this some kind of cognitive blockage? If that's the case, I have to stop this right now!""","""This is♥ some kind of cognitive interference♥!? If so, I must stop immediately♥!""","「이것은♥, 어떤 인식 장애인가♥!?, 그렇다면 지금 당장 멈춰야 해♥!」",「这是♥，某种认知干扰吗♥！？如果是的话，我必须马上停止♥！」
+Kei.Core1-31,,「これはっ♥、何らかの認識阻害なのかっ♥！？、そうだとしたら今すぐやめなければっ♥！」,「これはっ♥、何らかの認識阻害なのかっ♥！？、そうだとしたら今すぐやめなければっ♥！」,「這是♥，某種認知干擾嗎♥！？如果是的話，我必須馬上停止♥！」,"""Is this some kind of cognitive blockage? If that's the case, I have to stop this right now!""","""This is♥ some kind of cognitive interference♥!? If so, I must stop immediately♥!""","「이것은♥, 어떤 인식 장애인가♥!?, 그렇다면 지금 당장 멈춰야 해♥!」",「这是♥，某种认知干扰吗♥！？如果是的话，我必须马上停止♥！」
 ,,,,,,,,
 Kei.Core1-32,,「それにっ♥、何かが体の中から上がってくる感覚…っ♥」,「それにっ♥、何かが体の中から上がってくる感覚…っ♥」,「而且♥，有種什麼東西從身體裡湧上來的感覺…♥」,"""And I felt something coming up from inside my body...♥♥♥""","""And♥ some kind of sensation is rising from within...♥""","「게다가♥, 뭔가 몸속에서 올라오는 감각…윽♥」",「而且♥，有种什么东西从身体里涌上来的感觉…♥」
 ,,,,,,,,
@@ -1063,7 +1063,7 @@ Kei.Core1-73,,「ほおっ♥、お゛お゛っ♥お゛おおおおっっっ！
 ,,,,,,,,
 Kei.Core1-74,,ビュクッ、ビュルルルッルッ♥,ビュクッ、ビュルルルッルッ♥,抽、咻嚕嚕嚕嚕♥,"Bukk, bülllllllllll♥","Burst, spurt♥","뷰큣, 뷰르르르릇르릇♥",抽、咻噜噜噜噜♥
 ,,,,,,,,
-Kei.Core1-75,,「イグッ、お゛っ♥おおおっっっ！？」,「イグッ、お゛っ♥おおおっっっ！？」,「射了、喔♥喔喔喔喔♥！？」,"""Iggghh, oooh ♥ oooh!""","""Coming, oh♥ ooooh!?""","「가버렷, 오옷 옷♥오오오옷!!!?」",「射了、喔♥喔喔喔喔♥！？」
+Kei.Core1-75,,「イグッ、お゛っ♥おおおっっっ！？」,「イグッ、お゛っ♥おおおっっっ！？」,「射了，喔♥喔喔喔喔♥！？」,"""Iggghh, oooh ♥ oooh!""","""Coming, oh♥ ooooh!?""","「가버렷, 오옷 옷♥오오오옷!!!?」",「射了、喔♥喔喔喔喔♥！？」
 ,,,,,,,,
 Kei.Core1-76,,京は聖核を射精しながらも、チンポを上下する手を止めることが出来ない,京は聖核を射精しながらも、チンポを上下する手を止めることが出来ない,京一邊射出聖核，一邊無法停止陰莖上下套弄的手。,Kei can't stop his hand from going up and down on his cock while ejaculating his Seikaku.,"Even while ejaculating her Holy Core, Kei couldn't stop her hand from stroking her cock.","케이는 성핵을 사정하면서도, 자지를 위아래로 움직이는 손을 멈출 수가 없다",京一边射出圣核，一边无法停止阴茎上下套弄的手。
 ,,,,,,,,
@@ -1075,7 +1075,7 @@ Kei.Core1-79,,「お゛っ♥…………―――――」,「お゛っ♥…�
 ,,,,,,,,
 Kei.Core1-80,,チンポから最後の一滴が堕ち、京の手が止まり目から光が消えうせる,チンポから最後の一滴が堕ち、京の手が止まり目から光が消えうせる,最後一滴從陰莖滴落，京的手停了下來，眼睛失去了光芒。,"The last drop falls from his cock, Kei's hand stops and the light disappears from his eyes.","The last drop fell, Kei's hand stopped, and the light faded from her eyes.","자지에서 마지막 한 방울이 떨어지고, 케이의 손이 멈추고 눈에서 빛이 사라진다",最后一滴从阴茎滴落，京的手停了下来，眼睛失去了光芒。
 ,,,,,,,,
-Kei.Core1-81,京,(あああああああっっ♥、や、やってしまったっ♥！),(あああああああっっ♥、や、やってしまったっ♥！),（啊啊啊啊啊啊啊♥、我、我竟然鑄成大錯了♥！）,"(Aaahhhhhh, I did it!)","(Aaaaaah♥, I-I've done it♥!)","(아아아아아아앗♥, 저, 저질러 버렸어♥!)",（啊啊啊啊啊啊啊♥、我、我竟然铸成大错了♥！）
+Kei.Core1-81,京,(あああああああっっ♥、や、やってしまったっ♥！),(あああああああっっ♥、や、やってしまったっ♥！),（啊啊啊啊啊啊啊♥我、我竟然鑄成大錯了♥！）,"(Aaahhhhhh, I did it!)","(Aaaaaah♥, I-I've done it♥!)","(아아아아아아앗♥, 저, 저질러 버렸어♥!)",（啊啊啊啊啊啊啊♥、我、我竟然铸成大错了♥！）
 ,,,,,,,,
 Kei.Core1-82,,(こ、この私がこんなみっともない最期を迎えるなんてッ♥),(こ、この私がこんなみっともない最期を迎えるなんてッ♥),（我、我這個人竟然迎來這麼丟臉的死法啊♥！）,(I can't believe I'm going to meet such a miserable end.),(T-To think I would meet such a pathetic end♥),"(이, 이 내가 이런 꼴사나운 최후를 맞이하다니♥)",（我、我这个人竟然迎来这么丢脸的死法啊♥！）
 ,,,,,,,,
@@ -1107,7 +1107,7 @@ Kei.Core2-3,京,(んあっ♥、な、何だこれはッ♥、どうなってい
 ,,,,,,,,
 Kei.Core2-4,研究員,「ははっ久しぶりの体とのご対面だな、どうだ？自分のチンポは」,「ははっ久しぶりの体とのご対面だな、どうだ？自分のチンポは」,「哈哈，很久沒和自己的身體見面了，感覺如何？妳自己的陰莖。」,"""Ha ha, haven't seen your body in a long time, how do you like it? How's your dick?""","""Haha, reunited with your body after so long. How did your cock feel?""","「하핫 오랜만의 몸과의 재회구나, 어떠냐? 네 자지는」",「哈哈，很久没和自己的身体见面了，感觉如何？你自己的阴茎。」
 ,,,,,,,,
-Kei.Core2-5,,(私は確かあの後圧縮されたり型に流し込まれたりして…),(私は確かあの後圧縮されたり型に流し込まれたりして…),（我記得我之後被壓縮、然後灌入模具…）,(I'm pretty sure I was compressed or poured into a mold after that...),(I remember being compressed and molded after that...),(나는 분명 그 후 압축되거나 틀에 부어지거나 해서…),（我记得我之后被压缩、然后灌入模具…）
+Kei.Core2-5,,(私は確かあの後圧縮されたり型に流し込まれたりして…),(私は確かあの後圧縮されたり型に流し込まれたりして…),（我記得我之後被壓縮，然後灌入模具…）,(I'm pretty sure I was compressed or poured into a mold after that...),(I remember being compressed and molded after that...),(나는 분명 그 후 압축되거나 틀에 부어지거나 해서…),（我记得我之后被压缩、然后灌入模具…）
 ,,,,,,,,
 Kei.Core2-6,京,(んっ♥、なるほど…っ♥、つまり、今は私はオナホになって元の体に…っ♥),(んっ♥、なるほど…っ♥、つまり、今は私はオナホになって元の体に…っ♥),（嗯♥，原來如此…♥，也就是說，現在我變成自慰套，套回原本的身體上…♥）,"(Nnnn♥, I see...♥, I mean, now I'm a masturbator and in my original body...♥)","(Nn♥, I see...♥ So now I've been turned into a pocket pussy for my original body...♥)","(응읏♥, 과연…윽♥, 즉, 지금 나는 오나홀이 되어 원래 몸에…윽♥)",（嗯♥，原来如此…♥，也就是说，现在我变成自慰套，套回原本的身体上…♥）
 ,,,,,,,,
@@ -1173,7 +1173,7 @@ Kei.Core2-36,,シコッ、シコッ、シコッ、シコッ！,シコッ、シ�
 ,,,,,,,,
 Kei.Core2-37,,(お゛おっ♥、チンポッ♥、またっ♥),(お゛おっ♥、チンポッ♥、またっ♥),（喔喔♥，陰莖♥，又來了♥）,"(Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.)","(Ooh♥, cock♥, again♥)","(오옷 오옷♥, 자지♥, 또♥)",（喔喔♥，阴茎♥，又来了♥）
 ,,,,,,,,
-Kei.Core2-38,,(んあっ♥、駄目なのにっ♥、使ってもらってっ♥嬉しくなっている自分がいるっ♥),(んあっ♥、駄目なのにっ♥、使ってもらってっ♥嬉しくなっている自分がいるっ♥),「我來告訴妳怎麼玩弄陽具！喂！」,"(Oh, I'm so happy to be used, even though I shouldn't be...)","(Nah♥, even though I shouldn't♥, part of me is happy being used♥)","(응앗♥, 안 되는데♥, 사용받아서♥ 기뻐하고 있는 내가 있어♥)",「我来告诉你怎么玩弄阳具！喂！」
+Kei.Core2-38,,(んあっ♥、駄目なのにっ♥、使ってもらってっ♥嬉しくなっている自分がいるっ♥),(んあっ♥、駄目なのにっ♥、使ってもらってっ♥嬉しくなっている自分がいるっ♥),（嗯啊♥，明明是不可以的♥，因為被當作自慰套♥而感到高興的自己♥）,"(Oh, I'm so happy to be used, even though I shouldn't be...)","(Nah♥, even though I shouldn't♥, part of me is happy being used♥)","(응앗♥, 안 되는데♥, 사용받아서♥ 기뻐하고 있는 내가 있어♥)",「我来告诉你怎么玩弄阳具！喂！」
 ,,,,,,,,
 Kei.Core2-39,,(駄目だっ♥、また射精されたらっ♥、オナホから戻れなくなるっ♥),(駄目だっ♥、また射精されたらっ♥、オナホから戻れなくなるっ♥),（不行♥，要是再被射精♥，我就會回不來自慰套的狀態了♥）,"(No, if he ejaculates again, I won't be able to go back from the masturbator.)","(No♥, if my body comes again♥, I'll just be a pocket pussy forever♥)","(안 돼♥, 또 사정당하면♥, 오나홀에서 돌아갈 수 없게 돼♥)",（不行♥，要是再被射精♥，我就会回不来自慰套的状态了♥）
 ,,,,,,,,
@@ -1183,7 +1183,7 @@ Kei.Core2-41,,シコッ、シコッ、シコッ、シコッ！,シコッ、シ�
 ,,,,,,,,
 Kei.Core2-42,,(お゛っ♥、お゛っ♥、チンポッ♥、チンポッ♥！),(お゛っ♥、お゛っ♥、チンポッ♥、チンポッ♥！),（喔♥、喔♥、陰莖♥、陰莖♥！）,"(Oh, dang, dang, dang, dang, dang, dang, dang!)","(Oh♥, oh♥, cock♥, cock♥!)","(오옷 옷♥, 오옷 옷♥, 자지♥, 자지♥!)",（喔♥、喔♥、阴茎♥、阴茎♥！）
 ,,,,,,,,
-Kei.Core2-43,,(お゛っ♥、私はオナホじゃないッ♥！射精された所でっ♥),(お゛っ♥、私はオナホじゃないッ♥！射精された所でっ♥),（喔♥，我不是自慰套♥！就算被射精♥）,"(Oh, I'm not a masturbator! I just got ejaculated on.)","(Oh♥, I'm not a pocket pussy! I know I'm being ejaculated into, but...♥)","(오옷 옷♥, 나는 오나홀이 아니야! 사정당한 곳에서♥)",（喔♥，我不是自慰套♥！就算被射精♥）
+Kei.Core2-43,,(お゛っ♥、私はオナホじゃないッ♥！射精された所でっ♥),(お゛っ♥、私はオナホじゃないッ♥！射精された所でっ♥),（喔♥，我不是自慰套♥！是要被射精的東西♥）,"(Oh, I'm not a masturbator! I just got ejaculated on.)","(Oh♥, I'm not a pocket pussy! I know I'm being ejaculated into, but...♥)","(오옷 옷♥, 나는 오나홀이 아니야! 사정당한 곳에서♥)",（喔♥，我不是自慰套♥！就算被射精♥）
 ,Kei core 2-5,,,,,,,
 Kei.Core2-44,,ドクドクッ、ドビュルルルルッッッ！,ドクドクッ、ドビュルルルルッッッ！,噗通噗通、咚咻嚕嚕嚕嚕嚕！,"Thud, thud, thud, thud, thud!","Throb, throb, gush!!!","도큣도큣, 도뷰르르르릇!!",噗通噗通、咚咻噜噜噜噜噜！
 ,,,,,,,,

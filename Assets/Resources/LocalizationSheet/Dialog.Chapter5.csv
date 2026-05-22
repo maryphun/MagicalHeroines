@@ -1,6 +1,6 @@
 Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English,Korean_Steam,English_Steam,Simplified Chinese_Steam
 Chapter 5-1,注釈,,,,,,,
-Dialog.Chapter5-1-1,那由多,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「這座地下據點已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」,"""―――― this underground hideout has been overrun. Do not resist in vain and surrender immediately.""",「――――이 지하 아지트는 제압했습니다. 쓸데없는 저항은 하지 말고 즉시 투항하십시오」,"""I have conquered this underground hideout. Please surrender without further resistance.""",「这座地下据点已经被我完全制压了。别再做无谓的抵抗，请您立刻投降吧。」
+Dialog.Chapter5-1-1,那由多,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「――――この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「這座地下基地已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」,"""―――― this underground hideout has been overrun. Do not resist in vain and surrender immediately.""",「――――이 지하 아지트는 제압했습니다. 쓸데없는 저항은 하지 말고 즉시 투항하십시오」,"""I have conquered this underground hideout. Please surrender without further resistance.""",「这座地下据点已经被我完全制压了。别再做无谓的抵抗，请您立刻投降吧。」
 ,地下アジト,,,,,,,
 Dialog.Chapter5-1-2,,「このアジトの最高責任者はあなたのようですので私が連行します」,「このアジトの最高責任者はあなたのようですので私が連行します」,「看來你是這裡的最高負責人，就由我親自押送你吧。」,"""Since you seem to be the chief executive of this hideout, I will bring you in myself.""",「이 아지트의 최고 책임자는 당신인 것 같으니 제가 연행하겠습니다」,"""And since you are the one in charge here, you will be coming with me.""",「看来你是这里的最高负责人，就由我亲自押送你吧。」
 ,,,,,,,,
@@ -67,7 +67,7 @@ Dialog.Chapter5-1-28,那由多,「あっ、逃げるつもりですかっ！？�
 ,,,,,,,,
 Dialog.Chapter5-1-29,,「待っていてください京！、今すぐ助けに行きますから！」,「待っていてください京！、今すぐ助けに行きますから！」,「請等我一下，京！我馬上就去救妳！」,"""Please wait for me, Kei! I'm coming to save you right now!""","「기다리십시오 케이!, 지금 바로 구하러 가겠습니다!」","""Just wait, Kei! I'll save you now!""",「请等我一下，京！我马上就去救你！」
 ,,,,,,,,
-Dialog.Chapter5-1-30,,「―――ッ！触手がもう再生した？！」,「―――ッ！触手がもう再生した？！」,「――什麼！觸手竟然已經重新長出來了？！」,"""――――! Tentacles already regenerated?""",「―――윽! 촉수가 벌써 재생했어?!」,"""...The tentacles have respawned?""",「――什么！触手竟然已经重新长出来了？！」
+Dialog.Chapter5-1-30,,「―――ッ！触手がもう再生した？！」,「―――ッ！触手がもう再生した？！」,「――什麽！觸手竟然已經重新長出來了？！」,"""――――! Tentacles already regenerated?""",「―――윽! 촉수가 벌써 재생했어?!」,"""...The tentacles have respawned?""",「――什么！触手竟然已经重新长出来了？！」
 ,,,,,,,,
 Dialog.Chapter5-1-31,Nayuta1ｰ1,「しまった、刀がっ！」,「しまった、刀がっ！」,「糟了，我的刀被……！」,"""Oh, no, the sword!""","「이런, 칼이!」","""No, my blade!""",「糟了，我的刀被……！」
 ,,,,,,,,
@@ -123,7 +123,7 @@ Dialog.Chapter5-1-55,那由多,「ふう、これだけの肉片に切り刻ん�
 ,,,,,,,,
 Dialog.Chapter5-1-56,,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……ぐっ、少し体力を消耗し過ぎました。悔しいですが京を追って深追いするのは危険ですね」,「……唔，體力消耗得有點過頭了。如果繼續追擊京實在太危險。」,"""......Gosh, I've exhausted my energy a little too much. It's frustrating, but it's dangerous to go after Kei too deep.""","「……크윽, 조금 체력을 너무 소모했습니다. 분하지만 케이를 쫓아 깊이 추격하는 것은 위험하군요」","""...I used up too much of my stamina. This is not ideal, but it's dangerous to keep going to find Kei.""",「……唔，体力消耗得有点过头了。如果继续追击京实在太危险。」
 ,,,,,,,,
-Dialog.Chapter5-1-57,,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「……真不像我竟然會犯這種錯誤，不過地下據點的大致位置我已經掌握好了。」,"""I'm afraid I've made a mistake, but I have a rough idea of the location of the hideout.""","「…저답지 않게 실수를 했군요, 하지만 아지트의 대략적인 위치는 알았습니다」","""...This is my fault, but now we know where roughly the hideout is.""",「……真不像我竟然会犯这种错误，不过地下据点的大致位置我已经掌握好了。」
+Dialog.Chapter5-1-57,,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「…私としたことが失態です、しかしアジトの大まかな位置はわかりました」,「……真不像我竟然會犯這種錯誤，不過地下基地的大致位置我已經掌握好了。」,"""I'm afraid I've made a mistake, but I have a rough idea of the location of the hideout.""","「…저답지 않게 실수를 했군요, 하지만 아지트의 대략적인 위치는 알았습니다」","""...This is my fault, but now we know where roughly the hideout is.""",「……真不像我竟然会犯这种错误，不过地下据点的大致位置我已经掌握好了。」
 ,,,,,,,,
 Dialog.Chapter5-1-58,,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「もうほとんど戦力は残っていないでしょうし…近く、司令部の精鋭聖核戦姫で再びここを制圧します」,「對方應該也幾乎沒有戰力剩下了……不久之後，就由司令部的精銳聖核戰姫再來將這裡徹底收復。」,"""There will be very little strength left...and in the near future, the elite of the Seigetsu Student Council will take control of this place again.""","「이제 거의 전력은 남아 있지 않겠죠… 조만간, 사령부의 정예 성핵전희로 다시 이곳을 제압하겠습니다」","""We don't have any troops left... We shall come back with the elite Holy Core Battlemaidens soon.""",「对方应该也几乎没有战力剩下了……不久之后，就由司令部的精锐圣核战姫再来将这里彻底收复。」
 ,,,,,,,,
@@ -131,27 +131,27 @@ Dialog.Chapter5-1-58,,「もうほとんど戦力は残っていないでしょ�
 ,,,,,,,,
 Chapter 5-2,注釈,,,,,,,
 ,,,,,,,,
-Dialog.Chapter5-2-1,,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多的攻擊過去一夜之後，據點暫時恢復了片刻的平靜。,"The night after the attack by Nayuta, the hideout had briefly regained its composure.","나유타에 의한 공격으로부터 하룻밤이 지나고, 아지트는 잠깐의 평온을 되찾고 있었다","It has been a day since Nayuta's attack, and the hideout finally managed to stabilize itself.",那由多的攻击过去一夜之后，据点暂时恢复了片刻的平静。
+Dialog.Chapter5-2-1,,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,那由多による攻撃から一夜明け、アジトは束の間の落ち着きを取り戻していた,受那由多攻擊過一個晚上後，基地暫時恢復了片刻的平靜。,"The night after the attack by Nayuta, the hideout had briefly regained its composure.","나유타에 의한 공격으로부터 하룻밤이 지나고, 아지트는 잠깐의 평온을 되찾고 있었다","It has been a day since Nayuta's attack, and the hideout finally managed to stabilize itself.",那由多的攻击过去一夜之后，据点暂时恢复了片刻的平静。
 ,,,,,,,,
-Dialog.Chapter5-2-2,005号,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……那麼，現在來說明一下關於前幾天襲擊據點的聖核戰姫，我們目前掌握到的情報。」,"""At ......, we'll tell you what we currently know about the Seikaku Princess who recently attacked our hideout.""","「……그럼, 얼마 전 아지트를 습격한 성핵전희에 대해 현재 알고 있는 것을 말씀드리겠습니다」","""...This is what we currently know about the Holy Core Battlemaiden that attacked us the other day.""",「……那么，现在来说明一下关于前几天袭击据点的圣核战姫，我们目前掌握到的情报。」
+Dialog.Chapter5-2-2,005号,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……では、先日アジトを襲撃した聖核戦姫について現在分かっていることをお話しします」,「……那麼，現在來說明一下關於前幾天襲擊基地的聖核戰姫，我們目前掌握到的情報。」,"""At ......, we'll tell you what we currently know about the Seikaku Princess who recently attacked our hideout.""","「……그럼, 얼마 전 아지트를 습격한 성핵전희에 대해 현재 알고 있는 것을 말씀드리겠습니다」","""...This is what we currently know about the Holy Core Battlemaiden that attacked us the other day.""",「……那么，现在来说明一下关于前几天袭击据点的圣核战姫，我们目前掌握到的情报。」
 ,,,,,,,,
 Dialog.Chapter5-2-2(1),SEL,よろしく頼む,よろしく頼む,麻煩妳了。,I look forward to working with you,잘 부탁한다,Go ahead.,麻烦你了。
 ,モニター背景,,,,,,,
-Dialog.Chapter5-2-3,那由多,「彼女は“八雲那由多”、ホーリーコア・レギオン会長にして最強の聖核戦姫です」,「彼女は“八雲那由多”、ホーリーコア・レギオン総司令にして最強の聖核戦姫です」,「她名叫『八雲那由多』，是聖核軍團的總司令，同時也是最強的聖核戰姫。」,"""She is ""Yakumo Nayuta,"" the president of the Seigetsu Student Council and the most powerful Seikaku Princess.""","「그녀는 “야쿠모 나유타”, 홀리코어 레기온 총사령관이자 최강의 성핵전희입니다」","""She is Nayuta Yagumo, the Commander of Holy Core Legion and the most powerful Holy Core Battlemaiden.""",「她名叫『八云那由多』，是圣核军团的总司令，同时也是最强的圣核战姫。」
+Dialog.Chapter5-2-3,那由多,「彼女は“八雲那由多”、ホーリーコア・レギオン会長にして最強の聖核戦姫です」,「彼女は『八雲那由多』、ホーリーコア・レギオン総司令にして最強の聖核戦姫です」,「她名叫『八雲那由多』，是聖核軍團的總司令，同時也是最強的聖核戰姫。」,"""She is ""Yakumo Nayuta,"" the president of the Seigetsu Student Council and the most powerful Seikaku Princess.""","「그녀는 “야쿠모 나유타”, 홀리코어 레기온 총사령관이자 최강의 성핵전희입니다」","""She is Nayuta Yagumo, the Commander of Holy Core Legion and the most powerful Holy Core Battlemaiden.""",「她名叫『八云那由多』，是圣核军团的总司令，同时也是最强的圣核战姫。」
 ,,,,,,,,
 Dialog.Chapter5-2-4,,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外の財団支部の約半数は彼女によって壊滅させられました」,「海外的財團分部大約有一半，都是被她親手摧毀的。」,"""About half of the Foundation's branches abroad have been destroyed by her.""",「해외 재단 지부의 약 절반은 그녀에 의해 괴멸되었습니다」,"""She is responsible for destroying about half of the Foundation's overseas branches.""",「海外的财团分部大约有一半，都是被她亲手摧毁的。」
 ,,,,,,,,
 Dialog.Chapter5-2-5,,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「本来なら、今は海外に行っているはずだったのですが…想定外でした」,「照理說，她現在應該在海外行動…她的出現完全出乎我們的預料。」,"""'Originally, I would have gone overseas now...it was unexpected.'""","「본래라면, 지금은 해외에 가 있어야 했을 텐데… 예상 밖이었습니다」","""She should have been overseas, and we did not expect her to be here.""",「照理说，她现在应该在海外行动…她的出现完全出乎我们的预料。」
 ,,,,,,,,
-Dialog.Chapter5-2-6,,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「到目前為止，我們一直躲在地下據點裡活動……但既然對方都已經侵入到這麼深的區域，想再一直躲下去恐怕是不可能了。」,"""So far we have been hiding in our underground hideouts, but now that they have penetrated this deep, it will no longer be possible for us to continue hiding.""","「지금까지는 지하 아지트에 숨어 있었습니다만… 여기까지 깊숙이 침입당한 이상, 더 이상 숨어 지내는 것은 불가능할 것입니다」","""We have been concealing the underground hideout, but after the enemy reached its depths, it is likely impossible for us to keep hiding.",「到目前为止，我们一直躲在地下据点里活动……但既然对方都已经侵入到这么深的区域，想再一直躲下去恐怕是不可能了。」
+Dialog.Chapter5-2-6,,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「これまでは地下アジトに隠れてきましたが…ここまで深部に侵入された以上、もはや隠れ続けるのは不可能でしょう」,「到目前為止，我們一直躲在地下基地裡活動……但既然對方都已經侵入到這麼深的區域，想再一直躲下去恐怕是不可能了。」,"""So far we have been hiding in our underground hideouts, but now that they have penetrated this deep, it will no longer be possible for us to continue hiding.""","「지금까지는 지하 아지트에 숨어 있었습니다만… 여기까지 깊숙이 침입당한 이상, 더 이상 숨어 지내는 것은 불가능할 것입니다」","""We have been concealing the underground hideout, but after the enemy reached its depths, it is likely impossible for us to keep hiding.",「到目前为止，我们一直躲在地下据点里活动……但既然对方都已经侵入到这么深的区域，想再一直躲下去恐怕是不可能了。」
 ,,,,,,,,
 Dialog.Chapter5-2-7,,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「…そして彼女は一人で厳重保管対象の触手怪獣を倒すほどの戦闘能力を持っています」,「……而且，她還擁有能夠單獨擊倒嚴密管控對象——觸手怪獸——的戰鬥力。」,"""...and she has enough fighting ability to defeat the tentacle monster in strict custody all by herself.""",「…그리고 그녀는 혼자서 엄중 보관 대상인 촉수 괴수를 쓰러뜨릴 정도의 전투 능력을 가지고 있습니다」,"""...And she has the power to take down the heavily guarded Tentacle Monster.""",「……而且，她还拥有能够单独击倒严密管控对象——触手怪兽——的战斗力。」
 ,,,,,,,,
-Dialog.Chapter5-2-8,,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「不論我們這邊有多少克隆和戰鬥員都沒有勝算。現在我們需要的是能與之匹敵的單體戰力。」,"""No matter how many clones and fighters we have, we won't stand a chance. We need a strong stand―alone force.""",「저희 클론이나 전투원이 아무리 있어도 승산은 없을 것입니다. 단독으로 강력한 전력이 필요합니다」,"""We don't stand a chance, no matter how many clones or soldiers we send. We need an extremely powerful individual.""",「不论我们这边有多少克隆和战斗员都没有胜算。现在我们需要的是能与之匹敌的单体战力。」
+Dialog.Chapter5-2-8,,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「私達クローンや戦闘員がどれだけいても勝ち目はないでしょう。単体で強力な戦力が必要です」,「不論我們這邊有多少克隆人和戰鬥員都沒有勝算。現在我們需要的是能與之匹敵的單體戰力。」,"""No matter how many clones and fighters we have, we won't stand a chance. We need a strong stand―alone force.""",「저희 클론이나 전투원이 아무리 있어도 승산은 없을 것입니다. 단독으로 강력한 전력이 필요합니다」,"""We don't stand a chance, no matter how many clones or soldiers we send. We need an extremely powerful individual.""",「不论我们这边有多少克隆和战斗员都没有胜算。现在我们需要的是能与之匹敌的单体战力。」
 ,,,,,,,,
 Dialog.Chapter5-2-9,,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間はあまりありません。速やかに新たな作戦を開始しましょう」,「……時間不多了。我們必須儘快展開新的作戰計畫。」,"""We don't have much time at ....... Let's start a new operation as soon as possible.""",「……시간은 그다지 없습니다. 신속히 새로운 작전을 개시합시다」,"""We don't have much time. We need to start a new operation soon.""",「……时间不多了。我们必须尽快展开新的作战计划。」
 ,,,,,,,,
-Dialog.Chapter5-2-10,暗転,ホーリーコア・レギオン司令部にて,ホーリーコア・レギオン司令部にて,聖核軍團司令部,At the Seigetsu Student Council,홀리코어 레기온 사령부에서,At the Holy Core Legion Command Center...,圣核军团司令部
+Dialog.Chapter5-2-10,暗転,ホーリーコア・レギオン司令部にて,ホーリーコア・レギオン司令部にて,「聖核軍團」司令部,At the Seigetsu Student Council,홀리코어 레기온 사령부에서,At the Holy Core Legion Command Center...,圣核军团司令部
 ,,,,,,,,
 ,執務室,,,,,,,
 Dialog.Chapter5-2-11,那由多(制服),「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「―――では作戦の概要はこの通りです。今度こそ財団との戦いを終わらせます」,「――以上就是此次的作戰概要。這次務必要從此結束和財團之間的戰鬥。」,"""――― ""So, here's the gist of the operation. This time we will end the war with the Foundation.""",「―――그럼 작전의 개요는 이렇습니다. 이번에야말로 재단과의 싸움을 끝내겠습니다」,"""...This is the summary of the operation. We will finish the Foundation off, once and for all.""",「――以上就是此次的作战概要。这次务必要从此结束和财团之间的战斗。」
@@ -168,7 +168,7 @@ Dialog.Chapter5-2-16,生徒1,「…それに那由多先輩が仕留めきれな
 ,,,,,,,,
 Dialog.Chapter5-2-17,那由多,「そうですね…はい、心配する必要は全くありません」,「そうですね…はい、心配する必要は全くありません」,「這點嘛……是的，完全不用擔心。」,"""Well...yes, no need to worry at all.""","「그렇군요… 네, 걱정할 필요는 전혀 없습니다」","""Right... Yes, there's absolutely no need to worry.""",「这点嘛……是的，完全不用担心。」
 ,,,,,,,,
-Dialog.Chapter5-2-18,那由多,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「據點裡其實沒有那麼強的怪人。就算艾蓮娜會輸，多半也是因為大意而被偷襲了吧。」,"""There were no strong monsters inside the hideout. Even if Erena lost, it was probably because she was caught off guard.""",「아지트 내부에는 그다지 강한 괴인은 없었습니다. 엘레나가 패배했다고 해도 방심해서 기습당한 것이겠죠」,"""There weren't any particularly strong monsters inside their hideout. Even if Elena lost, it was probably because she was caught off guard by a surprise attack.""",「据点里其实没有那么强的怪人。就算艾莲娜会输，多半也是因为大意而被偷袭了吧。」
+Dialog.Chapter5-2-18,那由多,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「アジト内部にはそれほど強い怪人はいませんでした。エレナが負けたと言っても油断から不意打ちされたのでしょう」,「基地裡其實沒有那麼強的怪人。就算艾蓮娜會輸，多半也是因為大意而被偷襲了吧。」,"""There were no strong monsters inside the hideout. Even if Erena lost, it was probably because she was caught off guard.""",「아지트 내부에는 그다지 강한 괴인은 없었습니다. 엘레나가 패배했다고 해도 방심해서 기습당한 것이겠죠」,"""There weren't any particularly strong monsters inside their hideout. Even if Elena lost, it was probably because she was caught off guard by a surprise attack.""",「据点里其实没有那么强的怪人。就算艾莲娜会输，多半也是因为大意而被偷袭了吧。」
 ,,,,,,,,
 Dialog.Chapter5-2-19,那由多,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「少し強かった怪人も私がほとんど無力化しました。今、あの支部にほとんど戦う力は残ってないでしょう」,「稍微強一點的怪人，也幾乎都已經被我削弱到沒什麼戰力了。現在那個基地幾乎已經喪失作戰能力。」,"""I have almost neutralized the monsters that were a little stronger than the others. There will be very little strength left in that branch to fight now.""","「조금 강했던 괴인도 제가 거의 무력화했습니다. 지금, 저 지부에는 거의 싸울 힘은 남아 있지 않을 겁니다」","""I've already neutralized most of the somewhat stronger monsters. That branch probably has almost no fighting power left now.""",「稍微强一点的怪人，也几乎都已经被我削弱到没什么战力了。现在那个基地几乎已经丧失作战能力。」
 ,,,,,,,,
@@ -188,7 +188,7 @@ Dialog.Chapter5-2-26,那由多,「思ったより早い展開ですね…また�
 ,,,,,,,,
 Dialog.Chapter5-2-27,,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「―――作戦が少し前倒しになっただけです。前倒しで作戦を開始します、部隊ごとに各地の敵を撃破してください」,「――只是讓作戰時程稍微提前罷了。那我們就提前開始行動，請各部隊分別殲滅各地的敵人。」,"""―――― The operation has just been moved up a little bit. We will start the operation ahead of schedule. Please destroy the enemy in each area by unit.""","「―――작전이 조금 앞당겨졌을 뿐입니다. 앞당겨 작전을 개시합니다, 부대별로 각지의 적을 격파하십시오」","""The operation has just been moved up slightly. We're starting the operation ahead of schedule—each squad will defeat enemies in their assigned areas.""",「――只是让作战时程稍微提前罢了。那我们就提前开始行动，请各部队分别歼灭各地的敌人。」
 ,,,,,,,,
-Dialog.Chapter5-2-28,,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戰姫：翡翠、祖母綠、海藍寶，妳們三人跟我一起走。我們要親自奪回中央塔。」,"""Seikaku Princess: Jade, Emerald, and Aquamarine come with me. We will retake the Central Tower ourselves.""","「성핵전희: 히스이, 에메랄드, 아쿠아마린은 저와 함께 오십시오. 저희가 센트럴 타워를 탈환합니다」","""Holy Core Battlemaidens Hisui, Emerald, and Aquamarine, come with me. We will take back Central Tower.""",「圣核战姫：翡翠、祖母绿、海蓝宝，你们三人跟我一起走。我们要亲自夺回中央塔。」
+Dialog.Chapter5-2-28,,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戦姫：ヒスイ、エメラルド、アクアマリンは私と一緒に来てください。私達でセントラルタワーを奪還します」,「聖核戰姫：翡翠、綠寶石、海藍寶，妳們三人跟我一起走。我們要親自奪回中央塔。」,"""Seikaku Princess: Jade, Emerald, and Aquamarine come with me. We will retake the Central Tower ourselves.""","「성핵전희: 히스이, 에메랄드, 아쿠아마린은 저와 함께 오십시오. 저희가 센트럴 타워를 탈환합니다」","""Holy Core Battlemaidens Hisui, Emerald, and Aquamarine, come with me. We will take back Central Tower.""",「圣核战姫：翡翠、祖母绿、海蓝宝，你们三人跟我一起走。我们要亲自夺回中央塔。」
 ,,,,,,,,
 Dialog.Chapter5-2-29,,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「これが恐らく最後の戦いになるでしょう。では皆さん、ご武運を祈ります」,「這恐怕會是最後一戰了。那麼，各位，祝你們武運昌隆。」,"""This will probably be my last fight. So, ladies and gentlemen, I wish you all the best of luck.""","「이것이 아마 마지막 싸움이 될 것입니다. 그럼 여러분, 무운을 빕니다」","""This will probably be our final battle. Everyone, I wish you good luck.""",「这恐怕会是最后一战了。那么，各位，祝你们武运昌隆。」
 ,暗転,,,,,,,
@@ -347,13 +347,13 @@ Dialog.Chapter5-3-48,エレナ,「那由多、貴女はここで私に負ける�
 ,,,,,,,,
 Dialog.Chapter5-3-49,那由多,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――迷っている場合ではありませんね。聖核エネルギー全開ッ！“雷神之相”！」,「――――看來現在不是猶豫的時候了。聖核能量全開！「雷神之相」！」,"""―――― is not the time to get lost. The Seikaku energy is in full swing! ""Thunder God phase!""",「――――망설일 때가 아니군요. 성핵 에너지 전개! “뇌신지상”!」,"""This is no time for hesitation. Full Holy Core Energy! Thunderous Avatar!""",「――――看来现在不是犹豫的时候了。圣核能量全开！「雷神之相」！」
 ,,,,,,,,
-Dialog.Chapter5-3-50,,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雜魚來多少都沒有什麼差別。我可是最強的聖核戰姫。你們全部一起上吧！」,"""I don't care how many small fry there are. I am the most powerful Seikaku Princess. Get it together and come at me!""",「잡병이 아무리 있어도 관계없습니다. 저는 최강의 성핵전희입니다. 한꺼번에 덤비십시오!」,"""It doesn't matter how many foot soldiers there are. I am the strongest Holy Core Battlemaiden. Come at me all at once!""",「杂鱼来多少都没有什么差别。我可是最强的圣核战姫。你们全部一起上吧！」
+Dialog.Chapter5-3-50,,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雑兵がどれだけいようと関係ありません。私は最強の聖核戦姫です。まとめてかかってきなさい！」,「雜魚來多少都沒有什麽差別。我可是最強的聖核戰姫。你們全部一起上吧！」,"""I don't care how many small fry there are. I am the most powerful Seikaku Princess. Get it together and come at me!""",「잡병이 아무리 있어도 관계없습니다. 저는 최강의 성핵전희입니다. 한꺼번에 덤비십시오!」,"""It doesn't matter how many foot soldiers there are. I am the strongest Holy Core Battlemaiden. Come at me all at once!""",「杂鱼来多少都没有什么差别。我可是最强的圣核战姫。你们全部一起上吧！」
 ,,,,,,,,
 ,,戦闘開始,戦闘開始,戰鬥開始,戦闘開始,전투 시작,Combat Starts,战斗开始
 ,,,,,,,,
 ,,戦闘終了,戦闘終了,戰鬥結束,戦闘終了,전투 종료,Combat Ends,战斗结束
 ,セントラルタワー,,,,,,,
-Dialog.Chapter5-3-51,那由多,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「哈啊、哈啊，差不多死心吧！妳是不可能打贏我的！」,"""'Hah, hah, give it up for good! There is no way you can beat me!""","「하앗, 하아, 적당히 포기하십시오! 당신이 저에게 이길 수 있을 리 없지 않습니까!」","""Huff, huff... Just give up already! There's no way you can beat me!""",「哈啊、哈啊，差不多死心吧！你是不可能打赢我的！」
+Dialog.Chapter5-3-51,那由多,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「ハアッ、ハァ、いい加減に諦めなさい！あなたが私に勝てるわけがないでしょう！」,「哈啊，哈啊，差不多死心吧！妳是不可能打贏我的！」,"""'Hah, hah, give it up for good! There is no way you can beat me!""","「하앗, 하아, 적당히 포기하십시오! 당신이 저에게 이길 수 있을 리 없지 않습니까!」","""Huff, huff... Just give up already! There's no way you can beat me!""",「哈啊、哈啊，差不多死心吧！你是不可能打赢我的！」
 ,,,,,,,,
 Dialog.Chapter5-3-52,エレナ,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「ハア、ハアッ、那由多こそだいぶ息が上がっていますよッ？限界が近いんでしょ？！」,「哈啊、哈啊，那由多妳自己氣都喘成這樣了不是嗎？已經快到極限了對吧？！」,"""I'm sure you're breathing very hard, Nayuta. You must be near your limit!""","「하아, 하앗, 나유타야말로 상당히 숨이 차 있군요? 한계가 가까운 거죠?!」","""Huff, huff... You're the one who's quite out of breath, Nayuta! You're at the end of your rope, aren't you?""",「哈啊、哈啊，那由多你自己气都喘成这样了不是吗？已经快到极限了对吧？！」
 ,,,,,,,,
@@ -363,7 +363,7 @@ Dialog.Chapter5-3-54,,那由多は口から血を吐き、地面に膝をつく,
 ,,,,,,,,
 Dialog.Chapter5-3-55,那由多,「――――な、こんなっ！」,「――――な、こんなっ！」,「――這、這怎麼可能！」,"""――――, konk!""","「――――뭣, 이런!」","""N-No... How...""",「――这、这怎么可能！」
 ,,,,,,,,
-Dialog.Chapter5-3-56,エレナ,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「哈啊、哈啊……！看來副作用終於來了呢……！」,"""'Haaah, haaah ......! Looks like the force is rebounding...!""","「하앗, 하앗……! 아무래도 힘의 반동이 온 것 같군요…!」","""Huff, huff...! It seems the recoil from your power has caught up with you!""",「哈啊、哈啊……！看来副作用终于来了呢……！」
+Dialog.Chapter5-3-56,エレナ,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「ハアッ、ハアッ……！どうやら力の反動が来たようですね…！」,「哈啊，哈啊……！看來副作用終於來了呢……！」,"""'Haaah, haaah ......! Looks like the force is rebounding...!""","「하앗, 하앗……! 아무래도 힘의 반동이 온 것 같군요…!」","""Huff, huff...! It seems the recoil from your power has caught up with you!""",「哈啊、哈啊……！看来副作用终于来了呢……！」
 ,,,,,,,,
 Dialog.Chapter5-3-57,エレナ,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「貴女の強化状態の前に一分と立っていられた者はいませんでしたから、長期戦を想定していないのでしょう？」,「以前在妳強化狀態下，沒有任何人能撐過一分鐘，自然也就不會去想什麼持久戰吧？」,"""No one could stand for a minute in front of your enhanced state, so you're not planning for a prolonged battle, are you?""","「당신의 강화 상태 앞에서 1분도 버틴 자는 없었으니, 장기전을 상정하지 않았겠죠?」","""No one has been able to stand before your enhanced state for even a minute, so you weren't planning for a prolonged battle, were you?""",「以前在你强化状态下，没有任何人能撑过一分钟，自然也就不会去想什么持久战吧？」
 ,,,,,,,,
