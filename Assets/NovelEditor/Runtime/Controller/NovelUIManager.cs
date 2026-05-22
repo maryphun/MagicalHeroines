@@ -102,18 +102,23 @@ namespace NovelEditor
         /// <param name="display">UIを表示するかどうか</param>
         internal async void SetUIDisplay(bool display)
         {
+            var canvasGrp = GetComponent<CanvasGroup>();
             if (display)
             {
                 UIparents.alpha = 1;
-                await Task.Delay(100);
+                await Task.Delay(300);
                 UIparents.interactable = true;
                 UIparents.blocksRaycasts = true;
+                canvasGrp.interactable = true;
+                canvasGrp.blocksRaycasts = true;
             }
             else
             {
                 UIparents.alpha = 0;
+                canvasGrp.interactable = false;
+                canvasGrp.blocksRaycasts = false;
                 UIparents.interactable = false;
-                UIparents.interactable = false;
+                UIparents.blocksRaycasts = false;
             }
         }
 
