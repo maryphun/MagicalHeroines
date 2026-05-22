@@ -109,18 +109,43 @@ public class SideQuestPanel : MonoBehaviour
         // 敵キャラを設置
         BattleSetup.Reset(false);
         BattleSetup.SetAllowEscape(true);
-        GenerateEnemy(ProgressManager.Instance.GetSideQuestData().food);
+        int totalEnemyLevel = GenerateEnemy(ProgressManager.Instance.GetSideQuestData().food);
         BattleSetup.SetBattleBGM("BattleTutorial");
         BattleSetup.SetSideQuestIncrement(1, -1, -1);
         BattleSetup.SetReward(Random.Range(1, 50), Random.Range(1, 10));
         CheckEquipmentDrop();
         
         BattleSetup.AddItemReward("食パン");
-        if (ProgressManager.Instance.GetSideQuestData().food >= 2) BattleSetup.AddItemReward("クロワッサン");
-        if (ProgressManager.Instance.GetSideQuestData().food >= 3) BattleSetup.AddItemReward("救急箱");
         if (ProgressManager.Instance.GetSideQuestData().food >= 4) BattleSetup.AddItemReward("食パン");
         if (ProgressManager.Instance.GetSideQuestData().food >= 5) BattleSetup.AddItemReward("救急箱");
-        
+
+        int bonusDropChance = Mathf.Clamp(totalEnemyLevel * 2 + ProgressManager.Instance.GetSideQuestData().food * 5, 0, 85);
+        // totalEnemyLevel 10 = 20%
+        // totalEnemyLevel 25 = 50%
+        // totalEnemyLevel 40 = 80%
+
+        if (Random.Range(0, 100) < bonusDropChance)
+        {
+            BattleSetup.AddItemReward("食パン");
+        }
+        int rareDropChance = Mathf.Clamp((totalEnemyLevel + ProgressManager.Instance.GetSideQuestData().food * 10), 0, 90);
+
+        if (Random.Range(0, 100) < rareDropChance)
+        {
+            if (ProgressManager.Instance.GetSideQuestData().food >= 5)
+            {
+                BattleSetup.AddItemReward("救急箱");
+            }
+            else if (ProgressManager.Instance.GetSideQuestData().food >= 3)
+            {
+                BattleSetup.AddItemReward("クロワッサン");
+            }
+            else
+            {
+                BattleSetup.AddItemReward("食パン");
+            }
+        }
+
         const float animationTime = 1.0f;
 
         // シーン遷移
@@ -143,10 +168,18 @@ public class SideQuestPanel : MonoBehaviour
         BattleSetup.Reset(false);
         BattleSetup.SetBattleBack(BattleBack.CentreTower);
         BattleSetup.SetAllowEscape(true);
-        GenerateEnemy(ProgressManager.Instance.GetSideQuestData().bank);
+        int totalEnemyLevel = GenerateEnemy(ProgressManager.Instance.GetSideQuestData().bank);
         BattleSetup.SetBattleBGM("BattleTutorial");
         BattleSetup.SetSideQuestIncrement(-1, 1, -1);
-        BattleSetup.SetReward(Random.Range(300 + (75 * ProgressManager.Instance.GetSideQuestData().bank), 900 + (75 * ProgressManager.Instance.GetSideQuestData().bank)), Random.Range(5, 10));
+
+        // calculate reward
+        int baseMoneyMin = 150 + ProgressManager.Instance.GetSideQuestData().bank * 40;
+        int baseMoneyMax = 300 + ProgressManager.Instance.GetSideQuestData().bank * 60;
+        int enemyLevelBonus = Mathf.RoundToInt(Mathf.Pow(totalEnemyLevel, 1.10f) * 10);
+        float bankMultiplier = 1.0f + (ProgressManager.Instance.GetSideQuestData().bank - 1) * 0.10f;
+        int moneyReward = Mathf.RoundToInt(Random.Range(baseMoneyMin, baseMoneyMax + 1) + enemyLevelBonus * bankMultiplier);
+
+        BattleSetup.SetReward(moneyReward, Random.Range(5, 10));
         CheckEquipmentDrop();
 
         const float animationTime = 1.0f;
@@ -171,10 +204,24 @@ public class SideQuestPanel : MonoBehaviour
         BattleSetup.Reset(false);
         BattleSetup.SetBattleBack(BattleBack.CentreTower);
         BattleSetup.SetAllowEscape(true);
-        GenerateEnemy(ProgressManager.Instance.GetSideQuestData().research);
+        int totalEnemyLevel = GenerateEnemy(ProgressManager.Instance.GetSideQuestData().research);
         BattleSetup.SetBattleBGM("BattleTutorial");
         BattleSetup.SetSideQuestIncrement(-1, -1, 1);
-        BattleSetup.SetReward(Random.Range(50, 150), Random.Range(100 + (30 * ProgressManager.Instance.GetSideQuestData().research), 75 + (30 * ProgressManager.Instance.GetSideQuestData().research)));
+
+        // calculate reward
+        int baseMin = 70 + ProgressManager.Instance.GetSideQuestData().research * 25;
+        int baseMax = 110 + ProgressManager.Instance.GetSideQuestData().research * 35;
+        float researchMultiplier = 1.0f + (ProgressManager.Instance.GetSideQuestData().research - 1) * 0.15f;
+        // Enemy level has stronger influence
+        int enemyLevelBonus = totalEnemyLevel * 5;
+        // research 1 = 1.00x
+        // research 2 = 1.15x
+        // research 3 = 1.30x
+        // research 4 = 1.45x
+        // research 5 = 1.60x
+        int rewardPoint = Mathf.RoundToInt((Random.Range(baseMin, baseMax + 1) + enemyLevelBonus) * researchMultiplier * 0.7f);
+
+        BattleSetup.SetReward(Random.Range(50, 150), rewardPoint);
         CheckEquipmentDrop();
 
         const float animationTime = 1.0f;
@@ -233,19 +280,25 @@ public class SideQuestPanel : MonoBehaviour
         }
     }
 
-    private void GenerateEnemy(int alertLevel)
+
+    // return total enemy level
+    private int GenerateEnemy(int alertLevel)
     {
         var possibleEnemy = GetEnemyList().Where(x => x.alertLevel <= alertLevel).ToArray();
         int enemyNumber = Mathf.Clamp(enemyPerAlertLevel[alertLevel - 1] + Random.Range(-1, 2), 1, 5);
+        int enemyTotalLevel = 0;
 
         var enemies = new List<EnemyDefine>();
         for (int i = 0; i < enemyNumber; i ++)
         {
             var random = new System.Random();
             int index = random.Next(possibleEnemy.Count());
+            enemyTotalLevel += possibleEnemy[index].enemy.level;
             enemies.Add(possibleEnemy[index].enemy);
         }
 
         BattleSetup.SetEnemy(enemies);
+
+        return enemyTotalLevel;
     }
 }
