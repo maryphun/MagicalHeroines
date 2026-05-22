@@ -165,8 +165,12 @@ public class EquipmentPanel : MonoBehaviour
     public void OnCloseChangeEquipCharacter(bool playSE)
     {
         popup.DOFade(0.0f, 0.5f);
-        popup.interactable = false;
-        popup.blocksRaycasts = false;
+
+        DOVirtual.DelayedCall(0.45f, () =>
+        {
+            popup.interactable = false;
+            popup.blocksRaycasts = false;
+        });
 
         buffer_changeEquipItem = null;
         buffer_itemSlotIndex = -1;

@@ -23168,7 +23168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 0.77254903}
-  m_RaycastTarget: 0
+  m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 0
   m_OnCullStateChanged:
@@ -30834,7 +30834,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1683985741}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.7029703
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -31473,6 +31473,7 @@ GameObject:
   - component: {fileID: 999073248}
   - component: {fileID: 999073247}
   - component: {fileID: 999073246}
+  - component: {fileID: 999073249}
   m_Layer: 5
   m_Name: Cancel
   m_TagString: Untagged
@@ -31594,6 +31595,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 999073244}
   m_CullTransparentMesh: 1
+--- !u!114 &999073249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999073244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d00d241e52fd6334ab1396c581b1fa75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 27
+  isForDialogueSystem: 0
+  onlyAllowOnce: 0
+  text: {fileID: 0}
+  button: {fileID: 999073246}
+  eventSystem: {fileID: 1085128102}
+  raycaster: {fileID: 1997077211}
 --- !u!1 &999365481
 GameObject:
   m_ObjectHideFlags: 0
