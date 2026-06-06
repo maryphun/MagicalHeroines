@@ -1129,7 +1129,7 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
     public void MilkOverdrive()
     {
         var self = battleManager.GetCurrentBattler();
-        targetBattlers = battleManager.GetAllTeammate();
+        targetBattlers = battleManager.GetAllTeammate().ToList();
         targetBattlers.Remove(self);
         targetBattlers.RemoveAll(x => !x.isAlive);
 
@@ -2260,7 +2260,7 @@ public class AbilityExecute : SingletonMonoBehaviour<AbilityExecute>
     public void GuardianAngel()
     {
         var self = battleManager.GetCurrentBattler();
-        var targets = battleManager.GetAllTeammate();
+        var targets = battleManager.GetAllTeammate().ToList();
 
         // 技名を表示
         var floatingText = CreateFloatingAbilityText(self.transform);
