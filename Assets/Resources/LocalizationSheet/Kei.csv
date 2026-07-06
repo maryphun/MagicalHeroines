@@ -8,13 +8,13 @@ Kei.Fallen1-3,,猫宮京は聖核エネルギーを無力化され、地下深�
 ,,,,,,,,
 Kei.Fallen1-4,,「何時間も放置されていて流石に暇なんだが…」,「何時間も放置されていて流石に暇なんだが…」,「被晾了好幾個小時，實在是很無聊……」,"""'I'm bored with quicksand after hours of being left alone...'""","""There hasn't been anything to do for hours and I'm bored...""",「몇 시간이나 방치되어 있어서 정말 심심한데…」,「被晾了好几个小时，实在是很无聊……」
 ,,,,,,,,
-Kei.Fallen1-5,,「他の捕らえられた聖核戦姫みたいに私も調教洗脳されるのだろう？」,「他の捕らえられた聖核戦姫みたいに私も調教されるのだろう？」,「我會像其他被捕獲的聖核戰姫一樣被教育吧？」,"""I will be trained and brainwashed like all the other captured Seikaku warriors, won't I?'""","""Aren't you going to re-educate me like you did with the other captured Holy Core Battlemaidens?""",「다른 붙잡힌 성핵전희처럼 나도 조교 교육당하는 거겠지?」,「我会像其他被捕获的圣核战姫一样被教育吧？」
+Kei.Fallen1-5,,「他の捕らえられた聖核戦姫みたいに私も調教洗脳されるのだろう？」,「他の捕らえられた聖核戦姫みたいに私も調教されるのだろう？」,「我會像其他被捕獲的聖核戰姫一樣被教育吧？」,"""I will be trained and brainwashed like all the other captured Seikaku warriors, won't I?'""","""Aren't you going to re-educate me like you did with the other captured Holy Core Battlemaidens?""",「다른 붙잡힌 성핵전희처럼 나도 조교 세뇌당하는 거겠지?」,「我会像其他被捕获的圣核战姫一样被教育吧？」
 ,,,,,,,,
 Kei.Fallen1-6,,「どうせなら早くやってくれ。暇すぎる方が苦痛だ」,「どうせなら早くやってくれ。暇すぎる方が苦痛だ」,「要動手的話就快點吧。太閒了反而更痛苦。」,"""I'd rather do it fast anyway. Too much free time is more painful.""","""Just do it quickly! I can't stand being bored.""",「어차피라면 빨리 해줘. 너무 심심한 게 더 고통이야」,「要动手的话就快点吧。太闲了反而更痛苦。」
 ,,,,,,,,
 Kei.Fallen1-7,戦闘員,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「あー、うるせえっ！お前これから何されるか理解してねえのか！？」,「啊ーー吵死了！妳難道不明白妳接下來會經歷什麼嗎！？」,"""Oh, shut up! Don't you realize what you're about to do to me?""","""Shut up! Don't you understand what's going to happen to you?""","「아-, 시끄러워! 너 이제부터 뭘 당할지 이해 못 하는 거야!?」",「啊ー，吵死了！你难道不明白你接下来会经历什么吗！？」
 ,,,,,,,,
-Kei.Fallen1-8,京,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教洗脳されるのだろう？」,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教されるのだろう？」,「我當然明白。我會被極盡凌辱，然後被教育吧？」,"""Of course I understand. I will be humiliated, trained and brainwashed, won't I?""","""I do, you're going to humiliate me as much as possible and then re-educate me, right?""","「물론 이해하고 있어. 나는 능욕의 극한을 당하고, 조교 교육당하는 거겠지?」",「我当然明白。我会被极尽凌辱，然后被教育吧？」
+Kei.Fallen1-8,京,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教洗脳されるのだろう？」,「もちろん理解しているよ。私は凌辱の限りを尽くされ、調教されるのだろう？」,「我當然明白。我會被極盡凌辱，然後被教育吧？」,"""Of course I understand. I will be humiliated, trained and brainwashed, won't I?""","""I do, you're going to humiliate me as much as possible and then re-educate me, right?""","「물론 이해하고 있어. 나는 능욕의 극한을 당하고, 조교 세뇌당하는 거겠지?」",「我当然明白。我会被极尽凌辱，然后被教育吧？」
 ,,,,,,,,
 Kei.Fallen1-9,戦闘員,「良く分かってるじゃねえか。だが、それだと半分だな」,「良く分かってるじゃねえか。だが、それだと半分だな」,「知道就好。不過，那只說對了一半。」,"""You know exactly what you're doing. But that's only half of it.""","""So you do know. That's only half of it.""","「잘 알고 있잖아. 하지만, 그걸로는 절반이군」",「知道就好。不过，那只说对了一半。」
 ,,,,,,,,
@@ -445,7 +445,7 @@ Kei.Fallen2-79,京,「ジュルルッ♥、ジュポッ♥、ジュポッ♥」,
 ,,,,,,,,
 Kei.Fallen2-80,戦闘員,「ぐっ、出るっ…！」,「ぐっ、出るっ…！」,「唔，要射了……！」,"""I'm coming out!""","""Guh, I'm coming...!""","「크윽, 싼다…!」",「唔、要射了……！」
 ,,,,,,,,
-Kei.Fallen2-81,Kei darkness 2-14,ドビュッ、ビュルルルッルッ！ビュルルルッ,ドビュッ、ビュルルルッルッ！ビュルルルッ,咚、咻嚕嚕嚕嚕！咻嚕嚕嚕！,Doburrrrrrrrrrr! Burrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Spurt, splurrrt! Splurrrt","도븃, 뷰르르르릇르릇! 비ュ르르릇",咚、咻噜噜噜噜！咻噜噜噜！
+Kei.Fallen2-81,Kei darkness 2-14,ドビュッ、ビュルルルッルッ！ビュルルルッ,ドビュッ、ビュルルルッルッ！ビュルルルッ,咚、咻嚕嚕嚕嚕！咻嚕嚕嚕！,Doburrrrrrrrrrr! Burrrrrrrrrrrrrrrrrrrrrrrrrrrrr!,"Spurt, splurrrt! Splurrrt","도븃, 뷰르르르릇르릇! 비르르르릇",咚、咻噜噜噜噜！咻噜噜噜！
 ,,,,,,,,
 Kei.Fallen2-82,京,「プハッ♥、んっ♥、んっ♥」,「プハッ♥、んっ♥、んっ♥」,「呸哈♥、嗯♥、嗯♥」,"""Puhhhh ♥, mmmm ♥, mmmm ♥""","""Pwah♥ Nn♥ Nn♥""","「푸핫♥, 응읏♥, 응읏♥」",「呸哈♥、嗯♥、嗯♥」
 ,,,,,,,,
@@ -492,7 +492,7 @@ Kei.Fallen3-6,京,「おっと、まだ出すんじゃないぞ？今チンポ�
 ,,,,,,,,
 Kei.Fallen3-7,戦闘員,「ぐっ、コイツッ、調子に乗りやがってっ！」,「ぐっ、コイツッ、調子に乗りやがってっ！」,「唔，這傢伙，太得意忘形了！」,"""Damn this guy, he's on a roll!""","""Guh, this bitch is getting carried away!""","「크윽, 이 녀석! 잘난 척하기는!」",「可恶、这家伙、太得意忘形了！」
 ,,,,,,,,
-Kei.Fallen3-8,京,「ふふっ、コイツとは酷いな？私は今は洗脳改造を受けたここの戦闘員なんだぞ？」,「ふふっ、コイツとは酷いな？私は今は改造を受けたここの戦闘員なんだぞ？」,「呵呵，說傢伙也太過分了吧？我現在可是接受了教育改造在這裡的戰鬥員喔？」,"""'Pfft, it's terrible with this guy, isn't it? I'm a brainwashed and modified combatant here now, remember?""","""Hehe, 'this bitch' is harsh. I'm now a modified soldier here, you know?""","「후훗, 이 녀석이라니 너무하네? 나는 지금 교육 개조를 받은 이곳 전투원이잖아?」",「呵呵，说家伙也太过分了吧？我现在可是接受了教育改造在这里的战斗员喔？」
+Kei.Fallen3-8,京,「ふふっ、コイツとは酷いな？私は今は洗脳改造を受けたここの戦闘員なんだぞ？」,「ふふっ、コイツとは酷いな？私は今は改造を受けたここの戦闘員なんだぞ？」,「呵呵，說傢伙也太過分了吧？我現在可是接受了教育改造在這裡的戰鬥員喔？」,"""'Pfft, it's terrible with this guy, isn't it? I'm a brainwashed and modified combatant here now, remember?""","""Hehe, 'this bitch' is harsh. I'm now a modified soldier here, you know?""","「후훗, 이 녀석이라니 너무하네? 나는 지금 세뇌 개조를 받은 이곳 전투원이잖아?」",「呵呵，说家伙也太过分了吧？我现在可是接受了教育改造在这里的战斗员喔？」
 ,,,,,,,,
 Kei.Fallen3-9,,「いや、戦闘員というより怪人なのかな？まあいい、しばらく耐えてくれ」,「いや、戦闘員というより怪人なのかな？まあいい、しばらく耐えてくれ」,「不對，與其說是戰鬥員，不如說是怪人吧？算了，再忍耐一下吧。」,"""'No, I'm more of a monster than a fighter? Oh well, bear with me for a while.""","""No, maybe I'm more of a fiend than a soldier? Well, whatever, hold on for a while.""","「아니, 전투원이라기보다는 괴인일까? 뭐 됐어, 잠시 참아줘」",「不对，与其说是战斗员，不如说是怪人吧？算了，再忍耐一下吧。」
 ,,,,,,,,

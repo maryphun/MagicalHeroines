@@ -25,8 +25,7 @@ System.HornyTraining,淫乱調教,Horniness,淫亂調教,淫乱调教,淫乱調�
 System.BrainwashTraining,洗脳調教,Brainwash,洗腦調教,洗脑调教,教育調教,"Re-
 education",教育調教,教育调教,교육 조교
 System.HolyCoreTraining,聖核研究,"Seikaku
-Research",聖核研究,圣核研究,聖核研究,"Seikaku
-Research",聖核研究,圣核研究,성핵 연구
+Research",聖核研究,圣核研究,聖核研究,Seikaku Research,聖核研究,圣核研究,성핵 연구
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,연구 포인트 소모:
 System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,調教結束,调教结束,조교 완료
 System.ResearchConditionDaiya,洗脳調教の終わりに解放,Unlock after Re-education,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,教育調教結束後開放,教育调教结束后开放,조교 완료 시 해금
@@ -120,7 +119,7 @@ Equip item at Character Building Panel.","獲得裝備: {s}！
 캐릭터 육성 화면에서 아이템을 장비할 수 있습니다."
 System.Storage,収納庫,Storage,收納庫,收纳库,収納庫,Storage,收納庫,收纳库,수납고
 Systeｍ.Requirement,解放条件:,Requirement: ,解放条件:,解放条件:,解放条件:,Requirement: ,解放條件:,解放条件:,개방 조건:
-System.HornyTrained,淫乱調教完了,Horniness Training,淫乱調教完成,淫乱调教完成,淫乱調教完了,Horniness Training,淫亂調教完成,淫乱调教完成,음란 조교 완료
+System.HornyTrained,淫乱調教完了,Horniness Training Completed,淫乱調教完成,淫乱调教完成,淫乱調教完了,Horniness Training Completed,淫亂調教完成,淫乱调教完成,음란 조교 완료
 System.NewAbilityTraining,{s}が新しい特殊技を覚えました。,{s} learnt new special ability.,{s}學到新特殊技能了。,{s}学到新特殊技能了。,{s}が新しい特殊技を覚えました。,{s} learnt new special ability.,{s}學到新特殊技能了。,{s}学到新特殊技能了。,"{s}, 새로운 특수기를 익혔습니다."
 System.NewRecord,"オペレーションの間にアジトである起き事が発生しました
 今記録を見ますか？","During the operation, some event happened in the hideout.
@@ -222,15 +221,13 @@ Memory.ErenaDLC,清藤 エレナ,Seidō Erena,清藤 艾蓮娜,清藤 艾莲娜,
 WorldMapScene,ワールドマップ,World Map,ワールドマップ,ワールドマップ,ワールドマップ,World Map,ワールドマップ,ワールドマップ,월드 맵
 System.Story,ストーリー進行,Continue story,繼續故事,继续故事,ストーリー進行,Continue story,繼續故事,继续故事,스토리 진행
 System.EndGameContent,高難易度コンテンツ,"Endgame
-Content",番外篇劇情,番外篇剧情,高難易度コンテンツ,"Endgame
-Content",番外篇劇情,番外篇剧情,고난도 콘텐츠
+Content",番外篇劇情,番外篇剧情,高難易度コンテンツ,Endgame\nContent,番外篇劇情,番外篇剧情,고난도 콘텐츠
 System.DLCContent,追加コンテンツ,"Extra
-Content",追加內容,追加内容,追加コンテンツ,"Extra
-Content",追加內容,追加内容,추가 콘텐츠
+Content",追加內容,追加内容,追加コンテンツ,Extra\nContent,追加內容,追加内容,추가 콘텐츠
 System.SideMission,資源調達クエスト,Resource Gathering,其他任務,其他任务,資源調達クエスト,Resource Gathering,其他任務,其他任务,자원 조달 퀘스트
 System.QuestList,クエスト一覧,Operation List,任務一覧,任务一覧,クエスト一覧,Operation List,任務一覧,任务一覧,퀘스트 목록
 System.FoodQuest,[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[食料調達],[Food Gather],[搶奪糧食],[抢夺粮食],[식량 약탈]
-System.BankQuest,[銀行強盗],[Bank Robe],[銀行強盗],[银行强盗],[銀行強盗],[Bank Robe],[銀行強盜],[银行强盗],[은행 강도]
+System.BankQuest,[銀行強盗],[Rob Bank],[銀行強盗],[银行强盗],[銀行強盗],[Rob Bank],[銀行強盜],[银行强盗],[은행 강도]
 System.ResearchQuest,[戦闘研究],[Battle Research],[戦闘研究],[战斗研究],[戦闘研究],[Battle Research],[戰鬥研究],[战斗研究],[전투 연구]
 System.RewardQuest,報酬,Reward,報酬,报酬,報酬,Reward,報酬,报酬,보상
 System.AlertLevel,警戒度,Security Level,警戒度,警戒度,警戒度,Security Level,警戒度,警戒度,경계도
@@ -413,7 +410,7 @@ They can transform and increase attack power, but are extremely heavy, raising p
 因為是可以變形的鋼鐵所以可以提升攻擊力，但是非常重所以科學家們正在煩惱怎麼提高實用性。","用最新材料技术的结晶「雷钢」做出来的手套。
 因为是可以变形的钢铁所以可以用来提升攻击力，但是非常重所以科学家们正在烦恼怎幺提高实用性。","새롭게 발명된 「뇌강」으로 만든 장갑.
 변형 가능하며 공격력이 향상되지만, 매우 무거워 실용성이 과제가 되고 있다."
-Equipment.StolenUndie,聖核戦姫から盗んだパンティ,Panties Stolen from Holy Core Valkyrie,聖核戰姬的內褲,圣核战姬的内裤,聖核戦姫から盗んだパンティ,Panties Stolen from Holy Core Valkyrie,聖核戰姬的內褲,圣核战姬的内裤,성핵전희에게서 훔친 팬티
+Equipment.StolenUndie,聖核戦姫から盗んだパンティ,Panties Stolen from Seikaku Princess,聖核戰姬的內褲,圣核战姬的内裤,聖核戦姫から盗んだパンティ,Panties Stolen from Seikaku Princess,聖核戰姬的內褲,圣核战姬的内裤,성핵전희에게서 훔친 팬티
 Equipment.StolenUndie_Info,"身につけた者には、神秘の輝きが満ち、疲れた心と体を癒す力を持っている。
 装備者は毎ターンSPを少量回復する。","Those who wear these panties are filled with a mysterious glow, healing both mind and body.
 The wearer recovers a small amount of SP each turn.","穿上之後會被迷之光輝圍繞、治愈疲勞的心靈。
@@ -751,8 +748,8 @@ HomeChar.Nayuta_F-3,「…弱者は強者に従うのみです」,「...the weak
 HomeChar.Kei_DLC_1-1,「逃げ出した二人はどこにいるのかな？」,「I wonder where those two runaways went?」,「逃跑的兩人現在會在哪裡呢？」,「逃跑的两人现在会在哪里呢？」,「逃げ出した二人はどこにいるのかな？」,「I wonder where those two runaways went?」,「逃跑的兩人現在會在哪裡呢？」,「逃跑的两人现在会在哪里呢？」,「도망친 두 사람은 어디에 있을까?」
 HomeChar.Kei_DLC_1-2,「戦闘員化の研究は順調だよ。」,「Research on combatant conversion is going smoothly.」,「戰鬥員化的研究進展很順利唷。」,「战斗员化的研究进展很顺利唷。」,「戦闘員化の研究は順調だよ。」,「Research on combatant conversion is going smoothly.」,「戰鬥員化的研究進展很順利唷。」,「战斗员化的研究进展很顺利唷。」,「전투원화 연구는 순조로워.」
 HomeChar.Kei_DLC_1-3,「どうやらエレナの所が大変なことになっているみたいだね？」,"「Looks like things have gotten complicated at Erena's place, huh?」",「看來艾蓮娜那邊情況好像很不得了？」,「看来艾莲娜那边情况好像很不得了？」,「どうやらエレナの所が大変なことになっているみたいだね？」,"「Looks like things have gotten complicated at Erena's place, huh?」",「看來艾蓮娜那邊情況好像很不得了？」,「看来艾莲娜那边情况好像很不得了？」,"「키, 키ーーー엣! 무슨 용무이십니까……?」"
-HomeChar.Kei_DLC_1-4,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Holy Core Valkyrie, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Holy Core Valkyrie, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,(……어딘가에 쓸만한 정보는……?)
-HomeChar.Kei_DLC_1-5,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻小咖聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Holy Core Valkyrie.」,「好了...剩下的只有一隻沒用的聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「키잇ーーーーーー!」
+HomeChar.Kei_DLC_1-4,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Seikaku Princess, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,「聖核戦姫を発見したけど…状況は良くないみたい。」,"「We've found the Seikaku Princess, but... the situation doesn't look good.」",「找到聖核戰姬了，但...狀況似乎不太妙。」,「找到圣核战姬了，但...状况似乎不太妙。」,(……어딘가에 쓸만한 정보는……?)
+HomeChar.Kei_DLC_1-5,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Seikaku Princess.」,「好了...剩下的只有一隻小咖聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「さて…残りは雑魚聖核戦姫一匹だ。」,「Well now... all that's left is one weak Seikaku Princess.」,「好了...剩下的只有一隻沒用的聖核戰姬了。」,「好了...剩下的只有一只小咖圣核战姬了。」,「키잇ーーーーーー!」
 HomeChar.Kei_DLC_1-6,「作戦は計画通り…さ、とっとと終わらせちゃおう。」,「The operation's going according to plan... Let's finish this quickly.」,「作戰進行非常順利...來吧，趕快結束吧。」,「作战进行非常顺利...来吧，赶快结束吧。」,「作戦は計画通り…さ、とっとと終わらせちゃおう。」,「The operation's going according to plan... Let's finish this quickly.」,「作戰進行非常順利...來吧，趕快結束吧。」,「作战进行非常顺利...来吧，赶快结束吧。」,「키이ーーー잇! 재단에 충성을 바칩니다!」
 HomeChar.Hisui_DLC_1-1,「き、キィーーーーッ！何かご用でしょうか……？」,「K-Kiiii! Did you need something...?」,「嘰、嘰————！有什麼事嗎……？」,「叽、叽————！有什么事吗……？」,「き、キィーーーーッ！何かご用でしょうか……？」,「K-Kiiii! Did you need something...?」,「嘰、嘰————！有什麼事嗎……？」,「叽、叽————！有什么事吗……？」,「키잇ーーーーーー!」
 HomeChar.Hisui_DLC_1-2,(……どこかに使えそうな情報は……？),(...Is there any useful information around here...?),(……有沒有什麼看起來可以利用的情報……？),(……有没有什么看起来可以利用的情报……？),(……どこかに使えそうな情報は……？),(...Is there any useful information around here...?),(……有沒有什麼看起來可以利用的情報……？),(……有没有什么看起来可以利用的情报……？),"「키, 키ーーー잇!(언젠가 반드시 이 조직을 장악해주겠어…)!!」"
@@ -762,7 +759,7 @@ HomeChar.sentouin22_DLC_1-1,「キィーーーーーーッ！」,「Kiiiiii!」,
 HomeChar.sentouin22_DLC_1-2,「き、キィーーッ！(いつか絶対この組織を乗っ取ってやる…)！！」,「K-kiiiiii! (Someday I'll definitely take over this organization...!)」,「嘰、嘰——！（總有一天我一定會奪取這個組織…！！）」,「叽、叽——！（总有一天我一定会夺取这个组织…！！）」,「き、キィーーッ！(いつか絶対この組織を乗っ取ってやる…)！！」,「K-kiiiiii! (Someday I'll definitely take over this organization...!)」,「嘰、嘰——！（總有一天我一定會奪取這個組織…！！）」,「叽、叽——！（总有一天我一定会夺取这个组织…！！）」,「꺄앙♥…훈육 조교 시간인가요…? 이 못난 개에게 잔뜩 벌을 내려주세요…읏♥」
 HomeChar.Daiya_DLC_1-1,「わふっ♥ご主人様ですか…っ！？」,"「Woof♥ Is that you, Master...?」",「汪！♥是主人嗎…！」,「汪！♥是主人吗…！」,「わふっ♥ご主人様ですか…っ！？」,"「Woof♥ Is that you, Master...?」",「汪！♥是主人嗎…！」,「汪！♥是主人吗…！」,「왈프♥ 주인님이신가요…!?」
 HomeChar.Daiya_DLC_1-2,「へっ、へっ、へっ、えへへぇ…♥」,"「Heh, heh, heh, eheheh...♥」",「嘿、嘿、嘿、嘻嘻…♥」,「嘿、嘿、嘿、嘻嘻…♥」,「へっ、へっ、へっ、えへへぇ…♥」,"「Heh, heh, heh, eheheh...♥」",「嘿、嘿、嘿、嘻嘻…♥」,「嘿、嘿、嘿、嘻嘻…♥」,"「헤엑, 헤엑, 헤엑… 에헤헤…♥」"
-HomeChar.Daiya_DLC_1-3,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「私はご主人様に躾けられた忠犬です…♥」,"「I’m Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「저는 주인님께 길들여진 충견입니다…♥」
+HomeChar.Daiya_DLC_1-3,「私はご主人様に躾けられた忠犬です…♥」,"「I'm Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「私はご主人様に躾けられた忠犬です…♥」,"「I'm Master's obedient pet, trained to serve...♥」",「我是被主人完美訓練過的忠犬…♥」,「我是被主人完美训练过的忠犬…♥」,「저는 주인님께 길들여진 충견입니다…♥」
 HomeChar.Daiya_DLC_1-4,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「喵♥…训练时间到了吗…？请多多惩罚这只笨狗吧…♥」,「きゃんっ♥…躾けの時間ですか…？この駄犬に沢山お仕置きしてくださいっ…♥」,「Yelp♥ ...Is it time for training...? Please punish this worthless dog plenty...♥」,「喵♥…訓練時間到了嗎…？請多多懲罰這隻笨狗吧…♥」,「汪♥…奖励时间到了吗…？请多多惩罚这只笨狗吧…♥」,「캥♥… 훈련 시간인가요…? 이 못난 개에게 잔뜩 벌을 내려주세요…♥」
 WorldScene,ワールド画面台詞,WorldMap Dialogue,ワールド画面台詞,ワールド画面台词,ワールド画面台詞,WorldMap Dialogue,ワールド畫面臺詞,ワールド画面台词,월드 화면 대사
 World.Chapter2-3,「今回の作戦には『笹谷 明穂』が必要です。急いで調教のほうを進みましょう。」,"「We need ""Sasaya Akiho"" for this mission. Let's hurry up and proceed with the training.」",「今回の作戦には“笹谷 明穗”が必要です。急いで調教のほうを進みましょう。」,「这次的作战需要『笹谷 明穗』的参与。调教那边，请尽快推进。」,「今回の作戦には『笹谷 明穂』が必要です。急いで調教のほうを進みましょう。」,"""We need 'Sasaya Akiho' for this mission. Let's hurry up and proceed with the training.""",「這次的作戰需要『笹谷 明穗』的參與。調教那邊，請儘快推進。」,「这次的作战需要『笹谷 明穗』的参与。调教那边，请尽快推进。」,「이번 작전에는 “사사야 아키호”가 필요합니다. 서둘러 조교를 진행합시다.」
@@ -828,7 +825,7 @@ BattleLog.ChargeAttack,攻撃をチャージする ーー {0}ダメージをた�
 BattleLog.NayutaEquip,[{0}] {1}　の攻撃力が {2} 上がった！,[{0}] {1}'s attack power was increased by {2}!,[{0}] {1}　的攻擊力上升了 {2} 點！,[{0}] {1}　的攻击力上升了 {2} 点！,[{0}] {1}　の攻撃力が {2} 上がった！,[{0}] {1}'s attack power was increased by {2}!,[{0}] {1}　的攻擊力上升了 {2} 點！,[{0}] {1}　的攻击力上升了 {2} 点！,"{0}, {1}에게 호출되었다."
 BattleLog.KeiSpawn,{0} が {1} に呼び出された。,{0} is summoned by {1}.,{1}把{0}給召喚過來了。,{1}把{0}给召唤过来了。,{0} が {1} に呼び出された。,{0} is summoned by {1}.,{1}把{0}給召喚過來了。,{1}把{0}给召唤过来了。,"{0}, 다음 표적으로 지정되었다."
 BattleLog.NayutaLockOn,{0} が次の標的とされている。,{0} is the next target.,{0} 被鎖定爲目標了。,{0} 被锁定为目标了。,{0} が次の標的とされている。,{0} is the next target.,{0} 被鎖定為目標了。,{0} 被锁定为目标了。,{0}이(가) 다음 표적으로 지목되었다.
-BattleLog.DaiyaRevive,ダイヤモンドの聖核装備の特殊効果が発動した。　{0} はまだ戦える！,,黛雅的聖核裝備特殊效果發動了。{0} 還能繼續戰鬥！,黛雅的圣核装备特殊效果发动了。{0} 还能继续战斗！,ダイヤモンドの聖核装備の特殊効果が発動した。　{0} はまだ戦える！,,黛雅的聖核裝備特殊效果發動了。{0} 還能繼續戰鬥！,黛雅的圣核装备特殊效果发动了。{0} 还能继续战斗！,다이아몬드의 성핵 장비 특수 효과가 발동했다. {0}은(는) 아직 싸울 수 있다!
+BattleLog.DaiyaRevive,ダイヤモンドの聖核装備の特殊効果が発動した。　{0} はまだ戦える！,Diamond’s Seikaku Equipment activated! {0} can still keep fighting!,黛雅的聖核裝備特殊效果發動了。{0} 還能繼續戰鬥！,黛雅的圣核装备特殊效果发动了。{0} 还能继续战斗！,ダイヤモンドの聖核装備の特殊効果が発動した。　{0} はまだ戦える！,Diamond’s Seikaku Equipment activated! {0} can still keep fighting!,黛雅的聖核裝備特殊效果發動了。{0} 還能繼續戰鬥！,黛雅的圣核装备特殊效果发动了。{0} 还能继续战斗！,다이아몬드의 성핵 장비 특수 효과가 발동했다. {0}은(는) 아직 싸울 수 있다!
 BattleLog.SitDown,{0}　お座り！　ちゃんとできてえらい！！,"{0}, sit! Good dog, well done!!",{0} 給我坐下！做得很好，真棒！！,{0} 给我坐下！做得很好，真棒！！,{0}　お座り！　ちゃんとできてえらい！！,"{0}, sit! Good dog, well done!!",{0} 給我坐下！做得很好，真棒！！,{0} 给我坐下！做得很好，真棒！！,"{0}, 앉아! 제대로 해서 참 잘했어!!"
 Demo,体験版,Trial,体験版,体験版,体験版,Trial,體験版,体験版,체험판
 Demo.Start,"本ソフトウェアは体験版になります。

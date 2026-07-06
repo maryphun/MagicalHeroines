@@ -245,7 +245,7 @@ MonoBehaviour:
   UICanvas: {fileID: 1712548515}
   languageSelection: {fileID: 601276769}
   player: {fileID: 0}
-  data: {fileID: 11400000, guid: 2a1aa64350c6e6a49a632aaa54b4bff0, type: 2}
+  data: {fileID: 11400000, guid: 165e34a635c438245bbb996ca6bc159a, type: 2}
 --- !u!1 &297558267
 GameObject:
   m_ObjectHideFlags: 0

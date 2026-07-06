@@ -98,7 +98,7 @@ Dialog.Chapter4-2-5,,「調査の結果、住所不明で最後に学校に来�
 ,,,,,,,,
 Dialog.Chapter4-2-6,,「聖核戦姫に変身できるようですが、戦闘記録は一切なく本人の戦闘能力は不明です」,「現状彼女の戦闘記録は一切なく本人の戦闘能力は不明です」,「目前沒有任何她的戰鬥紀錄，本人的戰鬥能力不明。」,"She seems to be able to transform into a Seikaku Princess, but there is no record of any battles and her combat ability is unknown.",「현재 그녀의 전투 기록은 일절 없으며 본인의 전투 능력은 불명입니다」,"""Currently, we do not have any combat records on her, and we do not know her capabilities.""",「目前没有任何她的战斗纪录，本人的战斗能力不明。」
 ,,,,,,,,
-Dialog.Chapter4-2-6(1),SEL,わかった。話は変わるが005号は帰還してくれ。どうやら彼女君の存在に気が付いているようだ,わかった。……話は変わるが005号は帰還してくれ。どうやら彼女は君の存在に気が付いているようだ,我知道了。話説，005號麻煩妳先撤退吧。看來她已經察覺到妳的存在了。,"Okay, I'll do it. On a different note, 005 should return. Apparently, she's aware of your presence.",알았다. ……이야기를 전환해서 005호는 귀환하도록. 아무래도 그녀는 너의 존재를 눈치챈 것 같다,"Got it. First, you need to come back. I think she somehow found out about you.""",我知道了。话说，005号麻烦你先撤退吧。看来她已经察觉到你的存在了。
+Dialog.Chapter4-2-6(1),SEL,わかった。話は変わるが005号は帰還してくれ。どうやら彼女君の存在に気が付いているようだ,わかった。……話は変わるが005号は帰還してくれ。どうやら彼女は君の存在に気が付いているようだ,我知道了。話説，005號麻煩妳先撤退吧。看來她已經察覺到妳的存在了。,"Okay, I'll do it. On a different note, 005 should return. Apparently, she's aware of your presence.",알았다. ……이야기를 전환해서 005호는 귀환하도록. 아무래도 그녀는 너의 존재를 눈치챈 것 같다,"Got it. First, you need to come back. I think she somehow found out about you.",我知道了。话说，005号麻烦你先撤退吧。看来她已经察觉到你的存在了。
 ,,,,,,,,
 Dialog.Chapter4-2-7,005号,「！、何故それが…？……わかりました、すぐに帰還します」,「！、？……わかりました、すぐに帰還します」,「！ ？……了解，我立刻返回。」,"""! Why is that...? ...... Okay, we'll be back soon.""","「!, ?……알겠습니다, 즉시 귀환하겠습니다」","""?! Understood, I will return at once.""",「！ ？……了解，我立刻返回。」
 ,,,,,,,,
@@ -188,7 +188,7 @@ Dialog.Chapter4-2-39,戦闘員3,「こちら部隊3、ここもどうやら違�
 ,,,,,,,,
 Dialog.Chapter4-2-40,戦闘員1,「―――こちら部隊1！、複数の電子機器や実験道具を発見！ここが猫宮京の居場所で間違いはなさそうですが―――」,「―――こちら部隊1！、複数の電子機器や実験道具を発見！ここが猫宮京の居場所で間違いはなさそうですが―――」,「―――這裡是第一部隊！發現多台電子裝置與實驗器材！這裡應該就是貓宮京的藏身處，不過―――」,"We found multiple electronic devices and experimental equipment! There seems to be no mistake that this is Nekomiya Kei's location, but――""","「―――이쪽 부대1!, 복수의 전자기기나 실험 도구를 발견! 여기가 네코미야 케이의 거처인 것은 틀림없는 것 같습니다만―――――」","""Squad one reporting in! Electronics found! She was definitely here, but...""",「―――这里是第一部队！发现多台电子装置与实验器材！这里应该就是猫宫京的藏身处，不过―――」
 ,,,,,,,,
-Dialog.Chapter4-2-40(1),SEL,なんだ？,なんだ？,「怎麼了？」,What is it?,뭐지?,What is it|,「怎么了？」
+Dialog.Chapter4-2-40(1),SEL,なんだ？,なんだ？,「怎麼了？」,What is it?,뭐지?,What is it?,「怎么了？」
 ,,,,,,,,
 Dialog.Chapter4-2-41,戦闘員1,「最近までいた痕跡はあるものの…、どうやら既にここにはいないようです！」,「最近までいた痕跡はあるものの…、どうやら既にここにはいないようです！」,「雖然現場看起來剛有人待過的痕跡……但目標似乎已經不在這裡了！」,There are traces of their recent presence... but it seems they are no longer here!,「최근까지 있었던 흔적은 있지만… 아무래도 이미 여기에는 없는 것 같습니다!」,"""There were only traces until recently. She had already left!""",「虽然现场看起来刚有人待过的痕迹……但目标似乎已经不在这里了！」
 ,,,,,,,,

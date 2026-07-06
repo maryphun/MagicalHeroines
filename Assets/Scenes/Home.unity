@@ -50325,7 +50325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7feca9d95a2d7454e9b387bb76b7e81d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LocalizationKey: System.Formation
+  LocalizationKey: System.Record
   Extra: 
 --- !u!114 &1626964042
 MonoBehaviour:
@@ -50347,7 +50347,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u7DE8\u6210"
+  m_text: "\u4FB5\u98DF\u8A18\u9332"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 93f23378213356944b52c827fd0e09f9, type: 2}
   m_sharedMaterial: {fileID: 6193186823750436286, guid: 93f23378213356944b52c827fd0e09f9, type: 2}
