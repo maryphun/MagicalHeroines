@@ -103,7 +103,7 @@ System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕�
 System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,"""{0}"" has been relegated to ""{1}.""",「{0}」已降級為下級戰鬥員「{1}」。,「{0}」已降级为下级战斗员「{1}」。,「{0}」이(가) 「{1}」 등급으로 내려갔습니다.
 System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,調教画面がアップデートされました,Training panel have been updated.,調教畫面的內容更新了。,调教画面的内容更新了。,조교 화면이 업데이트되었습니다
 System.NovelLog,ログ,Log,記錄,记录,ログ,Log,紀錄,记录,로그
-System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),자동 시작/정지
+System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),자동 시작・정지
 System.NovelSkip,スキップ,Skip,跳過,跳过,スキップ,Skip,跳過,跳过,스킵
 System.NovelHide,UI非表示,Hide UI,隱藏UI,隐藏UI,UI非表示,Hide UI,隱藏UI,隐藏UI,UI 숨기기
 System.NewBattler,{s}をチームに編入することが可能となりました,You can now include {s} into party! ,現在可以把{s}編入進隊伍裡了！,现在可以把{s}编入进队伍里了！,{s}をチームに編入することが可能となりました,You can now include {s} into party! ,現在可以把{s}編入進隊伍裡了！,现在可以把{s}编入进队伍里了！,"{s}, 팀에 편입할 수 있게 되었습니다"
@@ -271,9 +271,9 @@ Name.Audience,観客,Audience,觀眾,观众,観客,Audience,觀眾,观众,관객
 Name.Assistant,助手,Assistant,助手,助手,助手,Assistant,助手,助手,조수
 Name.Goblin,ゴブリン型怪人,Goblin,哥布林型怪物,哥布林型怪物,ゴブリン型怪人,Goblin,哥布林型怪物,哥布林型怪物,고블린형 괴인
 Name.Mutant,怪人,Mutant,怪物,怪物,怪人,Mutant,怪物,怪物,괴인
-Name.Audience1,観客１,Audience1,觀眾１,观众１,観客１,Audience1,觀眾１,观众１,관객 1
-Name.Audience2,観客２,Audience2,觀眾２,观众２,観客２,Audience2,觀眾２,观众２,관객 2
-Name.Audience3,観客３,Audience3,觀眾３,观众３,観客３,Audience3,觀眾３,观众３,관객 3
+Name.Audience1,観客１,Audience1,觀眾１,观众１,観客１,Audience1,觀眾１,观众１,관객１
+Name.Audience2,観客２,Audience2,觀眾２,观众２,観客２,Audience2,觀眾２,观众２,관객２
+Name.Audience3,観客３,Audience3,觀眾３,观众３,観客３,Audience3,觀眾３,观众３,관객３
 Name.Citizen1,市民A,Citizen1,市民A,市民A,市民A,Citizen1,市民A,市民A,시민A
 Name.Citizen2,市民B,Citizen2,市民B,市民B,市民B,Citizen2,市民B,市民B,시민B
 Name.Citizen3,市民C,Citizen3,市民C,市民C,市民C,Citizen3,市民C,市民C,시민C
@@ -388,7 +388,7 @@ Equipment.Stick,鉄パイプ,Iron Pipe,鐵製排水管,铁制排水管,鉄パイ
 Equipment.Sitck_Info,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話，在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话，在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,길가에서 우연히 좋은 막대기를 만나면 본능적으로 줍고 싶은 것이 남자다. 이름하여 나이스 스틱.
 Equipment.Umbrella,高強度繊維傘,High-Strength Fiber Umbrella,高強度繊維傘,高强度繊维伞,高強度繊維傘,High-Strength Fiber Umbrella,高強度纖維傘,高强度繊维伞,고강도 섬유 우산
 Equipment.Umbrella_Info,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製的雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,"최신 나노 기술을 구사한 일본제 우산. 공격과 방어의 양면성을 가지며, 그야말로 무기로서의 예술품."
-Equipment.Stungun,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,쇼크웨이브 펄서
+Equipment.Stungun,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,쇼크웨이브・펄서
 Equipment.Stungun_Info,"都市伝説として語り継がれるスタンガン、名が囁かれるだけで、敵対者を感電させてしまうという噂が立つ。
 敵を行動不能にする特殊技を使えるようになる。","A stun gun passed down as an urban legend; rumors say its mere whisper is enough to shock opponents.
 Allows the use of special skills to incapacitate enemies.","作為都市傳說存在的武器。聽說單單是念出名字都足以震懾住敵人。
@@ -502,10 +502,10 @@ User becomes unable to act for 1 turn afterward.","對敵人單體造成普通�
 使用者がその後の1ターン行動不能になる","Deals 2.5x normal attack damage to a single enemy.
 User becomes unable to act for 1 turn afterward.","對敵人單體造成普通攻擊的2.5倍傷害。
 使用者會無法行動1回合。","对敌人单体造成普通攻击的2.5倍伤害。
-使用者会陷入行动不能1回合。","적 1체에게 일반 공격의 2.5배 데미지를 준다.
+使用者会陷入行动不能1回合。","적 １체에게 일반 공격의 2.5배 데미지를 준다.
 사용자가 그 후 1턴 행동 불능이 된다"
 Ability.Tackle,共倒れ,Mutual Collapse,同歸於盡,同归于尽,共倒れ,Mutual Collapse,同歸於盡,同归于尽,동귀어진
-Ability.Tackle_Info,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起行動不能1回合。,与一名敌人一起行动不能1回合。,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起無法行動1回合。,与一名敌人一起行动不能1回合。,적 1체와 함께 1턴 행동 불능이 된다
+Ability.Tackle_Info,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起行動不能1回合。,与一名敌人一起行动不能1回合。,敵１体と共に1ターン行動不能になる,Both you and a single enemy become unable to act for 1 turn.,與一名敵人一起無法行動1回合。,与一名敌人一起行动不能1回合。,적 １체와 함께 1턴 행동 불능이 된다
 Ability.SuckingTentacle,吸収触手,Absorbing Tentacles,触手吸收,触手吸收,吸収触手,Absorbing Tentacles,觸手吸收,触手吸收,흡수 촉수
 Ability.SuckingTentacle_Info,"相手のSPを半分吸収する
 
@@ -540,7 +540,7 @@ If the target is female, also reduces their defense.","讓一名敵人的攻撃�
 If the target is female, also reduces their defense.","讓一名敵人的攻擊力和速度暫時下降25%
 如果對象是女性的話攻擊力與防禦力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
 
-如果对象是女性的话攻击力与防御力也一起下降","적 1체의 공격력과 속도를 일시적으로 25% 다운
+如果对象是女性的话攻击力与防御力也一起下降","적 １체의 공격력・속도를 일시적으로 25% 다운
 
 여성 상대라면 방어력과 공격력을 다운시킨다"
 Ability.SelfRepair,自己修復,Self-Repair,自我修復,自我修复,自己修復,Self-Repair,自我修復,自我修复,자가 수복
@@ -586,8 +586,8 @@ Unable to act for 3 turns afterward.","可以連續行動三次。
 その後３ターン行動不能となる。","Act continuously for 3 turns.
 Unable to act for 3 turns afterward.","可以連續行動三次。
 但是使用後將會無法行動狀態3回合。","可以连续行动三次。
-但是使用后将会陷入无法行动状态3回合。","3턴 연속 행동할 수 있다.
-그 후 3턴 행동 불능이 된다."
+但是使用后将会陷入无法行动状态3回合。","３턴 연속 행동할 수 있다.
+그 후 ３턴 행동 불능이 된다."
 Ability.QuickAttack,連撃,Combo Attack,連擊,连击,連撃,Combo Attack,連擊,连击,연격
 Ability.QuickAttack_Info,ランダム攻撃x3,Randomly attacks 3 times.,隨機攻擊敵人x3,随机攻击敌人x3,ランダム攻撃x3,Randomly attacks 3 times.,隨機攻擊敵人x3,随机攻击敌人x3,랜덤 공격x3
 Ability.Fist,正拳突き,Straight Punch,正拳,正拳,正拳突き,Straight Punch,正拳,正拳,정권 찌르기
@@ -674,7 +674,7 @@ Activating/deactivating does not consume a turn.","使用時攻擊力提升70%
 技能可以随时开关切换且不会消耗回合","활성화하면 공격이 70% 업.
 상시 30 데미지를 받는다.
 
-스킬을 활성화/비활성화할 때 턴을 소모하지 않는다"
+스킬을 활성화・비활성화할 때 턴을 소모하지 않는다"
 Ability.ChargeAttack,明鏡止水,Clear Mind,明鏡止水,明镜止水,明鏡止水,Clear Mind,明鏡止水,明镜止水,명경지수
 Ability.ChargeAttack_Info,"次の攻撃のために力を貯めて、攻撃力を150%上げる。
 連続使用でバフを重ねることができる。","Focuses energy for the next attack, increasing attack power by 150%.
@@ -695,7 +695,7 @@ Absorbs the damage dealt to restore your HP.","對一名敵人造成大量傷害
 与えたダメージを吸収してHPを回復する。","Deals massive damage to a single enemy. Damage increases as your HP decreases.
 Absorbs the damage dealt to restore your HP.","對一名敵人造成大量傷害，使用者的HP越少傷害越高。
 吸收造成的傷害來回復自身HP。","对一名敌人造成大量伤害，使用者的HP越少伤害越高。
-吸收造成的伤害来回复自身HP。","적 1체에게 대량의 데미지를 준다. HP가 적을수록 데미지가 높아진다.
+吸收造成的伤害来回复自身HP。","적 １체에게 대량의 데미지를 준다. HP가 적을수록 데미지가 높아진다.
 준 데미지를 흡수하여 HP를 회복한다."
 Ability.Stungun_Info,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入行動不能狀態。,使敌人麻痺一回合，陷入行动不能状态。,スタンガンでターゲットを1ターン行動不能にする。,Stuns a target for 1 turn.,使敵人麻痺一回合，陷入無法行動狀態。,使敌人麻痹一回合，陷入无法行动状态。,스턴건으로 타겟을 1턴 행동 불능으로 만든다.
 Ability.DivineShield,エナジーシールド,Energy Shield,能量盾,能量盾,エナジーシールド,Energy Shield,能量盾,能量盾,에너지 실드
@@ -841,7 +841,7 @@ You can only play up to the middle of the game.","由於目前是體驗版。
 只能玩到游戏的一部分。","본 소프트웨어는 체험판입니다.
 일부 기능이 제한되어 있으며, 캐릭터 보이스가 아직 전부 구현되지 않았습니다.
 게임의 중간까지만 플레이할 수 있습니다.
-정식 출시 버전에서는 사양 변경, 기능 추가 및 오류 수정의 버전 업이 있을 수 있습니다."
+정식 출시 버전에서는 사양 변경, 기능 추가・오류 수정의 버전 업이 있을 수 있습니다."
 Demo.End,"体験版を遊んでいただき、ありがとうございます！
 これからは、強くてプライドの高い変身ヒロイン達が敗北し、調教され、改造され堕ちていきます。
 正式版にはヒロイン達フルボイスが実装される予定です。
