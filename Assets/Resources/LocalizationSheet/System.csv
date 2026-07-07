@@ -541,7 +541,7 @@ If the target is female, also reduces their defense.","讓一名敵人的攻撃�
 
 If the target is female, also reduces their defense.","讓一名敵人的攻擊力和速度暫時下降25%
 
-如果對象是女性的話攻擊力與防禦力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
+如果對象是女性的話攻擊力與防禦力也一起下降","让一名敌人的攻击力和速度暂时下降25%
 
 如果对象是女性的话攻击力与防御力也一起下降","적 1명의 공격력과 속도를 일시적으로 25% 감소시킨다.
 
@@ -577,7 +577,7 @@ After use, Milk Supply and Milk Supply Overdrive become unusable for the current
 明穗以外的隊友全隊回復全狀態。
 使用後 人奶補給 和 人奶補給 OVERDRIVE 將不能使用","过度的榨取人奶来分给队友全员。
 明穗以外的队友全员状态全回复。
-使用后 人奶補給 和 人奶补给 OVERDRIVE 将不能使用","과도하게 밀크를 짜서 아군 전원에게 나눈다.
+使用后 人奶补给 和 人奶补给 OVERDRIVE 将不能使用","과도하게 밀크를 짜서 아군 전원에게 나눈다.
 아키호 이외의 아군 전원이 완전 회복한다.
 사용 후 밀크 보급과 밀크 보급 오버드라이브가 이번 배틀에서 사용 불가 상태가 된다."
 Ability.Overdrive,オーバードライブ,Overdrive,超速档,超速档,オーバードライブ,Overdrive,超速檔,超速档,오버드라이브
@@ -741,7 +741,7 @@ HomeChar.Erena_5-1,「愚かな私ですが、存分にお使いください」,
 HomeChar.Erena_5-2,「聖核戦姫に聖月生徒会…今はただの殲滅対象に過ぎません」,"「The Holy Core Battlemaiden, and the Student Council behind them... now they are merely targets for annihilation.」",「聖核戰姬和司令部…現在對我來說只不過是殲滅對象」,「圣核战姬和司令部…现在对我来说只不过是歼灭对象」,「聖核戦姫にホーリーコア・レギオン司令部…今はただの殲滅対象に過ぎません」,"「The Holy Core Battlemaiden, and the association behind them... now they are merely targets for annihilation.」",「聖核戰姬和『聖核軍團』司令部…現在對我來說只不過是殲滅對象」,「圣核战姬和『圣核军团』司令部…现在对我来说只不过是歼灭对象」,「성핵전희에 성월학생회… 지금은 그저 섬멸 대상에 지나지 않습니다」
 HomeChar.Erena_5-3,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到主人的侍奉時間了」,「是时候到主人的侍奉时间了」,「そろそろご主人様にご奉仕する時間です」,「It's about time of the day to serve my master」,「是時候到侍奉主人的時間了」,「是时候到主人的侍奉时间了」,「슬슬 주인님께 봉사할 시간입니다」
 HomeChar.Erena_5-4,「那由多…？その話はちょっと…」,「Nayuta…? I wouldn't like to talk about that now…」,「那由多…？這個話題有點…」,「那由多…？这个话题有点…」,「那由多…？その話はちょっと…」,「Nayuta…? I wouldn't like to talk about that now…」,「那由多…？這個話題有點…」,「那由多…？这个话题有点…」,「나유타…? 그 이야기는 좀…」
-HomeChar.Kei_5-1,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活？」,「好闲啊…有没有什么快乐的活？」,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活動？」,「好闲啊…有没有什幺快乐的活？」,「심심하네… 뭔가 재밌는 일 없어?」
+HomeChar.Kei_5-1,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活？」,「好闲啊…有没有什么快乐的活？」,「暇だね…なんか楽しいことない？」,「I'm bored…Anything fun to do?」,「好閒啊…有沒有什麼快樂的活動？」,「好闲啊…有没有什幺快乐的活动？」,「심심하네… 뭔가 재밌는 일 없어?」
 HomeChar.Kei_5-2,「なんか用？実験なら付き合うよ」,「What's up? I'd like to be part of your experiment」,「有什麼事嗎？實驗的話我隨時奉陪喔」,「有什么事吗？实验的话我随时奉陪喔」,「なんか用？実験なら付き合うよ」,「What's up? I'd like to be part of your experiment」,「有什麼事嗎？實驗的話我隨時奉陪喔」,「有什幺事吗？实验的话我随时奉陪喔」,「무슨 일이야? 실험이라면 어울려줄게」
 HomeChar.Kei_5-3,「…ちょっと精液欲しくなってきたかも」,「…I think I might be craving for semen」,「…有點想要精液了」,「…有点想要精液了」,「…ちょっと精液欲しくなってきたかも」,「…I think I might be craving for semen」,「…有點想要精液了」,「…有点想要精液了」,「…좀 정액이 땡기기 시작했을지도」
 HomeChar.Kei_5-4,「聖核戦姫狩りに行ってこようかな」,「I feel like hunting Holy Core Battlemaidens.」,「去狩獵一下聖核戰姬好了」,「去狩猎一下圣核战姬好了」,「聖核戦姫狩りに行ってこようかな」,「I feel like hunting Holy Core Battlemaidens.」,「去狩獵一下聖核戰姬好了」,「去狩猎一下圣核战姬好了」,「성핵전희 사냥하러 가볼까」
