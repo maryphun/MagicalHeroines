@@ -20,7 +20,7 @@ Dialog.Chapter4-1-8,005号,「ありがとうございます。これで我々�
 ,,,,,,,,
 Dialog.Chapter4-1-9,,「生徒会は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部在戰力上高度依賴清藤艾蓮娜這個人，一段時間內他們的行動應該會受到嚴重的限制。」,"""The student council relied heavily on the personal power of Erena Seidō, so her actions will be limited for some time.""","「사령부는 세이토 엘레나 개인의 힘에 크게 의존하고 있었으므로, 당분간 행동은 제한될 것입니다」","""The Command Center relied significantly on Erena Seidō, so they will not be able to take much action for a while.""",「司令部在战力上高度依赖清藤艾莲娜这个人，一段时间内他们的行动应该会受到严重的限制。」
 ,,,,,,,,
-Dialog.Chapter4-1-10,,「今クローンや怪人等の戦力を増強すれば、武力で学園の聖核戦姫を制圧することも不可能ではありません」,「今クローンや怪人等の戦力を増強すれば、武力でレギオンの聖核戦姫を制圧することも不可能ではありません」,「現在只要強化克隆人與怪人的戰力，要用武力鎮壓軍團的聖核戰姫姑且也不是不可能。」,"""If we now increase our forces of clones, monsters, etc., it is not impossible for us to subdue the school's Holy Core Battlemaiden by force of arms.""","「지금 클론이나 괴인 등의 전력을 증강하면, 무력으로 레기온의 성핵전희를 제압하는 것도 불가능하지 않습니다」","""If we can improve our ranks with clones and monsters, it's not impossible to suppress Holy Core Battlemaidens by force.""",「现在只要强化克隆人与怪人的战力，要用武力镇压军团的圣核战姫姑且也不是不可能。」
+Dialog.Chapter4-1-10,,「今クローンや怪人等の戦力を増強すれば、武力で学園の聖核戦姫を制圧することも不可能ではありません」,「今クローンや怪人等の戦力を増強すれば、武力でレギオンの聖核戦姫を制圧することも不可能ではありません」,「現在只要強化克隆人與怪人的戰力，要用武力鎮壓軍團的聖核戰姬姑且也不是不可能。」,"""If we now increase our forces of clones, monsters, etc., it is not impossible for us to subdue the school's Holy Core Battlemaiden by force of arms.""","「지금 클론이나 괴인 등의 전력을 증강하면, 무력으로 레기온의 성핵전희를 제압하는 것도 불가능하지 않습니다」","""If we can improve our ranks with clones and monsters, it's not impossible to suppress Holy Core Battlemaidens by force.""",「现在只要强化克隆人与怪人的战力，要用武力镇压军团的圣核战姬姑且也不是不可能。」
 ,,,,,,,,
 Dialog.Chapter4-1-11,,「清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「また清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「另外，清藤艾蓮娜出身財閥，在政界、財界都有管道。如果運用得當，那些人也能被我們利用。」,"""Erena Seidō was born into a zaibatsu and has connections in the political and business worlds. If we use her well, we will be able to take advantage of them.""","「또한 세이토 엘레나는 재벌 출신으로 정계, 재계에 인맥이 있습니다. 잘 이용하면 그들도 이용할 수 있을 것입니다」","""Erena Seidō came from a rich family, so we can use their connections to politics and finances if we have to.""",「另外，清藤艾莲娜出身财阀，在政界、财界都有管道。如果运用得当，那些人也能被我们利用。」
 ,,,,,,,,
@@ -68,13 +68,13 @@ Dialog.Chapter4-1-26,猫宮京(通信),「あ～聞こえてる？」,「あ～�
 ,,,,,,,,
 Dialog.Chapter4-1-27,,「そっちの一番深い所は電波が届きにくいし……セキュリティが硬くて入れなかったんだよね」,「そっちの一番深い所は電波が届きにくいし……セキュリティが硬くて入れなかったんだよね」,「你們那邊最深處網路超難連進去的……而且你們的資安也硬得要命，我可是好不容易才鑽進來呢。」,"""The deepest part over there is hard to get a signal, and ...... security was so rigid that I couldn't get in.""",「거기 가장 깊은 곳은 전파가 잘 안 닿고…… 보안이 단단해서 못 들어갔거든」,"""It's hard to reach the deepest part, the security is too strong.""",「你们那边最深处网路超难连进去的……而且你们的资安也硬得要命，我可是好不容易才钻进来呢。」
 ,,,,,,,,
-Dialog.Chapter4-1-28,,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,「………我們這邊的要求很單純。把被你們綁走的所有聖核戰姫，全都給我放了。」,"""......... Our demands are simple. Release all the kidnapped Holy Core Battlemaidenes.""",「………이쪽의 요구는 단순해. 유괴한 성핵전희를 전부 해방하는 것」,"""I only have one simple request: release all the kidnapped Holy Core Battlemaidens.""",「………我们这边的要求很单纯。把被你们绑走的所有圣核战姫，全都给我放了。」
+Dialog.Chapter4-1-28,,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,「………こっちの要求は単純。誘拐した聖核戦姫を全員解放する事」,「………我們這邊的要求很單純。把被你們綁走的所有聖核戰姬，全都給我放了。」,"""......... Our demands are simple. Release all the kidnapped Holy Core Battlemaidenes.""",「………이쪽의 요구는 단순해. 유괴한 성핵전희를 전부 해방하는 것」,"""I only have one simple request: release all the kidnapped Holy Core Battlemaidens.""",「………我们这边的要求很单纯。把被你们绑走的所有圣核战姬，全都给我放了。」
 ,,,,,,,,
 Dialog.Chapter4-1-29,,「誘拐したのは多分3人かな？学園にスパイが混じってるっぽいし…」,「誘拐したのは多分3人かな？レギオン内部にスパイが混じってるっぽいし…」,「被你們抓走的大概有三個人吧？看起來軍團內部也混進你們的間諜了……」,"""Maybe it was three people who kidnapped him? It seems like there are spies mixed in with the academy...""",「유괴한 건 아마 3명인가? 레기온 내부에 스파이가 섞여 있는 것 같고…」,"""I think you kidnapped three of them? And there's probably a Foundation spy in the Legion...""",「被你们抓走的大概有三个人吧？看起来军团内部也混进你们的间谍了……」
 ,,,,,,,,
 Dialog.Chapter4-1-30,,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「我是不知道你們是怎麼抓到艾蓮娜前輩的啦……不過，我可能也有點小看你們了呢。」,"""I don't know how you caught Erena senior...but I may have underestimated you guys a bit myself.""","「어떻게 엘레나 선배를 잡았는지 모르겠지만…, 너희들에 대해선 나도 좀 얕보고 있었을지도 모르겠네」","""I don't know how you caught Erena, maybe I underestimated you.""",「我是不知道你们是怎么抓到艾莲娜前辈的啦……不过，我可能也有点小看你们了呢。」
 ,,,,,,,,
-Dialog.Chapter4-1-31,,「というわけで、誘拐した聖核戦姫の子達を全員解放するまで攻撃を続けるから。覚悟してね？」,「というわけで、誘拐した聖核戦姫を全員解放するまで攻撃を続けるから。覚悟してね？」,「總之，在你們把所有被綁走的聖核戰姫全部放回來之前，我會一直持續攻擊。請你做好心理準備喔？」,"""So, I will continue to attack you until you release all the kidnapped children of the Holy Core Battlemaidenes. You must be prepared for that, okay?""","「그런 이유로, 유괴한 성핵전희를 전부 해방할 때까지 공격을 계속할 테니까. 각오해?」","""Anyway, I will keep attacking until you release the kidnapped Holy Core Battlemaidens. Do you understand?""",「总之，在你们把所有被绑走的圣核战姫全部放回来之前，我会一直持续攻击。请你做好心理准备喔？」
+Dialog.Chapter4-1-31,,「というわけで、誘拐した聖核戦姫の子達を全員解放するまで攻撃を続けるから。覚悟してね？」,「というわけで、誘拐した聖核戦姫を全員解放するまで攻撃を続けるから。覚悟してね？」,「總之，在你們把所有被綁走的聖核戰姬全部放回來之前，我會一直持續攻擊。請你做好心理準備喔？」,"""So, I will continue to attack you until you release all the kidnapped children of the Holy Core Battlemaidenes. You must be prepared for that, okay?""","「그런 이유로, 유괴한 성핵전희를 전부 해방할 때까지 공격을 계속할 테니까. 각오해?」","""Anyway, I will keep attacking until you release the kidnapped Holy Core Battlemaidens. Do you understand?""",「总之，在你们把所有被绑走的圣核战姬全部放回来之前，我会一直持续攻击。请你做好心理准备喔？」
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -92,7 +92,7 @@ Dialog.Chapter4-2-2,,アジトには猫宮京によるサイバー攻撃が続�
 ,,,,,,,,
 Dialog.Chapter4-2-3,005号(通信),「―――アジトにサイバー攻撃を行っている者について現在わかっていることをお伝えします」,「―――アジトにサイバー攻撃を行っている者について現在わかっていることをお伝えします」,「―――現在將我們所掌握到的對本基地發動網路攻擊者的情報報告給您。」,――― Here is what we know now about who is carrying out the cyber―attack on the safe house.,「―――아지트에 사이버 공격을 하고 있는 자에 대해 현재 알고 있는 것을 알려드리겠습니다」,"""This is what we currently know about the culprit behind the continued cyberattacks.""",「―――现在将我们所掌握到的对本据点发动网路攻击者的情报报告给您。」
 ,,,,,,,,
-Dialog.Chapter4-2-4,,「彼女の名前は“猫宮京”、一応聖月学園に所属する生徒のようですが…」,「彼女の名前は『猫宮京』、一応レギオンに所属する聖核戦姫のようですが…」,「她的名字是『貓宮京』，名義上似乎是隸屬於軍團的聖核戰姫……」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Gakuen.","「그녀의 이름은 “네코미야 케이”, 일단 레기온에 소속된 성핵전희인 것 같습니다만…」","""Her name is Kei Nekomiya, and she is a Holy Core Battlemaiden, but...""",「她的名字是「猫宫京」，名义上似乎是隶属于军团的圣核战姫……」
+Dialog.Chapter4-2-4,,「彼女の名前は“猫宮京”、一応聖月学園に所属する生徒のようですが…」,「彼女の名前は『猫宮京』、一応レギオンに所属する聖核戦姫のようですが…」,「她的名字是『貓宮京』，名義上似乎是隸屬於軍團的聖核戰姬……」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Gakuen.","「그녀의 이름은 “네코미야 케이”, 일단 레기온에 소속된 성핵전희인 것 같습니다만…」","""Her name is Kei Nekomiya, and she is a Holy Core Battlemaiden, but...""",「她的名字是「猫宫京」，名义上似乎是隶属于军团的圣核战姬……」
 ,,,,,,,,
 Dialog.Chapter4-2-5,,「調査の結果、住所不明で最後に学校に来たのは3か月以上前、他生徒に聞いても情報は得られませんでした」,「調査の結果、住所不明で最後に司令部に来たのは3か月以上前、他職員に聞いても情報は得られませんでした」,「調查結果顯示，她的住所不明，最後一次來司令部已經是三個月前的事了，向其他職員打聽也完全得不到她的相關資訊。」,"The investigation revealed that he had no known address and had last been at the school more than three months ago, and no information was available when asked by other students.""","「조사 결과, 주소 불명으로 마지막으로 사령부에 온 것은 3개월 이상 전, 다른 직원에게 물어도 정보는 얻을 수 없었습니다」","""Our investigation did not find an address, and she had not been to the Command Center in three months. No additional information was obtained from their staff.""",「调查结果显示，她的住所不明，最后一次来司令部已经是三个月前的事了，向其他职员打听也完全得不到她的相关资讯。」
 ,,,,,,,,
@@ -156,7 +156,7 @@ Dialog.Chapter4-2-28,005号,「報告します。逆探知と実地調査によ�
 ,,,,,,,,
 Dialog.Chapter4-2-29,,「位置はシティの北東エリア、北西エリア、南西エリアの三つですが…、ここから更に特定するには時間がかかりそうです」,「位置はシティの北東エリア、北西エリア、南西エリアの三つですが…、ここから更に特定するには時間がかかりそうです」,「位置分別是都市的東北區、西北區和西南區……再從這幾個區域精確鎖定，恐怕還需要一點時間。」,"""There are three locations in the northeast, northwest, and southwest areas of the city... but it will take time to identify more from here.","「위치는 시티의 북동 에어리어, 북서 에어리어, 남서 에어리어 세 곳입니다만… 여기서 더 특정하려면 시간이 걸릴 것 같습니다」","""One in the northeast section of the city, one in northwest, and one in southwest. It will take longer to verify further.""",「位置分别是都市的东北区、西北区和西南区……再从这几个区域精确锁定，恐怕还需要一点时间。」
 ,,,,,,,,
-Dialog.Chapter4-2-30,,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,「若對手只是標準水準的聖核戰姫，派一支由克隆人和戰鬥員組成的部隊過去就應該能實現制壓，不過……」,"We believe that a clone and a squad of fighters would definitely be able to subdue a standard Holy Core Battlemaiden...""",「표준적인 성핵전희라면 클론과 전투원 1부대로 틀림없이 제압할 수 있을 것으로 생각됩니다만…」,"""An average Holy Core Battlemaiden requires a clone and soldier squad to suppress, but...""",「若对手只是标准水准的圣核战姫，派一支由克隆人和战斗员组成的部队过去就应该能实现制压，不过……」
+Dialog.Chapter4-2-30,,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,「標準的な聖核戦姫ならクローンと戦闘員1部隊がで間違いなく制圧できると考えられますが…」,「若對手只是標準水準的聖核戰姬，派一支由克隆人和戰鬥員組成的部隊過去就應該能實現制壓，不過……」,"We believe that a clone and a squad of fighters would definitely be able to subdue a standard Holy Core Battlemaiden...""",「표준적인 성핵전희라면 클론과 전투원 1부대로 틀림없이 제압할 수 있을 것으로 생각됩니다만…」,"""An average Holy Core Battlemaiden requires a clone and soldier squad to suppress, but...""",「若对手只是标准水准的圣核战姬，派一支由克隆人和战斗员组成的部队过去就应该能实现制压，不过……」
 ,,,,,,,,
 Dialog.Chapter4-2-30(1),SEL,候補地に今すぐ一部隊ずつ派遣しよう,候補地に今すぐ一部隊ずつ派遣しよう,立刻在每個地點各派一支部隊前往。,Let's send some troops to the candidate sites now.,후보지에 지금 즉시 일부대씩 파견하자,Send a squad to each of the locations.,立刻在每个地点各派一支部队前往。
 ,,,,,,,,
@@ -212,7 +212,7 @@ Dialog.Chapter4-2-46,005号,「っ！、どうしてここが！」,「っ！、
 ,,,,,,,,
 Dialog.Chapter4-2-47,京,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,「…この部屋の移動パターンと構造から推測しただけだよ。ここは電波が届かないから厄介だったけどね」,「……只是從這個房間的移動模式和結構推算出來而已。這裡完全收不到電波，倒是真的有點麻煩。」,"'...I was just guessing based on the movement patterns and structure of this room. It was tricky, though, because there's no reception in here.""",「…이 방의 이동 패턴과 구조로 추측했을 뿐이야. 여기는 전파가 닿지 않아서 귀찮았지만」,"""I guessed based on the room's relocation pattern and structure. It was hard because there's no signal.""",「……只是从这个房间的移动模式和结构推算出来而已。这里完全收不到电波，倒是真的有点麻烦。」
 ,,,,,,,,
-Dialog.Chapter4-2-48,,「聖核戦姫、コード：フォスフォフィライト、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,「聖核戦姫、コード：エメラルド、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,「聖核戰姫，代號：綠寶石，貓宮京。乾脆把這裡全部拆光好了――――――」,"The Holy Core Battlemaiden, Code: Phosphophyllite, Nekomiya Kei. Let's destroy them all quickly. ――――――""","「성핵전희, 코드: 에메랄드, 네코미야 케이. 빨리 전부 부숴버릴까――――――」","""Holy Core Battlemaiden Code: Emerald, Kei Nekomiya. Time to break everything...""",「圣核战姫，代号：绿宝石，猫宫京。干脆把这里全部拆光好了――――――」
+Dialog.Chapter4-2-48,,「聖核戦姫、コード：フォスフォフィライト、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,「聖核戦姫、コード：エメラルド、猫宮京。とっとと全部ぶっ壊しちゃおうか――――――」,「聖核戰姬，代號：綠寶石，貓宮京。乾脆把這裡全部拆光好了――――――」,"The Holy Core Battlemaiden, Code: Phosphophyllite, Nekomiya Kei. Let's destroy them all quickly. ――――――""","「성핵전희, 코드: 에메랄드, 네코미야 케이. 빨리 전부 부숴버릴까――――――」","""Holy Core Battlemaiden Code: Emerald, Kei Nekomiya. Time to break everything...""",「圣核战姬，代号：绿宝石，猫宫京。干脆把这里全部拆光好了――――――」
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -264,7 +264,7 @@ Dialog.Chapter4-3-19,京,「ああ。これ以上戦い続けても勝ち目は�
 ,,,,,,,,
 Dialog.Chapter4-3-20,005号,「…っ、とにかく早く猫宮京を無力化してください！中央司令部は速やかに移動を！これ以上何をされるかわかりません！」,「…っ、とにかく早く猫宮京を無力化してください！中央司令部は速やかに移動を！これ以上何をされるかわかりません！」,「…總之先儘快掠奪貓宮京的行動能力！立刻轉移中央司令部！再拖下去不知道她還會做什麼！」,"""...anyway, please neutralize Nekomiya Kei as soon as possible! The Central Command must move quickly! I don't know what more they can do to us!""","「…윽, 어쨌든 빨리 네코미야 케이를 무력화하십시오! 중앙 지령부는 신속히 이동을! 이 이상 뭘 당할지 모릅니다!」","""...Neutralize Kei Nekomiya now! Move the Central Command immediately, anything could happen next!""",「…总之先尽快掠夺猫宫京的行动能力！立刻转移中央司令部！再拖下去不知道她还会做什么！」
 ,,,,,,,,
-Dialog.Chapter4-3-21,触手怪人,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐ったメスガキを徹底的に教育せねばな！」,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐った聖核戦姫を徹底的に教育せねばな！」,「啊啊，知道了。既然讓我們蒙受這麼大的損失，就得好好「教訓」一下這個把我們看扁的聖核戰姫才行呢！」,"""Ah, yes, I understand. After all this damage has been done, we must thoroughly educate this little bitch who licked us!""","「아아, 알았다. 이만큼의 피해를 입힌 것이다, 우리를 깔본 성핵전희를 철저히 교육해야지!」","""Understood. We will have to re-educate the Holy Core Battlemaidens that wrecked our place.""",「啊啊，知道了。既然让我们蒙受这么大的损失，就得好好「教训」一下这个把我们看扁的圣核战姫才行呢！」
+Dialog.Chapter4-3-21,触手怪人,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐ったメスガキを徹底的に教育せねばな！」,「ああっ、承知した。これだけの被害を出されたのだ、この我々を舐め腐った聖核戦姫を徹底的に教育せねばな！」,「啊啊，知道了。既然讓我們蒙受這麼大的損失，就得好好「教訓」一下這個把我們看扁的聖核戰姬才行呢！」,"""Ah, yes, I understand. After all this damage has been done, we must thoroughly educate this little bitch who licked us!""","「아아, 알았다. 이만큼의 피해를 입힌 것이다, 우리를 깔본 성핵전희를 철저히 교육해야지!」","""Understood. We will have to re-educate the Holy Core Battlemaidens that wrecked our place.""",「啊啊，知道了。既然让我们蒙受这么大的损失，就得好好「教训」一下这个把我们看扁的圣核战姬才行呢！」
 ,,,,,,,,
 Dialog.Chapter4-3-22,京,「こうなった以上無駄な抵抗はしないさ。お手柔らかに頼むよ。」,「こうなった以上無駄な抵抗はしないさ。お手柔らかに頼むよ。」,「既然事已至此我也不打算做多餘的抵抗了。還請手下留情喔。」,I'm not going to waste my breath now that it's come to this. Please be gentle with me.,「이렇게 된 이상 쓸데없는 저항은 하지 않아. 살살 부탁해.」,"""I will not resist. Please be gentle.""",「既然事已至此我也不打算做多余的抵抗了。还请手下留情喔。」
 ,,,,,,,,
@@ -278,7 +278,7 @@ Dialog.Chapter4-3-26,触手怪人,「くらえっ！足腰が立たないくら�
 ,Kei　story　2ｰ3,,,,,,,
 Dialog.Chapter4-3-27,京,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,「ゴボッ！？、グッ…、ゴクッ、ゴクッ…ぷはっ」,「咕、咳……！咕、咕嚥……噗哈……」,"Gobo! Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Gobo..., Puha...""","「꿀꺽!?, 윽… 꿀꺽, 꿀꺽… 푸핫」","""Ugh... Guh... Pffafa...""",「咕、咳……！咕、咕咽……噗哈……」
 ,,,,,,,,
-Dialog.Chapter4-3-28,触手怪人,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,「怎麼樣？這種能讓聖核戰姫失去力量的黏液，感覺得到力氣在流失吧？」,"How about some mucus to incapacitate my Holy Core Battlemaiden? It'll take the edge off, won't it?""",「어떠냐 나의 성핵전희를 무력화시키는 점액은? 힘이 빠질 텐데?」,"""How's the neutralizing slime? Feeling weak already?""",「怎么样？这种能让圣核战姫失去力量的黏液，感觉得到力气在流失吧？」
+Dialog.Chapter4-3-28,触手怪人,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,「どうだ俺の聖核戦姫を無力化させる粘液は？力が抜けるだろう？」,「怎麼樣？這種能讓聖核戰姬失去力量的黏液，感覺得到力氣在流失吧？」,"How about some mucus to incapacitate my Holy Core Battlemaiden? It'll take the edge off, won't it?""",「어떠냐 나의 성핵전희를 무력화시키는 점액은? 힘이 빠질 텐데?」,"""How's the neutralizing slime? Feeling weak already?""",「怎么样？这种能让圣核战姬失去力量的黏液，感觉得到力气在流失吧？」
 ,Kei story 2-4,,,,,,,
 Dialog.Chapter4-3-29,京,「ケホッ……おええっ、まっず…！」,「ケホッ……おええっ、まっず…！」,「咳咳……噁，好難喝……！」,"""Kehoho ...... Oh, no, not again...!""","「케홋…… 오에엑, 맛없…!」","""Ugh... Gross...""",「咳咳……恶、好难喝……！」
 ,,,,,,,,
@@ -320,7 +320,7 @@ Dialog.Chapter4-3-47,,「んぁ…♥、このまま続けられたらっ♥、�
 ,,,,,,,,
 Dialog.Chapter4-3-48,触手怪人,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「グフッ、すぐにお前も快楽に溺れて我々に従うようになるさ。その時が楽しみだっ」,「咕呵……很快妳也會沉溺在快感裡，乖乖聽從我們的命令。真期待那個時候啊。」,"Soon you will be so addicted to pleasure that you will obey us. I'm looking forward to that.""","「크흣, 곧 너도 쾌락에 빠져 우리에게 따르게 될 것이다. 그때가 기대되는군」","""You will soon succumb to the pleasure and obey us. I can't wait!""",「咕呵……很快你也会沉溺在快感里，乖乖听从我们的命令。真期待那个时候啊。」
 ,,,,,,,,
-Dialog.Chapter4-3-49,京,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「……原來如此，你們抓來的那些聖核戰姫，就是這樣被對待的嗎？真是夠惡趣味的。」,"I see...I see...the Holy Core Battlemaidenes you captured were brainwashed this way? That's totally in bad taste.""","「…읏♥, 과연, 붙잡은 성핵전희들은 이렇게 세뇌했나? 정말 악취미야」","""...♥ I see, so this is how you brainwash the captured Holy Core Battlemaidens. Again, disgusting.""",「……原来如此，你们抓来的那些圣核战姫，就是这样被对待的吗？真是够恶趣味的。」
+Dialog.Chapter4-3-49,京,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「…っ♥、なるほどっ、捕まえた聖核戦姫達はこうやって洗脳したのかな？まったく悪趣味だ」,「……原來如此，你們抓來的那些聖核戰姬，就是這樣被對待的嗎？真是夠惡趣味的。」,"I see...I see...the Holy Core Battlemaidenes you captured were brainwashed this way? That's totally in bad taste.""","「…읏♥, 과연, 붙잡은 성핵전희들은 이렇게 세뇌했나? 정말 악취미야」","""...♥ I see, so this is how you brainwash the captured Holy Core Battlemaidens. Again, disgusting.""",「……原来如此，你们抓来的那些圣核战姬，就是这样被对待的吗？真是够恶趣味的。」
 ,,,,,,,,
 Dialog.Chapter4-3-50,,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,「私の手でアジトを壊滅させたかったがっ♥…残念だよッ♥」,「本來還想親手把你們的基地徹底摧毀掉的……真可惜呢。」,"I wanted to destroy the hideout with my own hands, but I'm sorry.",「내 손으로 아지트를 괴멸시키고 싶었지만♥… 유감이야♥」,"""I wanted to destroy your hideout with these very hands♥ What a shame...♥""",「本来还想亲手把你们的据点彻底摧毁掉的……真可惜呢。」
 ,,,,,,,,
@@ -409,6 +409,6 @@ Dialog.Chapter4-3-88,???,「…さて、貴方がここの最高責任者でし�
 ,,,,,,,,
 Dialog.Chapter4-3-88(1),SEL,……そうだ,……そうだ,……沒錯。,...... Yes.,……그렇다,...Yes.,……没错。
 ,,,,,,,,
-Dialog.Chapter4-3-89,那由多,「一応自己紹介を。聖核戦姫、コード：オブシディアン。聖月女学園生徒会長“八雲 那由多”です」,「一応自己紹介を。聖核戦姫、コード：オブシディアン。ホーリーコア・レギオン総司令『八雲 那由多』です」,「先做個自我介紹好了。我是聖核戰姫，代號：黑曜。聖核軍團的總司令──八雲那由多。」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Girl Academy.","「일단 자기소개를 하죠. 성핵전희, 코드: 옵시디언. 홀리코어 레기온 총사령관 “야쿠모 나유타”입니다」","""I am Holy Core Battlemaiden Code Obsidian and the Commander of Holy Core Legion, Nayuta Yakumo.""",「先做个自我介绍好了。我是圣核战姫，代号：黑曜。圣核军团的总司令──八云那由多。」
+Dialog.Chapter4-3-89,那由多,「一応自己紹介を。聖核戦姫、コード：オブシディアン。聖月女学園生徒会長“八雲 那由多”です」,「一応自己紹介を。聖核戦姫、コード：オブシディアン。ホーリーコア・レギオン総司令『八雲 那由多』です」,「先做個自我介紹好了。我是聖核戰姬，代號：黑曜。聖核軍團的總司令──八雲那由多。」,"Her name is Nekomiya Kei, and she seems to be a student at Seigetsu Girl Academy.","「일단 자기소개를 하죠. 성핵전희, 코드: 옵시디언. 홀리코어 레기온 총사령관 “야쿠모 나유타”입니다」","""I am Holy Core Battlemaiden Code Obsidian and the Commander of Holy Core Legion, Nayuta Yakumo.""",「先做个自我介绍好了。我是圣核战姬，代号：黑曜。圣核军团的总司令──八云那由多。」
 ,,,,,,,,
 Dialog.Chapter4-3-90,那由多,「この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「この地下アジトは制圧しました。無駄な抵抗はせず直ちに投降しなさい」,「這座地下基地已經被我完全制壓了。別再做無謂的抵抗，請您立刻投降吧。」,This underground hideout is now under control. Do not resist in vain and surrender immediately.,「이 지하 아지트는 제압했습니다. 쓸데없는 저항은 하지 말고 즉시 투항하십시오」,"""I have conquered this underground hideout. Please surrender without further resistance.""",「这座地下据点已经被我完全制压了。别再做无谓的抵抗，请您立刻投降吧。」
