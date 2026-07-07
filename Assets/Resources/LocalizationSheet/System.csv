@@ -103,7 +103,7 @@ System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕�
 System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,"""{0}"" has been relegated to ""{1}.""",「{0}」已降級為下級戰鬥員「{1}」。,「{0}」已降级为下级战斗员「{1}」。,「{0}」이(가) 「{1}」 등급으로 내려갔습니다.
 System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,調教画面がアップデートされました,Training panel have been updated.,調教畫面的內容更新了。,调教画面的内容更新了。,조교 화면이 업데이트되었습니다
 System.NovelLog,ログ,Log,記錄,记录,ログ,Log,紀錄,记录,로그
-System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),자동 시작・정지
+System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),자동 시작/정지
 System.NovelSkip,スキップ,Skip,跳過,跳过,スキップ,Skip,跳過,跳过,스킵
 System.NovelHide,UI非表示,Hide UI,隱藏UI,隐藏UI,UI非表示,Hide UI,隱藏UI,隐藏UI,UI 숨기기
 System.NewBattler,{s}をチームに編入することが可能となりました,You can now include {s} into party! ,現在可以把{s}編入進隊伍裡了！,现在可以把{s}编入进队伍里了！,{s}をチームに編入することが可能となりました,You can now include {s} into party! ,現在可以把{s}編入進隊伍裡了！,现在可以把{s}编入进队伍里了！,"{s}, 팀에 편입할 수 있게 되었습니다"
@@ -388,7 +388,7 @@ Equipment.Stick,鉄パイプ,Iron Pipe,鐵製排水管,铁制排水管,鉄パイ
 Equipment.Sitck_Info,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,道端に偶然良い棒に出会ったら本能的に拾いたいのは男だ。名付けてナイスステック。,"When a man encounters a nice stick on the roadside, his instinct tells him to pick it up. Call it ""Nice Stick.""",是男人的話，在路邊看到好看的棒子就是會有想要撿起來的衝動。被稱為Nice stick。,是男人的话，在路边看到好看的棒子就是会有想要捡起来的冲动。被称为Nice stick。,길가에서 우연히 좋은 막대기를 만나면 본능적으로 줍고 싶은 것이 남자다. 이름하여 나이스 스틱.
 Equipment.Umbrella,高強度繊維傘,High-Strength Fiber Umbrella,高強度繊維傘,高强度繊维伞,高強度繊維傘,High-Strength Fiber Umbrella,高強度纖維傘,高强度繊维伞,고강도 섬유 우산
 Equipment.Umbrella_Info,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製的雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,最新のナノテクノロジーを駆使した日本製の傘。攻撃と防御の二面性を持ち、まさに武器としての芸術品。,A Japanese-made umbrella utilizing the latest nanotechnology. It serves both offensive and defensive roles—truly an artistic weapon.,使用最新的納米技術製造的日本製雨傘。攻防性能兼具，堪稱武器界的藝術品。,使用最新的纳米技术制造的日本制的雨伞。攻防性能兼具，堪称武器界的艺术品。,"최신 나노 기술을 구사한 일본제 우산. 공격과 방어의 양면성을 가지며, 그야말로 무기로서의 예술품."
-Equipment.Stungun,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,쇼크웨이브・펄서
+Equipment.Stungun,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,ショックウェーブ・パルサー,Shockwave Pulsar,衝擊波電擊槍,冲击波电击枪,쇼크웨이브 펄서
 Equipment.Stungun_Info,"都市伝説として語り継がれるスタンガン、名が囁かれるだけで、敵対者を感電させてしまうという噂が立つ。
 敵を行動不能にする特殊技を使えるようになる。","A stun gun passed down as an urban legend; rumors say its mere whisper is enough to shock opponents.
 Allows the use of special skills to incapacitate enemies.","作為都市傳說存在的武器。聽說單單是念出名字都足以震懾住敵人。
@@ -530,6 +530,7 @@ Ability.Capture,媚薬ガス,Aphrodisiac Gas,媚薬噴霧,媚薬喷雾,媚薬ガ
 Ability.Capture_Info,"敵１体の攻撃力・スピードを一時25%ダウン
 
 女性相手なら防御力と攻撃力をダウンさせる","Reduces a single enemy's attack and speed by 25% temporarily.
+
 If the target is female, also reduces their defense.","讓一名敵人的攻撃力和速度暫時下降25%
 
 如果對象是女性的話攻擊力與防御力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
@@ -537,12 +538,14 @@ If the target is female, also reduces their defense.","讓一名敵人的攻撃�
 如果对象是女性的话攻击力与防御力也一起下降","敵１体の攻撃力・スピードを一時25%ダウン
 
 女性相手なら防御力と攻撃力をダウンさせる","Reduces a single enemy's attack and speed by 25% temporarily.
+
 If the target is female, also reduces their defense.","讓一名敵人的攻擊力和速度暫時下降25%
+
 如果對象是女性的話攻擊力與防禦力也一起下降","让一名敌人的攻撃力和速度暂时下降25%
 
-如果对象是女性的话攻击力与防御力也一起下降","적 １체의 공격력・속도를 일시적으로 25% 다운
+如果对象是女性的话攻击力与防御力也一起下降","적 1명의 공격력과 속도를 일시적으로 25% 감소시킨다.
 
-여성 상대라면 방어력과 공격력을 다운시킨다"
+대상이 여성일 경우, 추가로 방어력과 공격력을 감소시킨다."
 Ability.SelfRepair,自己修復,Self-Repair,自我修復,自我修复,自己修復,Self-Repair,自我修復,自我修复,자가 수복
 Ability.SelfRepair_Info,35% HP 回復,Restores 35% HP.,回復 35% HP ,回复 35% HP ,35% HP 回復,Restores 35% HP.,回復 35% HP,回复 35% HP,35% HP 회복
 Ability.SelfEnchant,自己改造,Self-Mod,自我改造,自我改造,自己改造,Self-Mod,自我改造,自我改造,자가 개조
