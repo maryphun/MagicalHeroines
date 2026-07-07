@@ -21,6 +21,7 @@ namespace NovelEditor
         internal int textSpeed = 6;
         public bool IsStop = false;
         string nowText;
+        int textVersion;
 
         TMP_FontAsset defaultFont;
         float defaultFontSize;
@@ -73,6 +74,7 @@ namespace NovelEditor
         /// </summary>
         internal void DeleteText()
         {
+            textVersion++;
             tmpro.text = "";
         }
 
@@ -99,6 +101,7 @@ namespace NovelEditor
         /// <param name="token">CancellationToken使用する</param>
         private async UniTask<bool> PlayText(string text, CancellationToken token)
         {
+            int currentTextVersion = ++textVersion;
             canFlush = false;
             tmpro.text = "";
             nowText = text;
@@ -114,6 +117,10 @@ namespace NovelEditor
                 {
                     canFlush = wordCnt > 0;
                     await UniTask.Delay(msecPerCharacter, cancellationToken: token);
+                    if (token.IsCancellationRequested || currentTextVersion != textVersion)
+                    {
+                        return true;
+                    }
 
                     // msecPerCharacter の後は必ず 1 文字を追加する
                     int addCount = 1;
@@ -131,6 +138,11 @@ namespace NovelEditor
                     // ダイアログに文字を追加する
                     for (int i = 0; i < addCount; ++i)
                     {
+                        if (token.IsCancellationRequested || currentTextVersion != textVersion)
+                        {
+                            return true;
+                        }
+
                         if (wordCnt >= words.Count)
                         {
                             break;
@@ -141,7 +153,11 @@ namespace NovelEditor
                         wordCnt++;
                     }
 
-                    await UniTask.WaitUntil(() => !IsStop);
+                    await UniTask.WaitUntil(() => !IsStop, cancellationToken: token);
+                    if (token.IsCancellationRequested || currentTextVersion != textVersion)
+                    {
+                        return true;
+                    }
                 }
             }
             catch (OperationCanceledException)
@@ -156,6 +172,7 @@ namespace NovelEditor
         /// </summary>
         internal void FlushText()
         {
+            textVersion++;
             tmpro.text = nowText;
         }
 
