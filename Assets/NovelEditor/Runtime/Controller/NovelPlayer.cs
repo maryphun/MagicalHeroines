@@ -574,7 +574,14 @@ namespace NovelEditor
         // スキップ機能用
         public void GoNext()
         {
-            SetNext();
+            if (_isReading && _novelUI.canFlush)
+            {
+                FlashText();
+            }
+            else if (!_isReading)
+            {
+                SetNext();
+            }
         }
 
         #endregion
