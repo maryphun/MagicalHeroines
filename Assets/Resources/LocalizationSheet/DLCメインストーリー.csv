@@ -1,4 +1,4 @@
-fF,Comment,Japanese,Traditional Chinese,Simplified Chinese,Japanese_Steam,Traditional Chinese_Steam,English_Steam,Korean_Steam,Simplified Chinese_Steam
+Key,Comment,Japanese,Traditional Chinese,Simplified Chinese,Japanese_Steam,Traditional Chinese_Steam,English_Steam,Korean_Steam,Simplified Chinese_Steam
 DLC　プロローグ,注釈,,,,,,,,
 ,黒背景,,,,,,,,
 ,暗転,,,,,,,,
@@ -40,7 +40,7 @@ Dialog.DLC-P-17,,財団は世界を征服するべく、聖核戦姫を改造・
 ,,,,,,,,,
 ,アジト,,,,,,,,
 ,,,,,,,,,
-Dialog.DLC-P-18,SEL,「……では生産幹部アキホ、財務幹部エレナ、軍事幹部ナユタ、技術幹部ケイ、それぞれ報告を。」,「……那麼生產幹部明穗、財務幹部艾蓮娜、軍事幹部那由多、技術幹部京，請各自匯報。」,,「……では生産幹部アキホ、財務幹部エレナ、軍事幹部ナユタ、技術幹部ケイ、それぞれ報告を。」,「……那麼，生產幹部明穗、財務幹部艾蓮娜、軍事幹部那由多、技術幹部京，請各自進行報告。」,"""...Now then, Production Executive Akiho, Finance Executive Elena, Military Executive Nayuta, Technical Executive Kei, please give your reports.""","「……그럼 생산 간부 아키호, 재무 간부 엘레나, 군사 간부 나유타, 기술 간부 케이, 각각 보고를.」",「……那么，生产干部明穗、财务干部艾莲娜、军事干部那由多、技术干部京，请各自进行报告。」
+Dialog.DLC-P-18,SEL,「……では生産幹部アキホ、財務幹部エレナ、軍事幹部ナユタ、技術幹部ケイ、それぞれ報告を。」,「……那麼生產幹部明穗、財務幹部艾蓮娜、軍事幹部那由多、技術幹部京，請各自匯報。」,,「……では生産幹部アキホ、財務幹部エレナ、軍事幹部ナユタ、技術幹部ケイ、それぞれ報告を。」,「……那麼，生產幹部明穗、財務幹部艾蓮娜、軍事幹部那由多、技術幹部京，請各自進行報告。」,"""...Now then, Production Executive Akiho, Finance Executive Erena, Military Executive Nayuta, Technical Executive Kei, please give your reports.""","「……그럼 생산 간부 아키호, 재무 간부 엘레나, 군사 간부 나유타, 기술 간부 케이, 각각 보고를.」",「……那么，生产干部明穗、财务干部艾莲娜、军事干部那由多、技术干部京，请各自进行报告。」
 ,,,,,,,,,
 Dialog.DLC-P-19,明穂闇落ち,「順調だよ～！聖核戦姫の改造ミルクは沢山取れてるし、触手ちゃん達も元気に育ってるみたい！」,「進展順利呢~！聖核戰姬的改造牛奶取得很多，觸手們也看起來長得很健康！」,,「順調だよ～！聖核戦姫の改造ミルクは沢山取れてるし、触手ちゃん達も元気に育ってるみたい！」,「一切都很順利喔～！從聖核戰姫那裡榨取的改造用奶順利量產，觸手小寶寶們也都健健康康地長大呢！」,"""It's going well! We're getting lots of modified milk from the Holy Core Battlemaidens, and the tentacles are growing healthy!""","「순조로워~! 성핵전희 개조 밀크는 잔뜩 나오고 있고, 촉수쨩들도 건강하게 자라고 있는 것 같아!」",「一切都很顺利喔～！从圣核战姫那里榨取的改造用奶顺利量产，触手小宝宝们也都健健康康地长大呢！」
 ,,,,,,,,,
