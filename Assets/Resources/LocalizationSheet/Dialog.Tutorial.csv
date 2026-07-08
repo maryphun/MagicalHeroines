@@ -2,7 +2,7 @@ Key,Comment,Japanese,English,Traditional Chinese,Simplified Chinese,Japanese_Ste
 Tutorial,注釈,,,,,,,,,
 ,できるだけ短く！必要な情報だけ！,,,,,,,,,
 Dialog.Tutorial-1-1,背景：ワールド画面,―――ここは巨大都市ネオトーカイシティ。,―――This is the Neotokai City.,―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。,―――ここは巨大都市ネオトーカイシティ。,"—Neo Tokai City, a megalopolis.",―――這裡是巨型都市NEOTOKAI。,―――这里是巨型都市NEOTOKAI。,―――이곳은 거대 도시 네오토카이 시티.
-Dialog.Tutorial-1-2,,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,A city where skycrapers reached for the heavens while conspiracies and desires brewed in the shadows.,光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,"화려한 빌딩이 솟아 있는 한편, 그늘에서는 사람들의 음모와 욕망이 소용돌이치는 도시다"
+Dialog.Tutorial-1-2,,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,"It is a city of glittering buildings, and also a city of intrigue and greed in the shadows.",光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏著许多阴谋和人们的欲望。,きらびやかなビルがそびえ立つ一方、陰で人々の陰謀や欲望の渦巻く都市である,A city where skycrapers reached for the heavens while conspiracies and desires brewed in the shadows.,光鮮亮麗的建築的背後，暗藏著許多陰謀和人們的慾望。,光鲜亮丽的建筑的背后，暗藏着许多阴谋和人们的欲望。,"화려한 빌딩이 솟아 있는 한편, 그늘에서는 사람들의 음모와 욕망이 소용돌이치는 도시다"
 Dialog.Tutorial-1-3,背景：廃墟,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,"In the midst of the brightness of the building, there was a figure advancing through the dark underground ruins.",在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行,そんなビルの輝きを尻目に、暗い地下の廃墟を進む人影があった,A silhouette walked across dark underground ruins below the shiny buildings.,在建築群的陰影，有一個人影在黑暗的地下廢墟中穿行。,在建筑群的阴影，有一个人影在黑暗的地下废墟中穿行,"그런 빌딩의 빛을 등지고, 어두운 지하 폐허를 나아가는 그림자가 있었다"
 ,,,,,,,,,,
 Dialog.Tutorial-1-4,【???】,「―――ようこそいらっしゃいました。」,「―――Welcome.」,「―――歡飲光臨。」,「―――欢饮光临。」,「―――ようこそいらっしゃいました。」,"""—Welcome.""",「―――歡迎光臨。」,「―――欢饮光临。」,「―――어서 오십시오.」
@@ -13,13 +13,13 @@ Dialog.Tutorial-1-6,【005号】,「これから貴方の補佐と警護を担�
 Dialog.Tutorial-1-7,,「――貴方の事はなんとお呼びすればいいでしょうか？」,「What should I call you?」,「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――貴方の事はなんとお呼びすればいいでしょうか？」,"""How should I address you?""",「請問該怎麼稱呼您？」,「请问该怎么称呼您？」,「――귀하를 어떻게 호칭하면 되겠습니까?」
 ,,,,,,,,,,
 Choice.Tutorial-1-7(1),【選択肢】SEL1,「…」,「...」,「…」,「…」,「…」,"""...""",「…」,「…」,「…」
-Choice.Tutorial-1-7(2),【選択肢】SEL2,「好きに呼んでもらって構わない。」,「Whatever you want.」,「隨便你。」,「随便你。」,「好きに呼んでもらって構わない。」,"""Whatever you want.""",「隨便你。」,「随便妳。」,「마음대로 불러도 상관없다.」
+Choice.Tutorial-1-7(2),【選択肢】SEL2,「好きに呼んでもらって構わない。」,「Whatever you want.」,「隨便你。」,「随便你。」,「好きに呼んでもらって構わない。」,"""Whatever you want.""",「隨便你。」,「随便你。」,「마음대로 불러도 상관없다.」
 ,,,,,,,,,,
 Dialog.Tutorial-1-8,【005号】,「では“ドクター”と呼ばせていただきます。」,"「Well, I will call you 'Doctor.'」",「那麼，請容我稱呼您為”博士”。」,「那么，请容我称呼您为”博士”。」,「では『ドクター』と呼ばせていただきます。」,"""I shall call you 'Doc.'""",「那麼，請容我稱呼您為『博士』。」,「那么，请容我称呼您为”博士”。」,「그럼 “닥터”라고 부르겠습니다.」
 ,,,,,,,,,,
 Dialog.Tutorial-1-9,,「―――それでは早速私達の支部のアジトに案内します。」,「―――Let me take you to our branch's hideout.」,「―――那麼請讓我帶您去財團的隱蔽點。」,「―――那么请让我带您去财团的隐蔽点。」,「―――それでは早速私達の支部のアジトに案内します。」,"""Let us hurry to our branch hideout.""",「―――那麼請讓我帶您去財團的基地。」,「―――那么请让我带您去财团的基地。」,「―――그럼 바로 저희 지부의 아지트로 안내하겠습니다.」
 ,,,,,,,,,,
-Dialog.Tutorial-1-10,,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, the silhouette followed 005 through a series of complex passages.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,"어둠 속, 더욱 복잡한 길을 지나 5호의 등을 따라간다"
+Dialog.Tutorial-1-10,,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, I follow the back of 005 through more complicated paths.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿著5号的身影在复杂的道路中穿梭。,暗闇の中、更に複雑な道を通り5号の背中についていく,"In the dark, the silhouette followed 005 through a series of complex passages.",在黑暗中，我沿著5號的身影在複雜的道路中穿梭。,在黑暗中，我沿着5号的身影在复杂的道路中穿梭。,"어둠 속, 더욱 복잡한 길을 지나 5호의 등을 따라간다"
 ,,,,,,,,,,
 ,背景：ホーム,,,,,,,,,
 Dialog.Tutorial-1-11,【005号】,「―――ここが我々フォーレン財団のアジトです。」,"「―――This is where we, the Forren Foundation, live.」",「―――這裡就是我們福倫財團的據點。」,「―――这里就是我们福伦财团的据点。」,「―――ここが我々フォーレン財団のアジトです。」,"""This is Forren Foundation's hideout.""",「―――這裡就是我們墮落財團的基地。」,「―――这里就是我们堕落财团的基地。」,「―――여기가 저희 폴른 재단의 아지트입니다.」

@@ -30,7 +30,7 @@ Dialog.Chapter1-1-7,六花,「これで5件目…明穂甘いもの食べ過ぎ�
 ,,,,,,,,,,
 Dialog.Chapter1-1-8,明穂,「そんなことないって！パトロールも体力付けるのも聖核戦姫の大事な仕事だよ！」,「I don't think so! Patrolling and physical fitness are important jobs for the Holy Core Battlemaiden!」,「沒這種事啦！巡邏和維持體力都是身為聖核戰姬的我們重要的工作喔！」,「没这种事啦！巡逻和维持体力都是身为圣核战姬的我们重要的工作喔！」,「そんなことないって！パトロールも体力付けるのも聖核戦姫の大事な仕事だよ！」,"""No way! It's important for a Holy Core Battlemaiden to patrol and to increase their stamina!""",「才不會啦！巡邏和維持體力都是身為聖核戰姬重要的工作喔！」,「没这种事啦！巡逻和维持体力都是身为圣核战姬的我们重要的工作喔！」,「그렇지 않거든! 순찰도 체력 단련도 성핵전희의 중요한 임무야!」
 ,,,,,,,,,,
-Dialog.Chapter1-1-9,六花,「…まあ、もらった活動費で放課後にスイーツ食べ歩いてただけなんだけど…」,「Hmm... what we did were just eating sweets after school...」,「…額，我們好像只是拿著活動經費在放學後逛甜點店而已耶…」,「…额，我们好像只是拿著活动经费在放学后逛甜点店而已耶…」,「…まあ、もらった活動費でパトロール中にスイーツ食べ歩いてただけなんだけど…」,"""Well, you're just buying sweets on company money and eating while patrolling...""",「…呃，我們好像只是拿著活動經費在巡邏期間逛甜點店而已耶…」,「…额，我们好像只是拿著活动经费在巡逻中逛甜点店而已耶…」,"「…뭐, 받은 활동비로 순찰 중에 디저트 먹으러 다닌 것뿐이지만…」"
+Dialog.Chapter1-1-9,六花,「…まあ、もらった活動費で放課後にスイーツ食べ歩いてただけなんだけど…」,「Hmm... what we did were just eating sweets after school...」,「…額，我們好像只是拿著活動經費在放學後逛甜點店而已耶…」,「…额，我们好像只是拿著活动经费在放学后逛甜点店而已耶…」,「…まあ、もらった活動費でパトロール中にスイーツ食べ歩いてただけなんだけど…」,"""Well, you're just buying sweets on company money and eating while patrolling...""",「…呃，我們好像只是拿著活動經費在巡邏期間逛甜點店而已耶…」,「…额，我们好像只是拿着活动经费在巡逻中逛甜点店而已耶…」,"「…뭐, 받은 활동비로 순찰 중에 디저트 먹으러 다닌 것뿐이지만…」"
 ,,,,,,,,,,
 Dialog.Chapter1-1-10,明穂,「細かいことはいいの！カフェ巡りもできて街の平和も守れる最高の仕事だよ☆」,「Ignore the details! It's a great job where I can visit cafes and keep the peace in the city~」,「不要太在意細節啦！這是一個可以一邊逛甜點一邊保護街道和平的最棒的工作耶☆」,「不要太在意细节啦！这是一个可以一边逛甜点一边保护街道和平的最棒的工作耶☆」,「細かいことはいいの！カフェ巡りもできて街の平和も守れる最高の仕事だよ☆」,"""Details are not important! This is an amazing job because I can visit cafes while keeping peace!""",「不要太在意細節啦！這是一個可以一邊逛甜點一邊保護街道和平的最棒的工作耶☆」,「不要太在意细节啦！这是一个可以一边逛甜点一边保护街道和平的最棒的工作耶☆」,「세세한 건 됐어! 카페 순례도 할 수 있고 거리의 평화도 지킬 수 있는 최고의 임무야☆」
 ,,,,,,,,,,
@@ -64,11 +64,11 @@ Dialog.Chapter1-1-23,,明穂は自宅に帰るためいつもの電車に乗っ�
 ,,,,,,,,,,
 Dialog.Chapter1-1-24,明穂,(…この時間にしては人が多いような？),(...seems like a lot of people for this time of day?),(…都這個時間了人怎麼這麼多啊？),(…都这个时间了人怎么这么多啊？),(…この時間にしては人が多いような？),(...It's usually not this crowded at this hour...),(…都這個時間了人怎麼這麼多啊？),(…都这个时间了人怎么这么多啊？),(…이 시간치고는 사람이 많은 것 같은데?)
 ,,,,,,,,,,
-Dialog.Chapter1-1-25,,普段は空いていて座れていた電車が、今日は壁に体をあずけて立たなければいけないほど人で溢れて混雑している。,"The train, which was usually empty with seats, is crowded today with so many people that you have to stand with your body against the wall.",平時總是能夠找到位子坐下的電車、今天不止被迫得站著而且混雜得整個人只好貼著電車的門。,平时总是能够找到位子坐下的电车、今天不止被迫得站著而且混杂得整个人只好贴著电车的门。,普段は空いていて座れていた電車が、今日は壁に体をあずけて立たなければいけないほど人で溢れて混雑している。,"The train is usually empty at this time of the day, but there were so many people today that she had to stand near the wall.",平時總是能夠找到位子坐下的電車，今天不止被迫得站著而且人多得只好貼著電車的門。,平时总是能够找到位子坐下的电车，今天不止被迫得站著而且混杂得整个人只好贴著电车的门。,"평소에는 비어 있어서 앉을 수 있었던 전철이, 오늘은 벽에 몸을 기대고 서 있어야 할 정도로 사람들로 붐비고 있었다."
+Dialog.Chapter1-1-25,,普段は空いていて座れていた電車が、今日は壁に体をあずけて立たなければいけないほど人で溢れて混雑している。,"The train, which was usually empty with seats, is crowded today with so many people that you have to stand with your body against the wall.",平時總是能夠找到位子坐下的電車、今天不止被迫得站著而且混雜得整個人只好貼著電車的門。,平时总是能够找到位子坐下的电车、今天不止被迫得站著而且混杂得整个人只好贴著电车的门。,普段は空いていて座れていた電車が、今日は壁に体をあずけて立たなければいけないほど人で溢れて混雑している。,"The train is usually empty at this time of the day, but there were so many people today that she had to stand near the wall.",平時總是能夠找到位子坐下的電車，今天不止被迫得站著而且人多得只好貼著電車的門。,平时总是能够找到位子坐下的电车，今天不止被迫得站着而且混杂得整个人只好贴着电车的门。,"평소에는 비어 있어서 앉을 수 있었던 전철이, 오늘은 벽에 몸을 기대고 서 있어야 할 정도로 사람들로 붐비고 있었다."
 ,,,,,,,,,,
 Dialog.Chapter1-1-26,明穂,(うぅ～最悪…。こんなに混んでるなら、あんなに遊ばないで早く帰ればよかったかも),"(Ugh~ that sucks.... If it was this crowded, maybe I should have gone home earlier instead of hanging out too much)",(嗚～好糟糕…。早知道會變成這樣的話我就別玩到那麼晚早點回家了),(呜～好糟糕…。早知道会变成这样的话我就别玩到那么晚早点回家了),(うぅ～最悪…。こんなに混んでるなら、あんなに遊ばないで早く帰ればよかったかも),"(Ugh, this sucks. If I knew this I wouldn't have stayed out so late.)",(嗚～好討厭…。早知道會變成這樣的話，我就不會玩到那麼晚，而是早點回家了),(呜～好討厭…。早知道会变成这样的话，我就别玩到那么晚早点回家了),"(우우~ 최악…. 이렇게 붐빌 줄 알았으면, 그렇게 놀지 말고 빨리 돌아올걸 그랬나)"
 ,,,,,,,,,,
-Dialog.Chapter1-1-27,,電車に揺られる明穂は自分の胸に違和感を感じた。,"Swaying on the train, Akiho felt a sense of discomfort in her own chest.",隨著電車一起晃動的明穗感受到來自胸部的違和感。,随著电车一起晃动的明穗感受到来自胸部的违和感。,電車に揺られる明穂は自分の胸に違和感を感じた。,Akiho felt something weird on her chest as she swayed with the train.,隨著電車一起晃動的明穗感受到來自胸部的違和感。,随著电车一起晃动的明穗感受到来自胸部的违和感。,전철에 흔들리는 아키호는 자신의 가슴에 위화감을 느꼈다.
+Dialog.Chapter1-1-27,,電車に揺られる明穂は自分の胸に違和感を感じた。,"Swaying on the train, Akiho felt a sense of discomfort in her own chest.",隨著電車一起晃動的明穗感受到來自胸部的違和感。,随著电车一起晃动的明穗感受到来自胸部的违和感。,電車に揺られる明穂は自分の胸に違和感を感じた。,Akiho felt something weird on her chest as she swayed with the train.,隨著電車一起晃動的明穗感受到來自胸部的違和感。,随着电车一起晃动的明穗感受到来自胸部的违和感。,전철에 흔들리는 아키호는 자신의 가슴에 위화감을 느꼈다.
 ,,,,,,,,,,
 Dialog.Chapter1-1-28,明穂,(…？ちょっと何か当たってるような),(...? I think I hit on something a little bit),(…？感覺好像碰到什麼了),(…？感觉好像碰到什么了),(…？ちょっと何か当たってるような),(Huh? Something is touching me...),(…？感覺好像碰到什麼了),(…？感觉好像碰到什么了),(…? 뭔가 좀 닿는 것 같은데)
 ,,,,,,,,,,
@@ -96,11 +96,11 @@ Dialog.Chapter1-1-39,,しかし、混雑した車内の誰一人として明穂�
 ,,,,,,,,,,
 Dialog.Chapter1-1-40,明穂,(――どうして誰も何もしてくれないのっ！？),(――Why doesn't anyone do anything!),（――為什麼沒有人願意幫忙！？）,（――为什么没有人愿意帮忙！？）,(――どうして誰も何もしてくれないのっ！？),(Why isn't anyone helping me?!),（――為什麼沒有人願意幫忙！？）,（――为什么没有人愿意帮忙！？）,(――어째서 아무도 아무것도 안 해주는 거야!?)
 ,,,,,,,,,,
-Dialog.Chapter1-1-41,,その間に男の手の動きはどんどん大胆になり、制服越しに激しく明穂の乳房を弄ぶ。,"Meanwhile, the man's hand movements become bolder and bolder, violently playing with Akiho's breasts through her uniform.",就在這段時間裡，男人的手越來越大膽，隔著制服猛烈地玩弄明穗的胸部。,就在这段时间里，男人的手越来越大胆，隔著制服猛烈地玩弄明穗的胸部。,その間に男の手の動きはどんどん大胆になり、服越しに激しく明穂の乳房を弄ぶ。,The man became bolder and started to play with her breast through her clothes.,就在這段時間裡，男人的手越來越大膽，隔著制服猛烈地玩弄明穗的胸部。,就在这段时间里，男人的手越来越大胆，隔著制服猛烈地玩弄明穗的胸部。,"그 사이 남자의 손놀림은 점점 대담해져, 옷 위로 격렬하게 아키호의 유방을 희롱한다."
+Dialog.Chapter1-1-41,,その間に男の手の動きはどんどん大胆になり、制服越しに激しく明穂の乳房を弄ぶ。,"Meanwhile, the man's hand movements become bolder and bolder, violently playing with Akiho's breasts through her uniform.",就在這段時間裡，男人的手越來越大膽，隔著制服猛烈地玩弄明穗的胸部。,就在这段时间里，男人的手越来越大胆，隔著制服猛烈地玩弄明穗的胸部。,その間に男の手の動きはどんどん大胆になり、服越しに激しく明穂の乳房を弄ぶ。,The man became bolder and started to play with her breast through her clothes.,就在這段時間裡，男人的手越來越大膽，隔著制服猛烈地玩弄明穗的胸部。,就在这段时间里，男人的手越来越大胆，隔着制服猛烈地玩弄明穗的胸部。,"그 사이 남자의 손놀림은 점점 대담해져, 옷 위로 격렬하게 아키호의 유방을 희롱한다."
 ,Akiho 1-2,,,,,,,,,
 Dialog.Chapter1-1-42,明穂,「ひゃうっ、んっ♥、やめてくださいっ、やめて！」,"「Hyaa, hmmm ♥, please don't, don't!」",「呀嗚っ，嗯っ♥，請住手，住手！」,「呀呜っ，嗯っ♥，请住手，住手！」,「ひゃうっ、んっ♥、やめてくださいっ、やめて！」,"""Hnnn♥ P-Please stop! Stop!""",「呀嗚，嗯♥請住手，住手！」,「呀呜，嗯♥请住手，住手！」,"「히야웃, 응읏♥, 그만하세요, 그만!」"
 ,,,,,,,,,,
-Dialog.Chapter1-1-43,,男の指の先がぐにぐにと執拗に乳首を弄りまわし、胸の先端から背筋に向かってぞくぞくとした感覚が走る。,"The tips of the man's fingers play with the nipples, squirming and relentlessly, and a creeping sensation runs from the tips of my breasts down her spine.",男人的指尖黏膩地、不斷地玩弄著乳頭，從胸部的頂端到背脊，傳來一陣陣顫慄的感覺。,男人的指尖黏腻地、不断地玩弄著乳头，从胸部的顶端到背脊，传来一阵阵颤栗的感觉。,男の指の先がぐにぐにと執拗に乳首を弄りまわし、胸の先端から背筋に向かってぞくぞくとした感覚が走る。,"The man's fingertips found her nipple and played with it, sending shivers down her spine.",男人的指尖黏膩地、不斷地玩弄著乳頭，從胸部的頂端到背脊，傳來一陣陣顫慄的感覺。,男人的指尖黏腻地、不断地玩弄著乳头，从胸部的顶端到背脊，传来一阵阵颤栗的感觉。,"남자의 손가락 끝이 질척하게 집요하게 유두를 희롱하고, 가슴 끝에서 등줄기로 짜릿한 감각이 흐른다."
+Dialog.Chapter1-1-43,,男の指の先がぐにぐにと執拗に乳首を弄りまわし、胸の先端から背筋に向かってぞくぞくとした感覚が走る。,"The tips of the man's fingers play with the nipples, squirming and relentlessly, and a creeping sensation runs from the tips of my breasts down her spine.",男人的指尖黏膩地、不斷地玩弄著乳頭，從胸部的頂端到背脊，傳來一陣陣顫慄的感覺。,男人的指尖黏腻地、不断地玩弄著乳头，从胸部的顶端到背脊，传来一阵阵颤栗的感觉。,男の指の先がぐにぐにと執拗に乳首を弄りまわし、胸の先端から背筋に向かってぞくぞくとした感覚が走る。,"The man's fingertips found her nipple and played with it, sending shivers down her spine.",男人的指尖黏膩地、不斷地玩弄著乳頭，從胸部的頂端到背脊，傳來一陣陣顫慄的感覺。,男人的指尖黏腻地、不断地玩弄着乳头，从胸部的顶端到背脊，传来一阵阵颤栗的感觉。,"남자의 손가락 끝이 질척하게 집요하게 유두를 희롱하고, 가슴 끝에서 등줄기로 짜릿한 감각이 흐른다."
 ,,,,,,,,,,
 Dialog.Chapter1-1-44,明穂,「ふぁっ♥、やぁ、んっ♥」,"「Hhhhhh♥, oh no, hmmm♥」",「啊♥、不要、嗯♥」,「啊♥、不要、嗯♥」,「ふぁっ♥、やぁ、んっ♥」,"""Haaa... Nnnn...♥""",「啊♥、不要、嗯♥」,「啊♥、不要、嗯♥」,"「팟♥, 야아, 응읏♥」"
 ,,,,,,,,,,
@@ -134,7 +134,7 @@ Dialog.Chapter1-1-58,明穂,(……！),(......!),(……！),(……！),(…�
 ,,,,,,,,,,
 Dialog.Chapter1-1-59,明穂,「っ！降りてください！」,「Hey! Get off!」,「....！跟我下車！」,「....！跟我下车！」,「っ！降りてください！」,"""We're getting off here!""",「....！跟我下車！」,「....！跟我下车！」,「읏! 내려주세요!」
 ,,,,,,,,,,
-Dialog.Chapter1-1-60,,明穂は男の腕をつかみ電車を降りるのだった,Akiho grabbed the man's arm and got off the train.,明穗抓住男人的手臂，帶著他一起下了車。,明穗抓住男人的手臂，带著他一起下了车。,明穂は男の腕をつかみ電車を降りるのだった,Akiho grabbed the man's arm and dragged him out of the train.,明穗抓住男人的手臂，帶著他一起下了車。,明穗抓住男人的手臂，带著他一起下了车。,아키호는 남자의 팔을 붙잡고 전철에서 내렸다
+Dialog.Chapter1-1-60,,明穂は男の腕をつかみ電車を降りるのだった,Akiho grabbed the man's arm and got off the train.,明穗抓住男人的手臂，帶著他一起下了車。,明穗抓住男人的手臂，带著他一起下了车。,明穂は男の腕をつかみ電車を降りるのだった,Akiho grabbed the man's arm and dragged him out of the train.,明穗抓住男人的手臂，帶著他一起下了車。,明穗抓住男人的手臂，带着他一起下了车。,아키호는 남자의 팔을 붙잡고 전철에서 내렸다
 ,,,,,,,,,,
 Dialog.Chapter1-1-61,駅構内,―――駅の構内にて,――― In the station,——在車站內部,——在车站内部,―――駅の構内にて,Inside the station...,——在車站內部,——在车站内部,―――역의 구내에서
 ,,,,,,,,,,
@@ -152,10 +152,10 @@ Dialog.Chapter1-1-67,,(う～～、最悪…。帰る時間かなり遅れちゃ
 ,,,,,,,,,,
 Dialog.Chapter1-1-68,,(でも後は駅員さんが何とかしてくれるはずだし、今日は遅くなるって連絡しておかないと…),"(But I'm sure the station staff will take care of the rest, perhaps I should message Rikka to let her know I'll be late today...)",（不過接下來站務員應該會處理好，我得趕緊通知一下今天會晚回去……）,（不过接下来站务员应该会处理好，我得赶紧通知一下今天会晚回去……）,(でも後は駅員さんが何とかしてくれるはずだし、今日は遅くなるって連絡しておかないと…),"(But the attendant will do something about it, so I just need to tell them that I'll be late...)",（不過接下來站務員應該會處理好，我得趕緊通知一下今天會晚回去……）,（不过接下来站务员应该会处理好，我得赶紧通知一下今天会晚回去……）,"(하지만 이제 역무원 씨가 어떻게든 해주실 테고, 오늘은 늦는다고 연락해 둬야겠다…)"
 ,,,,,,,,,,
-Dialog.Chapter1-1-69,,明穂は体に残る不愉快な感覚の残滓を感じつつ、駅員についていくのだった,"Akiho followed the station staff, feeling the residue of unpleasant sensations in her body.",明穗感受著身體上殘留的不適感，跟著站務員一起走去。,明穗感受著身体上残留的不适感，跟著站务员一起走去。,明穂は体に残る不愉快な感覚の残滓を感じつつ、駅員についていくのだった,Akiho followed the attendant while the unpleasant feeling of being violated lingered.,明穗感受著身體上殘留的不適感，跟著站務員一起走去。,明穗感受著身体上残留的不适感，跟著站务员一起走去。,아키호는 몸에 남은 불쾌한 감각의 잔재를 느끼며 역무원을 따라갔다
+Dialog.Chapter1-1-69,,明穂は体に残る不愉快な感覚の残滓を感じつつ、駅員についていくのだった,"Akiho followed the station staff, feeling the residue of unpleasant sensations in her body.",明穗感受著身體上殘留的不適感，跟著站務員一起走去。,明穗感受著身体上残留的不适感，跟著站务员一起走去。,明穂は体に残る不愉快な感覚の残滓を感じつつ、駅員についていくのだった,Akiho followed the attendant while the unpleasant feeling of being violated lingered.,明穗感受著身體上殘留的不適感，跟著站務員一起走去。,明穗感受着身体上残留的不适感，跟着站务员一起走去。,아키호는 몸에 남은 불쾌한 감각의 잔재를 느끼며 역무원을 따라갔다
 ,,,,,,,,,,
 Chapter 1-2,注釈,,,,,,,,,
-Dialog.Chapter1-2-1,駅構内,明穂は駅員に連れられて駅の構内を歩いていた。,Akiho was walking through the station following the station stuff.,明穗跟著站務員，在車站內部走著。,明穗跟著站务员，在车站内部走著。,明穂は駅員に連れられて駅の構内を歩いていた。,Akiho walked through the station with the attendant.,明穗跟著站務員，在車站內部走著。,明穗跟著站务员，在车站内部走著。,아키호는 역무원에게 이끌려 역의 구내를 걷고 있었다.
+Dialog.Chapter1-2-1,駅構内,明穂は駅員に連れられて駅の構内を歩いていた。,Akiho was walking through the station following the station stuff.,明穗跟著站務員，在車站內部走著。,明穗跟著站务员，在车站内部走著。,明穂は駅員に連れられて駅の構内を歩いていた。,Akiho walked through the station with the attendant.,明穗跟著站務員，在車站內部走著。,明穗跟着站务员，在车站内部走着。,아키호는 역무원에게 이끌려 역의 구내를 걷고 있었다.
 ,,,,,,,,,,
 Dialog.Chapter1-2-2,明穂,「……あの、こんなに歩く必要があるんですか？」,"「...... Um, do we really need to walk this far?」",「……請問，真的有必要走這麼遠嗎？」,「……请问，真的有必要走这么远吗？」,「……あの、こんなに歩く必要があるんですか？」,"""Um, we've been walking for quite a while now...""",「……請問，真的有必要走這麼遠嗎？」,「……请问，真的有必要走这么远吗？」,"「……저기, 이렇게 걸을 필요가 있나요?」"
 ,,,,,,,,,,
@@ -165,7 +165,7 @@ Dialog.Chapter1-2-4,,駅員はそう呟くと黙々と歩を進める。,The sta
 ,,,,,,,,,,
 Dialog.Chapter1-2-5,,「………着きました。お入りください。」,「 .......... Here. Please come in.」,「………到了，請進。」,「………到了，请进。」,「………着きました。お入りください。」,"""We have arrived, please go inside.""",「………到了，請進。」,「………到了，请进。」,「………도착했습니다. 들어오십시오.」
 ,,,,,,,,,,
-Dialog.Chapter1-2-6,廃墟の背景,駅員の男が重厚な扉を開き、明穂と男は薄暗く広い部屋に案内された。,"The station staff opened the heavy door and Akiho and the man were ushered into a large, dimly lit room.",站務員推開沉重的門，明穗和那名男子被帶入了一間昏暗而寬敞的房間。,站务员推开沉重的门，明穗和那名男子被帶入了一间昏暗而宽敞的房间。,駅員の男が重厚な扉を開き、明穂と男は薄暗く広い部屋に案内された。,The attendant opened a heavy door and took Akiho and the man to a large room that was dimly lit.,站務員推開沉重的門，明穗和那名男子被帶入了一間昏暗而寬敞的房間。,站务员推开沉重的门，明穗和那名男子被帶入了一间昏暗而宽敞的房间。,"역무원 남자가 육중한 문을 열고, 아키호와 남자는 어두컴컴하고 넓은 방으로 안내되었다."
+Dialog.Chapter1-2-6,廃墟の背景,駅員の男が重厚な扉を開き、明穂と男は薄暗く広い部屋に案内された。,"The station staff opened the heavy door and Akiho and the man were ushered into a large, dimly lit room.",站務員推開沉重的門，明穗和那名男子被帶入了一間昏暗而寬敞的房間。,站务员推开沉重的门，明穗和那名男子被帶入了一间昏暗而宽敞的房间。,駅員の男が重厚な扉を開き、明穂と男は薄暗く広い部屋に案内された。,The attendant opened a heavy door and took Akiho and the man to a large room that was dimly lit.,站務員推開沉重的門，明穗和那名男子被帶入了一間昏暗而寬敞的房間。,站务员推开沉重的门，明穗和那名男子被带入了一间昏暗而宽敞的房间。,"역무원 남자가 육중한 문을 열고, 아키호와 남자는 어두컴컴하고 넓은 방으로 안내되었다."
 ,,,,,,,,,,
 Dialog.Chapter1-2-7,明穂,「……ここは？不審者の取り調べにこんな部屋使う必要があるんですか…？」,「...... what is this place? Do we really need to use a room like this...?」,「……這裡是？審問可疑人士有必要用這種房間嗎……？」,「……这里是？审问可疑人士有必要用这种房间吗……？」,「……ここは？不審者の取り調べにこんな部屋使う必要があるんですか…？」,"""Where are we? Is it necessary to use a room like this when questioning someone suspicious?""",「……這裡是？審問可疑人士有必要用這種房間嗎……？」,「……这里是？审问可疑人士有必要用这种房间吗……？」,「……여기는? 수상한 사람을 조사하는데 이런 방을 쓸 필요가 있나요…?」
 ,,,,,,,,,,
@@ -173,7 +173,7 @@ Dialog.Chapter1-2-8,駅員,「………ええ、危険人物には厳重に対�
 ,,,,,,,,,,
 Dialog.Chapter1-2-9,,―――駅員の声が一段低くなる。,―――The station staffvoice lowers a notch.,——站務員的聲音低了一個音調。,——站务员的声音低了一个音调。,―――駅員の声が一段低くなる。,The attendant's voice grew lower.,——站務員的聲音低了一個音調。,——站务员的声音低了一个音调。,―――역무원의 목소리가 한 톤 낮아진다.
 ,,,,,,,,,,
-Dialog.Chapter1-2-10,,そして、入って来た扉がギギィと閉じられた瞬間、部屋の中の物陰から何人ものマスクをかぶった大柄な男たちが現れた。,"Then, just as the door they had entered creaked shut, a number of large, masked men appeared from the shadows inside the room.",然後，就在進來時的門嘎吱一聲關上的瞬間，房間內的陰影處湧出數名戴著面具的魁梧男子。,然后，就在进来时的门嘎吱一声关上的瞬间，房间内的阴影处涌出数名戴著面具的魁梧男子。,そして、入って来た扉がギギィと閉じられた瞬間、部屋の中の物陰から何人ものマスクをかぶった大柄な男たちが現れた。,"As soon as the door creaked shut, several large masked man emerged from the shadows in the room.",然後，就在進來時的門嘎嘰一聲關上的瞬間，房間內的陰影處湧出數名戴著面具的魁梧男子。,然后，就在进来时的门嘎叽一声关上的瞬间，房间内的阴影处涌出数名戴著面具的魁梧男子。,"그리고, 들어왔던 문이 끼익하고 닫힌 순간, 방 안의 그늘에서 몇 명이나 되는 마스크를 쓴 거구의 남자들이 나타났다."
+Dialog.Chapter1-2-10,,そして、入って来た扉がギギィと閉じられた瞬間、部屋の中の物陰から何人ものマスクをかぶった大柄な男たちが現れた。,"Then, just as the door they had entered creaked shut, a number of large, masked men appeared from the shadows inside the room.",然後，就在進來時的門嘎吱一聲關上的瞬間，房間內的陰影處湧出數名戴著面具的魁梧男子。,然后，就在进来时的门嘎吱一声关上的瞬间，房间内的阴影处涌出数名戴著面具的魁梧男子。,そして、入って来た扉がギギィと閉じられた瞬間、部屋の中の物陰から何人ものマスクをかぶった大柄な男たちが現れた。,"As soon as the door creaked shut, several large masked man emerged from the shadows in the room.",然後，就在進來時的門嘎嘰一聲關上的瞬間，房間內的陰影處湧出數名戴著面具的魁梧男子。,然后，就在进来时的门嘎叽一声关上的瞬间，房间内的阴影处涌出数名戴着面具的魁梧男子。,"그리고, 들어왔던 문이 끼익하고 닫힌 순간, 방 안의 그늘에서 몇 명이나 되는 마스크를 쓴 거구의 남자들이 나타났다."
 ,,,,,,,,,,
 Dialog.Chapter1-2-11,明穂,「なっ…！あなた達はっ！」,「What...! You guys are... !」,「什……！你們是！」,「什……！你们是！」,「なっ…！あなた達はっ！」,"""Huh? You're...""",「什……！你們是！」,「什……！你们是！」,「앗…! 당신들은!」
 ,,,,,,,,,,
@@ -219,9 +219,9 @@ Dialog.Chapter1-2-30,Akiho2-2,「ひぁっ、やめてっ！」,"「Ahhh, stop!�
 ,,,,,,,,,,
 Dialog.Chapter1-2-31,戦闘員,「うっわ柔らかっ、明穂ちゃんこんな大きなおっぱいで変身ヒロインやってたんだね」,"「Wow, how soft, Akiho-chan, were you really doing Holy Core Battlemaiden with such big tits!?」",「哇，好軟啊，明穗醬你擁有這麼大的胸部還當什麼聖核戰姬啊？」,「哇，好软啊，明穗酱你拥有这么大的胸部还当什么圣核战姬啊？」,「うっわ柔らかっ、明穂ちゃんこんな大きなおっぱいで変身ヒロインやってたんだね」,"""So soft! You've been transforming into heroes with boobs this big, huh?""",「哇，好軟啊，明穗醬妳擁有這麼大的胸部還當什麼聖核戰姬啊？」,「哇，好软啊，明穗酱你拥有这么大的胸部还当什么圣核战姬啊？」,"「우왓 말랑해! 아키호쨩, 이렇게 큰 젖으로 변신 히로인 하고 있었구나.」"
 ,,,,,,,,,,
-Dialog.Chapter1-2-32,戦闘員,「明穂ちゃんもう負けたんだから…無駄に抵抗しないほうがいいよ？」,"「Akiho-chan, you've already lost...you shouldn't waste your time resisting, okay?」",「明穗醬妳既然都已經輸了，還是不要做無謂的抵抗比較好哦？」,「明穗酱你既然都已经输了，还是不要做无谓的抵抗比较好哦？」,「明穂ちゃんもう負けたんだから…無駄に抵抗しないほうがいいよ？」,"""You already lost, so there's no point struggling.""",「明穗醬妳既然都已經輸了，還是不要做無謂的抵抗比較好哦？」,「明穗酱妳既然都已经输了，还是不要做无谓的抵抗比较好哦？」,"「아키호쨩, 이제 졌으니까… 쓸데없이 저항 안 하는 게 좋을걸?」"
+Dialog.Chapter1-2-32,戦闘員,「明穂ちゃんもう負けたんだから…無駄に抵抗しないほうがいいよ？」,"「Akiho-chan, you've already lost...you shouldn't waste your time resisting, okay?」",「明穗醬妳既然都已經輸了，還是不要做無謂的抵抗比較好哦？」,「明穗酱你既然都已经输了，还是不要做无谓的抵抗比较好哦？」,「明穂ちゃんもう負けたんだから…無駄に抵抗しないほうがいいよ？」,"""You already lost, so there's no point struggling.""",「明穗醬妳既然都已經輸了，還是不要做無謂的抵抗比較好哦？」,「明穗酱你既然都已经输了，还是不要做无谓的抵抗比较好哦？」,"「아키호쨩, 이제 졌으니까… 쓸데없이 저항 안 하는 게 좋을걸?」"
 ,,,,,,,,,,
-Dialog.Chapter1-2-33,,そういうと、戦闘員が常人と比べて遥かに大きな剛直を明穂の尻に押し付ける,"That said, the combatant presses a abnormally larger stuff against Akiho's buttocks.",一邊這麼說著，戰鬥員一邊將比常人巨大得多的堅硬之物壓在明穗的臀部上。,一边这么说著，战斗员一边将比常人巨大得多的坚硬之物压在明穗的臀部上。,そういうと、戦闘員が常人と比べて遥かに大きな剛直を明穂の尻に押し付ける,"The soldier then pressed against Akiho's butt with his erect member, which was far bigger than most people's.",一邊這麼說著，戰鬥員一邊將比常人巨大得多的堅硬之物壓在明穗的臀部上。,一边这么说著，战斗员一边将比常人巨大得多的坚硬之物压在明穗的臀部上。,"그렇게 말하며, 전투원이 일반인과 비교해 훨씬 큰 강직한 물건을 아키호의 엉덩이에 문지른다."
+Dialog.Chapter1-2-33,,そういうと、戦闘員が常人と比べて遥かに大きな剛直を明穂の尻に押し付ける,"That said, the combatant presses a abnormally larger stuff against Akiho's buttocks.",一邊這麼說著，戰鬥員一邊將比常人巨大得多的堅硬之物壓在明穗的臀部上。,一边这么说著，战斗员一边将比常人巨大得多的坚硬之物压在明穗的臀部上。,そういうと、戦闘員が常人と比べて遥かに大きな剛直を明穂の尻に押し付ける,"The soldier then pressed against Akiho's butt with his erect member, which was far bigger than most people's.",一邊這麼說著，戰鬥員一邊將比常人巨大得多的堅硬之物壓在明穗的臀部上。,一边这么说着，战斗员一边将比常人巨大得多的坚硬之物压在明穗的臀部上。,"그렇게 말하며, 전투원이 일반인과 비교해 훨씬 큰 강직한 물건을 아키호의 엉덩이에 문지른다."
 ,,,,,,,,,,
 Dialog.Chapter1-2-34,明穂,「ひぃっ―――！」,「Hyaa...!」,「咿―――！」,「咿―――！」,「ひぃっ―――！」,"""Aghhhh!""",「咿―――！」,「咿―――！」,「히익―――!」
 ,,,,,,,,,,
@@ -231,7 +231,7 @@ Dialog.Chapter1-2-36,戦闘員,「大丈夫大丈夫、殺しやしねえから�
 ,,,,,,,,,,
 Dialog.Chapter1-2-37,戦闘員,「そうそう、諦めて楽になっちゃおうぜ？」,"「Oh yeah, let's just give up and have some fun, shall we?'」",「對啊，乾脆放棄讓自己輕鬆一點吧？」,「对啊，干脆放弃让自己轻松一点吧？」,「そうそう、諦めて楽になっちゃおうぜ？」,"""Just give up and enjoy.""",「對啊，乾脆放棄讓自己輕鬆一點吧？」,「对啊，干脆放弃让自己轻松一点吧？」,"「그래그래, 포기하고 편해지자고?」"
 ,,,,,,,,,,
-Dialog.Chapter1-2-38,Akiho 2-3,そういうと明穂の股下に戦闘員の剛直が差し込まれ、手には別の戦闘員の物を握らされる,"Then, a combatant's stuff is inserted into Akiho's crotch, and another combatant's is placed in her hand.",說著，明穗的胯下被戰鬥員的東西插入，手中則被強迫握住另一個戰鬥員的東西。,说著，明穗的胯下被战斗员的东西插入，手中则被强迫握住另一个战斗员的东西。,そういうと明穂の股下に戦闘員の剛直が差し込まれ、手には別の戦闘員の物を握らされる,The soldier dry-humped Akiho's crotch as the others stuff her hands with their own hardness,說著，明穗的胯下被戰鬥員的東西插入，手中則被強迫握住另一個戰鬥員的東西。,说著，明穗的胯下被战斗员的东西插入，手中则被强迫握住另一个战斗员的东西。,"그렇게 말하며 아키호의 가랑이 사이에 전투원의 단단한 물건이 끼워지고, 손에는 다른 전투원의 것을 쥐여준다."
+Dialog.Chapter1-2-38,Akiho 2-3,そういうと明穂の股下に戦闘員の剛直が差し込まれ、手には別の戦闘員の物を握らされる,"Then, a combatant's stuff is inserted into Akiho's crotch, and another combatant's is placed in her hand.",說著，明穗的胯下被戰鬥員的東西插入，手中則被強迫握住另一個戰鬥員的東西。,说著，明穗的胯下被战斗员的东西插入，手中则被强迫握住另一个战斗员的东西。,そういうと明穂の股下に戦闘員の剛直が差し込まれ、手には別の戦闘員の物を握らされる,The soldier dry-humped Akiho's crotch as the others stuff her hands with their own hardness,說著，明穗的胯下被戰鬥員的東西插入，手中則被強迫握住另一個戰鬥員的東西。,说着，明穗的胯下被战斗员的东西插入，手中则被强迫握住另一个战斗员的东西。,"그렇게 말하며 아키호의 가랑이 사이에 전투원의 단단한 물건이 끼워지고, 손에는 다른 전투원의 것을 쥐여준다."
 ,,,,,,,,,,
 Dialog.Chapter1-2-39,明穂,「ひっ、いやっ、いやいやいやいやっ！」,"「Eek― No, no no!」",「咿，不要，不要不要不要不要！」,「咿，不要，不要不要不要不要！」,「ひっ、いやっ、いやいやいやいやっ！」,"""Aghhh! No! Nooooo!""",「咿，不要，不要不要不要不要！」,「咿，不要，不要不要不要不要！」,"「히익, 싫어! 싫어싫어싫어!」"
 ,,,,,,,,,,
@@ -265,7 +265,7 @@ Dialog.Chapter1-2-53,,自分が完全に敗北したことを悟った明穂は�
 ,,,,,,,,,,
 Dialog.Chapter1-2-54,,「無駄無駄。ここは俺達しか知らない地下空間なんだから誰も来ないよ。」,"「No, no way. We're the only ones who know about this underground space, so no one will come here.」",「沒用的。這裡是只有我們知道的地下空間，沒有人會來的。」,「没用的。这里是只有我们知道的地下空间，没有人会来的。」,「無駄無駄。ここは俺達しか知らない地下空間なんだから誰も来ないよ。」,"""That's not going to do anything. This underground space is only known to us, so no one will be coming to save you.""",「沒用的。這裡是只有我們知道的地下空間，沒有人會來的。」,「没用的。这里是只有我们知道的地下空间，没有人会来的。」,「소용없어 소용없어. 여긴 우리밖에 모르는 지하 공간이니까 아무도 안 와.」
 ,,,,,,,,,,
-Dialog.Chapter1-2-55,,そういうと、明穂は股下にチンポを突っ込んでいた戦闘員に両足を抱えられ持ち上げられた,"With that, Akiho was lifted up and held by both legs by the combatant who had his cock shoved in his crotch.",說著，明穗被一個將陰莖插入她股下的戰鬥員抱住雙腿並舉了起來。,说著，明穗被一个将阴茎插入她股下的战斗员抱住双腿并举了起来。,そういうと、明穂は股下にチンポを突っ込んでいた戦闘員に両足を抱えられ持ち上げられた,The soldier that was rubbing his cock against Akiho's crotch raised her legs.,說著，明穗被一個將陰莖插到她股下的戰鬥員抱住雙腿並舉了起來。,说著，明穗被一个将阴茎插入她股下的战斗员抱住双腿并举了起来。,"그렇게 말하며, 아키호는 가랑이에 자지를 쑤셔 넣고 있던 전투원에게 양다리를 잡혀 들어 올려졌다"
+Dialog.Chapter1-2-55,,そういうと、明穂は股下にチンポを突っ込んでいた戦闘員に両足を抱えられ持ち上げられた,"With that, Akiho was lifted up and held by both legs by the combatant who had his cock shoved in his crotch.",說著，明穗被一個將陰莖插入她股下的戰鬥員抱住雙腿並舉了起來。,说著，明穗被一个将阴茎插入她股下的战斗员抱住双腿并举了起来。,そういうと、明穂は股下にチンポを突っ込んでいた戦闘員に両足を抱えられ持ち上げられた,The soldier that was rubbing his cock against Akiho's crotch raised her legs.,說著，明穗被一個將陰莖插到她股下的戰鬥員抱住雙腿並舉了起來。,说着，明穗被一个将阴茎插入她股下的战斗员抱住双腿并举了起来。,"그렇게 말하며, 아키호는 가랑이에 자지를 쑤셔 넣고 있던 전투원에게 양다리를 잡혀 들어 올려졌다"
 ,,,,,,,,,,
 Dialog.Chapter1-2-56,,「じゃあいよいよ明穂ちゃん完全敗北記念に、明穂ちゃんの処女もらっちゃいま～す！」,"「Finally, I'm going to take Akiho-chan's virginity to commemorate her complete defeat!」",「那麼，為了紀念明穗醬的徹底敗北，現在就來拿走明穗醬的處女吧～！」,「那么，为了纪念明穗酱的彻底败北，现在就来拿走明穗酱的处女吧～！」,「じゃあいよいよ明穂ちゃん完全敗北記念に、明穂ちゃんの処女もらっちゃいま～す！」,"""To commemorate defeating you, I will now take your virginity!""",「那麼，為了紀念明穗醬的徹底敗北，現在就來拿走明穗的處女吧～！」,「那么，为了纪念明穗酱的彻底败北，现在就来拿走明穗酱的处女吧～！」,"「자, 드디어 아키호쨩 완전 패배 기념으로, 아키호쨩의 처녀 받아 가겠습니다~!」"
 ,,,,,,,,,,
@@ -291,4 +291,4 @@ Dialog.Chapter1-2-66,戦闘員,「そのくらいにしておけ。後でいく�
 ,,,,,,,,,,
 Dialog.Chapter1-2-67,,「作戦の第一段階は成功だ！これよりターゲットを拘束し、本部に帰還する！」,「The first phase of the operation was a success! We now have the target in custody and will return to headquarters!」,「作戰的第一階段成功了！從現在起將目標拘束，回到本部！」,「作战的第一阶段成功了！从现在起将目标拘束，回到本部！」,「作戦の第一段階は成功だ！これよりターゲットを拘束し、本部に帰還する！」,"""The first phase was a success! We will now restrict the target and return to the headquarters!""",「作戰的第一階段成功了！從現在起將目標拘束，回到本部！」,「作战的第一阶段成功了！从现在起将目标拘束，回到本部！」,"「작전 제1단계는 성공이다! 지금부터 타겟을 구속하고, 본부로 귀환한다!」"
 ,,,,,,,,,,
-Dialog.Chapter1-2-68,,敗北した笹谷明穂は全身を拘束され、戦闘員に担がれ闇の中へと消えていくのだった―――,Defeated Sasaya Akiho was bound all over and carried by the combatants into the darkness.,敗北的笹谷明穗全身被拘束，被戰鬥員扛著消失在黑暗之中―――,败北的笹谷明穗全身被拘束，被战斗员扛著消失在黑暗之中―――,敗北した笹谷明穂は全身を拘束され、戦闘員に担がれ闇の中へと消えていくのだった―――,"A defeated Akiho Sasaya was tied up, and taken into the darkness by the soldiers...",失敗的笹谷明穗全身被拘束，被戰鬥員扛著消失在黑暗之中―――,败北的笹谷明穗全身被拘束，被战斗员扛著消失在黑暗之中―――,패배한 사사야 아키호는 온몸이 구속된 채 전투원에게 둘러메여 어둠 속으로 사라져 갔다―――
+Dialog.Chapter1-2-68,,敗北した笹谷明穂は全身を拘束され、戦闘員に担がれ闇の中へと消えていくのだった―――,Defeated Sasaya Akiho was bound all over and carried by the combatants into the darkness.,敗北的笹谷明穗全身被拘束，被戰鬥員扛著消失在黑暗之中―――,败北的笹谷明穗全身被拘束，被战斗员扛著消失在黑暗之中―――,敗北した笹谷明穂は全身を拘束され、戦闘員に担がれ闇の中へと消えていくのだった―――,"A defeated Akiho Sasaya was tied up, and taken into the darkness by the soldiers...",失敗的笹谷明穗全身被拘束，被戰鬥員扛著消失在黑暗之中―――,败北的笹谷明穗全身被拘束，被战斗员扛着消失在黑暗之中―――,패배한 사사야 아키호는 온몸이 구속된 채 전투원에게 둘러메여 어둠 속으로 사라져 갔다―――
