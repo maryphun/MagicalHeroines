@@ -1,0 +1,50 @@
+{
+  "main_vs_lqa_diffs": 469,
+  "diffs_by_column": {
+    "Korean_Steam": 251,
+    "English_Steam": 218
+  },
+  "diffs_by_main_sheet": {
+    "Daiya": 160,
+    "System": 62,
+    "Akiho": 49,
+    "Hisui": 36,
+    "Erena": 34,
+    "Nayuta": 34,
+    "Kei": 30,
+    "Record": 28,
+    "Dialog.Chapter3": 14,
+    "Rikka": 14,
+    "Kei(DLC)": 5,
+    "Dialog.Tutorial": 3
+  },
+  "likely_useful": 32,
+  "likely_useful_by_reason": {
+    "More natural coercive term: re-education -> brainwashing.": 21,
+    "Untranslated UI label became Korean.": 6,
+    "Meaning/naturalness fix that matches Japanese/source context.": 3,
+    "Typo fix: comoing -> cumming.": 1,
+    "LQA reads more natural/complete; review exact tone.": 1
+  },
+  "name_regressions": 23,
+  "name_regressions_by_sheet": {
+    "Hisui": 22,
+    "Erena": 1
+  },
+  "unsafe_or_verify": 17,
+  "unsafe_by_reason": {
+    "LQA has unmatched quote/bracket/parenthesis risk.": 8,
+    "Mechanic/term change may alter meaning or UI convention; verify before applying.": 6,
+    "LQA wording is grammatically wrong or semantically suspicious.": 3
+  },
+  "optional_or_format": 151,
+  "lqa_name_improvements_check_main": 0,
+  "missing_lqa_keys_in_main": 10,
+  "key_aliases_used": 0,
+  "local_sync_checked_cells": 62767,
+  "local_sync_mismatches": 0,
+  "local_missing_keys": 0,
+  "local_extra_keys": 0,
+  "official_name_leftovers_main_xlsx": 0,
+  "official_name_leftovers_local_csv": 0
+}

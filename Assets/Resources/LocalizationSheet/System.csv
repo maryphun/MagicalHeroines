@@ -29,7 +29,7 @@ Research",聖核研究,圣核研究,聖核研究,Seikaku Research,聖核研究,�
 System.ResearchPointCost,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,研究ポイント消耗：,Research Pts Cost:,消耗研究點數：,消耗研究点数：,연구 포인트 소모:
 System.ResearchComplete,調教完了,Training Complete,調教結束,调教结束,調教完了,Training Complete,調教結束,调教结束,조교 완료
 System.ResearchConditionDaiya,洗脳調教の終わりに解放,Unlock after Re-education,調教結束後開放,调教结束后开放,教育調教の終わりに解放,Unlock after Re-education,教育調教結束後開放,教育调教结束后开放,조교 완료 시 해금
-System.Back,戻る,Back,退出,退出,戻る,Back,退出,退出,나가기
+System.Back,戻る,Back,退出,退出,戻る,Back,退出,退出,뒤로
 System.Confirm,確定,Confirm,確定,确定,確定,Confirm,確定,确定,확정
 System.OptionPanel,設定,Option,設定,设定,設定,Option,設定,设定,설정
 System.Attack,攻撃力：,ATK: ,攻撃力：,攻撃力：,攻撃力：,ATK: ,攻擊力：,攻击力：,공격력:
@@ -81,7 +81,7 @@ System.EquipmentType,品質,Quality,品質,品质,品質,Quality,品質,品质,�
 System.EquipmentNormal,普通,Normal,普通,普通,普通,Normal,普通,普通,보통
 System.EquipmentRare,逸品,Rare,逸品,逸品,逸品,Rare,逸品,逸品,일품
 System.EquipmentHoly,聖核装備,Seikaku Equipment,聖核装備,圣核装备,聖核装備,Seikaku Equipment,聖核裝備,圣核装备,성핵 장비
-System.EquipByOther,{s} が装備中です。装備を解除しますか？,{s} has this equipped. Unequip it?,{s} 已裝備此裝備。要卸下嗎？,{s} 已装备此装备。要卸下吗？,{s} が装備中です。装備を解除しますか？,{s} has this equipped. Unequip it?,{s} 已裝備此裝備。要卸下嗎？,{s} 已装备此装备。要卸下吗？,{s} 이(가) 장착 중입니다. 장비를 해제하시겠습니까?
+System.EquipByOther,{s} が装備中です。装備を解除しますか？,{s} has this equipped. Unequip it?,{s} 已裝備此裝備。要卸下嗎？,{s} 已装备此装备。要卸下吗？,{s} が装備中です。装備を解除しますか？,{s} has this equipped. Unequip it?,{s} 已裝備此裝備。要卸下嗎？,{s} 已装备此装备。要卸下吗？,{s} 장착 중입니다. 장비를 해제하시겠습니까?
 System.ReturnToTitle,タイトルメニューに戻る,Return to title,回到主菜單,回到主菜单,タイトルメニューに戻る,Return to title,回到主選單,回到主菜单,타이틀 메뉴로 돌아가기
 System.Retry,リトライ,Retry,重試,重试,リトライ,Retry,重試,重试,재시도
 System.Understood,了解,Understood,了解,了解,了解,Understood,瞭解,了解,확인
@@ -306,6 +306,7 @@ Name.K46&47,K46号&K47号,"K46, K47",K46和K47,K46和K47,K46号&K47号,"K46, K47
 Name.Security,清藤グループ警備員,Seidou Group Guard,清藤集團的保安,清藤集团的保安,清藤グループ警備員,Seidou Group Guard,清藤集團的保全,清藤集团的保安,세이토 그룹 경비원
 Name.Unknown,XXX,XXX,XXX,XXX,XXX,XXX,XXX,XXX,XXX
 Name.Watchman,見張り役の男,Lookout Man,看守的男人,看守的男人,見張り役の男,Lookout Man,看守的男人,看守的男人,망보는 남자
+Name.Everyone,全員,Everyone,全員,全员,全員,Everyone,全員,全员,전원
 Mood,心情,Mood,心情,心情,心情,Mood,心情,心情,심정
 Mood.Rebel,反抗的,Rebel,反抗,反抗,反抗的,Rebel,反抗,反抗,반항
 Mood.Pleasure,享楽,Pleasure,享樂,享乐,享楽,Pleasure,享樂,享乐,향락

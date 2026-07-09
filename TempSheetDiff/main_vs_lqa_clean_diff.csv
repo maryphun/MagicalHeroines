@@ -1,0 +1,652 @@
+﻿lqa_sheet,main_sheet,column,key,lqa_row,main_row,status,main_value,lqa_value
+System,System,Korean_Steam,System.NewGame,3,3,DIFF_SAME_SHEET,New Game,게임시작
+System,System,Korean_Steam,System.Load,4,4,DIFF_SAME_SHEET,Load,이어하기
+System,System,Korean_Steam,System.Gallery,5,5,DIFF_SAME_SHEET,Gallery,갤러리룸
+System,System,Korean_Steam,System.Option,6,6,DIFF_SAME_SHEET,Option,옵션설정
+System,System,Korean_Steam,System.Credit,7,7,DIFF_SAME_SHEET,Credit,스태프롤
+System,System,Korean_Steam,System.Exit,8,8,DIFF_SAME_SHEET,Exit,게임종료
+System,System,Korean_Steam,System.Mood,20,20,DIFF_SAME_SHEET,심정:,심정：
+System,System,Korean_Steam,System.PickTraining,23,23,DIFF_SAME_SHEET,조교 방법 선택:,조교 방법 선택：
+System,System,Korean_Steam,System.BrainwashTraining,25,25,DIFF_SAME_SHEET,교육 조교,세뇌 조교
+System,System,Korean_Steam,System.ResearchPointCost,27,27,DIFF_SAME_SHEET,연구 포인트 소모:,연구 포인트 소모：
+System,System,Korean_Steam,System.Back,29,30,DIFF_SAME_SHEET,나가기,뒤로
+System,System,Korean_Steam,System.Confirm,30,31,DIFF_SAME_SHEET,확정,확인
+System,System,Korean_Steam,System.Attack,32,33,DIFF_SAME_SHEET,공격력:,공격력：
+System,System,Korean_Steam,System.Level,33,34,DIFF_SAME_SHEET,LV:,LV：
+System,System,Korean_Steam,System.HP,34,35,DIFF_SAME_SHEET,HP:,체력：
+System,System,Korean_Steam,System.MP,35,36,DIFF_SAME_SHEET,SP:,SP：
+System,System,Korean_Steam,System.Defense,36,37,DIFF_SAME_SHEET,방어력:,방어력：
+System,System,Korean_Steam,System.Speed,37,38,DIFF_SAME_SHEET,민첩성:,민첩성：
+System,System,Korean_Steam,System.Skill,38,39,DIFF_SAME_SHEET,특수기:,특수기：
+System,System,Korean_Steam,System.SPCost,50,51,DIFF_SAME_SHEET,SP 소모:,SP 소모：
+System,System,Korean_Steam,System.EffectTarget,51,52,DIFF_SAME_SHEET,효과 대상:,효과 대상：
+System,System,Korean_Steam,System.Cancel,70,71,DIFF_SAME_SHEET,취소하기,취소
+System,System,Korean_Steam,System.NovelAuto,92,95,DIFF_SAME_SHEET,자동 시작/정지,자동 시작・정지
+System,System,Korean_Steam,Systeｍ.Requirement,98,101,DIFF_SAME_SHEET,개방 조건:,개방 조건：
+System,System,Korean_Steam,Memory.KeiBrainWash_1,139,142,DIFF_SAME_SHEET,케이 - 교육 조교 I,케이 - 세뇌 조교 I
+System,System,Korean_Steam,Memory.KeiBrainWash_2,140,143,DIFF_SAME_SHEET,케이 - 교육 조교 II,케이 - 세뇌 조교 II
+System,System,Korean_Steam,Memory.KeiBrainWash_3,141,144,DIFF_SAME_SHEET,케이 - 교육 조교 III,케이 - 세뇌 조교 III
+System,System,Korean_Steam,System.FoodQuest,166,193,DIFF_SAME_SHEET,[식량 약탈],[식량 조달]
+System,System,Korean_Steam,Name.Tank,193,220,DIFF_SAME_SHEET,사족 보행 탱크,사각 탱크
+System,System,Korean_Steam,Equipment.Helmet_Info,305,336,DIFF_SAME_SHEET,"머리 보호뿐만 아니라, 정보를 실시간으로 표시할 수 있는 최신형 헬멧.
+그 혹독한 전장 「퀀텀 전역」에서 생존율을 확실히 높여 준 아이템.","머리 보호뿐만 아니라, 정보의 실시간 표시도 가능한 최신형 헬멧.
+그 혹독한 전장 「퀀텀 전역」에서의 생존율을 확실히 향상시켜 온 아이템."
+System,System,Korean_Steam,Equipment.Stungun,312,343,DIFF_SAME_SHEET,쇼크웨이브 펄서,쇼크웨이브・펄서
+System,System,Korean_Steam,Ability.Capture_Info,377,412,DIFF_SAME_SHEET,"적 1명의 공격력과 속도를 일시적으로 25% 감소시킨다.
+
+대상이 여성일 경우, 추가로 방어력과 공격력을 감소시킨다.","적 １체의 공격력・속도를 일시적으로 25% 다운
+
+여성 상대라면 방어력과 공격력을 다운시킨다"
+System,System,Korean_Steam,Ability.Fist_Info,399,434,DIFF_SAME_SHEET,턴을 소모하지 않고 적 단체를 공격한다.,턴을 소모하지 않고 적 단일을 공격한다.
+System,System,Korean_Steam,Ability.GuardianAngel_Info,405,440,DIFF_SAME_SHEET,모든 아군이 피해를 1회 무효화합니다.,１턴 동안 아군 전원이 받는 데미지를 무효로 한다.
+System,System,Korean_Steam,Ability.PowerMode_On,419,456,DIFF_SAME_SHEET,뇌신지상 (입),뇌신지상 (활성)
+System,System,Korean_Steam,Ability.PowerMode_Off,420,457,DIFF_SAME_SHEET,뇌신지상 (절),뇌신지상 (비활성)
+System,System,Korean_Steam,Ability.PowerMode_Info,421,458,DIFF_SAME_SHEET,"활성화하면 공격이 70% 업.
+상시 30 데미지를 받는다.
+
+스킬을 활성화・비활성화할 때 턴을 소모하지 않는다","활성화하면 공격이 70% 업.
+상시 20 데미지를 받는다.
+
+스킬을 활성화・비활성화할 때 턴을 소모하지 않는다"
+System,System,Korean_Steam,HomeChar.Hisui_DLC_1-1,460,511,DIFF_SAME_SHEET,"「키, 키ーーー잇! 무슨 일이신가요……?」","「키, 키ーーー엣! 무슨 용무이십니까……?」"
+System,System,Korean_Steam,HomeChar.Hisui_DLC_1-2,461,512,DIFF_SAME_SHEET,(……이용할 만한 정보는 없을까……?),(……어딘가에 쓸만한 정보는……?)
+System,System,Korean_Steam,HomeChar.sentouin22_DLC_1-2,465,516,DIFF_SAME_SHEET,"「키, 키ーーー잇! 언젠가 반드시 이 조직을 장악해주겠어…!!」","「키, 키ーーー잇!(언젠가 반드시 이 조직을 장악해주겠어…)!!」"
+System,System,Korean_Steam,HomeChar.Daiya_DLC_1-1,466,517,DIFF_SAME_SHEET,「와훗♥ 주인님이신가요…!?」,「와훗♥ 주인님이신가요…읏!?」
+System,System,Korean_Steam,HomeChar.Daiya_DLC_1-2,467,518,DIFF_SAME_SHEET,"「헤엑, 헤엑, 헤엑… 에헤헤…♥」","「헤헷, 헤헷, 헤헷, 에헤헤…♥」"
+System,System,Korean_Steam,HomeChar.Daiya_DLC_1-3,468,519,DIFF_SAME_SHEET,「저는 주인님께 완전히 길들여진 충견입니다…♥」,「저는 주인님께 길들여진 충견입니다…♥」
+System,System,Korean_Steam,HomeChar.Daiya_DLC_1-4,469,520,DIFF_SAME_SHEET,「깨갱♥… 조교 시간인가요…? 이 못난 개에게 벌을 잔뜩 주세요…♥」,「꺄앙♥…훈육 조교 시간인가요…? 이 못난 개에게 잔뜩 벌을 내려주세요…읏♥」
+System,System,Korean_Steam,BattleLog.ItemSelf,481,535,DIFF_SAME_SHEET,{0}이(가) {1}을(를) 사용했다.,"{0}, {1} 사용했다."
+System,System,Korean_Steam,BattleLog.ItemSelfToSelf,482,536,DIFF_SAME_SHEET,{0}이(가) 자신에게 {1}을(를) 사용했다.,"{0}, 자신에게 {1} 사용했다."
+System,System,Korean_Steam,BattleLog.ItemOther,483,537,DIFF_SAME_SHEET,{0}이(가) {1}에게 {2}을(를) 사용했다.,"{0}, {1}에게 {2} 사용했다."
+System,System,Korean_Steam,BattleLog.Idle,484,538,DIFF_SAME_SHEET,{0}은(는) 대기한다.,"{0}, 대기한다."
+System,System,Korean_Steam,BattleLog.IdleSP,485,539,DIFF_SAME_SHEET,{0}은(는) 휴식을 취해 SP를 {1}만큼 회복했다.,"{0}, 휴식을 취했다. SP {1} 회복했다."
+System,System,Korean_Steam,BattleLog.StunStart,487,541,DIFF_SAME_SHEET,{0}은(는) 행동 불능 상태가 되었다!,"{0}, 행동 불능이 되었다!"
+System,System,Korean_Steam,BattleLog.StunUpdate,488,542,DIFF_SAME_SHEET,{0}은(는) 아직 움직일 수 없다.,"{0}, 아직 움직일 수 없다."
+System,System,Korean_Steam,BattleLog.HurtStart,489,543,DIFF_SAME_SHEET,{0}은(는) 부상 상태가 되었다!,"{0}, 부상을 입었다!"
+System,System,Korean_Steam,BattleLog.Disarm,500,554,DIFF_SAME_SHEET,{0}은(는) 공격할 수 없게 되었다.,"{0}, 공격할 수 없게 되었다"
+System,System,Korean_Steam,BattleLog.AbilityExecute,502,557,DIFF_SAME_SHEET,{0}의 {1}!,{0}에서의 {1}!
+System,System,Korean_Steam,BattleLog.AbilityExecuteSelf,503,558,DIFF_SAME_SHEET,{0}이(가) {1}을(를) 실행했다.,"{0}, {1} 실행."
+System,System,Korean_Steam,BattleLog.GiveSP,506,561,DIFF_SAME_SHEET,{1}에게 SP {0}을 나누어 주었다!,"SP {0}, {1}에게 나누어 주었다!"
+System,System,Korean_Steam,BattleLog.Retire,509,564,DIFF_SAME_SHEET,{0}은(는) 재기 불능 상태가 되었다.,"{0}, 재기 불능이 되었다."
+System,System,Korean_Steam,BattleLog.Defeat,510,565,DIFF_SAME_SHEET,{0}은(는) 재기 불능 상태가 되었다.,"{0}, 재기 불능이 되었다."
+System,System,Korean_Steam,BattleLog.Hacking,511,566,DIFF_SAME_SHEET,{0}이(가) 해킹을 시도한다! 성공 확률: {1},"{0}, 해킹을 시도한다! 성공 확률은 {1}"
+System,System,Korean_Steam,BattleLog.StunShield,521,576,DIFF_SAME_SHEET,다음에 {0}을 공격하는 대상은 튕겨 나가 잠시 행동 불능이 된다,다음에 {0} 공격하는 자가 반발되어 잠시 행동 불능이 된다
+System,System,Korean_Steam,BattleLog.Suicide,523,578,DIFF_SAME_SHEET,{0}이 자폭했다! {1} 데미지를 입혔다!,"{0}, 자폭한다! {1}의 데미지를 주었다!"
+System,System,Korean_Steam,BattleLog.ChargeAttack,526,581,DIFF_SAME_SHEET,공격을 충전한다 ーー {0} 데미지를 모았다 ({1}스택),공격을 차지한다 ーー {0} 데미지를 모았다 ({1}스택)
+System,System,Korean_Steam,BattleLog.KeiSpawn,528,583,DIFF_SAME_SHEET,{1}이(가) {0}을(를) 소환했다.,"{0}, {1}에게 호출되었다."
+System,System,Korean_Steam,BattleLog.NayutaLockOn,529,584,DIFF_SAME_SHEET,{0}이(가) 다음 표적으로 지목되었다.,"{0}, 다음 표적으로 지정되었다."
+Dialog.Tutorial,Dialog.Tutorial,Korean_Steam,Dialog.Tutorial-3-5,58,58,DIFF_SAME_SHEET,「공격」 기본적인 공격 수단입니다. 공격자와 상대의 레벨에 따라 데미지가 영향받습니다.,「공격」 기본적인 공격 수단입니다. 공격자와 상대의 레벨에 따라 대미지가 영향받습니다.
+Dialog.Tutorial,Dialog.Tutorial,Korean_Steam,Dialog.Tutorial-3-6,59,59,DIFF_SAME_SHEET,"이번에는 상대 쪽이 압도적으로 레벨이 높으므로, 그다지 데미지를 줄 수 없을 것입니다.","이번에는 상대 쪽이 압도적으로 레벨이 높으므로, 그다지 대미지를 줄 수 없을 것입니다."
+Dialog.Tutorial,Dialog.Tutorial,Korean_Steam,Tutorial.CharacterBuildingPanel-2,109,109,DIFF_SAME_SHEET,여기서 장비를 확인하거나 변경할 수 있습니다.,여기서 장비를 확인・변경할 수 있습니다.
+Dialog.Chapter2,Dialog.Chapter2,Korean_Steam,Dialog.Chapter2-1-8,17,17,DIFF_SAME_SHEET,릿카는 마음을 굳게 먹고 사령부로 향했다.,릿카는 마음을 굳게 먹고 사령부로 향하는 것이었다.
+Dialog.Chapter2,Dialog.Chapter2,Korean_Steam,Dialog.Chapter2-1-25,51,51,DIFF_SAME_SHEET,그렇게 말하며 릿카는 마지못한 표정으로 고귀한 향기가 나는 사령부를 뒤로했다.,"그렇게 말하며, 릿카는 마지못한 표정으로 고귀한 향기가 나는 사령부를 뒤로하는 것이었다."
+Dialog.Chapter2,Dialog.Chapter2,Korean_Steam,Dialog.Chapter2-2-45,164,164,DIFF_SAME_SHEET,「뭐!? 여기서!?」,「하앗!? 여기서!?」
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-22,224,224,DIFF_SAME_SHEET,"「그럼 하루 종일 입어서 엘레나쨩의 냄새가 밴 수영복, 제대로 사진에 담아두도록 하지」","「그럼, 하루 종일 입어서 엘레나쨩의 냄새가 스며든 수영복, 제대로 사진에 담아두도록 하지」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-25,230,230,DIFF_SAME_SHEET,「자 좀 더 웃게나! 모처럼의 귀여운 얼굴이 아깝잖아!」,「자 좀 더 웃게나! 모처럼의 귀여운 얼굴이지 않은가!」
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-39,260,260,DIFF_SAME_SHEET,"(우웃, 후배가 바로 거기에 있는데!, 이런 한심한 꼴로! 저는 뭘 하고 있는 겁니까!?)","(우웃, 후배가 바로 거기에 있는데!, 이런 한심한 꼴로! 저는 뭘 하고 있는 겁니까!?」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-51,284,284,DIFF_SAME_SHEET,"「부춧!? 크윽, 응읏!……ーーー윽!?」","「뷰릇!? 크윽, 응읏!……ーーー윽!?」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-57,296,296,DIFF_SAME_SHEET,"(…윽, 위험해!, 이 자식에게서 입을 떼면 그 소리로 들통나요! 소리를 내지 않도록 해야!)","(…윽, 위험해!, 이 자식에게서 입을 빼면 그 소리로 들통나요! 소리를 내지 않도록 해야!)"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-68,318,318,DIFF_SAME_SHEET,"됴퓻, 뷰르르르르릇읏!","도퓻, 뷰르르르르릇읏!"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-70,322,322,DIFF_SAME_SHEET,정치가 남자의 자지에서 뜨거운 정액의 분류가 엘레나의 입안에 쏟아진다,정치가 남자의 자지에서 뜨거운 정액의 분류가 엘레나의 입안에 뿜어진다
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-2-74,332,332,DIFF_SAME_SHEET,"「……엘레나 군, 필사적으로 빨아대는 중에 미안하지만 후배 군은 벌써 나갔네. 이제 자지를 떼도 괜찮아」","「……엘레나 군, 필사적으로 빨아대는 중에 미안하지만 후배 군은 벌써 나갔네. 이제 자지를 빼도 괜찮아」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-21,386,386,DIFF_SAME_SHEET,"「하뭇♥♥, 츄릇♥, 레롯♥, 쥬풋♥」","「하앙♥♥, 츄릇♥, 레롯♥, 쥬풋♥」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-24,392,392,DIFF_SAME_SHEET,"「어제♥, 츄풋♥, 제대로 씻고 오라고♥♥, 크풋♥ 말했잖아요♥!」","「어제♥, 츄풋♥, 제대로 샤워하고 오라고♥♥, 크풋♥ 말했잖아요♥!」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-34,412,412,DIFF_SAME_SHEET,"「츄폿♥, 쥬풋♥고큣♥, 고큣♥!?, 곱풋!?, 고큣♥」","「츄폿♥, 쥬풋♥고큣♥, 고큣♥!?, 고풋!?, 고큣♥」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-41,426,426,DIFF_SAME_SHEET,"「크흐흐, 상당히 전부터 바뀌어 있었지.」","「크흐흐, 상당히 전부터 교체되어 있었지.」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-54,456,456,DIFF_SAME_SHEET,"「하앗, 하앗, 하앗, 내가, 질…?」","「하앗, 하앗, 하앗, 내가, 지다니…?」"
+Dialog.Chapter3,Dialog.Chapter3,Korean_Steam,Dialog.Chapter3-3-62,472,472,DIFF_SAME_SHEET,(큰일이다… 의식이…… 버틸 수……),(큰일이다… 의식이…… 더는……)
+Akiho,Akiho,Korean_Steam,Akiho.Fallen1-7,15,15,DIFF_SAME_SHEET,"「아아, 너는 개조되어 재단의 도움이 될 거야. 성핵전희를 연구해서 우리의 수족으로 삼는 거지」","「아아, 너는 개조되어 재단의 도움이 될 거야. 성핵전희를 연구해서 우리들의 수족으로 삼는 거지」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen1-24,49,49,DIFF_SAME_SHEET,「그럼 드디어 개조다. 음 스위치를 켜서 성핵 에너지 반전 레이저를 조사….」,"「그럼 드디어 개조다. 어디 보자, 스위치를 켜서 성핵 에너지 반전 레이저를 조사….」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen1-43,87,87,DIFF_SAME_SHEET,"그리고 실험실 문이 닫히고, 아키호는 어둠 속에서 혼자 유두 개조를 계속 당했다","그리고 실험실 문은 닫히고, 아키호는 어둠 속에서 혼자 유두 개조를 계속 당하는 것이었다"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen1-82,165,165,DIFF_SAME_SHEET,"「괜찮아, 너라면 더 많이 밀크를 낼 수 있어. 우리를 위해 힘내줘」","「괜찮아, 너라면 더 많이 밀크를 낼 수 있어. 우리들을 위해 힘내줘」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen1-84,169,169,DIFF_SAME_SHEET,"그리고 다시 장치에 연결된 아키호에게, 누구에게도 알려지지 않은 채 끝나지 않는 유두 개조가 시작되었다","그리고 다시 장치에 연결된 아키호에게, 누구에게도 알려지지 않은 채 끝나지 않는 유두 개조가 시작되는 것이었다"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-23,217,217,DIFF_SAME_SHEET,「……뭔가 오해하고 있는 거 아냐? 지금 아키호쨩은 어디까지나 포로이고 우리의 적이야. 왜 우리가 네 말을 들어야 하는 거지?」,「……뭔가 오해하고 있는 거 아냐? 지금 아키호쨩은 어디까지나 포로이고 우리들의 적이야. 왜 우리가 네 말을 들어야 하는 거지?」
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-48,267,267,DIFF_SAME_SHEET,"돞, 도뷰르르르르릇","뷰릇, 도뷰르르르르릇"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-54,279,279,DIFF_SAME_SHEET,「너는 우리 전투원들의 밀크 서버 겸 성처리 장난감으로서 정액의 페로몬으로 발정하게 되어 있어」,「너는 우리 전투원들의 밀크 서버랑 성처리 장난감으로서 정액의 페로몬으로 발정하게 되어 있어」
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-56,283,283,DIFF_SAME_SHEET,「덤으로 네가 마신 정액은 효율적으로 네 몸에 흡수되어 모유로 변환된다. 이게 바로 에코라는 거지」,「덤으로 네가 마신 정액은 효율적으로 네 몸에 흡수되어 모유로 변환된다. 이게 바로 친환경이라는 거지」
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-67,305,305,DIFF_SAME_SHEET,"「히긱♥♥, 오옷 오옷 오옷 오오오오옷♥♥, 윽♥♥, 오⁉⁉, 오옷 ?!」","「히긱♥♥, 오옷 오옷 오옷 오오오오옷♥♥, 윽♥♥, 오!?!?, 오옷?!」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen2-85,341,341,DIFF_SAME_SHEET,"「좋아, 전부 나왔군! 그럼 이제부터 우리의 밀크 서버로서 잘 부탁한다」","「좋아, 전부 나왔군! 그럼 이제부터 우리들의 밀크 서버로서 잘 부탁한다」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-14,373,373,DIFF_SAME_SHEET,「자 어때? 우리도 아키호쨩 젖 짜는 거 능숙해졌지?」,「자 어때? 우리들도 아키호쨩 젖 짜는 거 능숙해졌지?」
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-18,381,381,DIFF_SAME_SHEET,"부슛♥♥, 돕♥, 부슈우우우우웃♥♥","부슛♥♥, 뷰릇♥, 부슈우우우우웃♥♥"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-31,407,407,DIFF_SAME_SHEET,"「하뭇♥♥, 쥬릇♥♥, 츄풋♥, 츄풋♥, 쥬르르릇♥♥♥」","「하앙♥♥, 쥬릇♥♥, 츄풋♥, 츄풋♥, 쥬르르릇♥♥♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-32,409,409,DIFF_SAME_SHEET,아키호는 튜브에서 음식을 조르는 동물처럼 전투원들의 자지를 빤다,아키호는 튜브에서 음식을 조르는 동물처럼 전투원들의 자지를 빨고 있다
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-34,413,413,DIFF_SAME_SHEET,"「우리가 이 녀석 젖 짜는 데 능숙해진 것처럼, 이 녀석도 펠라가 능숙해졌다는 거지」","「우리들이 이 녀석 젖 짜는 게 능숙해진 것처럼, 이 녀석도 펠라가 능숙해졌다는 거지」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-36,417,417,DIFF_SAME_SHEET,"「하하, 조금 전까지 이 녀석이 우리를 실컷 두들겨 팼던 성핵전희라고는 도저히 생각할 수 없네!」","「하하, 조금 전까지 이 녀석이 우리를 실컷 두들겨 혼낸 성핵전희라고는 도저히 생각할 수 없네!」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-48,441,441,DIFF_SAME_SHEET,"「쥬르르릇♥, 하헤텟♥, 얼굴이든 가슴이든 전부♥, 여러분의 자지 밀크 저에게 주세요♥♥」","「쥬르르릇♥, 네에엥♥, 얼굴이든 가슴이든 전부♥, 여러분의 자지 밀크 저에게 주세요♥♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-49,443,443,DIFF_SAME_SHEET,"돕, 도뷰르르르르웃!","뷰릇, 도뷰르르르르웃!"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-51,447,447,DIFF_SAME_SHEET,"「곱붑♥, 히얏♥♥, 츄부우우우웃♥♥, 으음옷 ♥, 즈르릇♥♥, 쥬릇♥♥♥」","「고릇♥, 히얏♥♥, 츄부우우우웃♥♥, 으음옷 ♥, 즈르릇♥♥, 쥬릇♥♥♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-53,451,451,DIFF_SAME_SHEET,"「고큣♥, 고큣♥♥, 고큣♥♥……푸핫♥♥ 미안해요, 사정에 낚여서 나와버렸어요♥」","「고큣♥, 고큣♥♥, 고큣♥♥……푸핫♥♥ 미안해요, 사정에 덕분에 나와버렸어요♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Fallen3-61,467,467,DIFF_SAME_SHEET,"―――그날 아키호는 그 후 몇 번이나 전투원들에게 유두를 짜이며, 재단의 생체 밀크 서버로서 수십 리터의 모유를 냈다","―――그날 아키호는 그 후 몇 번이나 전투원들에게 유두를 짜이고, 재단의 생체 밀크 서버로서 수십 리터의 모유를 내는 것이었다"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-7,490,490,DIFF_SAME_SHEET,「너무 성욕이 강해서 밤거리를 쏘다니는 바람에 곤란하다고 하더군」,「너무 성욕이 강해서 밤마다 곤란하다고 하더군」
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-10,496,496,DIFF_SAME_SHEET,"이야기를 하는 동안 호텔 최상층의 한 방에 도착하자, 근골륭륭한 금발 남자가 다가온다","이야기를 하는 동안 호텔 최상층의 한 방에 도착하자, 근골이 건장한 금발 남자가 다가온다"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-16,508,508,DIFF_SAME_SHEET,"「히야웃!?, 여, 그만두세요!」","「히야웃!?, 그, 그만두세요!」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-38,552,552,DIFF_SAME_SHEET,"「오오옷♥!?, 야, 야랏♥, 아파♥, 빼줘엇♥!」","「오오옷♥!?, 시, 싫어♥, 아파♥, 빼줘엇♥!」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-56,588,588,DIFF_SAME_SHEET,"「카흇, 콜록, 이, 언제…까지♥」","「카흇, 콜록, 어, 언제…까지♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-65,606,606,DIFF_SAME_SHEET,"돕, 도뷰르르르릇!","뷰릇, 도뷰르르르릇!"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-67,610,610,DIFF_SAME_SHEET,"대량의 정액을 아키호의 질 내에 싼 후, 남자는 드디어 아키호의 목에서 손을 뗀다","대량의 정액을 아키호의 질 내에 싼 후, 남자는 드디어 아키호의 목에서 손을 푼다"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-70,616,616,DIFF_SAME_SHEET,"「히끅♥, 아옷  감사합니다앗…」","「히읏♥, 아옷  감사합니다앗…」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-74,624,624,DIFF_SAME_SHEET,"「야… 싫엇!, 돌려보내줘! 부탁이야!」","「시… 싫엇!, 돌려보내줘! 부탁이야!」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-76,628,628,DIFF_SAME_SHEET,"「얏♥, 앗♥, 아아아아앗♥♥」","「싫어♥, 앗♥, 아아아아앗♥♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery1-77,630,630,DIFF_SAME_SHEET,그리고 이날부터 아키호와 남자의 타락한 생활이 시작되었다,"그리고, 이날부터 아키호의 남자와의 타락한 생활이 시작되는 것이었다"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery2-17,666,666,DIFF_SAME_SHEET,"「……아-?,  아니면 목 졸리고 싶어서 일부러 힘 뺀 건가? 이 망할 년이」","「……아-?,  아니면 목 졸리고 싶어서 일부러 그런 건가? 이 망할 년이」"
+Akiho,Akiho,Korean_Steam,Akiho.Debauchery2-18,668,668,DIFF_SAME_SHEET,"「콜록♥, 게홋♥, 다, 다릅니닷♥」","「콜록♥, 게홋♥, 아, 아니에요♥」"
+Akiho,Akiho,Korean_Steam,Akiho.Core1-8,765,765,DIFF_SAME_SHEET,"「윽, 다, 누구…? 왜 이런 짓을 하는 거야!?」","「윽, 누, 누구…? 왜 이런 짓을 하는 거야!?」"
+Akiho,Akiho,Korean_Steam,Akiho.Core1-13,775,775,DIFF_SAME_SHEET,"연구원 남자가 그렇게 말하자, 용기 아래에서 덜컹! 하고 무언가가 열리는 소리가 들린다","연구원 남자가 그렇게 말하자, 용기 아래에서 무언가가 열리는 소리가 들린다"
+Akiho,Akiho,Korean_Steam,Akiho.Core1-21,791,791,DIFF_SAME_SHEET,"「히앗♥, 여, 그만해♥!」","「히앗♥, 그, 그만해♥!」"
+Akiho,Akiho,Korean_Steam,Akiho.Core1-55,859,859,DIFF_SAME_SHEET,곱… 곱…,고붓… 고부웃…
+Akiho,Akiho,Korean_Steam,Akiho.Core1-58,865,865,DIFF_SAME_SHEET,"아키호의 몸에서 힘이 빠지고, 의식은 슬라임 속으로 녹아들었다","아키호의 몸에서 힘이 빠져, 의식은 슬라임에 녹아드는 것이었다"
+Akiho,Akiho,Korean_Steam,Akiho.Core2-24,916,916,DIFF_SAME_SHEET,"(~윽!?, 뭐, 뭐야!, 거기에 누구 있는 거야!?)","(~윽!?, 뭐, 뭐야!, 거기에 누구 있는 거야!?」"
+Akiho,Akiho,Korean_Steam,Akiho.Core2-27,922,922,DIFF_SAME_SHEET,"(~~~윽!?, 에, 뭐야, 무슨 소리야!?)","(~~~윽!?, 에, 뭐야, 무슨 소리야!?」"
+Akiho,Akiho,Korean_Steam,Akiho.Core2-36,940,940,DIFF_SAME_SHEET,"(히끅♥, 응아아앗♥!)","(히읏♥, 응아아앗♥!)"
+Akiho,Akiho,Korean_Steam,Akiho.Core2-51,970,970,DIFF_SAME_SHEET,"그 후 슬라임은 아키호의 모습을 한 괴인으로 활약하고, 아키호는 오나홀로서 전투원들에게 사용되는 나날을 보내게 되었다","그 후, 슬라임은 아키호의 모습을 한 괴인으로서 활약하고, 아키호는 오나홀로서 전투원들에게 사용되는 나날이 계속되는 것이었다"
+Rikka,Rikka,Korean_Steam,Rikka.Fallen1-57,119,119,DIFF_SAME_SHEET,"「――윽♥♥, 이, 이크 안 했어♥!, 나는♥ 이런 걸로엣♥♥, 절대로♥, 오옷 옷오옷 오♥, 가버렷♥, 가버렷♥♥♥」","「――윽♥♥, 가, 가지 않았어♥!, 나는♥ 이런 걸로옷♥♥, 절대로♥, 오옷 옷오옷 오♥, 가버렷♥, 가버렷♥♥♥」"
+Rikka,Rikka,Korean_Steam,Rikka.Fallen1-67,139,139,DIFF_SAME_SHEET,"「응옷♥♥오망꼬♥, 고정되어서♥, 도망칠 수 없어어어잇♥, 엉덩이 구멍도 즈봇즈봇 당해서♥, 이상해지고 있어♥♥」","「응옷♥♥ 보지♥, 고정되어서♥, 도망칠 수 없어어어잇♥, 엉덩이 구멍도 즈봇즈봇 당해서♥, 이상해지고 있어♥♥」"
+Rikka,Rikka,Korean_Steam,Rikka.Core2-11,932,932,DIFF_SAME_SHEET,(일단 조금이라도 움직일 수 있는 방법을 찾아서…………“몸“에서 “나가자”),(일단 조금이라도 움직일 수 있는 방법을 찾아서…………“몸”에서 “나가자”)
+Erena,Erena,Korean_Steam,Erena.Fallen2-57,270,270,DIFF_SAME_SHEET,"「오ー오ー, 불쌍한 엘레나 군. 신뢰했던 사람들에게 배신당하는 건 괴롭겠군」","「오ー오ー, 불쌍한 엘레나 군. 믿었던 사람들에게 배신당하는 건 괴롭겠군」"
+Erena,Erena,Korean_Steam,Erena.Fallen2-68,292,292,DIFF_SAME_SHEET,「흐끅… 무…엇을…」,「흐읏… 무…엇을…」
+Erena,Erena,Korean_Steam,Erena.Fallen2-76,308,308,DIFF_SAME_SHEET,「흐끅! 누가아♥!」,「흐읏! 누가아♥!」
+Erena,Erena,Korean_Steam,Erena.Fallen2-113,382,382,DIFF_SAME_SHEET,"「~~~~~~♥♥!!, 왔다, 새까맣고, 질척하고, 기분 좋은 것만 있는 곳!」","「~~~~~~♥♥!!, 왔다, 검고, 질척하고, 기분 좋은 것만 있는 곳!」"
+Erena,Erena,Korean_Steam,Erena.Fallen3-6,419,419,DIFF_SAME_SHEET,"쥬릇♥, 즈릇♥, 그붑♥, 쥬르릇♥!","쥬릇♥, 즈릇♥, 그릇♥, 쥬르릇♥!"
+Erena,Erena,Korean_Steam,Erena.Fallen3-10,427,427,DIFF_SAME_SHEET,"「응? 아아 슬슬 먹이 줄 시간인가, 조금 이르지만 엘레나 군에게 밥을 줘야겠군」","「응? 아아 슬슬 먹이 줄 시간인가, 조금 이르지만 엘레나 군에게 먹이를 줘야겠군」"
+Erena,Erena,Korean_Steam,Erena.Fallen3-14,435,435,DIFF_SAME_SHEET,"「크흐흐, 이번 밥은 어떤가? 단백질 액과 숨겨진 맛으로 엘레나 군이 좋아하는 성분비액의 믹스다」","「크흐흐, 이번 먹이는 어떤가? 단백질 액과 숨겨진 맛으로 엘레나 군이 좋아하는 성분비액의 믹스다」"
+Erena,Erena,Korean_Steam,Erena.Fallen3-24,455,455,DIFF_SAME_SHEET,"「응앗♥? 오옷 옷♥? 주인님아, 뭔가 배가 이상해요」","「응앗♥? 오옷 옷♥? 주인님, 뭔가 배가 이상해요」"
+Erena,Erena,Korean_Steam,Erena.Fallen3-52,511,511,DIFF_SAME_SHEET,"(――――여기 좋아, 새까맣고♥, 기분 좋아지는 것만으로 칭찬받을 수 있어♥)","(――――여기 좋아, 어둡고♥, 기분 좋아지는 것만으로 칭찬받을 수 있어♥)"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-11,544,544,DIFF_SAME_SHEET,「너의 그 음탕한 몸… 나만 아는 것은 아깝다. 더 많은 사람에게 보여줘야 해」,「너의 그 음탕한 몸… 나만 아는 것은 아쉽지. 더 많은 사람에게 보여줘야 해」
+Erena,Erena,Korean_Steam,Erena.Debauchery1-27,576,576,DIFF_SAME_SHEET,"「히앗!? 야, 그만해요, 만지지 마세요!」","「히앗!? 그, 그만해요, 만지지 마세요!」"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-28,578,578,DIFF_SAME_SHEET,"「으음, 두툼한데 예쁜 분홍색으로 훌륭한 보지로군!」","「으음, 통통하고 예쁜 분홍색으로 훌륭한 보지로군!」"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-29,580,580,DIFF_SAME_SHEET,뮤뉴뮤늇! 귯! 귯!,무뉴무늇! 귯! 귯!
+Erena,Erena,Korean_Steam,Erena.Debauchery1-32,586,586,DIFF_SAME_SHEET,"뮤늇, 쿠팟, 뮤늇, 쿠팟!","무늇, 쿠팟, 무늇, 쿠팟!"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-34,590,590,DIFF_SAME_SHEET,「음 이 느낌… 엘레나쨩 꽤 자위하고 있지. 겉보기와 다르게 음흉하네」,「음 이 느낌… 엘레나쨩 꽤 자위하고 있지. 보기와 다르게 음흉하네」
+Erena,Erena,Korean_Steam,Erena.Debauchery1-44,610,610,DIFF_SAME_SHEET,"「오오, 두툼하고 탱탱하군」","「오오, 통통하고 탱탱하군」"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-45,612,612,DIFF_SAME_SHEET,"「여, 그만하세요! 왜 멋대로―――――」","「그, 그만하세요! 왜 멋대로―――――」"
+Erena,Erena,Korean_Steam,Erena.Debauchery1-72,666,666,DIFF_SAME_SHEET,「이야~ 하지만 엘레나쨩 좋네! 이렇게 마음대로 반응해주는 애는 좀처럼 없어!」,「이야~ 하지만 엘레나쨩 좋네! 이렇게 마음대로 반응해주는 여자는 좀처럼 없어!」
+Erena,Erena,Korean_Steam,Erena.Debauchery1-81,684,684,DIFF_SAME_SHEET,"「히야웃♥, 무, 뭐 하는 겁니까! 그런 더러운 걸… 그만하세요!」","「히야웃♥, 뭐, 뭐 하는 겁니까! 그런 더러운 걸… 그만하세요!」"
+Erena,Erena,Korean_Steam,Erena.Debauchery2-28,821,821,DIFF_SAME_SHEET,「엘레나쨩은 잡어 보지 너무 심하네… 거기가 귀엽지만…」,「엘레나쨩은 허접 보지 너무 심하네… 거기가 귀엽지만…」
+Erena,Erena,Korean_Steam,Erena.Debauchery2-33,831,831,DIFF_SAME_SHEET,"돕, 뷰르르르릇!","뷰릇, 뷰르르르릇!"
+Erena,Erena,Korean_Steam,Erena.Debauchery2-55,875,875,DIFF_SAME_SHEET,「폐를 끼쳐드렸습니다… 어떻습니까? 겸사겸사 지금 엘레나쨩을 사용하고 가시지 않겠습니까」,「폐를 끼쳐드렸습니다… 어떻습니까? 이 기회에 지금 엘레나쨩을 사용하고 가시지 않겠습니까」
+Erena,Erena,Korean_Steam,Erena.Core1-4,896,896,DIFF_SAME_SHEET,「너에게는 이제부터 대 괴인 전투 실험을 해줘야겠다」,「너에게는 이제부터 괴인을 상대로 전투 실험을 해줘야겠다」
+Erena,Erena,Korean_Steam,Erena.Core1-28,944,944,DIFF_SAME_SHEET,"엘레나는 뱀이 먹이를 통째로 삼키듯, 더욱 깊숙이 삼켜져 버린다","엘레나는 먹이가 통째로 삼키듯, 더욱 깊숙이 삼켜져 버린다"
+Erena,Erena,Korean_Steam,Erena.Core1-63,1014,1014,DIFF_SAME_SHEET,엘레나의 의식은 거기서 끊어졌다,엘레나의 의식은 거기서 끊어지는 것이었다
+Erena,Erena,Korean_Steam,Erena.Core2-38,1092,1092,DIFF_SAME_SHEET,"뚜껑이 닫히고, 엘레나는 용기 내에 완전히 수용된다","용기가 닫히고, 엘레나는 용기 내에 완전히 수용된다"
+Erena,Erena,Korean_Steam,Erena.Core2-44,1104,1104,DIFF_SAME_SHEET,「하핫! 용기가 딸깍딸깍 흔들리고 있네! 그렇게 기뻤나?」,「하핫! 용기가 이리저리 흔들리고 있네! 그렇게나 좋아?」
+Kei,Kei,Korean_Steam,Kei.Fallen1-65,131,131,DIFF_SAME_SHEET,"「곱, 부퓻, 응옷 응옷 윽~~~!?」","「고븟, 부퓻, 응옷 응옷 윽~~~!?」"
+Kei,Kei,Korean_Steam,Kei.Fallen1-116,233,233,DIFF_SAME_SHEET,"뷰르르르릇르릇, 뷰릇, 돕!","뷰르르르릇르릇, 뷰릇, 뷰르릇!"
+Kei,Kei,Korean_Steam,Kei.Fallen1-117,235,235,DIFF_SAME_SHEET,"「읍~~~~!?, 곱봇, 응옷 응옷 윽♥!?」","「읍~~~~!?, 고븟, 응옷 응옷 윽♥!?」"
+Kei,Kei,Korean_Steam,Kei.Fallen1-118,237,237,DIFF_SAME_SHEET,"「게홋, 곱봇, 쥬르르릇♥」","「게홋, 고븟, 쥬르르릇♥」"
+Kei,Kei,Korean_Steam,Kei.Fallen1-120,241,241,DIFF_SAME_SHEET,"「응옷 응윽♥!?, 곱봇!?, 자, 잠만!」","「응옷 응윽♥!?, 고븟!?, 자, 잠만!」"
+Kei,Kei,Korean_Steam,Kei.Fallen2-9,303,303,DIFF_SAME_SHEET,「저렇게 매일 박는데도 아직 빡빡하네! 역시 성핵전희야!」,「저렇게 매일 박는데도 아직도 조임이 좋군! 역시 성핵전희야!」
+Kei,Kei,Korean_Steam,Kei.Fallen2-46,377,377,DIFF_SAME_SHEET,"뷰르르르릇르릇, 뷰릇, 돕!","뷰르르르릇르릇, 뷰릇, 뷰르릇!"
+Kei,Kei,Korean_Steam,Kei.Fallen2-59,404,404,DIFF_SAME_SHEET,"뷰르르르릇르릇, 뷰릇, 돕!","뷰르르르릇르릇, 뷰릇, 뷰르릇!!"
+Kei,Kei,Korean_Steam,Kei.Fallen2-77,440,440,DIFF_SAME_SHEET,"「쥬풋, 쥬풋♥, 호아, 요코노 후하리모 핫하토라시타마에♥」","「쥬풋, 쥬풋♥, 자, 나란히 있는 두 사람도 빨리 꺼내♥」"
+Kei,Kei,Korean_Steam,Kei.Fallen3-37,553,553,DIFF_SAME_SHEET,「응… 이 느낌 이제 텅 비었나?」,「응… 이 느낌 이제 완전히 비었나?」
+Kei,Kei,Korean_Steam,Kei.Debauchery1-11,602,602,DIFF_SAME_SHEET,「너에게는 이제부터 에로 스트리머 겸 홍보 담당으로 활동하게 할 거다」,「너는 이제부터 에로 스트리머랑 홍보 담당으로 활동하게 할 거다」
+Kei,Kei,Korean_Steam,Kei.Debauchery1-23,629,629,DIFF_SAME_SHEET,"「……그런 이유로 시청자 여러분, 처음 뵙겠습니다.」","「……그런 이유로 시청자 여러분, 처음 인사.」"
+Kei,Kei,Korean_Steam,Kei.Debauchery1-37,657,657,DIFF_SAME_SHEET,"「윽, …으으… 부끄러워서 삶아질 것 같아…」","「윽, …으으… 부끄러워…」"
+Kei,Kei,Korean_Steam,Kei.Debauchery1-38,659,659,DIFF_SAME_SHEET,"「코멘트도 읽어야지… 보지 핑크색으로 엄청 예뻐……… 아, 고마워……」","「코멘트도 읽어야지… 보지 엄청 예뻐……… 아, 고마워……」"
+Kei,Kei,Korean_Steam,Kei.Debauchery1-40,663,663,DIFF_SAME_SHEET,「겸사겸사 시청자분들에게 성교육합시다! 이렇게 보지를 클로즈업해서 볼 수 있는 기회는 좀처럼 없으니까요」,「이 기회에 시청자분들에게 성교육합시다! 이렇게 보지를 클로즈업해서 볼 수 있는 기회는 좀처럼 없으니까요」
+Kei,Kei,Korean_Steam,Kei.Debauchery1-55,693,693,DIFF_SAME_SHEET,「역시 선생님! 겸사겸사 해설도 부탁합니다」,「역시 선생님! 이 기회에 해설도 부탁합니다」
+Kei,Kei,Korean_Steam,Kei.Debauchery1-68,719,719,DIFF_SAME_SHEET,「히끅!?」,「히읏!?」
+Kei,Kei,Korean_Steam,Kei.Debauchery2-46,875,875,DIFF_SAME_SHEET,"「엣♥!?, 잠깐♥, 보, 벌써♥!?」","「엣♥!?, 잠깐♥, 버, 벌써♥!?」"
+Kei,Kei,Korean_Steam,Kei.Core1-11,938,938,DIFF_SAME_SHEET,"「옷, 눈을 뜬 모양이군」","「오오, 정신이 들었나 보군」"
+Kei,Kei,Korean_Steam,Kei.Core1-17,950,950,DIFF_SAME_SHEET,「게다가… 왠지 눈을 뗄 수가 없어… 이런 건 기분 나빠야 하는데……」,「게다가… 왠지 시선을 돌릴 수가 없어… 이런 건 기분 나빠야 하는데……」
+Kei,Kei,Korean_Steam,Kei.Core1-86,1088,1088,DIFF_SAME_SHEET,「그 천재 성핵전희가 딸딸이 원숭이처럼 성핵 흩뿌리며 죽어가다니」,「그 천재 성핵전희가 딸딸이 유인원처럼 성핵 흩뿌리며 죽어가다니」
+Kei,Kei,Korean_Steam,Kei.Core1-91,1098,1098,DIFF_SAME_SHEET,"――――그 후, 케이의 성핵과 껍데기뿐인 육체는 자원으로서 회수되어, 가공되는 것이었다","――――그 후, 케이의 성핵과 비어버린 육체는 자원으로서 회수되어, 가공되는 것이었다"
+Kei,Kei,Korean_Steam,Kei.Core2-11,1122,1122,DIFF_SAME_SHEET,그리고 케이의 껍데기뿐인 몸은 오나홀이 된 케이를 사용해서 자지를 흔들기 시작한다,그리고 케이의 비어버린 몸은 오나홀이 된 케이를 사용해서 자지를 흔들기 시작한다
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen1-84,169,169,DIFF_SAME_SHEET,"「윽, …… 이런 잡것 괴인에게 내가…!?」","「윽, …… 이런 약한 괴인에게 내가…!?」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-16,239,239,DIFF_SAME_SHEET,"「응옷 응옷 윽, 곱, 고큣, 쥬륵♥」","「응옷 응옷 윽, 고븟, 고큣, 쥬륵♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-25,257,257,DIFF_SAME_SHEET,"「윽…, 이런 잡몹 괴인에게, 이런 굴욕적인 짓밖에 할 수 없다니…윽!」","「윽…, 이런 약한 괴인에게, 이런 굴욕적인 짓밖에 할 수 없다니…윽!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-26,259,259,DIFF_SAME_SHEET,「하지만 어차피 지능도 낮은 잡몹… 에너지가 모여 변신하면 단숨에 갈기갈기 찢어버리겠습니다!」,「하지만 어차피 지능도 낮은 몬스터… 에너지가 모여 변신하면 단숨에 갈기갈기 찢어버리겠습니다!」
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-29,265,265,DIFF_SAME_SHEET,"「히끅!?, 이, 이놈!」","「히읏!?, 이, 이놈!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-31,269,269,DIFF_SAME_SHEET,"나유타는 혀를 내밀어, 펠라하는 시늉을 한다","나유타는 혀를 내밀어, 펠라하는 자세를 취한다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-51,309,309,DIFF_SAME_SHEET,「―――――잘도 나의 검을! 절대로 용서 못… 히끅윽윽!?」,「―――――잘도 나의 검을! 절대로 용서 못… 히읏윽윽!?」
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-56,319,319,DIFF_SAME_SHEET,"「히끅, 이 검은, 나의 긍지인데! 이런!」","「히읏, 이 검은, 나의 긍지인데! 이런!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-63,333,333,DIFF_SAME_SHEET,"「히끅♥, 그런♥, 나, 이놈에게 놀아나고 있었나?! 히끅♥」","「히읏♥, 그런♥, 나, 이놈에게 놀아나고 있었나?! 히읏♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-64,335,335,DIFF_SAME_SHEET,"괴인은 격렬하게 검을 넣고 빼며, 손잡이의 울퉁불퉁함이 나유타의 질 내부를 긁어 올린다","괴인은 격렬하게 검을 넣고 빼며, 손잡이의 울퉁불퉁함이 나유타의 질 내부를 자극한다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-66,339,339,DIFF_SAME_SHEET,"「히끅♥, 오옷 오옷 옷♥」","「히읏♥, 오옷 오옷 옷♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-76,359,359,DIFF_SAME_SHEET,"「히끅윽♥, 그런♥, 기다려♥!」","「히읏윽♥, 그런♥, 기다려♥!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-85,377,377,DIFF_SAME_SHEET,"「히끅윽♥, 나는! 최강의 성핵전희입니다! 이런 자지 따위에게!」","「히읏윽♥, 나는! 최강의 성핵전희입니다! 이런 자지 따위에게!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen2-90,387,387,DIFF_SAME_SHEET,「갸갸악! 갔다! 갔다! 잡몹! 잡몹!」,「갸갸악! 갔다! 갔다! 약해! 약해!」
+Nayuta,Nayuta,Korean_Steam,Nayuta.Fallen3-50,511,511,DIFF_SAME_SHEET,"이렇게 최강의 성핵전희, 야쿠모 나유타는 완전히 패배하고, 성핵전희의 역전의 싹은 완전히 짓밟히는 것이었다","이렇게 최강의 성핵전희, 야쿠모 나유타는 완전히 패배하고, 성핵전희의 역전의 희망은 완전히 무너지게 된 것이었다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery1-23,560,560,DIFF_SAME_SHEET,"나유타는 많은 사람들 앞에서 땅에 머리를 박고, 엎드려 있었다",나유타는 많은 사람들이 지켜보는 가운데 지면에 이마를 대고 도게자를 하고 있었다.
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery1-66,648,648,DIFF_SAME_SHEET,「곱♥!?」,「고브읏♥!?」
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery1-74,664,664,DIFF_SAME_SHEET,"「켁♥, ………오옷 , 오엑♥」","「크읏♥, ………오옷 , 오엑♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery1-80,676,676,DIFF_SAME_SHEET,나유타는 정액 범벅인 몸으로 다시 엎드린다,나유타는 정액 범벅인 몸으로 다시 도게자를 한다
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery1-90,696,696,DIFF_SAME_SHEET,"그 후, 나유타는 암퇘지로서 전 세계 각지에서 처절한 성봉사의 나날을 이어가게 되었다","그 후, 나유타는 암퇘지로서, 전 세계에서의 처절한 성봉사의 나날이 계속되는 것이었다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery2-29,754,754,DIFF_SAME_SHEET,"「이 녀석, 쌌는데도 자지에서 입 떼지 않네ㅋ」","「이 녀석, 쌌는데도 자지에서 입 빼지 않네ㅋ」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery2-38,772,772,DIFF_SAME_SHEET,「아직도 원하나… 질린 성욕이네」,「아직도 원하나… 질려 버릴 정도의 성욕이네」
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery2-41,778,778,DIFF_SAME_SHEET,"「켁♥, 콜록♥, 응앗♥」","「크읏♥, 콜록♥, 응앗♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery2-43,782,782,DIFF_SAME_SHEET,"「켁♥, 네엣♥, 나유타는 자신을 강하다고 착각했던 그저 암퇘지였습니다♥」","「크읏♥, 네엣♥, 나유타는 자신을 강하다고 착각했던 그저 암퇘지였습니다♥」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Debauchery2-46,788,788,DIFF_SAME_SHEET,"「이런이런, 이런 여자 때문에 고생했던 우리가 더 한심해지는군요」","「이런이런, 이런 여자에게 고생했던 우리들이 더 한심해지는군요」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core1-58,916,916,DIFF_SAME_SHEET,"피스톤은 나유타의 팔만큼이나 굵고, 울퉁불퉁한 원뿔 모양 돌기가 붙어 있다","피스톤은 나유타의 팔만큼이나 굵고, 울퉁불퉁한 원형 모양 돌기가 붙어 있다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core1-60,920,920,DIFF_SAME_SHEET,"「윽, 여, 그만두십시오! 그런 게 들어갈 리가!」","「윽, 그, 그만두십시오! 그런 게 들어갈 리가!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core1-61,922,922,DIFF_SAME_SHEET,카샨…… 큐이이이이인!,카응…… 큐이이이이인!
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core1-72,944,944,DIFF_SAME_SHEET,"「히끅♥!?, 오옷 옷♥, 오옷 옷♥, 그런 일은♥!」","「히읏♥!?, 오옷 옷♥, 오옷 옷♥, 그런 일은♥!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core2-14,989,989,DIFF_SAME_SHEET,가챤… 보콧!,뷰릇… 포옹!
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core2-16,993,993,DIFF_SAME_SHEET,"부릇!, 도르르릇!","뷰릇!, 도르르릇!"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core2-31,1023,1023,DIFF_SAME_SHEET,"「호옷 오옷!?, 여, 그만두십시오♥!」","「호옷 오옷!?, 그, 그만두십시오♥!」"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core2-50,1061,1061,DIFF_SAME_SHEET,"그리고 전투원이 단숨에 팔을 당기자, 나유타의 남은 성핵이 우뭇가사리처럼 배출된다","그리고 전투원이 단숨에 팔을 당기자, 나유타의 남은 성핵이 젤리처럼 배출된다"
+Nayuta,Nayuta,Korean_Steam,Nayuta.Core2-57,1075,1075,DIFF_SAME_SHEET,"「좋아 전부 나왔군, 그럼 모아서 뚜껑을 닫고……」","「좋아 전부 나왔군, 그럼 모아서 용기를 닫고……」"
+Record,Record,Korean_Steam,Record.Final-7,197,197,DIFF_SAME_SHEET,「거리 한복판에서 파괴 행위를 벌이다니…… 절대 용서 못 해!」,「거리에서의 파괴 행위…… 우리들이 용서하지 않아!」
+Record,Record,Korean_Steam,Record.Final-23,229,229,DIFF_SAME_SHEET,「아니면…… 너희들 이게 갖고 싶어서 뽈뽈 나온 거 아니야?」,「아니면…… 너희들 이게 갖고 싶어서 나온 거 아니야?」
+Record,Record,Korean_Steam,Record.Final-69,321,321,DIFF_SAME_SHEET,"「저희♥♥, 평생 오나홀로서 봉사하겠습니다♥♥」","「우리들♥♥, 평생 오나홀로서 봉사하겠습니다♥♥」"
+Record,Record,Korean_Steam,Record.Final-76,335,335,DIFF_SAME_SHEET,"「「저희♥♥, 여러분의 오나홀로서 힘내겠습니다♥♥」」","「「우리들♥♥, 여러분의 오나홀로서 힘내겠습니다♥♥」」"
+Record,Record,Korean_Steam,Record.Kei-10,359,359,DIFF_SAME_SHEET,"케이는 작은 몸을 거대한 괴인에게 붙잡혀, 억지로 질로 자지를 흔들리고 있었다","케이는 몸을 거대한 괴인에게 붙잡혀, 억지로 질로 자지를 흔들리고 있었다"
+Record,Record,Korean_Steam,Record.Kei-21,381,381,DIFF_SAME_SHEET,"「헤앗♥♥, 오옷 옷♥, 냣데♥♥♥」","「헤앗♥♥, 오옷 옷♥, 어째서♥♥♥」"
+Record,Record,Korean_Steam,Record.CloneTask-42,518,518,DIFF_SAME_SHEET,072호의 입안에 힘차게 백탁액이 쏟아진다,072호의 입안에 힘차게 백탁액이 뿜어진다
+Record,Record,Korean_Steam,Record.CloneTask-46,526,526,DIFF_SAME_SHEET,"곱♥♥, 돕풋♥♥!","고흇♥♥, 도릇♥♥!"
+Record,Record,Korean_Steam,Record.CloneTask-54,542,542,DIFF_SAME_SHEET,클론의 일원이 된 072호는 거부하지 않고 그대로 따랐다,클론의 일원이 된 072호는 거부하지 않고 그것에 따르는 것이었다
+Record,Record,Korean_Steam,Record.Erenayuta-5,562,562,DIFF_SAME_SHEET,「게다가…… 왜 이 여자를 옆에……!」,「게다가…… 왜 이 여자랑 나란히……!」
+Record,Record,Korean_Steam,Record.Erenayuta-6,564,564,DIFF_SAME_SHEET,「이쪽의 대사입니다. 왜 바로 옆에 배치하는 겁니까」,「이쪽의 대사입니다. 왜 바로 나란히 배치하는 겁니까」
+Record,Record,Korean_Steam,Record.Erenayuta-30,612,612,DIFF_SAME_SHEET,"「윽♥, 어떻습니까, AV 촬영으로 단련된 저의 두툼한 보지♥♥」","「윽♥, 어떻습니까, AV 촬영으로 단련된 저의 보지♥♥」"
+Record,Record,Korean_Steam,Record.Erenayuta-38,628,628,DIFF_SAME_SHEET,"「엘레나에게는 지지 않겠습니다♥, 당연히 제가 이깁니다♥」","「엘레나에게는 지지 않겠습니다♥, 당연히 저의 승리입니다♥」"
+Record,Record,Korean_Steam,Record.Erenayuta-45,642,642,DIFF_SAME_SHEET,"「아-, 이걸로 둘 다 1점씩이군. 알기 쉽게 펜으로 써두지」","「아-, 이걸로 둘 다 1점씩이군. 알기 쉽게 써두지」"
+Record,Record,Korean_Steam,Record.Erenayuta-47,646,646,DIFF_SAME_SHEET,"「흥♥, 요령을 알았으니 이쪽의 것입니다. 이 승부, 제가 이깁니다!」","「흥♥, 요령을 알았으니 이쪽의 것입니다. 이 승부, 저의 승리입니다!」"
+Record,Record,Korean_Steam,Record.Erenayuta-67,686,686,DIFF_SAME_SHEET,「오-오- 아직 멀쩡하잖아. 역시 최강의 성핵전희네?」,「오-오- 아직 괜찮다니. 역시 최강의 성핵전희네?」
+Record,Record,Korean_Steam,Record.Erenayuta-68,688,688,DIFF_SAME_SHEET,"「당연합니다♥, 육변기 승부라고 해도 손을 뺄 수는 없습니다!」","「당연합니다♥, 육변기 승부라고 해도 양보할 수는 없습니다!」"
+Record,Record,Korean_Steam,Record.Erenayuta-75,702,702,DIFF_SAME_SHEET,"「윽♥, 그쪽이야말로♥, 살찐 암소 주제에♥, 건방집니다♥」","「윽♥, 그쪽이야말로♥, 암소 주제에♥, 건방집니다♥」"
+Record,Record,Korean_Steam,Record.Erenayuta-78,708,708,DIFF_SAME_SHEET,"「응읏♥, 키, 왔습니다♥」","「응읏♥, 와, 왔습니다♥」"
+Record,Record,Korean_Steam,Record.Erenayuta-107,766,766,DIFF_SAME_SHEET,"거기에는 온몸에 낙서가 되고, 온몸이 정액과 콘돔 범벅이 된 두 사람의 모습이 있었다","거기에는 온몸에 낙서가 되고, 온몸이 정액 범벅이 된 두 사람의 모습이 있었다"
+Record,Record,Korean_Steam,Record.Erenayuta-117,786,786,DIFF_SAME_SHEET,"「겸사겸사, 마지막으로 이 녀석들로 용변이나 보자」","「이 기회에, 마지막으로 이 녀석들로 용변이나 보자」"
+Record,Record,Korean_Steam,Record.SeikakuEquip-3,814,814,DIFF_SAME_SHEET,가챤! 가챤! 푸슈ー!,뷰릇! 뷰릇! 푸슈ー!
+Record,Record,Korean_Steam,Record.SeikakuEquip-7,822,822,DIFF_SAME_SHEET,,"시, 싫어! 원래대로 돌려줘!"
+Record,Record,Korean_Steam,Record.SeikakuEquip-18,844,844,DIFF_SAME_SHEET,"(응앗♥, 여, 그만둬♥, 그렇게 격렬하게 사용하지 마세요♥!)","(응앗♥, 그, 그만둬♥, 그렇게 격렬하게 사용하지 마세요♥!)"
+Record,Record,Korean_Steam,Record.SeikakuEquip-19,846,846,DIFF_SAME_SHEET,"「하핫, 이 녀석은 성욕만은 무진장이라서 말이야. 오나홀 검품에는 안성맞춤이야」","「하핫, 이 녀석은 성욕만은 무진장이라서 말이야. 오나홀 검사에는 쓸모가 있거든」"
+Record,Record,Korean_Steam,Record.SeikakuEquip-23,854,854,DIFF_SAME_SHEET,(그렇지 않으면 우리……윽♥),(그렇지 않으면 우리들……윽♥)
+DLCメインストーリー,DLCメインストーリー,Korean_Steam,Dialog.DLC-P-17,39,39,DIFF_SAME_SHEET,"재단은 세계를 정복하기 위해, 성핵전희를 개조하고 이용하여, 착착 전력을 확대하고 있었다","재단은 세계를 정복하기 위해, 성핵전희를 개조・이용하여, 착착 전력을 확대하고 있었다"
+DLCメインストーリー,DLCメインストーリー,Korean_Steam,Dialog.DLC-P-93,200,200,DIFF_SAME_SHEET,「…………나는 아나스타샤·페트로·다이아몬드. …다이아라고 불러도 돼.」,「…………나는 아나스타샤・페트로・다이아몬드. …다이아로 좋다.」
+DLCメインストーリー,DLCメインストーリー,Korean_Steam,Dialog.DLC1-1-173,568,568,DIFF_SAME_SHEET,이렇게 하급 전투원 46호가 된 히스이의 재단 잠입 생활이 시작되었다.,이렇게 하급 전투원 46호가 된 히스이의 재단 잠입 생활이 시작되는 것이었다.
+DLCメインストーリー,DLCメインストーリー,Korean_Steam,Dialog.DLC1-3-14,864,864,DIFF_SAME_SHEET,「뭐 괜찮지 않겠어? 우리가 말해 둘 테니까」,"「뭐 괜찮지 않겠어, 우리들이 말해 둘 테니까」"
+DLCメインストーリー,DLCメインストーリー,Korean_Steam,Dialog.DLC2-2-56,1709,1709,DIFF_SAME_SHEET,"「으으…윽, 그런………윽…… 우리는……윽!?」","「으으…윽, 그런………윽…… 우리들은……윽!?」"
+Daiya,Daiya,Korean_Steam,Daiya.Fallen1-57,116,116,DIFF_SAME_SHEET,"그리고 다이아는 전혀 저항하지 못한 채, 몸이 순조롭게 개조되어 갔다.","그리고 다이아는 전혀 저항할 수 없는 채, 그 몸은 순조롭게 개조되어 가는 것이었다."
+Daiya,Daiya,Korean_Steam,Daiya.Fallen2-72,274,274,DIFF_SAME_SHEET,"「야, 히앗, 야, 그만둬!!」","「싫어, 히앗, 그, 그만둬!!」"
+Daiya,Daiya,Korean_Steam,Daiya.Fallen2-113,356,356,DIFF_SAME_SHEET,"「하앗♥, 하앗♥, 오옷 오옷♥ 다, 누가…… 오나홀 따위에…♥!」","「하앗♥, 하앗♥, 오옷 오옷♥ 누, 누가…… 오나홀 따위에…♥!」"
+Daiya,Daiya,Korean_Steam,Daiya.Fallen2-121,372,372,DIFF_SAME_SHEET,"「여, 싫어…윽!…… 히스이… 도, 도와주러 와줘!! 빨리!」","「시, 싫어…윽!…… 히스이… 도, 도와주러 와줘!! 빨리!」"
+Daiya,Daiya,Korean_Steam,Daiya.Fallen2-125,380,380,DIFF_SAME_SHEET,"그리고 그날, 다이아는 10번 이상 괴인에게 사용되며 마음이 확실히 부서져 갔다","그리고 그날, 다이아는 10번 이상 괴인에게 사용되고, 다이아의 마음은 확실히 부서져 가는 것이었다"
+Daiya,Daiya,Korean_Steam,Daiya.Fallen3-39,468,468,DIFF_SAME_SHEET,"「하히잇♥, 아, 감사합니다♥, 잡어 보지이지만 마음껏 사용해주세요이이잇♥!」","「하히잇♥, 아, 감사합니다♥, 허접 보지이지만 마음껏 사용해주세요이이잇♥!」"
+Daiya,Daiya,Korean_Steam,Daiya Seikaku Scene,560,904,DIFF_SAME_SHEET,,성핵 이벤트
+Kei(DLC),,Korean_Steam,Kei Fallen Scene,2,,KEY_OR_COLUMN_NOT_FOUND_IN_MAIN,,타락 이벤트
+Kei(DLC),Kei(DLC),Korean_Steam,Record.KeiAfter-40,87,87,DIFF_SAME_SHEET,「위험…해…… 자………자해!!」,「위험…해…… 자………잠깐!!」
+Kei(DLC),Kei(DLC),Korean_Steam,Record.KeiAfter-47,101,101,DIFF_SAME_SHEET,"「키잇! 뭐!? 여, 그만둬!!」","「키잇! 뭐!? 그, 그만둬!!」"
+Kei(DLC),Kei(DLC),Korean_Steam,Record.KeiAfter-75,157,157,DIFF_SAME_SHEET,"「응읏♥, 응읏♥, 쥬릇♥, 곱♥, 겝♥… 쥬폿♥!」","「응읏♥, 응읏♥, 쥬릇♥, 고븟♥, 커흣♥… 쥬폿♥!」"
+Kei(DLC),Kei(DLC),Korean_Steam,Record.KeiAfter-116,241,241,DIFF_SAME_SHEET,"「으앗♥! 자, 잠깐…! 여, 그만둬♥!」","「으앗♥! 자, 잠깐…! 그, 그만둬♥!」"
+Daiya DLC2,Daiya,Korean_Steam,Daiya.Debauchery1-12,28,550,DIFF_GLOBAL_KEY_MATCH,"「하앗♥, 어떻습니까…… 주인님아♥」","「하앗♥, 어떻습니까…… 주인님♥」"
+Daiya DLC2,Daiya,Korean_Steam,Daiya.Debauchery1-38,80,602,DIFF_GLOBAL_KEY_MATCH,「윽♥ 부힛! 주인님아♥!」,「윽♥ 부힛! 주인님♥!」
+Daiya DLC2,Daiya,Korean_Steam,Daiya.Debauchery2-23,275,797,DIFF_GLOBAL_KEY_MATCH,"「키이ーーー잇!!♥, 네엣♥ 주인님아♥♥ 02호에게♥♥, 삽입 허가를♥♥」","「키이ーーー잇!!♥, 네엣♥ 주인님♥♥ 02호에게♥♥, 삽입 허가를♥♥」"
+Kei DLC2,Kei(DLC),Korean_Steam,Kei.DLC_BrainWash2-108,222,504,DIFF_GLOBAL_KEY_MATCH,"「곱봇, 곱봇, 윽…… 아, 알겠습니다!」","「고홋, 고홋, 윽…… 아, 알겠습니다!」"
+Add0127,Daiya,Korean_Steam,Daiya.Core1-26,53,956,DIFF_GLOBAL_KEY_MATCH,"엉덩이 구멍에서 무언가가 빠져나가는 감각과 함께, 다이아의 의식은 뚝 끊어졌다.","엉덩이 구멍에서 무언가가 빠져나가는 감각과 함께, 다이아의 의식은 뚝 끊어지는 것이었다."
+Add0127,Daiya,Korean_Steam,Daiya.Core1-36,77,980,DIFF_GLOBAL_KEY_MATCH,"「오오옷, 굉장한 조임! 이 녀석 다른 성핵전희 오나홀보다 빡빡하잖아?」","「오오옷, 굉장한 조임! 이 녀석 다른 성핵전희 오나홀보다 조임이 강하잖아?」"
+Akiho,Akiho,English_Steam,Akiho.Fallen1-9,19,19,DIFF_SAME_SHEET,"""Don't worry, we're not going to turn you into a monster or make you a soldier.""","""Don't worry, we're not going to turn you into a monster or make you a soldier.""...? What's your purpose...!?"""
+Akiho,Akiho,English_Steam,Akiho.Fallen1-11,23,23,DIFF_SAME_SHEET,"""Even if we re-educated you to fight, you wouldn't be much of a fighting force.""","""Even if we brainwashed you to fight, you wouldn't be much of a fighting force."""
+Akiho,Akiho,English_Steam,Akiho.Fallen2-9,189,189,DIFF_SAME_SHEET,"""ah♥ Mmgh♥ No more♥♥""","""Ah♥ Mmgh♥ No more♥♥"""
+Akiho,Akiho,English_Steam,Akiho.Debauchery2-4,640,640,DIFF_SAME_SHEET,"""Fuuuuuuuuuuu""","""Haaaaaah..."""
+Akiho,Akiho,English_Steam,Akiho.Core1-34,817,817,DIFF_SAME_SHEET,"""Haaaa... I need to do something about this... But♥ Nnnnn♥""","""Haaaa... I need to do something about this... But♥ Nnnnn♥"
+Rikka,Rikka,English_Steam,Rikka.Fallen1-68,141,141,DIFF_SAME_SHEET,(...This is bad♥ My mind... My transformation will not hold♥),(...This is bad♥ My mind... My transformation won't hold♥)
+Rikka,Rikka,English_Steam,Rikka.Fallen2-51,297,297,DIFF_SAME_SHEET,"""You might just be lying to deceive us. You'll have to be re-educated now.""","""You might just be lying to deceive us. You'll have to be brainwashed now."""
+Rikka,Rikka,English_Steam,Rikka.Fallen2-59,313,313,DIFF_SAME_SHEET,Rikka's head was covered with a helmet-like re-educating device.,Rikka's head was covered with a helmet-like brainwashing device.
+Rikka,Rikka,English_Steam,Rikka.Fallen2-61,317,317,DIFF_SAME_SHEET,"""We'll now begin the re-educating and enhancement surgery. This is the end of Rikka Minase as a Holy Core Battlemaiden.""","""We'll now begin the brainwashing and enhancement surgery. This is the end of Rikka Minase as a Holy Core Battlemaiden."""
+Rikka,Rikka,English_Steam,Rikka.Fallen2-62,319,319,DIFF_SAME_SHEET,"(I can't give up! If I can endure the re-educating, there will be another way!)","(I can't give up! If I can endure the brainwashing, there will be another way!)"
+Rikka,Rikka,English_Steam,Rikka.Fallen2-63,321,321,DIFF_SAME_SHEET,"The re-educating device a emitted red light, and lasers were fired at Rikka's brain inside the mask.","The brainwashing device a emitted red light, and lasers were fired at Rikka's brain inside the mask."
+Rikka,Rikka,English_Steam,Rikka.Fallen3-19,377,377,DIFF_SAME_SHEET,"(Don't give up, I haven't lost yet! Even if I'm no longer a Holy Core Battlemaiden, if I can endure the re-education for twelve hours!)","(Don't give up, I haven't lost yet! Even if I'm no longer a Holy Core Battlemaiden, if I can endure the brainwashing for twelve hours!)"
+Rikka,Rikka,English_Steam,Rikka.Fallen3-60,459,459,DIFF_SAME_SHEET,"""...Re-educating at 99.9%. Holy Core conversion at 99.99%. Modification complete. You've done well.""","""...Brainwashing at 99.9%. Holy Core conversion at 99.99%. Modification complete. You've done well."""
+Rikka,Rikka,English_Steam,Rikka.Fallen3-69,478,478,DIFF_SAME_SHEET,"""The re-education is complete, and her Holy Core has been replaced with a pseudo-Holy Core.""","""The brainwashing is complete, and her Holy Core has been replaced with a pseudo-Holy Core."""
+Rikka,Rikka,English_Steam,Rikka.Debauchery2-33,782,782,DIFF_SAME_SHEET,"""The audience shot their loads at her.""","The audience shot their loads at her."""
+Erena,Erena,English_Steam,Erena.Fallen1-4,9,9,DIFF_SAME_SHEET,"Erena Seidō was confined to a research lab deep underground, courtesy of the Tentacle Man.","Elena Seidou was confined to a research lab deep underground, courtesy of the Tentacle Man."
+Erena,Erena,English_Steam,Erena.Fallen1-11,23,23,DIFF_SAME_SHEET,The Tentacle Man removed a tentacle from Erena's mouth.,The Tentacle Man removed a tentacle from Elena's mouth.
+Erena,Erena,English_Steam,Erena.Fallen1-16,33,33,DIFF_SAME_SHEET,(I am Erena Seidō! The deputy commander of the Holy Core Legion and a Holy Core Battlemaiden! I can't die here!),(I am Elena Seidou! The deputy commander of the Holy Core Legion and a Holy Core Battlemaiden! I can't die here!)
+Erena,Erena,English_Steam,Erena.Fallen1-19,39,39,DIFF_SAME_SHEET,"""Valiant but reckless. Very much like you, Erena.""","""Valiant but reckless. Very much like you, Elena."""
+Erena,Erena,English_Steam,Erena.Fallen1-25,51,51,DIFF_SAME_SHEET,A tentacle extended from the Tentacle Man's mouth and wrapped itself around Erena's upper body.,A tentacle extended from the Tentacle Man's mouth and wrapped itself around Elena's upper body.
+Erena,Erena,English_Steam,Erena.Fallen1-31,63,63,DIFF_SAME_SHEET,The Tentacle Man started sucking on Erena.,The Tentacle Man started sucking on Elena.
+Erena,Erena,English_Steam,Erena.Fallen1-47,93,93,DIFF_SAME_SHEET,Erena wiggled violently to resist and bit on a tentacle.,Elena wiggled violently to resist and bit on a tentacle.
+Erena,Erena,English_Steam,Erena.Fallen1-65,127,127,DIFF_SAME_SHEET,"While Erena's consciousness grew hazy, her entire body was thoroughly violated by tentacles and slime.","While Elena's consciousness grew hazy, her entire body was thoroughly violated by tentacles and slime."
+Erena,Erena,English_Steam,Erena.Fallen1-68,133,133,DIFF_SAME_SHEET,(Get it together♥♥! I'm Erena Seidō! I won't yield to some weakling like this!),(Get it together♥♥! I'm Elena Seidou! I won't yield to some weakling like this!)
+Erena,Erena,English_Steam,Erena.Fallen1-73,141,141,DIFF_SAME_SHEET,Erena was finally released from the tentacle monster's mouth and exposed to outside air and light for the first time in hours.,Elena was finally released from the tentacle monster's mouth and exposed to outside air and light for the first time in hours.
+Erena,Erena,English_Steam,Erena.Fallen1-79,153,153,DIFF_SAME_SHEET,"""Oh my, Erena has become completely stupid.""","""Oh my, Elena has become completely stupid."""
+Erena,Erena,English_Steam,Erena.Fallen2-8,172,172,DIFF_SAME_SHEET,"""Good morning, Erena. Have you gotten used to spending time inside me?""","""Good morning, Elena. Have you gotten used to spending time inside me?"""
+Erena,Erena,English_Steam,Erena.Fallen2-16,188,188,DIFF_SAME_SHEET,"""By the way, hehehe, I have something I want to show you today, Erena.""","""By the way, hehehe, I have something I want to show you today, Elena."""
+Erena,Erena,English_Steam,Erena.Fallen2-18,192,192,DIFF_SAME_SHEET,"""You were the young heir of the Seidō family, part of a giant conglomerate group, weren't you?""","""You were the young heir of the Seidou family, part of a giant conglomerate group, weren't you?"""
+Erena,Erena,English_Steam,Erena.Fallen2-23,202,202,DIFF_SAME_SHEET,"""Hehehe, recently Foundation personnel had a talk with the Seidō Group about you, Erena.""","""Hehehe, recently Foundation personnel had a talk with the Seidou Group about you, Elena."""
+Erena,Erena,English_Steam,Erena.Fallen2-25,206,206,DIFF_SAME_SHEET,"""Let me get to the point. The Seidō Group has become a subsidiary organization of our Foundation.""","""Let me get to the point. The Seidou Group has become a subsidiary organization of our Foundation."""
+Erena,Erena,English_Steam,Erena.Fallen2-27,210,210,DIFF_SAME_SHEET,"""The Seidō Group was especially supportive of the Holy Core Battlemaidens, so why all of a sudden?""","""The Seidou Group was especially supportive of the Holy Core Battlemaidens, so why all of a sudden?"""
+Erena,Erena,English_Steam,Erena.Fallen2-28,212,212,DIFF_SAME_SHEET,"""Heh, when we told them we had captured you, Erena, they agreed immediately.""","""Heh, when we told them we had captured you, Elena, they agreed immediately."""
+Erena,Erena,English_Steam,Erena.Fallen2-29,214,214,DIFF_SAME_SHEET,"""I feel sorry for you, Erena...but considering our current power, it was a very wise choice.""","""I feel sorry for you, Elena...but considering our current power, it was a very wise choice."""
+Erena,Erena,English_Steam,Erena.Fallen2-32,220,220,DIFF_SAME_SHEET,"(I've maintained deep relations between the Legion and the Seidō Group. If I return to headquarters, the Seidō Group should support the Holy Core Battlemaidens again.)","(I've maintained deep relations between the Legion and the Seidou Group. If I return to headquarters, the Seidou Group should support the Holy Core Battlemaidens again.)"
+Erena,Erena,English_Steam,Erena.Fallen2-33,222,222,DIFF_SAME_SHEET,"""Erena, do you still think you can return to the Legion?""","""Elena, do you still think you can return to the Legion?"""
+Erena,Erena,English_Steam,Erena.Fallen2-41,238,238,DIFF_SAME_SHEET,"""Your resident registration has been erased. You're no longer a member of the Seidō family.""","""Your resident registration has been erased. You're no longer a member of the Seidou family."""
+Erena,Erena,English_Steam,Erena.Fallen2-43,242,242,DIFF_SAME_SHEET,"""When we showed that video to your father, he was quite enraged. He said he won't allow you to use the Seidō name anymore.""","""When we showed that video to your father, he was quite enraged. He said he won't allow you to use the Seidou name anymore."""
+Erena,Erena,English_Steam,Erena.Fallen2-46,248,248,DIFF_SAME_SHEET,Erena's family registration information was displayed on the monitor.,Elena's family registration information was displayed on the monitor.
+Erena,Erena,English_Steam,Erena.Fallen2-55,266,266,DIFF_SAME_SHEET,"""All this time! For peace! For the Seidō Group! For the Holy Core Battlemaidens! I worked so hard!""","""All this time! For peace! For the Seidou Group! For the Holy Core Battlemaidens! I worked so hard!"""
+Erena,Erena,English_Steam,Erena.Fallen2-57,270,270,DIFF_SAME_SHEET,"""Oh my, poor Erena. It's painful to be betrayed by people you trusted.""","""Oh my, poor Elena. It's painful to be betrayed by people you trusted."""
+Erena,Erena,English_Steam,Erena.Fallen2-60,276,276,DIFF_SAME_SHEET,"""Oh my, that strong-willed Erena is crying!""","""Oh my, that strong-willed Elena is crying!"""
+Erena,Erena,English_Steam,Erena.Fallen2-79,314,314,DIFF_SAME_SHEET,"""Become my pet, Erena. Then you won't have to think about anything!""","""Become my pet, Elena. Then you won't have to think about anything!"""
+Erena,Erena,English_Steam,Erena.Fallen2-88,332,332,DIFF_SAME_SHEET,(Even if I defeat this fiend and return to the Seidō family... the Legion... do I have a place there?),(Even if I defeat this fiend and return to the Seidou family... the Legion... do I have a place there?)
+Erena,Erena,English_Steam,Erena.Fallen2-89,334,334,DIFF_SAME_SHEET,"""Hehe, Erena, how are my tentacles?""","""Hehe, Elena, how are my tentacles?"""
+Erena,Erena,English_Steam,Erena.Fallen2-96,348,348,DIFF_SAME_SHEET,"""What will you do, Erena? Will you become my pet... or continue your meaningless resistance?""","""What will you do, Elena? Will you become my pet... or continue your meaningless resistance?"""
+Erena,Erena,English_Steam,Erena.Fallen2-100,356,356,DIFF_SAME_SHEET,"""Is that so! Now everything about you belongs to me, Erena!""","""Is that so! Now everything about you belongs to me, Elena!"""
+Erena,Erena,English_Steam,Erena.Fallen2-101,358,358,DIFF_SAME_SHEET,"""Yes♥ Erena lost to Master and became Master's beloved pet♥""","""Yes♥ Elena lost to Master and became Master's beloved pet♥"""
+Erena,Erena,English_Steam,Erena.Fallen2-104,364,364,DIFF_SAME_SHEET,Erena turned a broken smile toward the monitor aimed at her.,Elena turned a broken smile toward the monitor aimed at her.
+Erena,Erena,English_Steam,Erena.Fallen2-105,366,366,DIFF_SAME_SHEET,"""I, Seidō... no, Erena has just become Master's beloved pet!""","""I, Seidou... no, Elena has just become Master's beloved pet!"""
+Erena,Erena,English_Steam,Erena.Fallen2-111,378,378,DIFF_SAME_SHEET,Erena was taken in by the tentacle man without resisting.,Elena was taken in by the tentacle man without resisting.
+Erena,Erena,English_Steam,Erena.Fallen2-116,388,388,DIFF_SAME_SHEET,"""Of course, Erena. You don't have to think about anything. You just need to enjoy the endless pleasure inside me!""","""Of course, Elena. You don't have to think about anything. You just need to enjoy the endless pleasure inside me!"""
+Erena,Erena,English_Steam,Erena.Fallen2-119,394,394,DIFF_SAME_SHEET,Erena Seidō kept licking the tentacles in the dark with admiration.,Elena Seidou kept licking the tentacles in the dark with admiration.
+Erena,Erena,English_Steam,Erena.Fallen2-124,404,404,DIFF_SAME_SHEET,"In the dark, Erena's mind melted under the sinister pleasure that she was drowning in.","In the dark, Elena's mind melted under the sinister pleasure that she was drowning in."
+Erena,Erena,English_Steam,Erena.Fallen3-5,417,417,DIFF_SAME_SHEET,Erena's abdomen expanded like a pregnant woman after the Tentacle Man kept pumping slime into her for a long time.,Elena's abdomen expanded like a pregnant woman after the Tentacle Man kept pumping slime into her for a long time.
+Erena,Erena,English_Steam,Erena.Fallen3-11,429,429,DIFF_SAME_SHEET,"A nutritious slime came out from the tip of the tentacle that was in Erena's mouth, and flowed down her throat.","A nutritious slime came out from the tip of the tentacle that was in Elena's mouth, and flowed down her throat."
+Erena,Erena,English_Steam,Erena.Fallen3-20,447,447,DIFF_SAME_SHEET,The Tentacle Man petted Erena's head.,The Tentacle Man petted Elena's head.
+Erena,Erena,English_Steam,Erena.Fallen3-21,449,449,DIFF_SAME_SHEET,"""Good job, Erena. You have good manners.""","""Good job, Elena. You have good manners."""
+Erena,Erena,English_Steam,Erena.Fallen3-30,467,467,DIFF_SAME_SHEET,"""You can do it, Erena! You will give birth to a fiend that has inherited a lot of Holy Core energy!""","""You can do it, Elena! You will give birth to a fiend that has inherited a lot of Holy Core energy!"""
+Erena,Erena,English_Steam,Erena.Fallen3-36,479,479,DIFF_SAME_SHEET,"""Erena, you're almost there! Just a little more and it'll be out fully!""","""Elena, you're almost there! Just a little more and it'll be out fully!"""
+Erena,Erena,English_Steam,Erena.Fallen3-43,493,493,DIFF_SAME_SHEET,"""Erena, this is amazing! Well done!""","""Elena, this is amazing! Well done!"""
+Erena,Erena,English_Steam,Erena.Fallen3-46,499,499,DIFF_SAME_SHEET,"""You did great, Erena. But this is no time to rest.""","""You did great, Elena. But this is no time to rest."""
+Erena,Erena,English_Steam,Erena.Fallen3-50,507,507,DIFF_SAME_SHEET,And then Erena was taken into the dark and slimy mouth of the fiend.,And then Elena was taken into the dark and slimy mouth of the fiend.
+Erena,Erena,English_Steam,Erena.Debauchery1-1,526,526,DIFF_SAME_SHEET,A while after Erena was defeated and trained by the Foundation,A while after Elena was defeated and trained by the Foundation
+Erena,Erena,English_Steam,Erena.Debauchery1-16,554,554,DIFF_SAME_SHEET,"""Let's get started for the shoot, Erena.""","""Let's get started for the shoot, Elena."""
+Erena,Erena,English_Steam,Erena.Debauchery1-18,558,558,DIFF_SAME_SHEET,One of the men pushed Erena down onto the inflatable mat on the floor.,One of the men pushed Elena down onto the inflatable mat on the floor.
+Erena,Erena,English_Steam,Erena.Debauchery1-23,568,568,DIFF_SAME_SHEET,"Erena finally understood, and blushed.","Elena finally understood, and blushed."
+Erena,Erena,English_Steam,Erena.Debauchery1-42,606,606,DIFF_SAME_SHEET,The director put his index and middle finger inside Erena's vagina.,The director put his index and middle finger inside Elena's vagina.
+Erena,Erena,English_Steam,Erena.Debauchery1-48,618,618,DIFF_SAME_SHEET,The director stimulated Erena's vagina as if he was looking for something.,The director stimulated Elena's vagina as if he was looking for something.
+Erena,Erena,English_Steam,Erena.Debauchery1-70,662,662,DIFF_SAME_SHEET,The director pulled his fingers out from Erena.,The director pulled his fingers out from Elena.
+Erena,Erena,English_Steam,Erena.Debauchery1-80,682,682,DIFF_SAME_SHEET,The director slapped Erena's crotch with his cock.,The director slapped Elena's crotch with his cock.
+Erena,Erena,English_Steam,Erena.Debauchery1-102,726,726,DIFF_SAME_SHEET,"Whenever Erena moved to get away from the pleasure, the man's cock found the spot again and relentlessly attacked it.","Whenever Elena moved to get away from the pleasure, the man's cock found the spot again and relentlessly attacked it."
+Erena,Erena,English_Steam,Erena.Debauchery1-108,738,738,DIFF_SAME_SHEET,His cock went in deep and rubbed hard against Erena's most sensitive spot.,His cock went in deep and rubbed hard against Elena's most sensitive spot.
+Erena,Erena,English_Steam,Erena.Debauchery1-118,758,758,DIFF_SAME_SHEET,"""You are a genius, Erena! Can I borrow her for a while please? I will make sure she becomes the number one porn star!""","""You are a genius, Elena! Can I borrow her for a while please? I will make sure she becomes the number one porn star!"""
+Erena,Erena,English_Steam,Erena.Debauchery2-7,779,779,DIFF_SAME_SHEET,"""It'll be called 'Big-breasted Milk Cow Princess Erena vs Seed-Sowing Geezers: One Hundred Fucks From Hell'!""","""It'll be called 'Big-breasted Milk Cow Princess Elena vs Seed-Sowing Geezers: One Hundred Fucks From Hell'!"""
+Erena,Erena,English_Steam,Erena.Debauchery2-10,785,785,DIFF_SAME_SHEET,Erena was surrounded by many men with raging hard-ons.,Elena was surrounded by many men with raging hard-ons.
+Erena,Erena,English_Steam,Erena.Debauchery2-15,795,795,DIFF_SAME_SHEET,"""Erena, what's on your mind? Are you scared of facing a hundred men?""","""Elena, what's on your mind? Are you scared of facing a hundred men?"""
+Erena,Erena,English_Steam,Erena.Debauchery2-37,839,839,DIFF_SAME_SHEET,"""So that was the first person! Not bad, Erena.""","""So that was the first person! Not bad, Elena."""
+Erena,Erena,English_Steam,Erena.Debauchery2-42,849,849,DIFF_SAME_SHEET,A cock came out from Erena's jizz-filled vagina with a slurping sound.,A cock came out from Elena's jizz-filled vagina with a slurping sound.
+Erena,Erena,English_Steam,Erena.Debauchery2-45,855,855,DIFF_SAME_SHEET,"""Thank you, director. How was Erena?""","""Thank you, director. How was Elena?"""
+Erena,Erena,English_Steam,Erena.Debauchery2-61,887,887,DIFF_SAME_SHEET,"After that, Erena, the Tentacle Man, and the extras that left behind had sex all night...","After that, Elena, the Tentacle Man, and the extras that left behind had sex all night..."
+Erena,Erena,English_Steam,Erena.Core1-18,924,924,DIFF_SAME_SHEET,Erena was caught by countless tentacles and swallowed whole.,Elena was caught by countless tentacles and swallowed whole.
+Erena,Erena,English_Steam,Erena.Core1-25,938,938,DIFF_SAME_SHEET,Just when Erena was about to go all out to get out of the fiend...,Just when Elena was about to go all out to get out of the fiend...
+Erena,Erena,English_Steam,Erena.Core1-33,954,954,DIFF_SAME_SHEET,The flesh wrapping around Erena contracted and pushed her in further.,The flesh wrapping around Elena contracted and pushed her in further.
+Erena,Erena,English_Steam,Erena.Core1-38,964,964,DIFF_SAME_SHEET,The intestinal movements allowed the fiend to swallow Erena further down its digestive system.,The intestinal movements allowed the fiend to swallow Elena further down its digestive system.
+Erena,Erena,English_Steam,Erena.Core1-41,970,970,DIFF_SAME_SHEET,"Erena thought about how to get out several times, but she had no solutions when faced with the tremendous power of the fiend.","Elena thought about how to get out several times, but she had no solutions when faced with the tremendous power of the fiend."
+Erena,Erena,English_Steam,Erena.Core1-48,984,984,DIFF_SAME_SHEET,Erena glowed yellow as her transformation was undone.,Elena glowed yellow as her transformation was undone.
+Erena,Erena,English_Steam,Erena.Core1-50,988,988,DIFF_SAME_SHEET,"The flesh of the fiend came down on Erena, who lost her strength.","The flesh of the fiend came down on Elena, who lost her strength."
+Erena,Erena,English_Steam,Erena.Core1-52,992,992,DIFF_SAME_SHEET,(It's pressing against me and I can't move...),(It's pressing against me♥ and I can't move♥...)
+Erena,Erena,English_Steam,Erena.Core1-53,994,994,DIFF_SAME_SHEET,(Is this it for me?),(Is this it for me♥?)
+Erena,Erena,English_Steam,Erena.Core1-55,998,998,DIFF_SAME_SHEET,(What is this?!),(What is this♥?!)
+Erena,Erena,English_Steam,Erena.Core1-58,1004,1004,DIFF_SAME_SHEET,(I hate this! I can't believe this is how I'm going to die...),(I hate this! I can't believe this is how I'm going to die♥...)
+Erena,Erena,English_Steam,Erena.Core1-59,1006,1006,DIFF_SAME_SHEET,"With the movements and the digestive acid, Erena was sent further down the fiend's digestive system as she was being digested.","With the movements and the digestive acid, Elena was sent further down the fiend's digestive system as she was being digested."
+Erena,Erena,English_Steam,Erena.Core1-61,1010,1010,DIFF_SAME_SHEET,Erena felt like she was losing herself.,Elena felt like she was losing herself.
+Erena,Erena,English_Steam,Erena.Core1-63,1014,1014,DIFF_SAME_SHEET,Erena lost consciousness.,Elena lost consciousness.
+Erena,Erena,English_Steam,Erena.Core2-1,1018,1018,DIFF_SAME_SHEET,A while after Erena was eaten by the fiend...,A while after Elena was eaten by the fiend...
+Erena,Erena,English_Steam,Erena.Core2-8,1032,1032,DIFF_SAME_SHEET,Erena felt something bright.,Elena felt something bright.
+Erena,Erena,English_Steam,Erena.Core2-13,1042,1042,DIFF_SAME_SHEET,(?!),(♥♥♥?!)
+Erena,Erena,English_Steam,Erena.Core2-27,1070,1070,DIFF_SAME_SHEET,A pair of tong-like arms appeared and picked up Erena.,A pair of tong-like arms appeared and picked up Elena.
+Erena,Erena,English_Steam,Erena.Core2-36,1088,1088,DIFF_SAME_SHEET,Erena tried to flex her muscles and exit the container.,Elena tried to flex her muscles and exit the container.
+Erena,Erena,English_Steam,Erena.Core2-38,1092,1092,DIFF_SAME_SHEET,The lid was closed and Erena was shut inside the container.,The lid was closed and Elena was shut inside the container.
+Erena,Erena,English_Steam,Erena.Core2-46,1108,1108,DIFF_SAME_SHEET,Erena's Holy Core was made into a sex sleeve for the soldiers...,Elena's Holy Core was made into a sex sleeve for the soldiers...
+Kei,Kei,English_Steam,Kei.Fallen1-5,11,11,DIFF_SAME_SHEET,"""Aren't you going to re-educate me like you did with the other captured Holy Core Battlemaidens?""","""Aren't you going to brainwash me like you did with the other captured Holy Core Battlemaidens?"""
+Kei,Kei,English_Steam,Kei.Fallen1-8,17,17,DIFF_SAME_SHEET,"""I do, you're going to humiliate me as much as possible and then re-educate me, right?""","""I do, you're going to humiliate me as much as possible and then brainwash me, right?"""
+Kei,Kei,English_Steam,Kei.Fallen2-13,311,311,DIFF_SAME_SHEET,"""...Now, I'm going to squeeze my vagina very hard, so hurry up and ejaculate.""","""...Now, I'll going to squeeze my vagina very hard, so hurry up and ejaculate."""
+Kei,Kei,English_Steam,Kei.Fallen2-45,375,375,DIFF_SAME_SHEET,"""Whoa, I can't hold it, I'm comoing!""","""Whoa, I can't hold it, I'm cumming!"""
+Kei,Kei,English_Steam,Kei.Fallen3-8,495,495,DIFF_SAME_SHEET,"""Hehe, 'this bitch' is harsh. I'm now a modified soldier here, you know?""","""Hehe, 'this bitch' is harsh. I'm now a brainwashed and modified soldier here, you know?"""
+Kei,Kei,English_Steam,Kei.Debauchery1-65,713,713,DIFF_SAME_SHEET,"""This piston moves in sync with viewer donations. Oh, someone's already donating.""","""This piston moves in sync with viewer donations. Oh, someone's already donating."
+Kei,Kei,English_Steam,Kei.Debauchery2-33,849,849,DIFF_SAME_SHEET,"""Higu♥!? St-still only halfway!?""","""Wh♥!? What rule♥!?"""
+Record,Record,English_Steam,Record.CloneTask-49,532,532,DIFF_SAME_SHEET,"""After the soldier pulsated several times, the remaining semen was unloaded.""","After the soldier pulsated several times, the remaining semen was unloaded."""
+Record,Record,English_Steam,Record.Erenayuta-1,554,554,DIFF_SAME_SHEET,Some time passed after Erena and Nayuta fell into the Foundation's hands...,Some time passed after Elena and Nayuta fell into the Foundation's hands...
+Record,Record,English_Steam,Record.Erenayuta-2,556,556,DIFF_SAME_SHEET,Erena and Nayuta were tied to the wall of a public restroom.,Elena and Nayuta were tied to the wall of a public restroom.
+Record,Record,English_Steam,Record.Erenayuta-29,610,610,DIFF_SAME_SHEET,"Nayuta and Erena competed by tightening, encouraging ejaculations.","Nayuta and Elena competed by tightening, encouraging ejaculations."
+Record,Record,English_Steam,Record.Erenayuta-32,616,616,DIFF_SAME_SHEET,"""Whoa, amazing... So this is Erena the porn star's pussy...""","""Whoa, amazing... So this is Elena the porn star's pussy..."""
+Record,Record,English_Steam,Record.Erenayuta-38,628,628,DIFF_SAME_SHEET,"""I won't lose to Erena♥ Of course I'll win♥""","""I won't lose to Elena♥ Of course I'll win♥"""
+Record,Record,English_Steam,Record.Erenayuta-41,634,634,DIFF_SAME_SHEET,"Almost simultaneously, both Erena and Nayuta were filled with hot jizz.","Almost simultaneously, both Elena and Nayuta were filled with hot jizz."
+Record,Record,English_Steam,Record.Erenayuta-48,648,648,DIFF_SAME_SHEET,Then the next men approached Nayuta and Erena.,Then the next men approached Nayuta and Elena.
+Record,Record,English_Steam,Record.Erenayuta-55,662,662,DIFF_SAME_SHEET,And so Erena and Nayuta engaged in the public service competition all night long.,And so Elena and Nayuta engaged in the public service competition all night long.
+Record,Record,English_Steam,Record.Erenayuta-73,698,698,DIFF_SAME_SHEET,"Erena and Nayuta had already accepted countless men and their cocks, and no longer had any resistance to being cum dumpsters.","Elena and Nayuta had already accepted countless men and their cocks, and no longer had any resistance to being cum dumpsters."
+Record,Record,English_Steam,Record.Erenayuta-83,718,718,DIFF_SAME_SHEET,"Saying that, the man began urinating inside Erena.","Saying that, the man began urinating inside Elena."
+Record,Record,English_Steam,Record.Erenayuta-91,734,734,DIFF_SAME_SHEET,"""W-wait, m-me too♥ Please urinate on me too♥ I can't let Erena win♥""","""W-wait, m-me too♥ Please urinate on me too♥ I can't let Elena win♥"""
+Record,Record,English_Steam,Record.SeikakuEquip-2,812,812,DIFF_SAME_SHEET,"In one room of the Fallen Foundation’s underground hideout, the sounds of machinery and running water echoed through the air.","In a room in the Forren Foundation's underground hideout, there was a room echoing with the sound of machines and water."
+Record,Record,English_Steam,Record.SeikakuEquip-15,838,838,DIFF_SAME_SHEET,"After Erena's body was dissolved and processed, she was being used as a pussy in Kei, who had become a sex doll.","After Elena's body was dissolved and processed, she was being used as a pussy in Kei, who had become a sex doll."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC-P-5,14,14,DIFF_SAME_SHEET,"""Today's progress. Re-education depth at 36%... not much advancement.""","""Today's progress. Brainwashing depth at 36%... not much advancement."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC-P-9,22,22,DIFF_SAME_SHEET,"""Perhaps she has resistance to re-educating...? We'll need to report this to Technical Executive Kei.""","""Perhaps she has resistance to brainwashing...? We'll need to report this to Technical Executive Kei."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC-P-18,43,43,DIFF_SAME_SHEET,"""Production Exec Akiho, Finance Exec Erena, Military Exec Nayuta, Tech Exec Kei. Reports.""","""...Now then, Production Executive Akiho, Finance Executive Elena, Military Executive Nayuta, Technical Executive Kei, please give your reports."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC-P-31,71,71,DIFF_SAME_SHEET,"""These are soldiers created by capturing ordinary people and performing simple pseudo-Holy Core implant surgery and re-education.""","""These are soldiers created by capturing ordinary people and performing simple pseudo-Holy Core implant surgery and brainwashing."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC-P-89,192,192,DIFF_SAME_SHEET,"""And... Erena is there... I absolutely want to get her back!""","""And... Elena is there... I absolutely want to get her back!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-7,229,229,DIFF_SAME_SHEET,"""The Seidō Group was apparently developing it to support Holy Core Battlemaidens... They say its combat power rivals Nayuta's.""","""The Seidou Group was apparently developing it to support Holy Core Battlemaidens... They say its combat power rivals Nayuta's."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-10,237,237,DIFF_SAME_SHEET,"""It's at a facility under Seidō Group's control. However...""","""It's at a facility under Seidou Group's control. However..."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-12,241,241,DIFF_SAME_SHEET,"""The storage facility is under Foundation control and heavily guarded... Now it's difficult to enter without Erena's permission.""","""The storage facility is under Foundation control and heavily guarded... Now it's difficult to enter without Elena's permission."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-14,245,245,DIFF_SAME_SHEET,"""...So we just need to kidnap Erena Seidō and force her to open it.""","""...So we just need to kidnap Elena Seidou and force her to open it."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-16,249,249,DIFF_SAME_SHEET,"""If possible, we could persuade her... If not, if we had something to prove it's Erena's directive... like an ID card...?""","""If possible, we could persuade her... If not, if we had something to prove it's Elena's directive... like an ID card...?"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-17,251,251,DIFF_SAME_SHEET,"""But... how do you plan to approach Erena Seidō?""","""But... how do you plan to approach Elena Seidou?"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-30,277,277,DIFF_SAME_SHEET,"""I... for peace! ...I fight to restore the peaceful daily life with Erena and all the Holy Core Battlemaidens...!""","""I... for peace! ...I fight to restore the peaceful daily life with Elena and all the Holy Core Battlemaidens...!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-98,414,414,DIFF_SAME_SHEET,(Spread the Foundation's control through fear and lust.),(Spread the Foundation's control through fear and lust.]
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-105,428,428,DIFF_SAME_SHEET,And so Hisui's re-education program continued for a while...,And so Hisui's brainwashing program continued for a while...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-126,470,470,DIFF_SAME_SHEET,(Nah♥ N-no...♥! I'm a Holy Core Battlemaiden...♥ This level of re-education...!),(Nah♥ N-no...♥! I'm a Holy Core Battlemaiden...♥ This level of brainwashing...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-159,540,540,DIFF_SAME_SHEET,"(...Haa, haa, I managed to withstand the re-education... right...?)","(...Haa, haa, I managed to withstand the brainwashing... right...?)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-1-171,564,564,DIFF_SAME_SHEET,(...In that case! Maybe I can get closer to Erena...!),(...In that case! Maybe I can get closer to Elena...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-2-21,624,624,DIFF_SAME_SHEET,(Senior executive unit...! There I might be able to get close to Erena...!),(Senior executive unit...! There I might be able to get close to Elena...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-2-25,632,632,DIFF_SAME_SHEET,"(Yes! Now I can get closer to the Foundation... no, to Erena...!)","(Yes! Now I can get closer to the Foundation... no, to Elena...!)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-2-28,638,638,DIFF_SAME_SHEET,"(Still, I'm a junior soldier now... I need to focus on what's in front of me to get closer to Erena...!)","(Still, I'm a junior soldier now... I need to focus on what's in front of me to get closer to Elena...!)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-2-61,709,709,DIFF_SAME_SHEET,"""Why is a junior soldier acting embarrassed? Want to be sent back to the re-educating device?""","""Why is a junior soldier acting embarrassed? Want to be sent back to the brainwashing device?"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-2-118,823,823,DIFF_SAME_SHEET,(Yes! Now I'm even closer... Yes! To Erena...!),(Yes! Now I'm even closer... Yes! To Elena...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-6,848,848,DIFF_SAME_SHEET,"(But... I still haven't been able to locate Erena... As expected, being a junior soldier has its limits...)","(But... I still haven't been able to locate Elena... As expected, being a junior soldier has its limits...)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-19,876,876,DIFF_SAME_SHEET,"""Yeah, it was good... Oh, that's right! I work under executive fiend Erena...""","""Yeah, it was good... Oh, that's right! I work under executive fiend Elena..."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-20,878,878,DIFF_SAME_SHEET,(Erena... Erena...?!),(Elena... Elena...?!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-24,886,886,DIFF_SAME_SHEET,"""Plus, Erena will be at the shoot... It's not often that a junior soldier gets to meet a high-ranking executive up close.""","""Plus, Elena will be at the shoot... It's not often that a junior soldier gets to meet a high-ranking executive up close."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-25,888,888,DIFF_SAME_SHEET,(Violating civilians is concerning... but this is my chance to get close to Erena!),(Violating civilians is concerning... but this is my chance to get close to Elena!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-28,896,896,DIFF_SAME_SHEET,"(...The filming day has finally arrived... If everything goes as planned, Erena will be here today...!)","(...The filming day has finally arrived... If everything goes as planned, Elena will be here today...!)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-30,900,900,DIFF_SAME_SHEET,(...Today is the big day... I absolutely must meet Erena!),(...Today is the big day... I absolutely must meet Elena!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-36,912,912,DIFF_SAME_SHEET,(...I knew it! Erena!),(...I knew it! Elena!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-38,916,916,DIFF_SAME_SHEET,"(...I don't understand the circumstances, but... Erena is still...)","(...I don't understand the circumstances, but... Elena is still...)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-52,946,946,DIFF_SAME_SHEET,(...Just a little more and I can reach Erena-senpai... This is the final push...),(...Just a little more and I can reach Elena-senpai... This is the final push...)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-76,994,994,DIFF_SAME_SHEET,(My pussy is tingling♥ it feels good... ugh♥ this is all... because of that weird education...♥),(My pussy is tingling♥ it feels good... ugh♥ this is all... because of that weird brainwashing...♥)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-78,998,998,DIFF_SAME_SHEET,(Haah♥ if Erena saw me like this...♥),(Haah♥ if Elena saw me like this...♥)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-122,1088,1088,DIFF_SAME_SHEET,(Erena is over there... now's my chance...!),(Elena is over there... now's my chance...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-124,1094,1094,DIFF_SAME_SHEET,Hisui found an opening when Erena was alone and rushed to her.,Hisui found an opening when Elena was alone and rushed to her.
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-127,1100,1100,DIFF_SAME_SHEET,"(...Eh, Erena... right?)","(...Eh, Elena... right?)"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-130,1106,1106,DIFF_SAME_SHEET,"""It's me! Erena...!""","""It's me! Elena...!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-137,1120,1120,DIFF_SAME_SHEET,"""...Erena, about you being a Foundation executive... that's not real, is it...?""","""...Elena, about you being a Foundation executive... that's not real, is it...?"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-145,1136,1136,DIFF_SAME_SHEET,"At that moment, purple light rose from Erena and enveloped her body.","At that moment, purple light rose from Elena and enveloped her body."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-152,1150,1150,DIFF_SAME_SHEET,"Just when Erena was about to strike Hisui down, something broke through the ceiling and came into the room.","Just when Elena was about to strike Hisui down, something broke through the ceiling and came into the room."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-155,1156,1156,DIFF_SAME_SHEET,"""I found you, Erena Seidō!! Haah!!""","""I found you, Elena Seidou!! Haah!!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-157,1160,1160,DIFF_SAME_SHEET,"As Daiya swung her sword, Erena's wrist was severed along with her spear and flew through the air.","As Daiya swung her sword, Elena's wrist was severed along with her spear and flew through the air."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC1-3-159,1164,1164,DIFF_SAME_SHEET,"""I am Holy Core Battlemaiden Diamond! Erena Seidō, I condemn you for the crime of betraying the Holy Core Battlemaidens and peace!""","""I am Holy Core Battlemaiden Diamond! Elena Seidou, I condemn you for the crime of betraying the Holy Core Battlemaidens and peace!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-5,1179,1179,DIFF_SAME_SHEET,"""The perimeter is completely secured. Erena Seidō, resistance is futile.""","""The perimeter is completely secured. Elena Seidou, resistance is futile."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-7,1183,1183,DIFF_SAME_SHEET,"""...Good work, Hisui. Thanks to you, we were able to corner Erena Seidō.""","""...Good work, Hisui. Thanks to you, we were able to corner Elena Seidou."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-14,1197,1197,DIFF_SAME_SHEET,"""...Erena Seidō, you will come with us as a prisoner.""","""...Elena Kijofuji, you will come with us as a prisoner."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-16,1201,1201,DIFF_SAME_SHEET,"Erena's entire body pulsated, and flesh bulged from the severed arm's stump.","Elena's entire body pulsated, and flesh bulged from the severed arm's stump."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-18,1205,1205,DIFF_SAME_SHEET,"""E-Erena...?!""","""E-Elena...?!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-20,1209,1209,DIFF_SAME_SHEET,"Erena's entire body turned red, and countless tentacles emerged from her body.","Elena's entire body turned red, and countless tentacles emerged from her body."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-31,1231,1231,DIFF_SAME_SHEET,"""Ah... but... E-Erena...?""","""Ah... but... E-Elena...?"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-36,1243,1243,DIFF_SAME_SHEET,Several minutes after the battle between Daiya and Erena began,Several minutes after the battle between Daiya and Elena began
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-42,1255,1255,DIFF_SAME_SHEET,"An arrow pierced Erena's body, and the tentacles stopped moving for a moment.","An arrow pierced Elena's body, and the tentacles stopped moving for a moment."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-44,1259,1259,DIFF_SAME_SHEET,"Seizing the opportunity, Daiya cut off several of Erena's tentacles.","Seizing the opportunity, Daiya cut off several of Elena's tentacles."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-49,1269,1269,DIFF_SAME_SHEET,"""Even if it's Erena... she's just a fiend now... I've made my resolve!""","""Even if it's Elena... she's just a fiend now... I've made my resolve!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-53,1277,1277,DIFF_SAME_SHEET,"However, Daiya and Hisui steadily cut off Erena's tentacles.","However, Daiya and Hisui steadily cut off Elena's tentacles."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-58,1287,1287,DIFF_SAME_SHEET,Daiya stopped her sword aimed at Erena and retreated.,Daiya stopped her sword aimed at Elena and retreated.
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-63,1297,1297,DIFF_SAME_SHEET,Crash!,"Crash!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-75,1325,1325,DIFF_SAME_SHEET,"Daiya had been utterly defeated by Nayuta and Erena, and was already half unconscious.","Daiya had been utterly defeated by Nayuta and Elena, and was already half unconscious."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-0-80,1335,1335,DIFF_SAME_SHEET,"""Erena, killing capture targets violates orders.""","""Elena, killing capture targets violates orders."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-11,1388,1388,DIFF_SAME_SHEET,"""Fufu, please do your best. Now then...""","""Fufu, please do your best. Now then..."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-25,1420,1420,DIFF_SAME_SHEET,Seidō Group Secret Warehouse,Seidou Group Secret Warehouse
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-26,1422,1422,DIFF_SAME_SHEET,"""KIIIIII! And so, under senior executive Erena's orders, I'm here to secretly inspect the powered suits!""","""KIIIIII! And so, under senior executive Elena's orders, I'm here to secretly inspect the powered suits!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-31,1432,1432,DIFF_SAME_SHEET,(That's right! ...While I got the soldier uniform... I was in such a rush that I don't have anything to prove this is Erena's order...!),(That's right! ...While I got the soldier uniform... I was in such a rush that I don't have anything to prove this is Elena's order...!)
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-86,1544,1544,DIFF_SAME_SHEET,"""Mmph♥ slurp♥ sluuurp♥ nnn♥""","""Mmph♥ slurp♥ sluuurp♥ nnn♥"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-1-99,1576,1576,DIFF_SAME_SHEET,"""This is the powered suit the Seidō Group was developing...""","""This is the powered suit the Seidou Group was developing..."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-2-37,1671,1671,DIFF_SAME_SHEET,"“Hah… hah… I’m not really sure what happened, but… it seems to have worked. Thank you, Kei.”","""Haah... haah... I don't quite understand... but it seems to have worked? Thank you, Kei."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-11,1753,1753,DIFF_SAME_SHEET,"""I plan to re-educate all the other fiends and executives as my pawns and soldiers.""","""I plan to re-brainwash all the other fiends and executives as my pawns and soldiers."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-16(1),1767,1767,DIFF_SAME_SHEET,"""You clearly tampered with the soldier management system. Naturally, I have backups.""","""There's no way you haven't tampered with the soldier management system. Of course I have backups."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-21(1),1787,1787,DIFF_SAME_SHEET,"""You tried to overthrow the organization. That's considered a grave betrayal.""","""You attempted to overthrow the organization, and that is considered a serious act of betrayal."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-33,1817,1817,DIFF_SAME_SHEET,"""Guh...! I see... You're trying to re-educate me with the soldier conversion device to make me obey the organization.""","""Guh...! I see... You're trying to brainwash me with the soldier conversion device to make me obey the organization."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-51,1853,1853,DIFF_SAME_SHEET,"Kei then focused and attempted to connect to the re-educating device, but...","Kei then focused and attempted to connect to the brainwashing device, but..."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-72,1897,1897,DIFF_SAME_SHEET,Several dozen hours after Kei’s modification began...,Several dozen hours after Kei's modification began
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-80,1913,1913,DIFF_SAME_SHEET,"""Noooh?! Ohooh♥!!? Whash... happeniiing♥?!!""","""Noooh?! Ohooh♥!!? Whash... happeniiing♥?!!"
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-90,1933,1933,DIFF_SAME_SHEET,"Kei desperately resists, but with her intelligence diminished, she can barely even think anymore.","Kei desperately resisted, but with her reduced intelligence, she could barely think."
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-109,1971,1971,DIFF_SAME_SHEET,―――――――――――,...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-110,1973,1973,DIFF_SAME_SHEET,――――――――,...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-111,1975,1975,DIFF_SAME_SHEET,――――,...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-122,2000,2000,DIFF_SAME_SHEET,"“Eh? Haha… no way! Kei-chan, who’s always acting so cool, ended up like this? Ahahahaha!”","""What... No way?! Kei was always so composed... AHAHAHAHA!!!"""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-130(1),2018,2018,DIFF_SAME_SHEET,"""I spared her self-awareness. Her intelligence is backed up, so she can be restored.""","""Out of mercy, I left her self-awareness. Intelligence is backed up too, so restoration is possible."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-131(1),2020,2020,DIFF_SAME_SHEET,"""If she proves loyal as a junior soldier, I'll let her return as an executive.""","""If she accomplishes things as a junior soldier and shows loyalty to the organization, I'll give her a chance to return as an executive."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-144(1),2050,2050,DIFF_SAME_SHEET,"""...Junior Soldier K22. Serve under 072 and prove your loyalty to the Foundation.""","""...Junior soldier K22. Give your all in mission execution under 072 to demonstrate loyalty to the Foundation."""
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-148,2060,2060,DIFF_SAME_SHEET,――――――――,...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-149,2062,2062,DIFF_SAME_SHEET,――――,...
+DLCメインストーリー,DLCメインストーリー,English_Steam,Dialog.DLC2-3-150,2064,2064,DIFF_SAME_SHEET,ー,...
+Hisui,Hisui,English_Steam,Hisui.Fallen1-49,104,104,DIFF_SAME_SHEET,(The re-educating... it's more powerful than last time...?!),(The brainwashing... it's more powerful than last time...?!)
+Hisui,Hisui,English_Steam,Hisui.Fallen1-53,112,112,DIFF_SAME_SHEET,(T-this is bad... at this rate I'll really be re-educated...),(T-this is bad... at this rate I'll really be brainwashed...)
+Hisui,Hisui,English_Steam,Hisui.Fallen1-74,156,156,DIFF_SAME_SHEET,(N-no...! If I'm re-educated without my Holy Core Battlemaiden powers... I'll really become a soldier...?!),(N-no...! If I'm brainwashed without my Holy Core Battlemaiden powers... I'll really become a soldier...?!)
+Hisui,Hisui,English_Steam,Hisui.Fallen1-98,204,204,DIFF_SAME_SHEET,(And... Erena too...! Someday I'll get her back...!),(And... Elena too...! Someday I'll get her back...!)
+Hisui,Hisui,English_Steam,Hisui.Fallen1-152,320,320,DIFF_SAME_SHEET,"[Re-educating complete. K46, report.]","[Brainwashing complete. K46, report.]"
+Hisui,Hisui,English_Steam,Hisui.Fallen1-153,322,322,DIFF_SAME_SHEET,"""KIIIIII! K46, re-educating complete!""","""KIIIIII! K46, brainwashing complete!"""
+Hisui,Hisui,English_Steam,Hisui.Fallen2-12,374,374,DIFF_SAME_SHEET,"""Man, this is a great job... Every day newly re-educated women suck on us!""","""Man, this is a great job... Every day newly brainwashed women suck on us!"""
+Hisui,Hisui,English_Steam,Hisui.Fallen2-28,406,406,DIFF_SAME_SHEET,"""Was she some kind of slut before the re-educating...?!""","""Was she some kind of slut before the brainwashing...?!"""
+Hisui,Hisui,English_Steam,Hisui.Fallen3-60,708,708,DIFF_SAME_SHEET,(...Again... this re-educating device...),(...Again... this brainwashing device...)
+Hisui,Hisui,English_Steam,Hisui.Fallen3-68,724,724,DIFF_SAME_SHEET,And so the sense of unease that had sprouted in K46 was completely erased along with the re-educating.,And so the sense of unease that had sprouted in K46 was completely erased along with the brainwashing.
+Hisui,Hisui,English_Steam,Hisui.Fallen3-78,744,744,DIFF_SAME_SHEET,――――――――,...
+Hisui,Hisui,English_Steam,Hisui.Fallen3-79,746,746,DIFF_SAME_SHEET,――――,...
+Hisui,Hisui,English_Steam,Hisui.Fallen3-80,748,748,DIFF_SAME_SHEET,ー,...
+Hisui DLC2,Hisui,English_Steam,Hisui.Horny1-17,36,784,DIFF_GLOBAL_KEY_MATCH,"""Guh... I, a Holy Core Battlemaiden... Erena Seidō, losing to such weak soldiers...!""","""Guh... I, a Holy Core Battlemaiden... Elena Seidou, losing to such weak soldiers...!"""
+Hisui DLC2,Hisui,English_Steam,Hisui.Horny1-67,136,884,DIFF_GLOBAL_KEY_MATCH,"""Aah♥, I-I want it♥, I can't win♥, Erena Seidō♥ has been defeated by the soldier's cock♥""","""Aah♥, I-I want it♥, I can't win♥, Elena Seidou♥ has been defeated by the soldier's cock♥"""
+Hisui DLC2,Hisui,English_Steam,Hisui.Core1-18,376,1124,DIFF_GLOBAL_KEY_MATCH,"""Yes, unfortunately... Before you were re-educated as a soldier, you were a Holy Core Battlemaiden.""","""Yes, unfortunately... Before you were brainwashed as a soldier, you were a Holy Core Battlemaiden."""
+Hisui DLC2,Hisui,English_Steam,Hisui.Core1-55,450,1198,DIFF_GLOBAL_KEY_MATCH,"""Hooh♥, the Holy Core♥ is coming out! My♥""","""Hooh♥, the Holy Core♥ is coming out! Of my♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-2,6,528,DIFF_GLOBAL_KEY_MATCH,Heh♥ heh♥ did you call for me♥ Lady Nayuta♥!,"""Heh♥ heh♥ did you call for me♥ Lady Nayuta♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-3,8,530,DIFF_GLOBAL_KEY_MATCH,Fufu♥ what a good girl! You pathetic and pitiful Daiya♥,"""Fufu♥ what a good girl! You pathetic and pitiful Daiya♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-4,10,532,DIFF_GLOBAL_KEY_MATCH,There's no other reason I called you here. Today you'll serve Master together with me.,"""There's no other reason I called you here. Today you'll serve Master together with me."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-5,12,534,DIFF_GLOBAL_KEY_MATCH,Heh♥ Woof♥ I'm so happy♥!,"""Heh♥ Woof♥ I'm so happy♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-6,14,536,DIFF_GLOBAL_KEY_MATCH,"That being the case, I'll return your limbs to you. Now, let's go to Master together♥","""That being the case, I'll return your limbs to you. Now, let's go to Master together♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-7,16,538,DIFF_GLOBAL_KEY_MATCH,Woof♥ Master♥ I'll serve you♥!!,"""Woof♥ Master♥ I'll serve you♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-10,24,546,DIFF_GLOBAL_KEY_MATCH,"Mmchu♥, slurp♥, mmm♥...","""Mmchu♥, slurp♥, mmm♥..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-11,26,548,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, slurp♥, lick♥...","""Haa♥, haa♥, slurp♥, lick♥..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-12,28,550,DIFF_GLOBAL_KEY_MATCH,"Haa♥, how is it... Master♥","""Haa♥, how is it... Master♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-13,30,552,DIFF_GLOBAL_KEY_MATCH,Our♥... pig service♥... please enjoy it to the fullest...♥,"""Our♥... pig service♥... please enjoy it to the fullest...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-14,32,554,DIFF_GLOBAL_KEY_MATCH,"Gufufu...! Good work, you pigs!","""Gufufu...! Good work, you pigs!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-15,34,556,DIFF_GLOBAL_KEY_MATCH,"Come on, Daiya... This is the cock that's going to fuck us...♥ We need to clean it more thoroughly...♥","""Come on, Daiya... This is the cock that's going to fuck us...♥ We need to clean it more thoroughly...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-16,36,558,DIFF_GLOBAL_KEY_MATCH,"Yes...♥ Lady Nayuta... lick♥, lick♥, chuuu♥","""Yes...♥ Lady Nayuta... lick♥, lick♥, chuuu♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-17,38,560,DIFF_GLOBAL_KEY_MATCH,"Fufufu♥, you're doing so well♥","""Fufufu♥, you're doing so well♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-18,40,562,DIFF_GLOBAL_KEY_MATCH,"Also... right now, both you and I are Master's pigs...♥ You don't need to use honorifics♥","""Also... right now, both you and I are Master's pigs...♥ You don't need to use honorifics♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-19,42,564,DIFF_GLOBAL_KEY_MATCH,B-but that's...,"""B-but that's..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-20,44,566,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, it's true that I'm overwhelmingly higher in rank than you... but before Master, we're equally just sex slaves...♥","""Fufu♥, it's true that I'm overwhelmingly higher in rank than you... but before Master, we're equally just sex slaves...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-21,46,568,DIFF_GLOBAL_KEY_MATCH,B-but... for a dog like me to address Lady Nayuta without honorifics...,"""B-but... for a dog like me to address Lady Nayuta without honorifics..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-22,48,570,DIFF_GLOBAL_KEY_MATCH,"I don't mind that at all... but now that I think about it, it's rude for pigs to use human names...","""I don't mind that at all... but now that I think about it, it's rude for pigs to use human names..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-23,50,572,DIFF_GLOBAL_KEY_MATCH,"Let's do this then! I'm pig 1, and you're pig 2♥","""Let's do this then! I'm pig 1, and you're pig 2♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-24,52,574,DIFF_GLOBAL_KEY_MATCH,"This is an order...♥ Now, pig 2? Let's service Master♥","""This is an order...♥ Now, pig 2? Let's service Master♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-25,54,576,DIFF_GLOBAL_KEY_MATCH,O-oink♥ Pig 1♥! I'll service him too♥,"""O-oink♥ Pig 1♥! I'll service him too♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-27,58,580,DIFF_GLOBAL_KEY_MATCH,"Haa♥, how are they... my tits...♥","""Haa♥, how are they... my tits...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-28,60,582,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, how cute♥, haven't they gotten quite big♥?","""Fufu♥, how cute♥, haven't they gotten quite big♥?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-29,62,584,DIFF_GLOBAL_KEY_MATCH,"Yes...♥ While servicing Master♥, they've gotten this big♥","""Yes...♥ While servicing Master♥, they've gotten this big♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-30,64,586,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, you're such a good girl♥, pig 2? Well, mine are like this too thanks to Master's affection...♥","""Fufu♥, you're such a good girl♥, pig 2? Well, mine are like this too thanks to Master's affection...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-31,66,588,DIFF_GLOBAL_KEY_MATCH,"Even so♥, Master's huge cock poking out from between our tits♥, it's too amazing♥","""Even so♥, Master's huge cock poking out from between our tits♥, it's too amazing♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-32,68,590,DIFF_GLOBAL_KEY_MATCH,"Oink♥, you're right...♥ The cock's pulsing reaches my heart♥, and I♥ can't help getting horny♥","""Oink♥, you're right...♥ The cock's pulsing reaches my heart♥, and I♥ can't help getting horny♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-34,72,594,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, slurrrp♥","""Haa♥, haa♥, slurrrp♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-35,74,596,DIFF_GLOBAL_KEY_MATCH,"Slurp♥ haa♥, it's already thoroughly wet... and so big...♥","""Slurp♥ haa♥, it's already thoroughly wet... and so big...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-36,76,598,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, Master's... cock♥!","""Haa♥, haa♥, Master's... cock♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-37,78,600,DIFF_GLOBAL_KEY_MATCH,"Gufufu... That's enough, pigs... I'll take you in turns!","""Gufufu... That's enough, pigs... I'll take you in turns!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-38,80,602,DIFF_GLOBAL_KEY_MATCH,♥ Oink! Master♥!,"""♥ Oink! Master♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-39,82,604,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, please do♥","""Haa♥, haa♥, please do♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-40,86,608,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, haa♥... gulp...♥","""Haa♥, haa♥, haa♥... gulp...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-41,88,610,DIFF_GLOBAL_KEY_MATCH,Usually I'm just used by Master♥... but today I'll be the one servicing♥,"""Usually I'm just used by Master♥... but today I'll be the one servicing♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-42,90,612,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, pig 2, getting so desperate for cock♥... how cute♥","""Fufu♥, pig 2, getting so desperate for cock♥... how cute♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-43,92,614,DIFF_GLOBAL_KEY_MATCH,"Oink♥, Master's cock♥, haa♥ haa♥","""Oink♥, Master's cock♥, haa♥ haa♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-44,94,616,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, it seems pig 2 can't hold back anymore...♥ Now, Master...♥","""Fufu♥, it seems pig 2 can't hold back anymore...♥ Now, Master...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-45,96,618,DIFF_GLOBAL_KEY_MATCH,Gufufu... Very well. I permit insertion,"""Gufufu... Very well. I permit insertion"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-46,98,620,DIFF_GLOBAL_KEY_MATCH,"Haa♥ haa♥ oink♥! Cock♥, I'll be putting it in♥!","""Haa♥ haa♥ oink♥! Cock♥, I'll be putting it in♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-47,100,622,DIFF_GLOBAL_KEY_MATCH,Haa♥... All the way to this part of my belly...♥,"""Haa♥... All the way to this part of my belly...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-49,104,626,DIFF_GLOBAL_KEY_MATCH,"H-Here I come♥, oink!","""H-Here I come♥, oink!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-51,108,630,DIFF_GLOBAL_KEY_MATCH,"Oink♥, ohhhhhhh♥♥!?","""Oink♥, ohhhhhhh♥♥!?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-52,110,632,DIFF_GLOBAL_KEY_MATCH,"Hooh♥, oink, i-it's inside♥!!","""Hooh♥, oink, i-it's inside♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-53,112,634,DIFF_GLOBAL_KEY_MATCH,"Ohh♥! Hooh♥, oh♥...!!","""Ohh♥! Hooh♥, oh♥...!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-54,114,636,DIFF_GLOBAL_KEY_MATCH,"Oh my, pig 2...♥ Don't tell me you came just from putting it in?","""Oh my, pig 2...♥ Don't tell me you came just from putting it in?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-55,116,638,DIFF_GLOBAL_KEY_MATCH,"Hiuu♥, oink♥, y-yes♥, Master's cock is too amazing♥...!","""Hiuu♥, oink♥, y-yes♥, Master's cock is too amazing♥...!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-56,118,640,DIFF_GLOBAL_KEY_MATCH,"I'm so sorry♥, Master♥","""I'm so sorry♥, Master♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-57,120,642,DIFF_GLOBAL_KEY_MATCH,"Honestly... pig 2 should be almost as strong as me...♥ Well, I suppose it can't be helped before Master's cock♥","""Honestly... pig 2 should be almost as strong as me...♥ Well, I suppose it can't be helped before Master's cock♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-58,122,644,DIFF_GLOBAL_KEY_MATCH,"Well, you were always held by Master and used like a toy♥ But you're reasonably strong, so you need to try harder!","""Well, you were always held by Master and used like a toy♥ But you're reasonably strong, so you need to try harder!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-59,124,646,DIFF_GLOBAL_KEY_MATCH,"Yes♥, pig 2♥ will do her best to make Master's cock feel good♥!!","""Yes♥, pig 2♥ will do her best to make Master's cock feel good♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-60,126,648,DIFF_GLOBAL_KEY_MATCH,"Uuh♥, oh♥... ohh♥!","""Uuh♥, oh♥... ohh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-62,130,652,DIFF_GLOBAL_KEY_MATCH,Ohooh♥! Ohh♥! H-how is it...♥!,"""Ohooh♥! Ohh♥! H-how is it...♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-63,132,654,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, every time you move, your belly bulges in the shape of his cock♥♥","""Fufu♥, every time you move, your belly bulges in the shape of his cock♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-64,134,656,DIFF_GLOBAL_KEY_MATCH,"Oink♥, oh♥! Oh♥!","""Oink♥, oh♥! Oh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-65,136,658,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, pig 2 is so desperate for cock♥... Me too...","""Fufu♥, pig 2 is so desperate for cock♥... Me too..."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-67,140,662,DIFF_GLOBAL_KEY_MATCH,"Oink♥, ehehe♥... Since pig 2 is working hard♥♥ pig 1 will cheer you on♥!","""Oink♥, ehehe♥... Since pig 2 is working hard♥♥ pig 1 will cheer you on♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-69,144,666,DIFF_GLOBAL_KEY_MATCH,"Aahn♥ Master's thick chest♥♥, so rugged and cool♥","""Aahn♥ Master's thick chest♥♥, so rugged and cool♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-70,146,668,DIFF_GLOBAL_KEY_MATCH,"Ahn♥, pig 1 too♥ is starting to want cock soon...♥","""Ahn♥, pig 1 too♥ is starting to want cock soon...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-71,148,670,DIFF_GLOBAL_KEY_MATCH,"Come on, pig 2♥, I'm waiting so please hurry up and switch...♥!","""Come on, pig 2♥, I'm waiting so please hurry up and switch...♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-72,150,672,DIFF_GLOBAL_KEY_MATCH,"Oink♥, hooh♥, ohh♥! W-wait♥, at least let me make Master come first♥!","""Oink♥, hooh♥, ohh♥! W-wait♥, at least let me make Master come first♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-73,152,674,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, I suppose it can't be helped♥, alright♥, make sure to service him well with your pussy♥","""Fufu♥, I suppose it can't be helped♥, alright♥, make sure to service him well with your pussy♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-74,154,676,DIFF_GLOBAL_KEY_MATCH,"Hooh♥, oink♥, yes♥, oh♥!","""Hooh♥, oink♥, yes♥, oh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-76,158,680,DIFF_GLOBAL_KEY_MATCH,"Oink♥, oink♥, ohhh♥!","""Oink♥, oink♥, ohhh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-77,160,682,DIFF_GLOBAL_KEY_MATCH,"Come on, pig #2, you can do it♥ Let's rub that cock more♥","""Come on, pig #2, you can do it♥ Let's rub that cock more♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-78,162,684,DIFF_GLOBAL_KEY_MATCH,Ohh♥! Hahi♥ cock♥,"""Ohh♥! Hahi♥ cock♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-79,164,686,DIFF_GLOBAL_KEY_MATCH,"Ohh♥!? Oh, Master♥, you're leaking a bit♥!?","""Ohh♥!? Oh, Master♥, you're leaking a bit♥!?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-80,166,688,DIFF_GLOBAL_KEY_MATCH,"Good job♥♥ Now, let's work hard and service him to the end♥♥","""Good job♥♥ Now, let's work hard and service him to the end♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-81,168,690,DIFF_GLOBAL_KEY_MATCH,"Ohh♥! Hooh♥, hooh♥!","""Ohh♥! Hooh♥, hooh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-83,172,694,DIFF_GLOBAL_KEY_MATCH,"Oink♥, I'm just a weak pig♥♥ but for Master♥ I'll use all my strength to service you♥!!","""Oink♥, I'm just a weak pig♥♥ but for Master♥ I'll use all my strength to service you♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-84,174,696,DIFF_GLOBAL_KEY_MATCH,Ohhh♥! Ohh♥! Oh♥!,"""Ohhh♥! Ohh♥! Oh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-86,178,700,DIFF_GLOBAL_KEY_MATCH,Oh♥! Just now♥ a bit came out♥ Master's♥♥ semen,"""Oh♥! Just now♥ a bit came out♥ Master's♥♥ semen."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-87,180,702,DIFF_GLOBAL_KEY_MATCH,Please come♥♥ Master's semen♥ oinkkkk♥!,"""Please come♥♥ Master's semen♥ oinkkkk♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-89,184,706,DIFF_GLOBAL_KEY_MATCH,"Hooh♥, ohhh~~~!♥♥!","""Hooh♥, ohhh~~~!♥♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-90,186,708,DIFF_GLOBAL_KEY_MATCH,Oinkkk!♥♥ Semen♥ it's coming out♥♥!!,"""Oinkkk!♥♥ Semen♥ it's coming out♥♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-91,188,710,DIFF_GLOBAL_KEY_MATCH,"Ahaha♥, pig 2's trained belly looks like a balloon♥♥","""Ahaha♥, pig 2's trained belly looks like a balloon♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-92,190,712,DIFF_GLOBAL_KEY_MATCH,Ohh♥! Ohh♥! Coming♥ oinkkk♥♥!!,"""Ohh♥! Ohh♥! Coming♥ oinkkk♥♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-94,194,716,DIFF_GLOBAL_KEY_MATCH,Hooh♥!? So much semen♥ too much♥!!,"""Hooh♥!? So much semen♥ too much♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-95,196,718,DIFF_GLOBAL_KEY_MATCH,A massive amount of semen came down like a waterfall from the point where they were joined.,A massive amount of semen came down like a waterfall from where they are joined
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-96,198,720,DIFF_GLOBAL_KEY_MATCH,"Aah♥, so much...♥ I'm jealous♥","""Aah♥, so much...♥ I'm jealous♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-97,200,722,DIFF_GLOBAL_KEY_MATCH,Ohh♥! Oh♥!,"""Ohh♥! Oh♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-98,202,724,DIFF_GLOBAL_KEY_MATCH,I came♥! Coming!♥ Masterrr♥!,"""I came♥! Coming!♥ Masterrr♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-99,204,726,DIFF_GLOBAL_KEY_MATCH,Hooh♥...! Oinkkk!,"""Hooh♥...! Oinkkk!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-100,206,728,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, good job...♥ Oink♥, I... can't hold back either♥","""Fufu♥, good job...♥ Oink♥, I... can't hold back either♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-101,208,730,DIFF_GLOBAL_KEY_MATCH,Hoohhhhh♥ oh♥,"""Hoohhhhh♥ oh♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-102,210,732,DIFF_GLOBAL_KEY_MATCH,"Fufu♥... Now, pig 2♥ the service has only just begun...♥","""Fufu♥... Now, pig 2♥ the service has only just begun...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-103,212,734,DIFF_GLOBAL_KEY_MATCH,We still need to make him come at least 10 more times before Master will be satisfied...♥,"""We still need to make him come at least 10 more times before Master will be satisfied...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-104,214,736,DIFF_GLOBAL_KEY_MATCH,Come on...♥ That's why you still have your Holy Core Battlemaiden powers...♥ Let's work together until he's satisfied♥,"""Come on...♥ That's why you still have your Holy Core Battlemaiden powers...♥ Let's work together until he's satisfied♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-105,216,738,DIFF_GLOBAL_KEY_MATCH,"Oink♥, oinkkk♥!","""Oink♥, oinkkk♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-106,218,740,DIFF_GLOBAL_KEY_MATCH,Pig 2♥♥... will work hard as Master's pet♥!!,"""Pig 2♥♥... will work hard as Master's pet♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-107,220,742,DIFF_GLOBAL_KEY_MATCH,――――――――,...
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-108,222,744,DIFF_GLOBAL_KEY_MATCH,――――,...
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery1-109,224,746,DIFF_GLOBAL_KEY_MATCH,ー,...
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-3,233,755,DIFF_GLOBAL_KEY_MATCH,Haa♥ Master's cock♥ aah♥,"""Haa♥ Master's cock♥ aah♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-4,235,757,DIFF_GLOBAL_KEY_MATCH,Lick♥ haa♥ haa♥,"""Lick♥ haa♥ haa♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-5,237,759,DIFF_GLOBAL_KEY_MATCH,"Haa♥, how is it... this junior soldier suit♥♥","""Haa♥, how is it... this junior soldier suit♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-6,239,761,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, this suit... clings so tightly to the skin...♥","""Haa♥, haa♥, this suit... clings so tightly to the skin...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-7,241,763,DIFF_GLOBAL_KEY_MATCH,"Gufufu... Today's cosplay is junior soldier, huh?","""Gufufu... Today's cosplay is junior soldier, huh?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-8,243,765,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, yes♥ before Master, we're nothing but dust...♥","""Fufu♥, yes♥ before Master, we're nothing but dust...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-9,245,767,DIFF_GLOBAL_KEY_MATCH,The junior soldier uniforms are our proper attire...♥,"""The junior soldier uniforms are our proper attire...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-10,247,769,DIFF_GLOBAL_KEY_MATCH,Yes♥... Master is the highest rank to us♥... we are the lowest rank♥♥,"""Yes♥... Master is the highest rank to us♥... we are the lowest rank♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-12,251,773,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, what was it again... those pathetic cries of the junior soldiers...♥","""Haa♥, haa♥, what was it again... those pathetic cries of the junior soldiers...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-13,253,775,DIFF_GLOBAL_KEY_MATCH,"Ah, it was like 'kii', wasn't it...♥ That ridiculous and pathetic kii kii sound...♥","""Ah, it was like 'kii', wasn't it...♥ That ridiculous and pathetic kii kii sound...♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-14,255,777,DIFF_GLOBAL_KEY_MATCH,But... exposing that patheticness to Master is what makes us true junior soldiers♥,"""But... exposing that patheticness to Master is what makes us true junior soldiers♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-15,257,779,DIFF_GLOBAL_KEY_MATCH,"Haa♥, KIIIIII♥!! Aah♥ come on, you too♥","""Haa♥, KIIIIII♥!! Aah♥ come on, you too♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-16,259,781,DIFF_GLOBAL_KEY_MATCH,K-KIIII!! Is this good...?,"""K-KIIII!! Is this good...?"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-17,261,783,DIFF_GLOBAL_KEY_MATCH,Fufu♥ that's perfect. And junior soldiers don't need luxuries like names♥,"""Fufu♥ that's perfect. And junior soldiers don't need luxuries like names♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-18,263,785,DIFF_GLOBAL_KEY_MATCH,"Well, I'll just be junior soldier 01. You're 02♥","""Well, I'll just be junior soldier 01. You're 02♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-19,265,787,DIFF_GLOBAL_KEY_MATCH,KIIIIII!! Junior soldier 02♥♥ will give Master with a titfuck♥♥,"""KIIIIII!! Junior soldier 02♥♥ will give Master with a titfuck♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-20,267,789,DIFF_GLOBAL_KEY_MATCH,KIIIIII!! Junior soldier 01 will also♥♥ serve the Master♥♥,"""KIIIIII!! Junior soldier 01 will also♥♥ serve the Master♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-21,271,793,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, haa♥ KIIIIII♥!!","""Haa♥, haa♥, haa♥ KIIIIII♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-22,273,795,DIFF_GLOBAL_KEY_MATCH,"Ahaha♥, Looks like 02 can't hold back anymore♥♥","""Ahaha♥, Looks like 02 can't hold back anymore♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-23,275,797,DIFF_GLOBAL_KEY_MATCH,"KIIII!!♥, yes♥ Master♥♥ please give 02♥♥ permission to insert♥♥","""KIIII!!♥, yes♥ Master♥♥ please give 02♥♥ permission to insert♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-24,277,799,DIFF_GLOBAL_KEY_MATCH,"Gufufu, very well, 02. I permit your service!","""Gufufu, very well, 02. I permit your service!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-25,279,801,DIFF_GLOBAL_KEY_MATCH,KIIIIII!! Thank you so much♥♥!,"""KIIIIII!! Thank you so much♥♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-26,281,803,DIFF_GLOBAL_KEY_MATCH,"I, junior soldier 02 will be taking Master's cock♥!!","""I, junior soldier 02 will be taking Master's cock♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-28,285,807,DIFF_GLOBAL_KEY_MATCH,Ohooh♥! K-KIIII!! Insertion complete♥!,"""Ohooh♥! K-KIIII!! Insertion complete♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-29,287,809,DIFF_GLOBAL_KEY_MATCH,"Now♥, I, junior soldier 02, will begin cock-stroking squats♥♥!","""Now♥, I, junior soldier 02, will begin cock-stroking squats♥♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-30,289,811,DIFF_GLOBAL_KEY_MATCH,"Ahaha♥, 02, you're really getting into character♥♥!","""Ahaha♥, 02, you're really getting into character♥♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-31,291,813,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, KIIIIIIII!!","""Haa♥, haa♥, KIIIIIIII!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-33,295,817,DIFF_GLOBAL_KEY_MATCH,"Hooh♥, hooh♥, K-KIIIIII!!","""Hooh♥, hooh♥, K-KIIIIII!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-34,297,819,DIFF_GLOBAL_KEY_MATCH,"Ahaha♥, truly pathetic and ridiculous♥♥ Exactly like a junior soldier!","""Ahaha♥, truly pathetic and ridiculous♥♥ Exactly like a junior soldier!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-35,299,821,DIFF_GLOBAL_KEY_MATCH,"Ohh♥! 01♥♥, thank you so much♥♥!","""Ohh♥! 01♥♥, thank you so much♥♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-36,301,823,DIFF_GLOBAL_KEY_MATCH,KIIIIII!! I'll work hard♥♥ to serve you♥!!,"""KIIIIII!! I'll work hard♥♥ to serve you♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-37,303,825,DIFF_GLOBAL_KEY_MATCH,"Oh, that's right...! I forgot about this♥","""Oh, that's right...! I forgot about this♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-38,307,829,DIFF_GLOBAL_KEY_MATCH,Junior soldier 01 placed a mask on 02,Junior soldier 01 placed a mask on 02.
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-39,309,831,DIFF_GLOBAL_KEY_MATCH,"KIIIIIIIII!? Wow, this is...♥!","""KIIIIIIIII!? Wow, this is...♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-40,311,833,DIFF_GLOBAL_KEY_MATCH,"Fufu♥, now we've completed the junior soldier look♥","""Fufu♥, now we've completed the junior soldier look♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-41,313,835,DIFF_GLOBAL_KEY_MATCH,Junior soldiers don't need individuality♥♥... We just need to be pocket pussies that serve Master♥♥,"""Junior soldiers don't need individuality♥♥... We just need to be pocket pussies that serve Master♥♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-42,315,837,DIFF_GLOBAL_KEY_MATCH,"KIIIIII! I, junior soldier 02, Will serve the master♥♥!!","""KIIIIII! I, junior soldier 02, Will serve the master♥♥!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-43,317,839,DIFF_GLOBAL_KEY_MATCH,Aha♥! KIIIIII! 02... you're so pathetic and wonderful♥,"""Aha♥! KIIIIII! 02... you're so pathetic and wonderful♥"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-44,319,841,DIFF_GLOBAL_KEY_MATCH,Now... let's service our senior fiend Master as junior soldier♥!,"""Now... let's service our senior fiend Master as junior soldier♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-45,321,843,DIFF_GLOBAL_KEY_MATCH,"KIIIIIII! I, junior soldier 02, will serve you with my pussy!","""KIIIIIII! I, junior soldier 02, will serve you with my pussy!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-47,325,847,DIFF_GLOBAL_KEY_MATCH,Ohh♥! K-KIIIIII♥! KIIIIII!,"""Ohh♥! K-KIIIIII♥! KIIIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-48,327,849,DIFF_GLOBAL_KEY_MATCH,"Haa♥, we're indistinguishable now♥ I'll serve the Master too♥... KIIIIII!","""Haa♥, we're indistinguishable now♥ I'll serve the Master too♥... KIIIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-49,329,851,DIFF_GLOBAL_KEY_MATCH,KIIIIII! Please come! I am ready for a creampie!!,"""KIIIIII! Please come! I am ready for a creampie!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-51,333,855,DIFF_GLOBAL_KEY_MATCH,Ohhh♥! Oh♥! KIIIIIIII♥!!!,"""Ohhh♥! Oh♥! KIIIIIIII♥!!!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-52,335,857,DIFF_GLOBAL_KEY_MATCH,"Report!♥, junior soldier 02♥ has received a creampie♥!","""Report!♥, junior soldier 02♥ has received a creampie♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-53,337,859,DIFF_GLOBAL_KEY_MATCH,KIIIIIIIIII♥!,"""KIIIIIIIIII♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-54,339,861,DIFF_GLOBAL_KEY_MATCH,"KIIIIIIII♥! Haa♥, Master♥... I am next♥!","""KIIIIIIII♥! Haa♥, Master♥... I am next♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-55,341,863,DIFF_GLOBAL_KEY_MATCH,"Gufufu, don't worry, junior soldiers... I'll fuck you so hard that you'll forget your original names.","""Gufufu, don't worry, junior soldiers... I'll fuck you so hard that you'll forget your original names."""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-56,343,865,DIFF_GLOBAL_KEY_MATCH,"Haa♥, haa♥, KIIIIIIII♥!","""Haa♥, haa♥, KIIIIIIII♥!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-57,345,867,DIFF_GLOBAL_KEY_MATCH,Oh♥! K-KIIIIIIII!,"""Oh♥! K-KIIIIIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-58,347,869,DIFF_GLOBAL_KEY_MATCH,Kiiii!,"""KIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-59,349,871,DIFF_GLOBAL_KEY_MATCH,Kiiii!,"""KIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-60,351,873,DIFF_GLOBAL_KEY_MATCH,Kiiii!,"""KIIII!"""
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-61,353,875,DIFF_GLOBAL_KEY_MATCH,――――――――,...
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-62,355,877,DIFF_GLOBAL_KEY_MATCH,――――,...
+Daiya DLC2,Daiya,English_Steam,Daiya.Debauchery2-63,357,879,DIFF_GLOBAL_KEY_MATCH,ー,...
