@@ -20,7 +20,7 @@ Dialog.Chapter2-1-9,生徒会室,聖月女学園生徒会室にて,対怪人特�
 ,,,,,,,,,
 Dialog.Chapter2-1-10,エレナ,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――それで、1週間前から明穂さんの様子がおかしく、家にもいなかったと。話はそれで終わりですか？」,「――――――您是說，明穗小姐從一週前開始行蹤不明，家裡也找不到她。妳想說的就這麽多嗎？」,「――――――您是說，明穗同學從一週前開始行蹤不明，家裡也找不到她。你想説的就這麽多嗎？」,"「―――――― So, you said that Akiho had been acting strangely for a seedy period of time and was not at home. Is that the end of your story?」","""...So you're saying that Akiho has been acting strange since a week ago, and she hasn't been home? Is that it?""","「――――――그래서, 1주일 전부터 아키호 양의 상태가 이상하고, 집에도 없었다고. 이야기는 그걸로 끝인가요?」",「――――――您是说，明穗小姐从一周前开始行踪不明，家里也找不到她。你想说的就这么多吗？」
 ,,,,,,,,,
-Dialog.Chapter2-1-11,六花,「はい、エレナ先輩…。それで、どうにか生徒会の方で捜索隊を…！」,「はい、エレナ先輩…。それで、どうにか司令部の方で捜索隊を…！」,「是的，艾蓮娜前輩……所以，能不能請聖核軍團組織搜查隊……！」,「是的，艾蓮娜學姐……所以，能不能請學生會組織搜查隊……！」,"「Yes, Erena-senpai... Please make student council to get a search party...!」","""Yes, Erena. And... If the Command Center can launch a search party...""","「네, 엘레나 선배…. 그래서, 어떻게든 사령부 쪽에서 수색대를…!」",「是的，艾莲娜前辈……所以，能不能请圣核军团组织搜查队……！」
+Dialog.Chapter2-1-11,六花,「はい、エレナ先輩…。それで、どうにか生徒会の方で捜索隊を…！」,「はい、エレナ先輩…。それで、どうにか司令部の方で捜索隊を…！」,「是的，艾蓮娜前輩……所以，能不能請聖核軍團組織搜查隊……！」,「是的，艾蓮娜學姐……所以，能不能請學生會組織搜查隊……！」,"「Yes, Erena-senpai... Please make student council to get a search party...!」","""Yes, Elena. And... If the Command Center can launch a search party...""","「네, 엘레나 선배…. 그래서, 어떻게든 사령부 쪽에서 수색대를…!」",「是的，艾莲娜前辈……所以，能不能请圣核军团组织搜查队……！」
 ,,,,,,,,,
 Dialog.Chapter2-1-12,エレナ,「…そうですか。」,「…そうですか。」,「…這樣啊。」,「…這樣啊。」,「I see.」,"""Right.""",「…그렇군요.」,「…这样啊。」
 ,,,,,,,,,
@@ -387,7 +387,7 @@ Dialog.Chapter2-3-58,???(エレナ黒),「―――やれやれ、1分もかか�
 ,,,,,,,,,
 Dialog.Chapter2-3-59,戦闘員,「………バケモノめっ、…ガハッ」,「………バケモノめっ、…ガハッ」,「………怪、怪物…咳哈」,「………怪、怪物…咳哈」,"「......... you monster, ...gah!」","""You... freak... Ugh...""","「………괴물 자식, …커헉」",「………怪、怪物…咳哈」
 ,,,,,,,,,
-Dialog.Chapter2-3-60,エレナ,「バケモノとは心外です。私は清藤エレナ、聖月女学園のNo2です。知らずに戦いを挑んだのですか？」,「バケモノとは心外です。私は清藤エレナ、ホーリーコア・レギオンのNo2です。知らずに戦いを挑んだのですか？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,"「I'm sorry to be called a monster. I am Seidō Erena, No. 2 of Seigetsu Girl Academy. Did you challenge me to a fight without knowing it?」","""That's mean. I'm Erena Seidō, the second-in-command Battlemaiden in Holy Core Legion. Did you not know about me before you took me on?""","「괴물이라니 실례입니다. 저는 세이토 엘레나, 홀리코어 레기온의 No2입니다. 모르고 싸움을 걸었습니까?」",「怪物这称呼真是失礼。我是清藤艾莲娜，圣核军团的二把手。你们连对手是谁都不知道就敢上来挑战吗？」
+Dialog.Chapter2-3-60,エレナ,「バケモノとは心外です。私は清藤エレナ、聖月女学園のNo2です。知らずに戦いを挑んだのですか？」,「バケモノとは心外です。私は清藤エレナ、ホーリーコア・レギオンのNo2です。知らずに戦いを挑んだのですか？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,「怪物這稱呼真是失禮。我是清藤艾蓮娜，聖核軍團的二把手。你們連對手是誰都不知道就敢上來挑戰嗎？」,"「I'm sorry to be called a monster. I am Seidou Erena, No. 2 of Seigetsu Girl Academy. Did you challenge me to a fight without knowing it?」","""That's mean. I'm Elena Seidou, the second-in-command Battlemaiden in Holy Core Legion. Did you not know about me before you took me on?""","「괴물이라니 실례입니다. 저는 세이토 엘레나, 홀리코어 레기온의 No2입니다. 모르고 싸움을 걸었습니까?」",「怪物这称呼真是失礼。我是清藤艾莲娜，圣核军团的二把手。你们连对手是谁都不知道就敢上来挑战吗？」
 ,,,,,,,,,
 Dialog.Chapter2-3-61,エレナ,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「まあいいでしょう。さて、六花さんの所へ行きましょうか。」,「算了，也罷。那麼，去找六花小姐吧。」,「算了，也罷。那麼，去找六花同學吧。」,"「Well, that's all right. Now let's go to Rikka―san's.」","""Anyway, I guess I'll go find Rikka.""","「뭐 됐습니다. 자, 릿카 양에게 가볼까요.」",「算了，也罢。那么，去找六花小姐吧。」
 ,,,,,,,,,
@@ -395,9 +395,9 @@ Dialog.Chapter2-3-62,,「そこの戦闘員。水無瀬六花と笹谷明穂が�
 ,,,,,,,,,
 Dialog.Chapter2-3-63,戦闘員,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「ひいっ！言うっ、言います！水無瀬六花はこのビルの最上階にいてっ、さっきまで俺達と戦闘をっ」,「噫！我說、我說！水無瀨六花人在這棟大樓的最上層，剛剛還跟我們交戰——」,「噫！我說、我說！水無瀨六花人在這棟大樓的最上層，剛剛還跟我們交戰——」,"「I'll say it! Minase Rikka is on the top floor of this building! Minase Rikka is on the top floor of this building, and she was fighting with us just now!」","""Gahhhh! Rikka Minase is on the top floor of this building. She was just...""","「히익! 말할게요, 말하겠습니다! 미나세 릿카는 이 빌딩 최상층에 있고, 방금 전까지 저희와 전투를」",「噫！我说、我说！水无濑六花人在这栋大楼的最上层，刚刚还跟我们交战——」
 ,,,,,,,,,
-Dialog.Chapter2-3-64,,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,"With a thud, Erena jumped to the top floor of the building, smashing the glass and entering! Erena jumps up to the altitude of the top floor of the building, smashes the glass, and enters the building.","Erena jumped and reached the highest floor, then broke the window and went inside.","두슈! 하는 소리와 함께 엘레나는 빌딩 최상층 높이까지 뛰어오르고, 그대로 유리를 파괴하고 안으로 들어간다",伴随「咻！」的一声，艾莲娜一跃直达大楼顶层，随即撞碎玻璃闯入室内。
+Dialog.Chapter2-3-64,,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,ドシュッ！という音と共にエレナはビルの最上階の高度まで飛び上がり、そのままガラスを破壊して中に入る,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,伴隨「咻！」的一聲，艾蓮娜一躍直達大樓頂層，隨即撞碎玻璃闖入室內。,"With a thud, Erena jumped to the top floor of the building, smashing the glass and entering! Erena jumps up to the altitude of the top floor of the building, smashes the glass, and enters the building.","Elena jumped and reached the highest floor, then broke the window and went inside.","두슈! 하는 소리와 함께 엘레나는 빌딩 최상층 높이까지 뛰어오르고, 그대로 유리를 파괴하고 안으로 들어간다",伴随「咻！」的一声，艾莲娜一跃直达大楼顶层，随即撞碎玻璃闯入室内。
 ,,,,,,,,,
-Dialog.Chapter2-3-65,六花？,「……！エレナ先輩っ！？」,「……！エレナ先輩っ！？」,「……！艾蓮娜前輩！？」,「……！艾蓮娜前輩！？」,「......! Erena senior!」,"""...Erena?""",「……! 엘레나 선배!?」,「……！艾莲娜前辈！？」
+Dialog.Chapter2-3-65,六花？,「……！エレナ先輩っ！？」,「……！エレナ先輩っ！？」,「……！艾蓮娜前輩！？」,「……！艾蓮娜前輩！？」,「......! Erena senior!」,"""...Elena?""",「……! 엘레나 선배!?」,「……！艾莲娜前辈！？」
 ,,,,,,,,,
 Dialog.Chapter2-3-66,エレナ,「……ああ六花さん、無事でしたか。」,「……ああ六花さん、無事でしたか。」,「……啊，六花小姐，妳沒事真是太好了。」,「……啊，六花小姐，妳沒事真是太好了。」,"「...... Oh Rikka―san, are you all right?」","""Rikka... Glad you're all right.""","「……아아 릿카 양, 무사했군요.」",「……啊，六花小姐，你没事真是太好了。」
 ,,,,,,,,,

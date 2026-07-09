@@ -1,16 +1,16 @@
 Key,Comment,Japanese,Japanese_Steam,Traditional Chinese_Steam,English,Korean_Steam,English_Steam,Simplified Chinese_Steam
 Chapter 4-1,注釈,,,,,,,
-Dialog.Chapter4-1-1,執務室,清藤エレナが財団に捕獲された翌日、聖月生徒会は混乱に陥っていた,清藤エレナが財団に捕獲された翌日、司令部は混乱に陥っていた,清藤艾蓮娜被財團俘虜的隔天，司令部陷入了一片混亂。,"The day after Seidō Erena was captured by the Foundation, the Seigetsu Student Council was in turmoil","세이토 엘레나가 재단에 포획된 다음 날, 사령부는 혼란에 빠져 있었다","The day after Erena Seidō was captured, Command Center descended into chaos.",清藤艾莲娜被财团俘虏的隔天，司令部陷入了一片混乱。
+Dialog.Chapter4-1-1,執務室,清藤エレナが財団に捕獲された翌日、聖月生徒会は混乱に陥っていた,清藤エレナが財団に捕獲された翌日、司令部は混乱に陥っていた,清藤艾蓮娜被財團俘虜的隔天，司令部陷入了一片混亂。,"The day after Seidou Erena was captured by the Foundation, the Seigetsu Student Council was in turmoil","세이토 엘레나가 재단에 포획된 다음 날, 사령부는 혼란에 빠져 있었다","The day after Elena Seidou was captured, Command Center descended into chaos.",清藤艾莲娜被财团俘虏的隔天，司令部陷入了一片混乱。
 ,,,,,,,,
-Dialog.Chapter4-1-2,女生徒1,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,「清藤艾蓮娜遭到財團襲擊戰敗，還被帶走了……！？」,"""Erena Seidō was attacked, defeated and taken away by the Foundation: ......!""","「세이토 엘레나가 재단에 습격당해 패배하고, 끌려갔다고……!?」","""Erena Seidō was attacked and defeated by the Foundation, then kidnapped...?""",「清藤艾莲娜遭到财团袭击战败，还被带走了……！？」
+Dialog.Chapter4-1-2,女生徒1,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,「清藤エレナが財団に襲撃されて敗北し、連れ去られた……！？」,「清藤艾蓮娜遭到財團襲擊戰敗，還被帶走了……！？」,"""Erena Seidou was attacked, defeated and taken away by the Foundation: ......!""","「세이토 엘레나가 재단에 습격당해 패배하고, 끌려갔다고……!?」","""Elena Seidou was attacked and defeated by the Foundation, then kidnapped...?""",「清藤艾莲娜遭到财团袭击战败，还被带走了……！？」
 ,,,,,,,,
-Dialog.Chapter4-1-3,女生徒2,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,「怎、怎麼可能！？那麼強的艾蓮娜前輩竟然會！？」,"""What? That's impossible! Erena-senpai is that strong!""",「그런! 말도 안 돼! 그렇게 강한 엘레나 선배가!?」,"""Erena? Impossible! She's super powerful!""",「怎、怎么可能！？那么强的艾莲娜前辈竟然会！？」
+Dialog.Chapter4-1-3,女生徒2,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,「そんなっ！？ありえないっ！あれだけ強いエレナ先輩が！？」,「怎、怎麼可能！？那麼強的艾蓮娜前輩竟然會！？」,"""What? That's impossible! Erena-senpai is that strong!""",「그런! 말도 안 돼! 그렇게 강한 엘레나 선배가!?」,"""Elena? Impossible! She's super powerful!""",「怎、怎么可能！？那么强的艾莲娜前辈竟然会！？」
 ,,,,,,,,
 Dialog.Chapter4-1-4,女生徒3,「皆さん落ち着いてっ！まずは状況を把握するところから――――――」,「皆さん落ち着いてっ！まずは状況を把握するところから――――――」,「各位請先冷靜下來！我們得先從掌握現狀開始――――――」,"""I'll tell you what, everyone calm down! We'll start by taking stock of the situation: ――――――""",「여러분 진정하세요! 우선 상황을 파악하는 것부터――――――」,"""Calm down! We must assess the situation first!""",「各位请先冷静下来！我们得先从掌握现状开始――――――」
 ,暗転,,,,,,,
 Dialog.Chapter4-1-5,アジト,―――――財団アジトにて,―――――財団アジトにて,―――――財團基地內,At ――――― Foundation Hideout,―――――재단 아지트에서,At the Foundation hideout...,―――――财团据点内
 ,,,,,,,,
-Dialog.Chapter4-1-6,005号(通信),「清藤エレナが行方不明となり、予想通り生徒会は大混乱となっています」,「清藤エレナが行方不明となり、予想通りレギオン司令部は大混乱となっています」,「隨著清藤艾蓮娜下落不明，如我們預期，軍團司令部目前陷入嚴重混亂。」,"""As expected, the student council is in turmoil after Erena Seidō went missing.""","「세이토 엘레나가 행방불명되어, 예상대로 레기온 사령부는 대혼란 상태입니다」","""As expected, the Legion Command Center has descended into chaos after Erena Seidō went missing.""",「随着清藤艾莲娜下落不明，如我们预期，军团司令部目前陷入严重混乱。」
+Dialog.Chapter4-1-6,005号(通信),「清藤エレナが行方不明となり、予想通り生徒会は大混乱となっています」,「清藤エレナが行方不明となり、予想通りレギオン司令部は大混乱となっています」,「隨著清藤艾蓮娜下落不明，如我們預期，軍團司令部目前陷入嚴重混亂。」,"""As expected, the student council is in turmoil after Erena Seidou went missing.""","「세이토 엘레나가 행방불명되어, 예상대로 레기온 사령부는 대혼란 상태입니다」","""As expected, the Legion Command Center has descended into chaos after Elena Seidou went missing.""",「随着清藤艾莲娜下落不明，如我们预期，军团司令部目前陷入严重混乱。」
 ,,,,,,,,
 Dialog.Chapter4-1-7,,「今日は我々に対する大規模攻撃が行われる予定でしたが、統制が取れないため中止となりました」,「今日は我々に対する大規模攻撃が行われる予定でしたが、統制が取れないため中止となりました」,「原定今天要對我們發動的大規模攻擊，因為無法統合指揮，已經被迫取消了。」,"""A major attack against us was supposed to take place today, but it was canceled due to lack of control.""","「오늘은 저희에 대한 대규모 공격이 있을 예정이었으나, 통제가 되지 않아 중지되었습니다」","""They were supposed to launch a large-scale attack on us, but that was stopped because they did not have anyone to lead it.""",「原定今天要对我们发动的大规模攻击，因为无法统合指挥，已经被迫取消了。」
 ,,,,,,,,
@@ -18,11 +18,11 @@ Dialog.Chapter4-1-7(1),選択肢,……よくやった,……よくやった,「
 ,,,,,,,,
 Dialog.Chapter4-1-8,005号,「ありがとうございます。これで我々の目的、世界征服に大きく近づきました」,「ありがとうございます。これで我々の目的、世界征服に大きく近づきました」,「謝謝。這下我們距離征服世界的目標又更近了一步。」,"""Thank you very much. Now we are much closer to our goal, world domination.""","「감사합니다. 이것으로 저희의 목적, 세계 정복에 크게 다가섰습니다」","""Thank you. We are one major step closer to world domination.""",「谢谢。这下我们距离征服世界的目标又更近了一步。」
 ,,,,,,,,
-Dialog.Chapter4-1-9,,「生徒会は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部在戰力上高度依賴清藤艾蓮娜這個人，一段時間內他們的行動應該會受到嚴重的限制。」,"""The student council relied heavily on the personal power of Erena Seidō, so her actions will be limited for some time.""","「사령부는 세이토 엘레나 개인의 힘에 크게 의존하고 있었으므로, 당분간 행동은 제한될 것입니다」","""The Command Center relied significantly on Erena Seidō, so they will not be able to take much action for a while.""",「司令部在战力上高度依赖清藤艾莲娜这个人，一段时间内他们的行动应该会受到严重的限制。」
+Dialog.Chapter4-1-9,,「生徒会は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部は清藤エレナ個人の力に大きく依存していたので、しばらく行動は制限されるでしょう」,「司令部在戰力上高度依賴清藤艾蓮娜這個人，一段時間內他們的行動應該會受到嚴重的限制。」,"""The student council relied heavily on the personal power of Erena Seidou, so her actions will be limited for some time.""","「사령부는 세이토 엘레나 개인의 힘에 크게 의존하고 있었으므로, 당분간 행동은 제한될 것입니다」","""The Command Center relied significantly on Elena Seidou, so they will not be able to take much action for a while.""",「司令部在战力上高度依赖清藤艾莲娜这个人，一段时间内他们的行动应该会受到严重的限制。」
 ,,,,,,,,
 Dialog.Chapter4-1-10,,「今クローンや怪人等の戦力を増強すれば、武力で学園の聖核戦姫を制圧することも不可能ではありません」,「今クローンや怪人等の戦力を増強すれば、武力でレギオンの聖核戦姫を制圧することも不可能ではありません」,「現在只要強化克隆人與怪人的戰力，要用武力鎮壓軍團的聖核戰姬姑且也不是不可能。」,"""If we now increase our forces of clones, monsters, etc., it is not impossible for us to subdue the school's Holy Core Battlemaiden by force of arms.""","「지금 클론이나 괴인 등의 전력을 증강하면, 무력으로 레기온의 성핵전희를 제압하는 것도 불가능하지 않습니다」","""If we can improve our ranks with clones and monsters, it's not impossible to suppress Holy Core Battlemaidens by force.""",「现在只要强化克隆人与怪人的战力，要用武力镇压军团的圣核战姬姑且也不是不可能。」
 ,,,,,,,,
-Dialog.Chapter4-1-11,,「清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「また清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「另外，清藤艾蓮娜出身財閥，在政界、財界都有管道。如果運用得當，那些人也能被我們利用。」,"""Erena Seidō was born into a zaibatsu and has connections in the political and business worlds. If we use her well, we will be able to take advantage of them.""","「또한 세이토 엘레나는 재벌 출신으로 정계, 재계에 인맥이 있습니다. 잘 이용하면 그들도 이용할 수 있을 것입니다」","""Erena Seidō came from a rich family, so we can use their connections to politics and finances if we have to.""",「另外，清藤艾莲娜出身财阀，在政界、财界都有管道。如果运用得当，那些人也能被我们利用。」
+Dialog.Chapter4-1-11,,「清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「また清藤エレナは財閥の生まれで政界、財界にコネクションがあります。上手く利用すれば彼らも利用できるでしょう」,「另外，清藤艾蓮娜出身財閥，在政界、財界都有管道。如果運用得當，那些人也能被我們利用。」,"""Erena Seidou was born into a zaibatsu and has connections in the political and business worlds. If we use her well, we will be able to take advantage of them.""","「또한 세이토 엘레나는 재벌 출신으로 정계, 재계에 인맥이 있습니다. 잘 이용하면 그들도 이용할 수 있을 것입니다」","""Elena Seidou came from a rich family, so we can use their connections to politics and finances if we have to.""",「另外，清藤艾莲娜出身财阀，在政界、财界都有管道。如果运用得当，那些人也能被我们利用。」
 ,,,,,,,,
 Dialog.Chapter4-1-11(1),選択肢,「ご苦労。引き続き生徒会の動向を探ってくれ」,「ご苦労。引き続きレギオンの動向を探ってくれ」,「辛苦了。今後也請妳繼續調查軍團的動向吧。」,"""Thank you for your time. Keep me posted on what the student council is up to.""",「수고했다. 계속해서 레기온의 동향을 살피도록」,"""Thank you. Please keep an eye on the Legion and report back.""",「辛苦了。今后也请你继续调查军团的动向吧。」
 ,,,,,,,,
@@ -72,7 +72,7 @@ Dialog.Chapter4-1-28,,「………こっちの要求は単純。誘拐した聖�
 ,,,,,,,,
 Dialog.Chapter4-1-29,,「誘拐したのは多分3人かな？学園にスパイが混じってるっぽいし…」,「誘拐したのは多分3人かな？レギオン内部にスパイが混じってるっぽいし…」,「被你們抓走的大概有三個人吧？看起來軍團內部也混進你們的間諜了……」,"""Maybe it was three people who kidnapped him? It seems like there are spies mixed in with the academy...""",「유괴한 건 아마 3명인가? 레기온 내부에 스파이가 섞여 있는 것 같고…」,"""I think you kidnapped three of them? And there's probably a Foundation spy in the Legion...""",「被你们抓走的大概有三个人吧？看起来军团内部也混进你们的间谍了……」
 ,,,,,,,,
-Dialog.Chapter4-1-30,,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「我是不知道你們是怎麼抓到艾蓮娜前輩的啦……不過，我可能也有點小看你們了呢。」,"""I don't know how you caught Erena senior...but I may have underestimated you guys a bit myself.""","「어떻게 엘레나 선배를 잡았는지 모르겠지만…, 너희들에 대해선 나도 좀 얕보고 있었을지도 모르겠네」","""I don't know how you caught Erena, maybe I underestimated you.""",「我是不知道你们是怎么抓到艾莲娜前辈的啦……不过，我可能也有点小看你们了呢。」
+Dialog.Chapter4-1-30,,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「どうやってエレナ先輩を捕まえたのか知らないけど…、あなた達のことは私もちょっと見くびっていたかもね」,「我是不知道你們是怎麼抓到艾蓮娜前輩的啦……不過，我可能也有點小看你們了呢。」,"""I don't know how you caught Erena senior...but I may have underestimated you guys a bit myself.""","「어떻게 엘레나 선배를 잡았는지 모르겠지만…, 너희들에 대해선 나도 좀 얕보고 있었을지도 모르겠네」","""I don't know how you caught Elena, maybe I underestimated you.""",「我是不知道你们是怎么抓到艾莲娜前辈的啦……不过，我可能也有点小看你们了呢。」
 ,,,,,,,,
 Dialog.Chapter4-1-31,,「というわけで、誘拐した聖核戦姫の子達を全員解放するまで攻撃を続けるから。覚悟してね？」,「というわけで、誘拐した聖核戦姫を全員解放するまで攻撃を続けるから。覚悟してね？」,「總之，在你們把所有被綁走的聖核戰姬全部放回來之前，我會一直持續攻擊。請你做好心理準備喔？」,"""So, I will continue to attack you until you release all the kidnapped children of the Holy Core Battlemaidenes. You must be prepared for that, okay?""","「그런 이유로, 유괴한 성핵전희를 전부 해방할 때까지 공격을 계속할 테니까. 각오해?」","""Anyway, I will keep attacking until you release the kidnapped Holy Core Battlemaidens. Do you understand?""",「总之，在你们把所有被绑走的圣核战姬全部放回来之前，我会一直持续攻击。请你做好心理准备喔？」
 ,,,,,,,,
@@ -108,7 +108,7 @@ Dialog.Chapter4-2-9,,「復旧したところが再びハッキングされい�
 ,,,,,,,,
 Dialog.Chapter4-2-9(1),SEL,……どうやらこちらから行動を起こす必要がありそうだ,……どうやらこちらから行動を起こす必要がありそうだ,……看來我們這邊也必須主動出擊了。,...... Apparently we need to take action here.,……아무래도 이쪽에서 행동을 일으킬 필요가 있겠군,We need to take action.,……看来我们这边也必须主动出击了。
 ,,,,,,,,
-Dialog.Chapter4-2-10,,(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),（總之必須先鎖定貓宮京的位置並將其制壓。雖然她的戰鬥能力還是未知數，但危險程度絕對在清藤艾蓮娜之上。）,"(In any case, we must locate and subdue Nekomiya Kei. His fighting ability is unknown, but his danger level is certainly higher than Seidō Erena's.)","(어쨌든 네코미야 케이의 위치를 특정하여 제압해야 한다. 전투 능력은 미지수지만, 위험도는 세이토 엘레나를 확실히 상회한다)","(She must be found and suppressed. We don't know how powerful she is, but at the moment she is a bigger threat than Erena Seidō.)",（总之必须先锁定猫宫京的位置并将其制压。虽然她的战斗能力还是未知数，但危险程度绝对在清藤艾莲娜之上。）
+Dialog.Chapter4-2-10,,(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),(とにかく猫宮京の位置を特定し制圧しなければならない。戦闘能力こそ未知数だが、危険度は清藤エレナを確実に上回っている),（總之必須先鎖定貓宮京的位置並將其制壓。雖然她的戰鬥能力還是未知數，但危險程度絕對在清藤艾蓮娜之上。）,"(In any case, we must locate and subdue Nekomiya Kei. His fighting ability is unknown, but his danger level is certainly higher than Seidou Erena's.)","(어쨌든 네코미야 케이의 위치를 특정하여 제압해야 한다. 전투 능력은 미지수지만, 위험도는 세이토 엘레나를 확실히 상회한다)","(She must be found and suppressed. We don't know how powerful she is, but at the moment she is a bigger threat than Elena Seidou.)",（总之必须先锁定猫宫京的位置并将其制压。虽然她的战斗能力还是未知数，但危险程度绝对在清藤艾莲娜之上。）
 ,,,,,,,,
 Dialog.Chapter4-2-11,戦闘員2,「こちら特定班！、現在システムのアクセスの痕跡を追跡しています！ただ、複雑に隠匿されていて特定に時間がかかっています」,「こちら特定班！、現在システムのアクセスの痕跡を追跡しています！ただ、複雑に隠匿されていて特定に時間がかかっています」,「這裡是特定小組！目前正追蹤系統存取紀錄的痕跡！只是對方的隱匿方式極為複雜，定位還需要一點時間！」,This is the Identification Team! We are currently tracing the access traces of the system! But it's complicated and hidden. It's taking a long time to identify it.,"「이쪽은 특정반!, 현재 시스템 접근 흔적을 추적하고 있습니다! 단, 복잡하게 은닉되어 있어 특정에 시간이 걸리고 있습니다」","""Investigation team here! We are tracing her connection, but it's taking more time because she is hiding behind a complicated web of connections!""",「这里是特定小组！目前正追踪系统存取纪录的痕迹！只是对方的隐匿方式极为复杂，定位还需要一点时间！」
 ,,,,,,,,
@@ -130,7 +130,7 @@ Dialog.Chapter4-2-17,,「……これは聖核の研究かな？聖核の人工�
 ,,,,,,,,
 Dialog.Chapter4-2-18,,「聖核の物質化と固定……う～ん、この辺の理論は私の方が先に行ってる感じ」,「聖核の物質化と固定……う～ん、この辺の理論は私の方が先に行ってる感じ」,「聖核的物質化與固定……嗯～這一帶的理論感覺還是我比較領先。」,"The Materialization and Fixation of the Seikaku...... hmmm, I feel like I'm way ahead of you in this area of theory.""","「성핵의 물질화와 고정…… 으음, 이 근처 이론은 내가 더 앞서가는 느낌」","""How to turn Holy Core into a substance and stabilize them... I think my research is ahead on that one.""",「圣核的物质化与固定……嗯～这一带的理论感觉还是我比较领先。」
 ,,,,,,,,
-Dialog.Chapter4-2-19,,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,「……不過研究能夠推進到這種程度，確實相當棘手。艾蓮娜會被抓住也就不奇怪了。」,"""It's a threat that so much research has been done, even if it's at ....... No wonder Erena was captured.""",「……라고는 해도 여기까지 연구가 진행된 건 위협이네. 엘레나가 잡힌 것도 이상하지 않아」,"""But to have reached this far... That's a threat. I can see why they were able to capture Erena.""",「……不过研究能够推进到这种程度，确实相当棘手。艾莲娜会被抓住也就不奇怪了。」
+Dialog.Chapter4-2-19,,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,「……とはいえここまで研究が進んでいるのは脅威だね。エレナが捕まったのも不思議じゃない」,「……不過研究能夠推進到這種程度，確實相當棘手。艾蓮娜會被抓住也就不奇怪了。」,"""It's a threat that so much research has been done, even if it's at ....... No wonder Erena was captured.""",「……라고는 해도 여기까지 연구가 진행된 건 위협이네. 엘레나가 잡힌 것도 이상하지 않아」,"""But to have reached this far... That's a threat. I can see why they were able to capture Elena.""",「……不过研究能够推进到这种程度，确实相当棘手。艾莲娜会被抓住也就不奇怪了。」
 ,,,,,,,,
 Dialog.Chapter4-2-20,,「これならもっと早いうちに探査機でも送り込んで調査しておけばよかったかな」,「これならもっと早いうちに探査機でも送り込んで調査しておけばよかったかな」,「早知道是這樣就應該更早丟幾台探測機進去調查一下。」,"I guess I should have sent a probe out there earlier to investigate this.""",「이럴 줄 알았으면 더 일찍 탐사기라도 보내서 조사해 둘 걸 그랬나」,"""I should have sent something to investigate them sooner.""",「早知道是这样就应该更早丢几台探测机进去调查一下。」
 ,,,,,,,,
@@ -176,7 +176,7 @@ Dialog.Chapter4-2-35,戦闘員3(通信),「部隊3、準備完了です。」,�
 ,,,,,,,,
 Dialog.Chapter4-2-35(1),SEL,了解,了解,了解。,Copy that.,알겠다,Got it.,了解。
 ,アジト,,,,,,,
-Dialog.Chapter4-2-36,005号,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,「既然已經抓到艾蓮娜，那就離我們的計畫達成不遠了。不能再任由那女人胡作非為了。」,"Now that we have captured Erena, we are close to achieving our plan. We can't let her do what she wants any longer.""","「엘레나를 포획한 지금, 저희 계획 달성은 눈앞입니다. 이 이상 그녀 마음대로 하게 둘 수는 없습니다」","""After capturing Erena, our plan is one step close to completion. We cannot let Kei do whatever she wants.""",「既然已经抓到艾莲娜，那就离我们的计划达成不远了。不能再任由那女人胡作非为了。」
+Dialog.Chapter4-2-36,005号,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,「エレナを捕獲した今、我々の計画の達成は間近です。これ以上彼女の好きにさせるわけにはいきません」,「既然已經抓到艾蓮娜，那就離我們的計畫達成不遠了。不能再任由那女人胡作非為了。」,"Now that we have captured Erena, we are close to achieving our plan. We can't let her do what she wants any longer.""","「엘레나를 포획한 지금, 저희 계획 달성은 눈앞입니다. 이 이상 그녀 마음대로 하게 둘 수는 없습니다」","""After capturing Elena, our plan is one step close to completion. We cannot let Kei do whatever she wants.""",「既然已经抓到艾莲娜，那就离我们的计划达成不远了。不能再任由那女人胡作非为了。」
 ,,,,,,,,
 Dialog.Chapter4-2-36(1),SEL,ただ今より猫宮京捕獲作戦を開始する！全部隊突入開始！,ただ今より猫宮京捕獲作戦を開始する！全部隊突入開始！,現在起正式展開捕獲貓宮京作戰！全軍開始突入！,Operation to capture Nekomiya Kei will begin immediately! All units begin to move in!,지금부터 네코미야 케이 포획 작전을 개시한다! 전 부대 돌입 개시!,The operation to capture Kei Nekomiya starts now! Attack!,现在起正式展开捕获猫宫京作战！全军开始突入！
 ,,,,,,,,
@@ -223,7 +223,7 @@ Dialog.Chapter4-3-1,京,「どう？周りに壊しちゃいけないものが�
 ,,,,,,,,
 Dialog.Chapter4-3-2,072号,「ぐっ、コイツっ、ちょこまかとっ！」,「ぐっ、コイツっ、ちょこまかとっ！」,「呃……這傢伙的動作也太靈了！」,He's moving all over the place!,"「크윽, 이 자식, 재빠르게!」","""You...!""",「呃……这家伙的动作也太灵了！」
 ,,,,,,,,
-Dialog.Chapter4-3-3,京,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「畢竟我的戰鬥能力遠遠不如艾蓮娜前輩啊。所以我可不會跟你們正面硬拼。」,"I'm not as good a fighter as Erena-senpai,"" he said. I won't fight her head―on.""",「나는 전투 능력으로는 엘레나 선배에게 한참 못 미치니까. 정면으로는 싸우지 않아」,"""I'm not nearly as powerful as Erena, so I never fight head-on.""",「毕竟我的战斗能力远远不如艾莲娜前辈啊。所以我可不会跟你们正面硬拼。」
+Dialog.Chapter4-3-3,京,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「私は戦闘能力ではエレナ先輩に遠く及ばないからね。正面からは戦わないさ」,「畢竟我的戰鬥能力遠遠不如艾蓮娜前輩啊。所以我可不會跟你們正面硬拼。」,"I'm not as good a fighter as Erena-senpai,"" he said. I won't fight her head―on.""",「나는 전투 능력으로는 엘레나 선배에게 한참 못 미치니까. 정면으로는 싸우지 않아」,"""I'm not nearly as powerful as Elena, so I never fight head-on.""",「毕竟我的战斗能力远远不如艾莲娜前辈啊。所以我可不会跟你们正面硬拼。」
 ,,,,,,,,
 Dialog.Chapter4-3-4,005号,「72号！、何をやってるんですか！また調整室に入りたいですか？！」,「072号！、何をやってるんですか！また調整室に入りたいですか？！」,「072號！妳在幹什麼！還想再進調整室嗎？！」,No. 72! What are you doing? Do you want to go back into the control room?,"「072호!, 뭘 하고 있는 겁니까! 또 조정실에 들어가고 싶습니까?!」","""072, what are you doing? Do you want to be adjusted again?""",「072号！你在干什么！还想再进调整室吗？！」
 ,,,,,,,,
@@ -243,7 +243,7 @@ Dialog.Chapter4-3-11,京,「冷静なのもいるね…クローンでも性能�
 ,,,,,,,,
 Dialog.Chapter4-3-12,京,「まあいいや。他の戦闘員が集まってくる前に全員倒しちゃおう」,「まあいいや。他の戦闘員が集まってくる前に全員倒しちゃおう」,「算了。在其他戰鬥員趕來之前得趕緊把你們全部收拾掉。」,"I'm not going to let them get away with it. Let's take them all out before the other combatants gather.""",「뭐 됐어. 다른 전투원들이 모여들기 전에 전부 쓰러뜨려 버리자」,"""Whatever, I'll take you all down before everyone else gets here.""",「算了。在其他战斗员赶来之前得赶紧把你们全部收拾掉。」
 ,,,,,,,,
-Dialog.Chapter4-3-13,京,「出力全開―――エレナたちは返してもらうよ！」,「出力全開―――エレナたちは返してもらうよ！」,「輸出全開——艾蓮娜她們我可是要帶回去了！」,"Full output―――Erena and the others will be returned!""",「출력 전개――― 엘레나와 동료들을 돌려받겠어!」,"""Time to go all out! I'll bring Erena and the others back!""",「输出全开——艾莲娜她们我可是要带回去了！」
+Dialog.Chapter4-3-13,京,「出力全開―――エレナたちは返してもらうよ！」,「出力全開―――エレナたちは返してもらうよ！」,「輸出全開——艾蓮娜她們我可是要帶回去了！」,"Full output―――Erena and the others will be returned!""",「출력 전개――― 엘레나와 동료들을 돌려받겠어!」,"""Time to go all out! I'll bring Elena and the others back!""",「输出全开——艾莲娜她们我可是要带回去了！」
 ,,,,,,,,
 ,,戦闘開始,戦闘開始,戰鬥開始,戦闘開始,전투 시작,Combat Starts,战斗开始
 ,,,,,,,,
@@ -282,7 +282,7 @@ Dialog.Chapter4-3-28,触手怪人,「どうだ俺の聖核戦姫を無力化さ�
 ,Kei story 2-4,,,,,,,
 Dialog.Chapter4-3-29,京,「ケホッ……おええっ、まっず…！」,「ケホッ……おええっ、まっず…！」,「咳咳……噁，好難喝……！」,"""Kehoho ...... Oh, no, not again...!""","「케홋…… 오에엑, 맛없…!」","""Ugh... Gross...""",「咳咳……恶、好难喝……！」
 ,,,,,,,,
-Dialog.Chapter4-3-30,,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,「原來如此，聖核能量變得很難運用……艾蓮娜前輩當時大概也是被灌了這個吧？」,"I see, it's hard to use the Seikaku energy...did you make Erena-senpai drink this?""","「과연, 성핵 에너지가 쓰기 어렵군… 엘레나 선배에게 이걸 먹였나?」","""I see... I can't really use my Holy Core energy. Did you make Erena drink this too?""",「原来如此，圣核能量变得很难运用……艾莲娜前辈当时大概也是被灌了这个吧？」
+Dialog.Chapter4-3-30,,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,「なるほど、聖核エネルギーが使いづらい…エレナ先輩にはコレ飲ませたのかな？」,「原來如此，聖核能量變得很難運用……艾蓮娜前輩當時大概也是被灌了這個吧？」,"I see, it's hard to use the Seikaku energy...did you make Erena-senpai drink this?""","「과연, 성핵 에너지가 쓰기 어렵군… 엘레나 선배에게 이걸 먹였나?」","""I see... I can't really use my Holy Core energy. Did you make Elena drink this too?""",「原来如此，圣核能量变得很难运用……艾莲娜前辈当时大概也是被灌了这个吧？」
 ,,,,,,,,
 Dialog.Chapter4-3-31,,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,「こういうのがあることは知ってたけど…実際に体験することになるとはね」,「雖然早就知道你們有這種東西……但沒想到有一天會真的輪到自己體驗。」,"I knew these things existed... but I never thought I'd actually experience them.""",「이런 게 있다는 건 알고 있었지만… 실제로 체험하게 될 줄이야」,"""I knew you had this... But to actually experience it...""",「虽然早就知道你们有这种东西……但没想到有一天会真的轮到自己体验。」
 ,,,,,,,,
