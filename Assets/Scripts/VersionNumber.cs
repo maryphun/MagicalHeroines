@@ -8,7 +8,7 @@ public class VersionNumber : MonoBehaviour
     void Awake()
     {
 #if STEAM
-        GetComponent<TMP_Text>().text = "ver " + Application.version + "(STEAM)";
+        GetComponent<TMP_Text>().text = "ver " + Application.version + "(STEAM_JP)";
 #else
         GetComponent<TMP_Text>().text = "ver " + Application.version;
 #endif
