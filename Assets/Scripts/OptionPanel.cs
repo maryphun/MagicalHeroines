@@ -288,7 +288,7 @@ public class OptionPanel : MonoBehaviour
         }
         else if (KRToggle.isOn && lastLanguage != "Korean")
         {
-            LocalizationManager.Language = "Traditional Chinese";
+            LocalizationManager.Language = "Korean";
             PlayerPrefsManager.SetPlayerPrefs(PlayerPrefsManager.PlayerPrefsSave.Language, (int)SystemLanguage.KR);
         }
 #endif

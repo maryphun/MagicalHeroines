@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+#if STEAM
+using Steamworks;
+#endif
 
 public static class PlayerPrefsManager
 {
@@ -57,9 +60,126 @@ public static class PlayerPrefsManager
         NovelSingletone.Instance.SetAutoSpeed(autoSpd);
 
 
-        SystemLanguage lang = (SystemLanguage)PlayerPrefs.GetInt(PlayerPrefsSave.Language.ToString(), (int)OptionPanel.defaultLanguage);
+        SystemLanguage lang = PlayerPrefs.HasKey(PlayerPrefsSave.Language.ToString())
+            ? (SystemLanguage)PlayerPrefs.GetInt(PlayerPrefsSave.Language.ToString())
+            : GetDefaultLanguage();
+
+        if (!IsSupportedLanguage(lang))
+        {
+            lang = GetDefaultLanguage();
+        }
+
+        ApplyLanguage(lang);
+    }
+
+    private static SystemLanguage GetDefaultLanguage()
+    {
+        if (TryGetSystemLanguage(out SystemLanguage language))
+        {
+            return language;
+        }
+
 #if STEAM
-        switch (lang)
+        if (TryGetSteamLanguage(out language))
+        {
+            return language;
+        }
+#endif
+
+        return SystemLanguage.EN;
+    }
+
+    private static bool TryGetSystemLanguage(out SystemLanguage language)
+    {
+        switch (Application.systemLanguage)
+        {
+            case UnityEngine.SystemLanguage.Japanese:
+                language = SystemLanguage.JP;
+                return true;
+            case UnityEngine.SystemLanguage.English:
+                language = SystemLanguage.EN;
+                return true;
+            case UnityEngine.SystemLanguage.ChineseSimplified:
+                language = SystemLanguage.SCN;
+                return true;
+            case UnityEngine.SystemLanguage.ChineseTraditional:
+                language = SystemLanguage.TCN;
+                return true;
+            case UnityEngine.SystemLanguage.Chinese:
+                language = SystemLanguage.SCN;
+                return true;
+            case UnityEngine.SystemLanguage.Korean:
+                language = SystemLanguage.KR;
+                return true;
+            default:
+                language = SystemLanguage.EN;
+                return false;
+        }
+    }
+
+#if STEAM
+    private static bool TryGetSteamLanguage(out SystemLanguage language)
+    {
+        language = SystemLanguage.EN;
+
+        if (!SteamManager.Initialized)
+        {
+            return false;
+        }
+
+        if (TryMapSteamLanguage(SteamApps.GetCurrentGameLanguage(), out language))
+        {
+            return true;
+        }
+
+        return TryMapSteamLanguage(SteamUtils.GetSteamUILanguage(), out language);
+    }
+
+    private static bool TryMapSteamLanguage(string steamLanguage, out SystemLanguage language)
+    {
+        switch ((steamLanguage ?? string.Empty).ToLowerInvariant())
+        {
+            case "japanese":
+                language = SystemLanguage.JP;
+                return true;
+            case "english":
+                language = SystemLanguage.EN;
+                return true;
+            case "schinese":
+                language = SystemLanguage.SCN;
+                return true;
+            case "tchinese":
+                language = SystemLanguage.TCN;
+                return true;
+            case "koreana":
+                language = SystemLanguage.KR;
+                return true;
+            default:
+                language = SystemLanguage.EN;
+                return false;
+        }
+    }
+#endif
+
+    private static bool IsSupportedLanguage(SystemLanguage language)
+    {
+        switch (language)
+        {
+            case SystemLanguage.JP:
+            case SystemLanguage.EN:
+            case SystemLanguage.SCN:
+            case SystemLanguage.TCN:
+            case SystemLanguage.KR:
+                return true;
+            default:
+                return false;
+        }
+    }
+
+    private static void ApplyLanguage(SystemLanguage language)
+    {
+#if STEAM
+        switch (language)
         {
             case SystemLanguage.JP:
                 Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Japanese_Steam";
@@ -80,7 +200,7 @@ public static class PlayerPrefsManager
                 break;
         }
 #else
-        switch (lang)
+        switch (language)
         {
             case SystemLanguage.JP:
                 Assets.SimpleLocalization.Scripts.LocalizationManager.Language = "Japanese";
