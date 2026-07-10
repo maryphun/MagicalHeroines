@@ -49,6 +49,7 @@ System.Locked,未開放,Locked,未開放,未开放,未開放,Locked,未開放,�
 System.Unlock,解放,Unlock,解放,解放,解放,Unlock,解放,解放,개방
 System.Regenerate,回復,Regenerate,回復,回复,回復,Regenerate,回復,回复,회복
 System.RegenerateCost,回復コスト,Cost,所需資金,所需资金,回復コスト,Cost,所需資金,所需资金,회복 비용
+System.FullRegenerate,味方全体を全回復,Fully heal all allies,全體回滿狀態,全体回满状态,味方全体を全回復,Fully heal all allies,全體回滿狀態,全体回满状态,아군 전체 완전 회복
 System.Inventory,インベントリ,Inventory,物品欄,物品栏,インベントリ,Inventory,物品欄,物品栏,인벤토리
 System.SPCost,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,SP 소모:
 System.EffectTarget,効果対象：,Target: ,効果対象：,効果対象：,効果対象：,Target: ,效果對象：,効果対象：,효과 대상:
