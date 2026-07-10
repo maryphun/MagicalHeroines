@@ -91,16 +91,16 @@ public class EquipmentPanel : MonoBehaviour
                 // ‘•”õ‚ð•\Ž¦
                 equipmentSlot[i].interactable = true;
 
-                //if (equips[i].equipingCharacterID >= 0 && equips[i].equipingCharacterID != characterID)
-                //{
-                //    // •Ê‚ÌƒLƒƒƒ‰‚É‘•”õ‚³‚ê‚Ä‚¢‚é‘•”õ
-                //    equipmentSlot[i].interactable = false;
-                //    icon.color = new Color(0.5f, 0.5f, 0.5f, 1.0f);
-                //}
-                //else
+                if (equips[i].equipingCharacterID >= 0 && equips[i].equipingCharacterID != characterID)
                 {
-                    icon.color = Color.white;
+                    // •Ê‚ÌƒLƒƒƒ‰‚É‘•”õ‚³‚ê‚Ä‚¢‚é‘•”õ
+                    equipmentSlot[i].transform.GetChild(1).gameObject.SetActive(true);
                 }
+                else
+                {
+                    equipmentSlot[i].transform.GetChild(1).gameObject.SetActive(false);
+                }
+                icon.color = Color.white;
                 icon.sprite = equips[i].data.Icon;
 
                 switch (equips[i].data.equipmentType)
@@ -148,6 +148,7 @@ public class EquipmentPanel : MonoBehaviour
                 equipmentSlot[i].interactable = false;
                 equipmentSlot[i].onClick.RemoveAllListeners();
                 icon.color = new Color(1, 1, 1, 0);
+                equipmentSlot[i].transform.GetChild(1).gameObject.SetActive(false);
 
                 // event triggers
                 var trigger = equipmentSlot[i].GetComponent<EventTrigger>();
