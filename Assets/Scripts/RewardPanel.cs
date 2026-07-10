@@ -32,6 +32,7 @@ public class RewardPanel : MonoBehaviour
     [SerializeField] private CanvasGroup heroinPanel;
     [SerializeField] private Image newHeroin;
     [SerializeField] private TMP_Text newHeroinText;
+    [SerializeField] private TMP_Text newHeroinDescriptionText;
 
     [Header("Debug")]
     [SerializeField] private bool isFirst = true;
@@ -244,6 +245,7 @@ public class RewardPanel : MonoBehaviour
             return false;
         }
 
+        newHeroinDescriptionText.gameObject.SetActive(true);
         int stage = (ProgressManager.Instance.GetCurrentDLCStageProgress() - 1); // ステージ番号はすでに更新されているので-1で見る
         string s = string.Empty;
         switch (stage)
@@ -278,6 +280,7 @@ public class RewardPanel : MonoBehaviour
                     s = "<color=#C9E9D2>" + LocalizationManager.Localize("Name.Kei_Battler") + "</color>";
                     newHeroinText.text = System.String.Format(LocalizationManager.Localize("System.KeiDowngrade"), LocalizationManager.Localize("Name.Kei_Corrupted"), s);
                     newHeroinText.rectTransform.localPosition = new Vector3(newHeroinText.rectTransform.localPosition.x, newHeroinText.rectTransform.localPosition.y + 20.0f, newHeroinText.rectTransform.localPosition.z);
+                    newHeroinDescriptionText.gameObject.SetActive(false);
                     if (SteamManager.Initialized)
                     {
                         Steamworks.SteamUserStats.SetAchievement("C_REBEL");

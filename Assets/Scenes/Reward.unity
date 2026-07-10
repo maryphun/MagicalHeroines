@@ -1222,6 +1222,7 @@ MonoBehaviour:
   heroinPanel: {fileID: 820426520}
   newHeroin: {fileID: 820426518}
   newHeroinText: {fileID: 919697963}
+  newHeroinDescriptionText: {fileID: 1230865321}
   isFirst: 1
   isHeroinDisplayed: 0
   isGetHisui: 0

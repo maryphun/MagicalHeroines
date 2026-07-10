@@ -101,7 +101,16 @@ System.Reward,成果報酬,Reward,報酬,报酬,成果報酬,Reward,報酬,报�
 System.Receive,受取,Accept,接受,接受,受取,Accept,接受,接受,수령
 System.Heroin,聖核戦姫,Seikaku-princess,聖核戦姫,圣核戦姫,聖核戦姫,Holy Core Battlemaiden,聖核戰姬,圣核战姬,성핵전희
 System.Trapped,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！,{s}を捕獲完了！,{s} captured!,成功捕獲{s}！,成功捕获{s}！,{s} 포획 완료!
-System.KeiDowngrade,「{0}」が下級戦闘員「{1}」に降格されました。,,「{0}」被降級成了「{1}」。,「{0}」被降级成了「{1}」。,「{0}」が下級戦闘員「{1}」に降格されました。,"""{0}"" has been relegated to ""{1}.""",「{0}」已降級為下級戰鬥員「{1}」。,「{0}」已降级为下级战斗员「{1}」。,「{0}」이(가) 「{1}」 등급으로 내려갔습니다.
+System.KeiDowngrade,"「{0}」が下級戦闘員「{1}」に降格されました。
+<line-height=50%><br></line-height>調教画面がアップデートされました","""{0}"" has been relegated to ""{1}"".
+<line-height=50%><br></line-height>Training panel have been updated.","「{0}」已降級為下級戰鬥員「{1}」。
+<align=""center"">調教畫面的内容更新了。</align>","「{0}」已降级为下级战斗员「{1}」。
+<align=""center"">调教画面的内容更新了。</align>","「{0}」が下級戦闘員「{1}」に降格されました。
+<line-height=50%><br></line-height>調教画面がアップデートされました","""{0}"" has been relegated to ""{1}"".
+Training panel have been updated.","「{0}」已降級為下級戰鬥員「{1}」。
+<align=""center"">調教畫面的内容更新了。</align>","""{0}"" has been relegated to ""{1}"".
+<line-height=50%><br></line-height>Training panel have been updated.","「{0}」이(가) 「{1}」 등급으로 내려갔습니다.
+조교 화면이 업데이트되었습니다"
 System.TrainPanelUpdate,調教画面がアップデートされました,Training panel have been updated.,調教画面的內容更新了。,调教画面的内容更新了。,調教画面がアップデートされました,Training panel have been updated.,調教畫面的內容更新了。,调教画面的内容更新了。,조교 화면이 업데이트되었습니다
 System.NovelLog,ログ,Log,記錄,记录,ログ,Log,紀錄,记录,로그
 System.NovelAuto,オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),オート開始・停止,Auto (ON/OFF),自動播放 (ON/OFF),自动播放 (ON/OFF),자동 시작/정지
