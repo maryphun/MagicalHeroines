@@ -37,7 +37,7 @@ System.Level,LV：,LV: ,LV：,LV：,LV：,LV: ,LV：,LV：,LV:
 System.HP,体力：,HP: ,HP：,HP：,体力：,HP: ,HP：,HP：,HP:
 System.MP,SP：,SP: ,SP：,SP：,SP：,SP: ,SP：,SP：,SP:
 System.Defense,防御力：,DEF: ,防御：,防御：,防御力：,DEF: ,防禦：,防御：,방어력:
-System.Speed,素早さ：,SPD: ,敏捷：,敏捷：,素早さ：,SPD: ,敏捷：,敏捷：,민첩성:
+System.Speed,素早さ：,SPD: ,速度：,速度：,素早さ：,SPD: ,速度：,速度：,민첩성:
 System.Skill,特殊技：,Skill: ,技能：,技能：,特殊技：,Skill: ,技能：,技能：,특수기:
 System.Equipment,装備,Equipment,装備,装备,装備,Equipment,裝備,装备,장비
 System.CharacterData,資料,Info,資料,资料,資料,Info,資料,资料,자료
@@ -364,8 +364,8 @@ Buff.Shield_up,防御力上昇,DEF UP,防御力上升,防御力上升,防御力�
 Buff.Shield_down,防御力下降,DEF DOWN,防御力下降,防御力下降,防御力下降,DEF DOWN,防禦力下降,防御力下降,방어력 하강
 Buff.Attack_up,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升,攻撃力上昇,ATK UP,攻擊力上升,攻击力上升,공격력 상승
 Buff.Attack_down,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降,攻撃力下降,ATK DOWN,攻擊力下降,攻击力下降,공격력 하강
-Buff.Speed_up,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升,素早さ上昇,SPD UP,敏捷度上升,敏捷度上升,민첩성 상승
-Buff.Speed_down,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降,素早さ下降,SPD DOWN,敏捷度下降,敏捷度下降,민첩성 하강
+Buff.Speed_up,素早さ上昇,SPD UP,速度上升,速度上升,素早さ上昇,SPD UP,速度上升,速度上升,민첩성 상승
+Buff.Speed_down,素早さ下降,SPD DOWN,速度下降,速度下降,素早さ下降,SPD DOWN,速度下降,速度下降,민첩성 하강
 Buff.ContinuousAction,連続行動,Continuous Action,連続行動,连続行动,連続行動,Continuous Action,連續行動,连续行动,연속 행동
 Buff.Repel,反撃,Return damage,反擊,反撃,反撃,Return damage,反擊,反击,반격
 Buff.Disarm,無力化,Disarm,無力化,无力化,無力化,Disarm,無力化,无力化,무력화
