@@ -180,7 +180,7 @@ public class ProgressManager : SingletonMonoBehaviour<ProgressManager>
 
         if (SteamManager.Initialized)
         {
-            if (IsGameEnded())
+            if (GetCurrentStageProgress() >= 16)
             {
                 Steamworks.SteamUserStats.SetAchievement("C_ENDGAME");
                 Steamworks.SteamUserStats.StoreStats();
