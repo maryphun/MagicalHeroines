@@ -15,7 +15,7 @@ public class FormationSlot : MonoBehaviour
     [SerializeField] private float resourcesPanelAnimationTime = 0.5f;
 
     [Header("References")]
-    [SerializeField] private Image lockIcon; 
+    [SerializeField] private Image lockIcon;
     [SerializeField] private TMP_Text slotName;
     [SerializeField] private GameObject HPStatus;
     [SerializeField] private GameObject MPStatus;
@@ -58,7 +58,7 @@ public class FormationSlot : MonoBehaviour
             // お金が足りるか
             bool isEnoughMoney = ProgressManager.Instance.GetCurrentMoney() >= moneyCost;
             unlockSlotButton.interactable = isEnoughMoney;
-            unlockSlotButton.GetComponentInChildren<TMP_Text>().alpha = isEnoughMoney ? 1.0f: 0.25f;
+            unlockSlotButton.GetComponentInChildren<TMP_Text>().alpha = isEnoughMoney ? 1.0f : 0.25f;
             this.slotName.text = LocalizationManager.Localize("System.Cost") + ": ";
             this.slotName.text = this.slotName.text + (isEnoughMoney ? "<color=yellow>" : "<color=#FF000088>") + moneyCost.ToString();
         }
@@ -86,7 +86,7 @@ public class FormationSlot : MonoBehaviour
         slotName.text = LocalizationManager.Localize("Battle.Level") + battlerComponent.currentLevel + " " + unit.localizedName;
         slotName.fontSize = nameTextSize;
         slotName.color = Color.white;
-        
+
         // ステータス表示
         if (battlerComponent.max_hp > 0)
         {
@@ -211,6 +211,9 @@ public class FormationSlot : MonoBehaviour
             {
                 OnStopRegen();
             }
+
+            // update full regen cost
+            formationPanel.UpdateFullRegenerateButton();
         }
         else
         {
@@ -286,6 +289,28 @@ public class FormationSlot : MonoBehaviour
         }
     }
 
+    public void FullRegenerate()
+    {
+        // heal 
+        battlerComponent.current_hp = battlerComponent.max_hp;
+        battlerComponent.current_mp = battlerComponent.max_mp;
+
+        // set text
+        HPText.text = LocalizationManager.Localize("Battle.HP") + "：" + battlerComponent.current_hp.ToString() + "/" + battlerComponent.max_hp.ToString();
+        MPText.text = LocalizationManager.Localize("Battle.MP") + "：" + battlerComponent.current_mp.ToString() + "/" + battlerComponent.max_mp.ToString();
+
+        // bar
+        HPFill.DOFillAmount((float)battlerComponent.current_hp / (float)battlerComponent.max_hp, 0.5f);
+        MPFill.DOFillAmount((float)battlerComponent.current_mp / (float)battlerComponent.max_mp, 0.5f);
+
+        battlerComponent.Graphic.DOComplete();
+        battlerComponent.CreateGlowEffect(1.2f, 0.4f);
+        ProgressManager.Instance.UpdateCharacterByBattler(battlerComponent.characterID, battlerComponent);
+
+        SetupRegenerateButton();
+    }
+
+
     public void OnStartRegen()
     {
         if (isRegenerating || !regenerateButton.IsInteractable()) return;
@@ -324,11 +349,24 @@ public class FormationSlot : MonoBehaviour
 
         // 資金非表示に
         HideResourcesPanel(1.5f);
+
+        // こっちが資金たりなくなるかもしれないからチェック
+        formationPanel.UpdateFullRegenerateButton();
     }
 
     public void HideResourcesPanel(float delay)
     {
         isDisplaying = false;
         resourcesPanel.DOFade(0.0f, resourcesPanelAnimationTime).SetDelay(delay);
+    }
+
+    public Battler GetBattlerInThisSlot()
+    {
+        return battlerComponent;
+    }
+
+    public bool IsSlotFilled()
+    {
+        return isSlotFilled;
     }
 }

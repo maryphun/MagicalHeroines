@@ -6,6 +6,7 @@ using DG.Tweening;
 using TMPro;
 using System.Linq;
 
+using Assets.SimpleLocalization.Scripts;
 [RequireComponent(typeof(CanvasGroup))]
 public class FormationPanel : MonoBehaviour
 {
@@ -23,6 +24,9 @@ public class FormationPanel : MonoBehaviour
     [SerializeField] private FormationTutorial tutorial;
     [SerializeField] private GameObject DLC_FormationSelectionPanel; // 追加キャラ
     [SerializeField] private DLCFormationIcon[] DLC_formationSelectIcon = new DLCFormationIcon[2];
+
+    [SerializeField] private Button fullRegenerateButton;
+    [SerializeField] private TMP_Text fullRegenerateCostText;
 
     [Header("Debug")]
     [SerializeField] private int formationSelectionPanelIndex = 0;  // 編集中のキャラ位置番号
@@ -45,6 +49,7 @@ public class FormationPanel : MonoBehaviour
         formationSelectionPanelIndex = -1;
 
         InitializeFormation();
+        UpdateFullRegenerateButton();
 
         // Enter tutorial
         var tutorialData = ProgressManager.Instance.GetTutorialData();
@@ -112,6 +117,9 @@ public class FormationPanel : MonoBehaviour
             }
             InitializeFormation();
         }
+
+        // update full regen cost
+        UpdateFullRegenerateButton();
     }
 
     public void UnlockSlot()
@@ -137,7 +145,10 @@ public class FormationPanel : MonoBehaviour
         AudioManager.Instance.PlaySFX("SystemUnlock", 1.5f);
 
         // 資金非表示に
-        slots[slotIndex + 1].HideResourcesPanel(1.5f);
+        slots[slotIndex].HideResourcesPanel(1.5f);
+
+        // こっちが資金たりなくなるかもしれないからチェック
+        UpdateFullRegenerateButton();
     }
 
     public void OpenFormationSelectionPanel(int targetSlotIndex)
@@ -246,6 +257,9 @@ public class FormationPanel : MonoBehaviour
         AudioManager.Instance.PlaySFX("SystemEquip", 1.5f);
 
         CloseFormationSelectionPanel(false);
+
+        // update cost
+        UpdateFullRegenerateButton();
     }
 
     private bool IsCharacterInFormation(Character character)
@@ -264,5 +278,77 @@ public class FormationPanel : MonoBehaviour
     public int GetUnlockCost(int slotIndex)
     {
         return moneyCostForSlot[slotIndex];
+    }
+
+    public void UpdateFullRegenerateButton()
+    {
+        // check the total hp / mp lost
+        int totalcost = GetFullRegenerateCost();
+        Debug.Log("Total Cost: " + totalcost.ToString());
+
+        if (totalcost == 0)
+        {
+            fullRegenerateButton.gameObject.SetActive(false);
+            fullRegenerateButton.interactable = false;
+            fullRegenerateCostText.gameObject.SetActive(false);
+        }
+        else
+        {
+            fullRegenerateButton.gameObject.SetActive(true);
+            fullRegenerateCostText.gameObject.SetActive(true);
+            fullRegenerateCostText.text = LocalizationManager.Localize("System.RegenerateCost") + ":" + totalcost.ToString();
+
+            if (ProgressManager.Instance.GetCurrentMoney() >= totalcost)
+            {
+                fullRegenerateButton.interactable = true;
+                fullRegenerateCostText.color = Color.white;
+            }
+            else
+            {
+                fullRegenerateButton.interactable = false;
+                fullRegenerateCostText.color = new Color(255, 215, 215); 
+            }
+        }
+    }
+
+    public void OnClickFullRegenerationButton()
+    {
+        // no need to check if there is enough money.
+        ProgressManager.Instance.SetMoney(ProgressManager.Instance.GetCurrentMoney() - GetFullRegenerateCost());
+        AudioManager.Instance.PlaySFX("MagicCharge");
+        AudioManager.Instance.PlaySFX("SystemLevelUp");
+
+        // heal everyone
+        foreach (var slot in slots)
+        {
+            if (!slot.IsSlotFilled()) continue;
+
+            slot.FullRegenerate();
+        }
+
+        UpdateFullRegenerateButton();
+    }
+
+    int GetFullRegenerateCost()
+    {
+        int totalcost = 0;
+        
+        foreach (var slot in slots)
+        {
+            if (!slot.IsSlotFilled()) continue;
+
+            Battler battler = slot.GetBattlerInThisSlot();
+            if (battler.current_hp + battler.current_mp < battler.max_hp + battler.max_mp)
+            {
+                var hpToHeal = battler.max_hp - battler.current_hp;
+                var mpToHeal = battler.max_mp - battler.current_mp;
+
+                int addedCost = (hpToHeal + mpToHeal) / 2;
+                totalcost += addedCost;
+                Debug.Log("Calculate heal cost for: " + battler.CharacterNameColored + " - $" + addedCost.ToString());
+            }
+        }
+
+        return totalcost;
     }
 }
