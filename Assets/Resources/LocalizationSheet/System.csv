@@ -51,8 +51,8 @@ System.RegenerateCost,回復コスト,Cost,所需資金,所需资金,回復コ�
 System.FullRegenerate,味方全体を全回復,Fully heal all allies,全體回滿狀態,全体回满状态,味方全体を全回復,Fully heal all allies,全體回滿狀態,全体回满状态,아군 전체 완전 회복
 System.Inventory,インベントリ,Inventory,物品欄,物品栏,インベントリ,Inventory,物品欄,物品栏,인벤토리
 System.SPCost,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,SP消耗：,SP Cost: ,SP消耗：,SP消耗：,SP 소모:
-System.EffectTarget,効果対象：,Target: ,効果対象：,効果対象：,効果対象：,Target: ,效果對象：,効果対象：,효과 대상:
-System.EffectEnemy,敵単体,Single,敵単体,敌単体,敵単体,Single,對單體敵人,敌単体,적 단일
+System.EffectTarget,効果対象：,Target: ,効果対象：,效果对象：,効果対象：,Target: ,效果對象：,效果对象：,효과 대상:
+System.EffectEnemy,敵単体,Single,敵単体,敌单体,敵単体,Single,對單體敵人,敌单体,적 단일
 System.EffectEnemyAoE,敵(複数),AoE,敵(複数),敌(复数),敵(複数),AoE,全體敵人,敌(复数),적 (복수)
 System.EffectSelf,使用者,Self,使用者,使用者,使用者,Self,使用者,使用者,사용자
 System.EffectSelfAoE,味方全体,Teammate (AoE),隊友全体,队友全体,味方全体,Teammate (AoE),隊友全體,队友全体,아군 전체
