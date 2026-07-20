@@ -17,6 +17,7 @@ public class FormationSlot : MonoBehaviour
     [Header("References")]
     [SerializeField] private Image lockIcon;
     [SerializeField] private TMP_Text slotName;
+    [SerializeField] private TMP_Text slotCharacterLevel;
     [SerializeField] private GameObject HPStatus;
     [SerializeField] private GameObject MPStatus;
     [SerializeField] private Image HPFill;
@@ -61,10 +62,12 @@ public class FormationSlot : MonoBehaviour
             unlockSlotButton.GetComponentInChildren<TMP_Text>().alpha = isEnoughMoney ? 1.0f : 0.25f;
             this.slotName.text = LocalizationManager.Localize("System.Cost") + ": ";
             this.slotName.text = this.slotName.text + (isEnoughMoney ? "<color=yellow>" : "<color=#FF000088>") + moneyCost.ToString();
+            slotCharacterLevel.alpha = 0.0f;
         }
         else if (isLocked)
         {
             this.slotName.text = LocalizationManager.Localize("System.Locked");
+            slotCharacterLevel.alpha = 1.0f;
         }
 
         // System
@@ -83,9 +86,12 @@ public class FormationSlot : MonoBehaviour
         battlerComponent.SetupFormationPanelMode();
 
         // 名前とレベル
-        slotName.text = LocalizationManager.Localize("Battle.Level") + battlerComponent.currentLevel + " " + unit.localizedName;
+        slotName.text = unit.localizedName;
         slotName.fontSize = nameTextSize;
         slotName.color = Color.white;
+
+        slotCharacterLevel.alpha = 1.0f;
+        slotCharacterLevel.text = LocalizationManager.Localize("Battle.Level") + battlerComponent.currentLevel;
 
         // ステータス表示
         if (battlerComponent.max_hp > 0)
@@ -136,6 +142,8 @@ public class FormationSlot : MonoBehaviour
 
         lockIcon.color = Color.white;
         this.slotName.text = string.Empty;
+        slotCharacterLevel.text = string.Empty;
+        slotCharacterLevel.alpha = 0f;
         HPStatus.SetActive(false);
         MPStatus.SetActive(false);
         unlockSlotButton.gameObject.SetActive(false);
@@ -232,6 +240,7 @@ public class FormationSlot : MonoBehaviour
                 // 資金が足りなくなった
                 unlockSlotButton.interactable = false;
                 this.slotName.text = LocalizationManager.Localize("System.Cost") + ": <color=#FF000088>" + formationPanel.GetUnlockCost(slotIndex).ToString();
+                slotCharacterLevel.alpha = 0f;
             }
         }
     }
